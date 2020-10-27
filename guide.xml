@@ -1,0 +1,1408 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="MX | A Plus">
+    <display-name lang="es">MX | A Plus</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/a_mas-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="MX | A3 Series FHD">
+    <display-name lang="es">MX | A3 Series FHD</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/atreseries-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="MX | ADN40 FHD">
+    <display-name lang="es">MX | ADN40 FHD</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="MX | Antena 3 FHD">
+    <display-name lang="es">MX | Antena 3 FHD</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/antena_3-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="MX | AZ Corazon FHD">
+    <display-name lang="es">MX | AZ Corazon FHD</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_cinema-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20201027003000 -0600" stop="20201027013000 -0600" channel="MX | A Plus">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20201027013000 -0600" stop="20201027050000 -0600" channel="MX | A Plus">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20201027050000 -0600" stop="20201027051500 -0600" channel="MX | A Plus">
+    <title lang="es">RTC</title>
+  </programme>
+  <programme start="20201027051500 -0600" stop="20201027053000 -0600" channel="MX | A Plus">
+    <title lang="es">José de los milagros</title>
+  </programme>
+  <programme start="20201027053000 -0600" stop="20201027080000 -0600" channel="MX | A Plus">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201027080000 -0600" stop="20201027090000 -0600" channel="MX | A Plus">
+    <title lang="es">Naturista Naturalmente</title>
+  </programme>
+  <programme start="20201027090000 -0600" stop="20201027100000 -0600" channel="MX | A Plus">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201027100000 -0600" stop="20201027103000 -0600" channel="MX | A Plus">
+    <title lang="es">Naturista Naturalmente</title>
+  </programme>
+  <programme start="20201027103000 -0600" stop="20201027113000 -0600" channel="MX | A Plus">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201027113000 -0600" stop="20201027120000 -0600" channel="MX | A Plus">
+    <title lang="es">Manantial CDMX</title>
+  </programme>
+  <programme start="20201027120000 -0600" stop="20201027140000 -0600" channel="MX | A Plus">
+    <title lang="es">Santo vs. los villanos</title>
+  </programme>
+  <programme start="20201027140000 -0600" stop="20201027150000 -0600" channel="MX | A Plus">
+    <title lang="es">A quien corresponda</title>
+  </programme>
+  <programme start="20201027150000 -0600" stop="20201027160000 -0600" channel="MX | A Plus">
+    <title lang="es">Ahora Más en tu Barrio</title>
+  </programme>
+  <programme start="20201027160000 -0600" stop="20201027174500 -0600" channel="MX | A Plus">
+    <title lang="es">Santo vs. el Cerebro del Mal</title>
+  </programme>
+  <programme start="20201027174500 -0600" stop="20201027193000 -0600" channel="MX | A Plus">
+    <title lang="es">Los novios</title>
+  </programme>
+  <programme start="20201027193000 -0600" stop="20201027203000 -0600" channel="MX | A Plus">
+    <title lang="es">No es normal</title>
+  </programme>
+  <programme start="20201027203000 -0600" stop="20201027210000 -0600" channel="MX | A Plus">
+    <title lang="es">El lado siniestro de la histor</title>
+  </programme>
+  <programme start="20201027210000 -0600" stop="20201027220000 -0600" channel="MX | A Plus">
+    <title lang="es">Ahora Más Noticias</title>
+  </programme>
+  <programme start="20201027220000 -0600" stop="20201027223000 -0600" channel="MX | A Plus">
+    <title lang="es">T3rcer Milenio Noticias</title>
+  </programme>
+  <programme start="20201027223000 -0600" stop="20201027233000 -0600" channel="MX | A Plus">
+    <title lang="es">¿Te La Juegas</title>
+  </programme>
+  <programme start="20201027233000 -0600" stop="20201028000000 -0600" channel="MX | A Plus">
+    <title lang="es">Manantial CDMX</title>
+  </programme>
+  <programme start="20201028000000 -0600" stop="20201028013000 -0600" channel="MX | A Plus">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201028013000 -0600" stop="20201028050000 -0600" channel="MX | A Plus">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201028050000 -0600" stop="20201028051500 -0600" channel="MX | A Plus">
+    <title lang="es">RTC</title>
+  </programme>
+  <programme start="20201028051500 -0600" stop="20201028053000 -0600" channel="MX | A Plus">
+    <title lang="es">José de los milagros</title>
+  </programme>
+  <programme start="20201028053000 -0600" stop="20201028080000 -0600" channel="MX | A Plus">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201028080000 -0600" stop="20201028090000 -0600" channel="MX | A Plus">
+    <title lang="es">Naturista Naturalmente</title>
+  </programme>
+  <programme start="20201028090000 -0600" stop="20201028100000 -0600" channel="MX | A Plus">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201028100000 -0600" stop="20201028103000 -0600" channel="MX | A Plus">
+    <title lang="es">Naturista Naturalmente</title>
+  </programme>
+  <programme start="20201028103000 -0600" stop="20201028113000 -0600" channel="MX | A Plus">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201028113000 -0600" stop="20201028120000 -0600" channel="MX | A Plus">
+    <title lang="es">Manantial CDMX</title>
+  </programme>
+  <programme start="20201028120000 -0600" stop="20201028134500 -0600" channel="MX | A Plus">
+    <title lang="es">El hombre y el monstruo</title>
+  </programme>
+  <programme start="20201028134500 -0600" stop="20201028140000 -0600" channel="MX | A Plus">
+    <title lang="es">¿Quién da más</title>
+  </programme>
+  <programme start="20201028160000 -0600" stop="20201028174500 -0600" channel="MX | A Plus">
+    <title lang="es">La maldición de Nostradamus</title>
+  </programme>
+  <programme start="20201028174500 -0600" stop="20201028193000 -0600" channel="MX | A Plus">
+    <title lang="es">Nostradamus y el destructor</title>
+  </programme>
+  <programme start="20201028193000 -0600" stop="20201028203000 -0600" channel="MX | A Plus">
+    <title lang="es">Furia en la Ciudad</title>
+  </programme>
+  <programme start="20201029000000 -0600" stop="20201029013000 -0600" channel="MX | A Plus">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20201029120000 -0600" stop="20201029134500 -0600" channel="MX | A Plus">
+    <title lang="es">Rostro infernal</title>
+  </programme>
+  <programme start="20201029160000 -0600" stop="20201029174500 -0600" channel="MX | A Plus">
+    <title lang="es">La marca del muerto</title>
+  </programme>
+  <programme start="20201029174500 -0600" stop="20201029193000 -0600" channel="MX | A Plus">
+    <title lang="es">Cazador de demonios</title>
+  </programme>
+  <programme start="20201029193000 -0600" stop="20201029203000 -0600" channel="MX | A Plus">
+    <title lang="es">Trampas Mentales</title>
+  </programme>
+  <programme start="20201030013000 -0600" stop="20201030050000 -0600" channel="MX | A Plus">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20201030120000 -0600" stop="20201030134500 -0600" channel="MX | A Plus">
+    <title lang="es">El mundo de los vampiros</title>
+  </programme>
+  <programme start="20201030160000 -0600" stop="20201030174500 -0600" channel="MX | A Plus">
+    <title lang="es">Nostradamus, el genio de</title>
+  </programme>
+  <programme start="20201030174500 -0600" stop="20201030193000 -0600" channel="MX | A Plus">
+    <title lang="es">Un paso al mas acá</title>
+  </programme>
+  <programme start="20201030193000 -0600" stop="20201030203000 -0600" channel="MX | A Plus">
+    <title lang="es">Mafias</title>
+  </programme>
+  <programme start="20201031053000 -0600" stop="20201031073000 -0600" channel="MX | A Plus">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201031073000 -0600" stop="20201031103000 -0600" channel="MX | A Plus">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201031103000 -0600" stop="20201031110000 -0600" channel="MX | A Plus">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201031110000 -0600" stop="20201031113000 -0600" channel="MX | A Plus">
+    <title lang="es">Agua Inmaculada</title>
+  </programme>
+  <programme start="20201031113000 -0600" stop="20201031120000 -0600" channel="MX | A Plus">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201031120000 -0600" stop="20201031123000 -0600" channel="MX | A Plus">
+    <title lang="es">Agua Inmaculada</title>
+  </programme>
+  <programme start="20201031123000 -0600" stop="20201031150000 -0600" channel="MX | A Plus">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201031150000 -0600" stop="20201031153000 -0600" channel="MX | A Plus">
+    <title lang="es">Vive +</title>
+  </programme>
+  <programme start="20201031153000 -0600" stop="20201031163000 -0600" channel="MX | A Plus">
+    <title lang="es">Cuando seas mía</title>
+  </programme>
+  <programme start="20201031163000 -0600" stop="20201031170000 -0600" channel="MX | A Plus">
+    <title lang="es">El humor de mi vida</title>
+  </programme>
+  <programme start="20201031170000 -0600" stop="20201031173000 -0600" channel="MX | A Plus">
+    <title lang="es">Expedición Baja</title>
+  </programme>
+  <programme start="20201031173000 -0600" stop="20201031180000 -0600" channel="MX | A Plus">
+    <title lang="es">¿Dónde Es? con Brenda Catalan</title>
+  </programme>
+  <programme start="20201031180000 -0600" stop="20201031190000 -0600" channel="MX | A Plus">
+    <title lang="es">Trampas Mentales</title>
+  </programme>
+  <programme start="20201031190000 -0600" stop="20201031200000 -0600" channel="MX | A Plus">
+    <title lang="es">Extranormal</title>
+  </programme>
+  <programme start="20201031200000 -0600" stop="20201031214500 -0600" channel="MX | A Plus">
+    <title lang="es">Carrera contra la muerte</title>
+  </programme>
+  <programme start="20201031214500 -0600" stop="20201031233000 -0600" channel="MX | A Plus">
+    <title lang="es">Unos indios en la ciudad</title>
+  </programme>
+  <programme start="20201031233000 -0600" stop="20201101000000 -0600" channel="MX | A Plus">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201101000000 -0600" stop="20201101003000 -0600" channel="MX | A Plus">
+    <title lang="es">Yetzali</title>
+  </programme>
+  <programme start="20201101003000 -0600" stop="20201101023000 -0600" channel="MX | A Plus">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201101023000 -0600" stop="20201101043000 -0600" channel="MX | A Plus">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201101043000 -0600" stop="20201101050000 -0600" channel="MX | A Plus">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201101053000 -0600" stop="20201101093000 -0600" channel="MX | A Plus">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201101093000 -0600" stop="20201101100000 -0600" channel="MX | A Plus">
+    <title lang="es">Aqua Clyva</title>
+  </programme>
+  <programme start="20201101100000 -0600" stop="20201101103000 -0600" channel="MX | A Plus">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201101103000 -0600" stop="20201101110000 -0600" channel="MX | A Plus">
+    <title lang="es">Agua Inmaculada</title>
+  </programme>
+  <programme start="20201101110000 -0600" stop="20201101150000 -0600" channel="MX | A Plus">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201101150000 -0600" stop="20201101160000 -0600" channel="MX | A Plus">
+    <title lang="es">Lucha Azteca AAA</title>
+  </programme>
+  <programme start="20201101160000 -0600" stop="20201101180000 -0600" channel="MX | A Plus">
+    <title lang="es">Clima Mortal</title>
+  </programme>
+  <programme start="20201027003100 -0600" stop="20201027020400 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Pop up: aquí no hay quien viva</title>
+  </programme>
+  <programme start="20201027020400 -0600" stop="20201027035400 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Los hombres de Paco</title>
+  </programme>
+  <programme start="20201027035400 -0600" stop="20201027050000 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Amar es para siempre</title>
+  </programme>
+  <programme start="20201027050000 -0600" stop="20201027052400 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Más de series</title>
+  </programme>
+  <programme start="20201027052400 -0600" stop="20201027065200 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Mar de plástico</title>
+  </programme>
+  <programme start="20201027065200 -0600" stop="20201027083400 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">El Internado</title>
+  </programme>
+  <programme start="20201027083400 -0600" stop="20201027095300 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Pop up: aquí no hay quien viva</title>
+  </programme>
+  <programme start="20201027095300 -0600" stop="20201027110200 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Amar es para siempre</title>
+  </programme>
+  <programme start="20201027110200 -0600" stop="20201027115900 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Aguanta corazón</title>
+  </programme>
+  <programme start="20201027115900 -0600" stop="20201027132500 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Mar de plástico</title>
+  </programme>
+  <programme start="20201027132500 -0600" stop="20201027135500 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Más de series</title>
+  </programme>
+  <programme start="20201027135500 -0600" stop="20201027145000 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Insensato corazón</title>
+  </programme>
+  <programme start="20201027145000 -0600" stop="20201027162700 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Los hombres de Paco</title>
+  </programme>
+  <programme start="20201027162700 -0600" stop="20201027175300 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">El Internado</title>
+  </programme>
+  <programme start="20201027175300 -0600" stop="20201027185000 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Aguanta corazón</title>
+  </programme>
+  <programme start="20201027185000 -0600" stop="20201027200000 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Amar es para siempre</title>
+  </programme>
+  <programme start="20201027200000 -0600" stop="20201027210700 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Pequeñas coincidencias</title>
+  </programme>
+  <programme start="20201027210700 -0600" stop="20201027230000 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Insensato corazón</title>
+  </programme>
+  <programme start="20201027230000 -0600" stop="20201028003400 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Mar de plástico</title>
+  </programme>
+  <programme start="20201028230000 -0600" stop="20201029003400 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Mar de plástico</title>
+  </programme>
+  <programme start="20201029003400 -0600" stop="20201029024600 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Pop up: aquí no hay quien viva</title>
+  </programme>
+  <programme start="20201029024600 -0600" stop="20201029041600 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Los hombres de Paco</title>
+  </programme>
+  <programme start="20201029041600 -0600" stop="20201029050000 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Amar es para siempre</title>
+  </programme>
+  <programme start="20201029050000 -0600" stop="20201029055000 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Más de series</title>
+  </programme>
+  <programme start="20201029055000 -0600" stop="20201029065700 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Pequeñas coincidencias</title>
+  </programme>
+  <programme start="20201029065700 -0600" stop="20201029083400 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">El Internado</title>
+  </programme>
+  <programme start="20201029083400 -0600" stop="20201029100800 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Pop up: aquí no hay quien viva</title>
+  </programme>
+  <programme start="20201029100800 -0600" stop="20201029112800 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Amar es para siempre</title>
+  </programme>
+  <programme start="20201029112800 -0600" stop="20201029122600 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Aguanta corazón</title>
+  </programme>
+  <programme start="20201029122600 -0600" stop="20201029132500 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Pequeñas coincidencias</title>
+  </programme>
+  <programme start="20201029132500 -0600" stop="20201029134600 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Más de series</title>
+  </programme>
+  <programme start="20201029134600 -0600" stop="20201029143900 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Insensato corazón</title>
+  </programme>
+  <programme start="20201029143900 -0600" stop="20201029161500 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Los hombres de Paco</title>
+  </programme>
+  <programme start="20201029161500 -0600" stop="20201029175200 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">El Internado</title>
+  </programme>
+  <programme start="20201029175200 -0600" stop="20201029185000 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Aguanta corazón</title>
+  </programme>
+  <programme start="20201029200000 -0600" stop="20201029210900 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">La fórmula</title>
+  </programme>
+  <programme start="20201029210900 -0600" stop="20201029230000 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Insensato corazón</title>
+  </programme>
+  <programme start="20201029230000 -0600" stop="20201030000700 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Pequeñas coincidencias</title>
+  </programme>
+  <programme start="20201030230000 -0600" stop="20201031000700 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Pequeñas coincidencias</title>
+  </programme>
+  <programme start="20201031000700 -0600" stop="20201031023600 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Pop up: aquí no hay quien viva</title>
+  </programme>
+  <programme start="20201031023600 -0600" stop="20201031042100 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Los hombres de Paco</title>
+  </programme>
+  <programme start="20201031042100 -0600" stop="20201031050000 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Amar es para siempre</title>
+  </programme>
+  <programme start="20201031050000 -0600" stop="20201031055800 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Más de series</title>
+  </programme>
+  <programme start="20201031055800 -0600" stop="20201031065600 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">La fórmula</title>
+  </programme>
+  <programme start="20201031065600 -0600" stop="20201031083000 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">El Internado</title>
+  </programme>
+  <programme start="20201031083000 -0600" stop="20201031102200 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Pop up: aquí no hay quien viva</title>
+  </programme>
+  <programme start="20201031102200 -0600" stop="20201031113200 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Amar es para siempre</title>
+  </programme>
+  <programme start="20201031113200 -0600" stop="20201031122700 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Aguanta corazón</title>
+  </programme>
+  <programme start="20201031122700 -0600" stop="20201031132500 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">La fórmula</title>
+  </programme>
+  <programme start="20201031132500 -0600" stop="20201031135800 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Más de series</title>
+  </programme>
+  <programme start="20201031135800 -0600" stop="20201031145200 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Insensato corazón</title>
+  </programme>
+  <programme start="20201031145200 -0600" stop="20201031163000 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Los hombres de Paco</title>
+  </programme>
+  <programme start="20201031163000 -0600" stop="20201031175500 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">El Internado</title>
+  </programme>
+  <programme start="20201031175500 -0600" stop="20201031184900 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Aguanta corazón</title>
+  </programme>
+  <programme start="20201031184900 -0600" stop="20201031200000 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Amar es para siempre</title>
+  </programme>
+  <programme start="20201031200000 -0600" stop="20201031213500 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">El Barco</title>
+  </programme>
+  <programme start="20201031213500 -0600" stop="20201031230000 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Insensato corazón</title>
+  </programme>
+  <programme start="20201031230000 -0600" stop="20201031235700 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">La fórmula</title>
+  </programme>
+  <programme start="20201031235700 -0600" stop="20201101022600 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Pop up: aquí no hay quien viva</title>
+  </programme>
+  <programme start="20201101022600 -0600" stop="20201101040500 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Los hombres de Paco</title>
+  </programme>
+  <programme start="20201101040500 -0600" stop="20201101050000 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Amar es para siempre</title>
+  </programme>
+  <programme start="20201101050000 -0600" stop="20201101053000 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Más de series</title>
+  </programme>
+  <programme start="20201101053000 -0600" stop="20201101070000 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">El Barco</title>
+  </programme>
+  <programme start="20201101070000 -0600" stop="20201101083000 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">El Internado</title>
+  </programme>
+  <programme start="20201101083000 -0600" stop="20201101094500 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Pop up: aquí no hay quien viva</title>
+  </programme>
+  <programme start="20201101094500 -0600" stop="20201101104500 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Amar es para siempre</title>
+  </programme>
+  <programme start="20201101104500 -0600" stop="20201101120000 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Aguanta corazón</title>
+  </programme>
+  <programme start="20201101120000 -0600" stop="20201101131500 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">El Barco</title>
+  </programme>
+  <programme start="20201101131500 -0600" stop="20201101133000 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Más de series</title>
+  </programme>
+  <programme start="20201101133000 -0600" stop="20201101144500 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Insensato corazón</title>
+  </programme>
+  <programme start="20201101144500 -0600" stop="20201101161500 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Los hombres de Paco</title>
+  </programme>
+  <programme start="20201101161500 -0600" stop="20201101174500 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">El Internado</title>
+  </programme>
+  <programme start="20201101174500 -0600" stop="20201101184500 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Aguanta corazón</title>
+  </programme>
+  <programme start="20201101184500 -0600" stop="20201101200000 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Amar es para siempre</title>
+  </programme>
+  <programme start="20201101200000 -0600" stop="20201101201500 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">#Luimelia</title>
+  </programme>
+  <programme start="20201101201500 -0600" stop="20201101213000 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Allí abajo</title>
+  </programme>
+  <programme start="20201101213000 -0600" stop="20201101230000 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Insensato corazón</title>
+  </programme>
+  <programme start="20201101230000 -0600" stop="20201102003000 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">El Barco</title>
+  </programme>
+  <programme start="20201102230000 -0600" stop="20201103003000 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">El Barco</title>
+  </programme>
+  <programme start="20201103003000 -0600" stop="20201103021500 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Pop up: aquí no hay quien viva</title>
+  </programme>
+  <programme start="20201103021500 -0600" stop="20201103034500 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Los hombres de Paco</title>
+  </programme>
+  <programme start="20201103034500 -0600" stop="20201103050000 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Amar es para siempre</title>
+  </programme>
+  <programme start="20201103050000 -0600" stop="20201103053000 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Más de series</title>
+  </programme>
+  <programme start="20201103053000 -0600" stop="20201103070000 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Allí abajo</title>
+  </programme>
+  <programme start="20201103070000 -0600" stop="20201103083000 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Velvet</title>
+  </programme>
+  <programme start="20201103083000 -0600" stop="20201103093000 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">La fórmula</title>
+  </programme>
+  <programme start="20201103093000 -0600" stop="20201103104500 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Mar de plástico</title>
+  </programme>
+  <programme start="20201103104500 -0600" stop="20201103131500 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Los increíbles 90</title>
+  </programme>
+  <programme start="20201103131500 -0600" stop="20201103151500 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">La familia Mata</title>
+  </programme>
+  <programme start="20201103151500 -0600" stop="20201103173000 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Insensato corazón</title>
+  </programme>
+  <programme start="20201103173000 -0600" stop="20201103183000 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">La fórmula</title>
+  </programme>
+  <programme start="20201103183000 -0600" stop="20201103200000 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Mar de plástico</title>
+  </programme>
+  <programme start="20201103200000 -0600" stop="20201103213000 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Doctor Mateo</title>
+  </programme>
+  <programme start="20201103213000 -0600" stop="20201103230000 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Pequeñas coincidencias</title>
+  </programme>
+  <programme start="20201103230000 -0600" stop="20201104020000 -0600" channel="MX | A3 Series FHD">
+    <title lang="es">Pop up: aquí no hay quien viva</title>
+  </programme>
+  <programme start="20201027010000 -0600" stop="20201027023000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201027023000 -0600" stop="20201027033000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">MDR</title>
+  </programme>
+  <programme start="20201027033000 -0600" stop="20201027050000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201027050000 -0600" stop="20201027053000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">MDR</title>
+  </programme>
+  <programme start="20201027053000 -0600" stop="20201027070000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Noticias para despertar</title>
+  </programme>
+  <programme start="20201027070000 -0600" stop="20201027080000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Así Amanece Leonardo Curzio</title>
+  </programme>
+  <programme start="20201027080000 -0600" stop="20201027100000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Es de Mañana con Mónica Garza</title>
+  </programme>
+  <programme start="20201027100000 -0600" stop="20201027110000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Noticias con Vaitiare Mateos</title>
+  </programme>
+  <programme start="20201027110000 -0600" stop="20201027120000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Tu Mundo en Tiempo Real</title>
+  </programme>
+  <programme start="20201027120000 -0600" stop="20201027130000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Noticias con Lucy Bravo</title>
+  </programme>
+  <programme start="20201027130000 -0600" stop="20201027150000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">ADN40 en Línea</title>
+  </programme>
+  <programme start="20201027150000 -0600" stop="20201027160000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Es Tendencia con Juan Pablo de</title>
+  </programme>
+  <programme start="20201027160000 -0600" stop="20201027170000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Noticias con Romina Ramos</title>
+  </programme>
+  <programme start="20201027170000 -0600" stop="20201027180000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Noticias Luciana Wainer</title>
+  </programme>
+  <programme start="20201027180000 -0600" stop="20201027190000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Noticias Valentina Rodríguez</title>
+  </programme>
+  <programme start="20201027190000 -0600" stop="20201027200000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Tu Ciudad en Tiempo Real</title>
+  </programme>
+  <programme start="20201027200000 -0600" stop="20201027210000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Noticias con Alejandro Brofft</title>
+  </programme>
+  <programme start="20201027210000 -0600" stop="20201027220000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Es Noticia con Hannia Novell</title>
+  </programme>
+  <programme start="20201027220000 -0600" stop="20201027230000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Noticias Republica MX</title>
+  </programme>
+  <programme start="20201027230000 -0600" stop="20201027233000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Todo Personal</title>
+  </programme>
+  <programme start="20201027233000 -0600" stop="20201028000000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">La entrevista con Sarmiento</title>
+  </programme>
+  <programme start="20201028000000 -0600" stop="20201028003000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">México bravo</title>
+  </programme>
+  <programme start="20201028003000 -0600" stop="20201028010000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">MDR</title>
+  </programme>
+  <programme start="20201028010000 -0600" stop="20201028050000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201028050000 -0600" stop="20201028053000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">MDR</title>
+  </programme>
+  <programme start="20201028053000 -0600" stop="20201028070000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Noticias para despertar</title>
+  </programme>
+  <programme start="20201028070000 -0600" stop="20201028080000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Así Amanece Leonardo Curzio</title>
+  </programme>
+  <programme start="20201028080000 -0600" stop="20201028100000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Es de Mañana con Mónica Garza</title>
+  </programme>
+  <programme start="20201028100000 -0600" stop="20201028110000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Noticias con Vaitiare Mateos</title>
+  </programme>
+  <programme start="20201028110000 -0600" stop="20201028120000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Tu Mundo en Tiempo Real</title>
+  </programme>
+  <programme start="20201028120000 -0600" stop="20201028130000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Noticias con Lucy Bravo</title>
+  </programme>
+  <programme start="20201028130000 -0600" stop="20201028150000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">ADN40 en Línea</title>
+  </programme>
+  <programme start="20201028150000 -0600" stop="20201028160000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Es Tendencia</title>
+  </programme>
+  <programme start="20201028160000 -0600" stop="20201028170000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Noticias con Romina Ramos</title>
+  </programme>
+  <programme start="20201028170000 -0600" stop="20201028180000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Noticias Luciana Wainer</title>
+  </programme>
+  <programme start="20201028180000 -0600" stop="20201028190000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Noticias Valentina Rodríguez</title>
+  </programme>
+  <programme start="20201028190000 -0600" stop="20201028200000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Tu Ciudad en Tiempo Real</title>
+  </programme>
+  <programme start="20201028200000 -0600" stop="20201028210000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Noticias con Alejandro Brofft</title>
+  </programme>
+  <programme start="20201028210000 -0600" stop="20201028220000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Es Noticia con Hannia Novell</title>
+  </programme>
+  <programme start="20201028220000 -0600" stop="20201028230000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Noticias Republica MX</title>
+  </programme>
+  <programme start="20201028230000 -0600" stop="20201028233000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Todo Personal</title>
+  </programme>
+  <programme start="20201028233000 -0600" stop="20201028234500 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Reporte ADN 40</title>
+  </programme>
+  <programme start="20201028234500 -0600" stop="20201029000000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Índice Económico</title>
+  </programme>
+  <programme start="20201029000000 -0600" stop="20201029020000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201029020000 -0600" stop="20201029040000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201029040000 -0600" stop="20201029050000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201029233000 -0600" stop="20201030000000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Desde las Cámaras</title>
+  </programme>
+  <programme start="20201030000000 -0600" stop="20201030003000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201030010000 -0600" stop="20201030023000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201030023000 -0600" stop="20201030033000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">MDR</title>
+  </programme>
+  <programme start="20201030033000 -0600" stop="20201030050000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201030233000 -0600" stop="20201030234500 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Al filo</title>
+  </programme>
+  <programme start="20201030234500 -0600" stop="20201031000000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">La de 8</title>
+  </programme>
+  <programme start="20201031053000 -0600" stop="20201031080000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201031080000 -0600" stop="20201031100000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Es de Mañana</title>
+  </programme>
+  <programme start="20201031100000 -0600" stop="20201031110000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Noticias con Óscar Hernández</title>
+  </programme>
+  <programme start="20201031110000 -0600" stop="20201031120000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Noticias con Lucero Álvarez</title>
+  </programme>
+  <programme start="20201031120000 -0600" stop="20201031130000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Noticias con Óscar Hernández</title>
+  </programme>
+  <programme start="20201031130000 -0600" stop="20201031140000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Noticias con Lucero Álvarez</title>
+  </programme>
+  <programme start="20201031140000 -0600" stop="20201031150000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Es Tendencia con Max Espejel</title>
+  </programme>
+  <programme start="20201031150000 -0600" stop="20201031160000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Noticias con Lucero Álvarez</title>
+  </programme>
+  <programme start="20201031160000 -0600" stop="20201031170000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Es Tendencia con Max Espejel</title>
+  </programme>
+  <programme start="20201031170000 -0600" stop="20201031180000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Noticias con Lucero Álvarez</title>
+  </programme>
+  <programme start="20201031180000 -0600" stop="20201031190000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Noticias Jorge Armando Rocha</title>
+  </programme>
+  <programme start="20201031190000 -0600" stop="20201031191500 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">No hay lugar común</title>
+  </programme>
+  <programme start="20201031191500 -0600" stop="20201031193000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Ahora, Futuro México y el Mund</title>
+  </programme>
+  <programme start="20201031193000 -0600" stop="20201031200000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Casa Blanca 2020</title>
+  </programme>
+  <programme start="20201031200000 -0600" stop="20201031210000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Es Noticia con Jorge A. Rocha</title>
+  </programme>
+  <programme start="20201031210000 -0600" stop="20201031220000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">ADN Deportes</title>
+  </programme>
+  <programme start="20201031220000 -0600" stop="20201101000000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Farandula 40</title>
+  </programme>
+  <programme start="20201101000000 -0600" stop="20201101001500 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">La entrevista con Sarmiento</title>
+  </programme>
+  <programme start="20201101001500 -0600" stop="20201101003000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Ruta ADN 40</title>
+  </programme>
+  <programme start="20201101003000 -0600" stop="20201101004500 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Frente a frente</title>
+  </programme>
+  <programme start="20201101004500 -0600" stop="20201101010000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Punto de Fuga</title>
+  </programme>
+  <programme start="20201101050000 -0600" stop="20201101073000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">MDR</title>
+  </programme>
+  <programme start="20201101073000 -0600" stop="20201101080000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201101100000 -0600" stop="20201101110000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Noticias Jorge Armando Rocha</title>
+  </programme>
+  <programme start="20201101120000 -0600" stop="20201101130000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Noticias con Max Espejel</title>
+  </programme>
+  <programme start="20201101130000 -0600" stop="20201101140000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">ADN Deportes</title>
+  </programme>
+  <programme start="20201101170000 -0600" stop="20201101180000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">El Foco</title>
+  </programme>
+  <programme start="20201101180000 -0600" stop="20201101183000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Noticias con Alejandro Brofft</title>
+  </programme>
+  <programme start="20201101183000 -0600" stop="20201101190000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">La otra aventura</title>
+  </programme>
+  <programme start="20201101190000 -0600" stop="20201101193000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Expansión</title>
+  </programme>
+  <programme start="20201101193000 -0600" stop="20201101200000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">El Refugio</title>
+  </programme>
+  <programme start="20201101200000 -0600" stop="20201101210000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Noticias Jorge Armando Rocha</title>
+  </programme>
+  <programme start="20201101210000 -0600" stop="20201101220000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Político MX</title>
+  </programme>
+  <programme start="20201101220000 -0600" stop="20201101223000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">De Cabeza con Andrés Roemer</title>
+  </programme>
+  <programme start="20201101223000 -0600" stop="20201101230000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Marcaje personal</title>
+  </programme>
+  <programme start="20201101230000 -0600" stop="20201101233000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Séptimo Día</title>
+  </programme>
+  <programme start="20201101233000 -0600" stop="20201102003000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Es Noticia con Jorge A. Rocha</title>
+  </programme>
+  <programme start="20201102233000 -0600" stop="20201103003000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Es Noticia con Jorge A. Rocha</title>
+  </programme>
+  <programme start="20201103003000 -0600" stop="20201103010000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Marcaje personal</title>
+  </programme>
+  <programme start="20201103050000 -0600" stop="20201103053000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201103233000 -0600" stop="20201103234500 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Primer Círculo</title>
+  </programme>
+  <programme start="20201103234500 -0600" stop="20201104000000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">La billetera</title>
+  </programme>
+  <programme start="20201027000700 -0600" stop="20201027011500 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Zapeando</title>
+  </programme>
+  <programme start="20201027011500 -0600" stop="20201027020000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Noticias de la mañana</title>
+  </programme>
+  <programme start="20201027020000 -0600" stop="20201027040000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Espejo público</title>
+  </programme>
+  <programme start="20201027040000 -0600" stop="20201027060000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Espejo público</title>
+  </programme>
+  <programme start="20201027060000 -0600" stop="20201027063300 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Espejo público</title>
+  </programme>
+  <programme start="20201027063300 -0600" stop="20201027070100 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Cocina abierta</title>
+  </programme>
+  <programme start="20201027070100 -0600" stop="20201027080000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">El chiringuito internacional</title>
+  </programme>
+  <programme start="20201027080000 -0600" stop="20201027084600 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Noticias 1</title>
+  </programme>
+  <programme start="20201027084600 -0600" stop="20201027120000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Espejo público</title>
+  </programme>
+  <programme start="20201027120000 -0600" stop="20201027122800 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Tu tiempo con Roberto Brasero</title>
+  </programme>
+  <programme start="20201027122800 -0600" stop="20201027125700 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Cocina abierta</title>
+  </programme>
+  <programme start="20201027125700 -0600" stop="20201027140000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Pasapalabra</title>
+  </programme>
+  <programme start="20201027140000 -0600" stop="20201027144300 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Noticias 2</title>
+  </programme>
+  <programme start="20201027144300 -0600" stop="20201027153900 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">El hormiguero 3.0</title>
+  </programme>
+  <programme start="20201027153900 -0600" stop="20201027160700 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Hoy cocinas tú</title>
+  </programme>
+  <programme start="20201027160700 -0600" stop="20201027172000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Amar es para siempre</title>
+  </programme>
+  <programme start="20201027172000 -0600" stop="20201027182200 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">La ruleta de la suerte</title>
+  </programme>
+  <programme start="20201027182200 -0600" stop="20201027192900 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Pasapalabra</title>
+  </programme>
+  <programme start="20201027192900 -0600" stop="20201027202600 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">El hormiguero 3.0</title>
+  </programme>
+  <programme start="20201027202600 -0600" stop="20201027230000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Enviado especial</title>
+  </programme>
+  <programme start="20201027230000 -0600" stop="20201028000700 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">El chiringuito internacional</title>
+  </programme>
+  <programme start="20201028000700 -0600" stop="20201028010000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Zapeando</title>
+  </programme>
+  <programme start="20201028010000 -0600" stop="20201028015500 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Noticias de la mañana</title>
+  </programme>
+  <programme start="20201028015500 -0600" stop="20201028034500 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Espejo público</title>
+  </programme>
+  <programme start="20201028034500 -0600" stop="20201028060000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Espejo público</title>
+  </programme>
+  <programme start="20201028060000 -0600" stop="20201028070000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Cocina abierta</title>
+  </programme>
+  <programme start="20201028070000 -0600" stop="20201028080000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">El chiringuito internacional</title>
+  </programme>
+  <programme start="20201028080000 -0600" stop="20201028084500 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Noticias 1</title>
+  </programme>
+  <programme start="20201028084500 -0600" stop="20201028121500 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Espejo público</title>
+  </programme>
+  <programme start="20201028121500 -0600" stop="20201028124500 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Cocina abierta</title>
+  </programme>
+  <programme start="20201028124500 -0600" stop="20201028140000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Pasapalabra</title>
+  </programme>
+  <programme start="20201028140000 -0600" stop="20201028144500 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Noticias 2</title>
+  </programme>
+  <programme start="20201028144500 -0600" stop="20201028153000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">El hormiguero 3.0</title>
+  </programme>
+  <programme start="20201028153000 -0600" stop="20201028163000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Hoy cocinas tú</title>
+  </programme>
+  <programme start="20201028163000 -0600" stop="20201028173000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Amar es para siempre</title>
+  </programme>
+  <programme start="20201028173000 -0600" stop="20201028183000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">La ruleta de la suerte</title>
+  </programme>
+  <programme start="20201028183000 -0600" stop="20201028193000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Pasapalabra</title>
+  </programme>
+  <programme start="20201028193000 -0600" stop="20201028201500 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">El hormiguero 3.0</title>
+  </programme>
+  <programme start="20201028201500 -0600" stop="20201028214500 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Ambulancias</title>
+  </programme>
+  <programme start="20201028214500 -0600" stop="20201028230000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Colgados</title>
+  </programme>
+  <programme start="20201028230000 -0600" stop="20201029000000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">El chiringuito internacional</title>
+  </programme>
+  <programme start="20201029000000 -0600" stop="20201029011500 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Zapeando</title>
+  </programme>
+  <programme start="20201029011500 -0600" stop="20201029014500 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Noticias de la mañana</title>
+  </programme>
+  <programme start="20201029014500 -0600" stop="20201029034500 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Espejo público</title>
+  </programme>
+  <programme start="20201029034500 -0600" stop="20201029054500 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Espejo público</title>
+  </programme>
+  <programme start="20201029054500 -0600" stop="20201029060000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Espejo público</title>
+  </programme>
+  <programme start="20201029201500 -0600" stop="20201029214500 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Algo que celebrar</title>
+  </programme>
+  <programme start="20201029214500 -0600" stop="20201029230000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Enviado especial</title>
+  </programme>
+  <programme start="20201030201500 -0600" stop="20201030230000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">La voz</title>
+  </programme>
+  <programme start="20201030230000 -0600" stop="20201031020000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Aquí no hay quién viva</title>
+  </programme>
+  <programme start="20201031230000 -0600" stop="20201101020000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Aquí no hay quién viva</title>
+  </programme>
+  <programme start="20201101020000 -0600" stop="20201101050000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Aquí no hay quién viva</title>
+  </programme>
+  <programme start="20201101050000 -0600" stop="20201101060000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Aquí no hay quién viva</title>
+  </programme>
+  <programme start="20201101060000 -0600" stop="20201101070000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Hoy cocinas tú</title>
+  </programme>
+  <programme start="20201101070000 -0600" stop="20201101073000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">¿Qué me pasa Doctor</title>
+  </programme>
+  <programme start="20201101073000 -0600" stop="20201101080000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Decogarden</title>
+  </programme>
+  <programme start="20201101080000 -0600" stop="20201101084500 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Noticias 1 fin semana</title>
+  </programme>
+  <programme start="20201101084500 -0600" stop="20201101090000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Crea lectura</title>
+  </programme>
+  <programme start="20201101090000 -0600" stop="20201101100000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">El hormiguero 3.0</title>
+  </programme>
+  <programme start="20201101100000 -0600" stop="20201101113000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Enviado especial</title>
+  </programme>
+  <programme start="20201101113000 -0600" stop="20201101131500 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">El club de la comedia</title>
+  </programme>
+  <programme start="20201101131500 -0600" stop="20201101140000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Hoteles con encanto</title>
+  </programme>
+  <programme start="20201101140000 -0600" stop="20201101144500 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Noticias 2</title>
+  </programme>
+  <programme start="20201101144500 -0600" stop="20201101173000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">La voz</title>
+  </programme>
+  <programme start="20201101173000 -0600" stop="20201101193000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Pasapalabra</title>
+  </programme>
+  <programme start="20201101201500 -0600" stop="20201101223000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Equipo de investigación</title>
+  </programme>
+  <programme start="20201101223000 -0600" stop="20201101230000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Atresmúsica en concierto</title>
+  </programme>
+  <programme start="20201102073000 -0600" stop="20201102080000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Bricomanía</title>
+  </programme>
+  <programme start="20201102084500 -0600" stop="20201102090000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Centímetros cúbicos</title>
+  </programme>
+  <programme start="20201102100000 -0600" stop="20201102110000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Random neox</title>
+  </programme>
+  <programme start="20201102110000 -0600" stop="20201102113000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">ATresmusica</title>
+  </programme>
+  <programme start="20201102113000 -0600" stop="20201102131500 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">El club de la comedia</title>
+  </programme>
+  <programme start="20201102131500 -0600" stop="20201102140000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Hoteles con encanto</title>
+  </programme>
+  <programme start="20201102144500 -0600" stop="20201102160000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Algo que celebrar</title>
+  </programme>
+  <programme start="20201102160000 -0600" stop="20201102173000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Aquí no hay quién viva</title>
+  </programme>
+  <programme start="20201102193000 -0600" stop="20201102203000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">El hormiguero 3.0</title>
+  </programme>
+  <programme start="20201102203000 -0600" stop="20201102230000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Atrescine Crimen perfecto</title>
+  </programme>
+  <programme start="20201102230000 -0600" stop="20201103000000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">El chiringuito internacional</title>
+  </programme>
+  <programme start="20201103000000 -0600" stop="20201103010000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Zapeando</title>
+  </programme>
+  <programme start="20201103010000 -0600" stop="20201103014500 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Noticias directo</title>
+  </programme>
+  <programme start="20201103084500 -0600" stop="20201103114500 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Espejo público</title>
+  </programme>
+  <programme start="20201103114500 -0600" stop="20201103121500 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Tu tiempo con Roberto Brasero</title>
+  </programme>
+  <programme start="20201103121500 -0600" stop="20201103124500 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Cocina abierta</title>
+  </programme>
+  <programme start="20201103124500 -0600" stop="20201103140000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Pasapalabra</title>
+  </programme>
+  <programme start="20201103144500 -0600" stop="20201103153000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">El hormiguero 3.0</title>
+  </programme>
+  <programme start="20201103153000 -0600" stop="20201103163000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Hoy cocinas tú</title>
+  </programme>
+  <programme start="20201103163000 -0600" stop="20201103173000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Amar es para siempre</title>
+  </programme>
+  <programme start="20201103173000 -0600" stop="20201103183000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">La ruleta de la suerte</title>
+  </programme>
+  <programme start="20201103183000 -0600" stop="20201103193000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Pasapalabra</title>
+  </programme>
+  <programme start="20201103193000 -0600" stop="20201103201500 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">El hormiguero 3.0</title>
+  </programme>
+  <programme start="20201103201500 -0600" stop="20201103214500 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">El comidista</title>
+  </programme>
+  <programme start="20201103214500 -0600" stop="20201103230000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Algo que celebrar</title>
+  </programme>
+  <programme start="20201027010600 -0600" stop="20201027024900 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">El día de las madres</title>
+  </programme>
+  <programme start="20201027024900 -0600" stop="20201027041700 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">El baño de Afrodita</title>
+  </programme>
+  <programme start="20201027041700 -0600" stop="20201027050000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">El día de las madres</title>
+  </programme>
+  <programme start="20201027050000 -0600" stop="20201027053000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Intermedio AZ Cinema</title>
+  </programme>
+  <programme start="20201027053000 -0600" stop="20201027060000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Pensión de artistas</title>
+  </programme>
+  <programme start="20201027060000 -0600" stop="20201027070000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Intermedio AZ Cinema</title>
+  </programme>
+  <programme start="20201027070000 -0600" stop="20201027083000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Las manzanas de Dorotea</title>
+  </programme>
+  <programme start="20201027083000 -0600" stop="20201027090000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Intermedio AZ Cinema</title>
+  </programme>
+  <programme start="20201027090000 -0600" stop="20201027103000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">La feria de San Marcos</title>
+  </programme>
+  <programme start="20201027103000 -0600" stop="20201027120000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Una movida chueca</title>
+  </programme>
+  <programme start="20201027120000 -0600" stop="20201027123000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Intermedio AZ Cinema</title>
+  </programme>
+  <programme start="20201027123000 -0600" stop="20201027140000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Pensión de artistas</title>
+  </programme>
+  <programme start="20201027140000 -0600" stop="20201027153000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Las manzanas de Dorotea</title>
+  </programme>
+  <programme start="20201027153000 -0600" stop="20201027160000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Intermedio AZ Cinema</title>
+  </programme>
+  <programme start="20201027160000 -0600" stop="20201027173000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">La feria de San Marcos</title>
+  </programme>
+  <programme start="20201027173000 -0600" stop="20201027190000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Una movida chueca</title>
+  </programme>
+  <programme start="20201027190000 -0600" stop="20201027193000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Intermedio AZ Cinema</title>
+  </programme>
+  <programme start="20201027193000 -0600" stop="20201027210000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Pensión de artistas</title>
+  </programme>
+  <programme start="20201027210000 -0600" stop="20201027223000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Las manzanas de Dorotea</title>
+  </programme>
+  <programme start="20201027223000 -0600" stop="20201028000000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">La feria de San Marcos</title>
+  </programme>
+  <programme start="20201028000000 -0600" stop="20201028013000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Una movida chueca</title>
+  </programme>
+  <programme start="20201028013000 -0600" stop="20201028030000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Pensión de artistas</title>
+  </programme>
+  <programme start="20201028030000 -0600" stop="20201028043000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Una movida chueca</title>
+  </programme>
+  <programme start="20201028043000 -0600" stop="20201028050000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Intermedio AZ Cinema</title>
+  </programme>
+  <programme start="20201028053000 -0600" stop="20201028070000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Torero</title>
+  </programme>
+  <programme start="20201028070000 -0600" stop="20201028083000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Aqui esta tu enamorado</title>
+  </programme>
+  <programme start="20201028083000 -0600" stop="20201028090000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Intermedio AZ Cinema</title>
+  </programme>
+  <programme start="20201028090000 -0600" stop="20201028103000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Las aventuras del látigo negro III</title>
+  </programme>
+  <programme start="20201028103000 -0600" stop="20201028120000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Si volvieras a mi</title>
+  </programme>
+  <programme start="20201028120000 -0600" stop="20201028123000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Intermedio AZ Cinema</title>
+  </programme>
+  <programme start="20201028123000 -0600" stop="20201028140000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Torero</title>
+  </programme>
+  <programme start="20201028140000 -0600" stop="20201028153000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Aqui esta tu enamorado</title>
+  </programme>
+  <programme start="20201028153000 -0600" stop="20201028160000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Intermedio AZ Cinema</title>
+  </programme>
+  <programme start="20201028160000 -0600" stop="20201028173000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Las aventuras del látigo negro III</title>
+  </programme>
+  <programme start="20201028173000 -0600" stop="20201028190000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Si volvieras a mi</title>
+  </programme>
+  <programme start="20201028190000 -0600" stop="20201028193000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Intermedio AZ Cinema</title>
+  </programme>
+  <programme start="20201028193000 -0600" stop="20201028210000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Torero</title>
+  </programme>
+  <programme start="20201028210000 -0600" stop="20201028223000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Aqui esta tu enamorado</title>
+  </programme>
+  <programme start="20201028223000 -0600" stop="20201029000000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Las aventuras del látigo negro III</title>
+  </programme>
+  <programme start="20201029000000 -0600" stop="20201029013000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Si volvieras a mi</title>
+  </programme>
+  <programme start="20201029013000 -0600" stop="20201029030000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Torero</title>
+  </programme>
+  <programme start="20201029030000 -0600" stop="20201029043000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Si volvieras a mi</title>
+  </programme>
+  <programme start="20201029053000 -0600" stop="20201029070000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Cómo Enfriar a Mi Marido</title>
+  </programme>
+  <programme start="20201029070000 -0600" stop="20201029083000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Con el diablo en el cuerpo</title>
+  </programme>
+  <programme start="20201029090000 -0600" stop="20201029103000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Las cenizas del diputado</title>
+  </programme>
+  <programme start="20201029103000 -0600" stop="20201029120000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Con todo el corazón</title>
+  </programme>
+  <programme start="20201029123000 -0600" stop="20201029140000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Cómo Enfriar a Mi Marido</title>
+  </programme>
+  <programme start="20201029140000 -0600" stop="20201029153000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Con el diablo en el cuerpo</title>
+  </programme>
+  <programme start="20201029160000 -0600" stop="20201029173000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Las cenizas del diputado</title>
+  </programme>
+  <programme start="20201029173000 -0600" stop="20201029190000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Con todo el corazón</title>
+  </programme>
+  <programme start="20201029193000 -0600" stop="20201029210000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Cómo Enfriar a Mi Marido</title>
+  </programme>
+  <programme start="20201029210000 -0600" stop="20201029223000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Con el diablo en el cuerpo</title>
+  </programme>
+  <programme start="20201029223000 -0600" stop="20201030000000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Las cenizas del diputado</title>
+  </programme>
+  <programme start="20201030000000 -0600" stop="20201030013000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Con todo el corazón</title>
+  </programme>
+  <programme start="20201030013000 -0600" stop="20201030030000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Cómo Enfriar a Mi Marido</title>
+  </programme>
+  <programme start="20201030030000 -0600" stop="20201030043000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Con todo el corazón</title>
+  </programme>
+  <programme start="20201030053000 -0600" stop="20201030070000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Amor en cuatro tiempos</title>
+  </programme>
+  <programme start="20201030070000 -0600" stop="20201030083000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">El baño de Afrodita</title>
+  </programme>
+  <programme start="20201030090000 -0600" stop="20201030103000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">El Secreto del Tejano</title>
+  </programme>
+  <programme start="20201030103000 -0600" stop="20201030120000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">La sonrisa de los pobres</title>
+  </programme>
+  <programme start="20201030123000 -0600" stop="20201030140000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Amor en cuatro tiempos</title>
+  </programme>
+  <programme start="20201030140000 -0600" stop="20201030153000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Las aventuras del látigo negro III</title>
+  </programme>
+  <programme start="20201030160000 -0600" stop="20201030173000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">El Secreto del Tejano</title>
+  </programme>
+  <programme start="20201030173000 -0600" stop="20201030190000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">La sonrisa de los pobres</title>
+  </programme>
+  <programme start="20201030193000 -0600" stop="20201030210000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Amor en cuatro tiempos</title>
+  </programme>
+  <programme start="20201030210000 -0600" stop="20201030223000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Intimidades de un Cuarto de Baño</title>
+  </programme>
+  <programme start="20201030223000 -0600" stop="20201031000000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">El Secreto del Tejano</title>
+  </programme>
+  <programme start="20201031000000 -0600" stop="20201031013000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">La sonrisa de los pobres</title>
+  </programme>
+  <programme start="20201031013000 -0600" stop="20201031030000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Amor en cuatro tiempos</title>
+  </programme>
+  <programme start="20201031030000 -0600" stop="20201031043000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">La sonrisa de los pobres</title>
+  </programme>
+  <programme start="20201031053000 -0600" stop="20201031070000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Con todo el corazón</title>
+  </programme>
+  <programme start="20201031090000 -0600" stop="20201031103000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">El gran autor</title>
+  </programme>
+  <programme start="20201031140000 -0600" stop="20201031153000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">El día de las madres</title>
+  </programme>
+  <programme start="20201031160000 -0600" stop="20201031173000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">El baño de Afrodita</title>
+  </programme>
+  <programme start="20201031173000 -0600" stop="20201031190000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Una movida chueca</title>
+  </programme>
+  <programme start="20201031193000 -0600" stop="20201031210000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Cadena de mentiras</title>
+  </programme>
+  <programme start="20201031210000 -0600" stop="20201031223000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Pensión de artistas</title>
+  </programme>
+  <programme start="20201031223000 -0600" stop="20201101000000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Con todo el corazón</title>
+  </programme>
+  <programme start="20201101000000 -0600" stop="20201101013000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Aqui esta tu enamorado</title>
+  </programme>
+  <programme start="20201101013000 -0600" stop="20201101030000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Si volvieras a mi</title>
+  </programme>
+  <programme start="20201101030000 -0600" stop="20201101043000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">El gran autor</title>
+  </programme>
+  <programme start="20201101053000 -0600" stop="20201101070000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Las manzanas de Dorotea</title>
+  </programme>
+  <programme start="20201101070000 -0600" stop="20201101083000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Cómo Enfriar a Mi Marido</title>
+  </programme>
+  <programme start="20201101090000 -0600" stop="20201101103000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Amor en cuatro tiempos</title>
+  </programme>
+  <programme start="20201101103000 -0600" stop="20201101120000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Las aventuras del látigo negro III</title>
+  </programme>
+  <programme start="20201101123000 -0600" stop="20201101140000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">El Secreto del Tejano</title>
+  </programme>
+  <programme start="20201101140000 -0600" stop="20201101153000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">La sonrisa de los pobres</title>
+  </programme>
+  <programme start="20201101160000 -0600" stop="20201101173000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">La feria de San Marcos</title>
+  </programme>
+  <programme start="20201101173000 -0600" stop="20201101190000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Las cenizas del diputado</title>
+  </programme>
+  <programme start="20201101193000 -0600" stop="20201101210000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Con el diablo en el cuerpo</title>
+  </programme>
+  <programme start="20201101223000 -0600" stop="20201102000000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Las manzanas de Dorotea</title>
+  </programme>
+  <programme start="20201102000000 -0600" stop="20201102013000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Cómo Enfriar a Mi Marido</title>
+  </programme>
+  <programme start="20201102030000 -0600" stop="20201102043000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Las aventuras del látigo negro III</title>
+  </programme>
+  <programme start="20201102053000 -0600" stop="20201102070000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Manos arriba</title>
+  </programme>
+  <programme start="20201102070000 -0600" stop="20201102083000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Pancho pistolas I</title>
+  </programme>
+  <programme start="20201102090000 -0600" stop="20201102103000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">El Rostro Infernal</title>
+  </programme>
+  <programme start="20201102103000 -0600" stop="20201102120000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Santo vs. el Espectro Del Estrangulador</title>
+  </programme>
+  <programme start="20201102123000 -0600" stop="20201102140000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Manos arriba</title>
+  </programme>
+  <programme start="20201102140000 -0600" stop="20201102153000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Pancho pistolas I</title>
+  </programme>
+  <programme start="20201102160000 -0600" stop="20201102173000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">El Rostro Infernal</title>
+  </programme>
+  <programme start="20201102173000 -0600" stop="20201102190000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Santo vs. el Espectro Del Estrangulador</title>
+  </programme>
+  <programme start="20201102193000 -0600" stop="20201102210000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Manos arriba</title>
+  </programme>
+  <programme start="20201102210000 -0600" stop="20201102223000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Pancho pistolas I</title>
+  </programme>
+  <programme start="20201102223000 -0600" stop="20201103000000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">El Rostro Infernal</title>
+  </programme>
+</tv>
