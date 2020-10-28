@@ -84,9 +84,83 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hln-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="MX | Mexiquence TV FHD">
+    <display-name lang="es">MX | Mexiquence TV FHD</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/mexiquense_tv-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="MX | Milenio TV FHD">
+    <display-name lang="es">MX | Milenio TV FHD</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/milenio_tv-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="MX | Multimedios Plus FHD">
+    <display-name lang="es">MX | Multimedios Plus FHD</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/multimedios_plus-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="MX | NU9VE TV FHD">
+    <display-name lang="es">MX | NU9VE TV FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="MX | Once FHD">
+    <display-name lang="es">MX | Once FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="MX | TVC FHD">
+    <display-name lang="es">MX | TVC FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="MX | AZ Click">
+    <display-name lang="es">MX | AZ Click</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="MX | AZ Corazon">
+    <display-name lang="es">MX | AZ Corazon</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="MX | Azteca 7">
+    <display-name lang="es">MX | Azteca 7</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="MX | Azteca Uno">
+    <display-name lang="es">MX | Azteca Uno</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="MX | CANAL Once">
+    <display-name lang="es">MX | CANAL Once</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="MX | FORMULA TV">
+    <display-name lang="es">MX | FORMULA TV</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="MX | ForoTV">
+    <display-name lang="es">MX | ForoTV</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="MX | INGENIO TV">
+    <display-name lang="es">MX | INGENIO TV</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="MX | Las Estrellas">
+    <display-name lang="es">MX | Las Estrellas</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="MX | Mexiquense TV">
+    <display-name lang="es">MX | Mexiquense TV</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="MX | Milenio TV">
+    <display-name lang="es">MX | Milenio TV</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="MX | TVC">
+    <display-name lang="es">MX | TVC</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
   <channel id="DEP | ESPN FHD (MX)">
     <display-name lang="es">DEP | ESPN FHD (MX)</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <programme start="20201028013000 -0600" stop="20201028050000 -0600" channel="MX | A Plus">
@@ -157,6 +231,9 @@
   </programme>
   <programme start="20201029120000 -0600" stop="20201029134500 -0600" channel="MX | A Plus">
     <title lang="es">Rostro infernal</title>
+  </programme>
+  <programme start="20201029140000 -0600" stop="20201029150000 -0600" channel="MX | A Plus">
+    <title lang="es">A quien corresponda</title>
   </programme>
   <programme start="20201029160000 -0600" stop="20201029174500 -0600" channel="MX | A Plus">
     <title lang="es">La marca del muerto</title>
@@ -1310,9 +1387,6 @@
   <programme start="20201031090000 -0600" stop="20201031103000 -0600" channel="MX | AZ Cinema FHD">
     <title lang="es">El gran autor</title>
   </programme>
-  <programme start="20201031123000 -0600" stop="20201031140000 -0600" channel="MX | AZ Cinema FHD">
-    <title lang="es">Torero</title>
-  </programme>
   <programme start="20201031140000 -0600" stop="20201031153000 -0600" channel="MX | AZ Cinema FHD">
     <title lang="es">El día de las madres</title>
   </programme>
@@ -1496,8 +1570,8 @@
   <programme start="20201028213000 -0600" stop="20201028230000 -0600" channel="MX | AZ Corazon FHD">
     <title lang="es">Gata salvaje - Parte 2</title>
   </programme>
-  <programme start="20201029123000 -0600" stop="20201029140000 -0600" channel="MX | AZ Corazon FHD">
-    <title lang="es">La otra cara del alma - Parte 2</title>
+  <programme start="20201029140000 -0600" stop="20201029154500 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Cielo rojo - Parte 2</title>
   </programme>
   <programme start="20201028003000 -0600" stop="20201028040000 -0600" channel="MX | AZTECA SIETE FHD">
     <title lang="es">Paid Programming</title>
@@ -1666,9 +1740,6 @@
   </programme>
   <programme start="20201030110000 -0600" stop="20201030113000 -0600" channel="MX | AZTECA SIETE FHD">
     <title lang="es">My Little Pony</title>
-  </programme>
-  <programme start="20201030130000 -0600" stop="20201030140000 -0600" channel="MX | AZTECA SIETE FHD">
-    <title lang="es">Zak Storm</title>
   </programme>
   <programme start="20201030140000 -0600" stop="20201030150000 -0600" channel="MX | AZTECA SIETE FHD">
     <title lang="es">Alvin y las ardillas</title>
@@ -1913,8 +1984,8 @@
   <programme start="20201028233000 -0600" stop="20201029000000 -0600" channel="MX | Azteca UNO FHD">
     <title lang="es">Los protagonistas</title>
   </programme>
-  <programme start="20201029130000 -0600" stop="20201029140000 -0600" channel="MX | Azteca UNO FHD">
-    <title lang="es">Venga la alegría</title>
+  <programme start="20201029140000 -0600" stop="20201029150000 -0600" channel="MX | Azteca UNO FHD">
+    <title lang="es">Hechos meridiano</title>
   </programme>
   <programme start="20201029193000 -0600" stop="20201029223000 -0600" channel="MX | Azteca UNO FHD">
     <title lang="es">MasterChef</title>
@@ -2420,11 +2491,11 @@
   <programme start="20201028230000 -0600" stop="20201029000000 -0600" channel="MX | Canal de las Estrellas FHD">
     <title lang="es">Tercer Grado</title>
   </programme>
-  <programme start="20201029120000 -0600" stop="20201029133000 -0600" channel="MX | Canal de las Estrellas FHD">
-    <title lang="es">Cuentamelo Ya! En Vivo</title>
-  </programme>
   <programme start="20201029133000 -0600" stop="20201029143000 -0600" channel="MX | Canal de las Estrellas FHD">
     <title lang="es">Recuerda y Gana</title>
+  </programme>
+  <programme start="20201029143000 -0600" stop="20201029153000 -0600" channel="MX | Canal de las Estrellas FHD">
+    <title lang="es">Corazón Indomable</title>
   </programme>
   <programme start="20201029230000 -0600" stop="20201029233000 -0600" channel="MX | Canal de las Estrellas FHD">
     <title lang="es">Renta Congelada</title>
@@ -3980,8 +4051,8 @@
   <programme start="20201029020000 -0600" stop="20201029030000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
     <title lang="es">Rumbo a la Casa Blanca</title>
   </programme>
-  <programme start="20201029120000 -0600" stop="20201029143000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
-    <title lang="es">Bloomberg Markets: The Close</title>
+  <programme start="20201029143000 -0600" stop="20201029150000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
+    <title lang="es">What'd You Miss</title>
   </programme>
   <programme start="20201029170000 -0600" stop="20201029180000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
     <title lang="es">El Financiero Meet Point</title>
@@ -4334,8 +4405,8 @@
   <programme start="20201028230000 -0600" stop="20201029000000 -0600" channel="MX | Formula Noticias FHD">
     <title lang="es">Ricardo Rocha en Formula</title>
   </programme>
-  <programme start="20201029130000 -0600" stop="20201029133000 -0600" channel="MX | Formula Noticias FHD">
-    <title lang="es">La Radio de la República</title>
+  <programme start="20201029133000 -0600" stop="20201029153000 -0600" channel="MX | Formula Noticias FHD">
+    <title lang="es">López Dóriga en Fórmula</title>
   </programme>
   <programme start="20201029170000 -0600" stop="20201029180000 -0600" channel="MX | Formula Noticias FHD">
     <title lang="es">La Fórmula es...Orvañanos</title>
@@ -4622,8 +4693,8 @@
   <programme start="20201029230000 -0600" stop="20201030000000 -0600" channel="MX | Foro TV FHD">
     <title lang="es">Punto y Contrapunto</title>
   </programme>
-  <programme start="20201030130000 -0600" stop="20201030140000 -0600" channel="MX | Foro TV FHD">
-    <title lang="es">Las Noticias de las 1300 hrs</title>
+  <programme start="20201030140000 -0600" stop="20201030150000 -0600" channel="MX | Foro TV FHD">
+    <title lang="es">Noticias MX</title>
   </programme>
   <programme start="20201031023000 -0600" stop="20201031030000 -0600" channel="MX | Foro TV FHD">
     <title lang="es">Creadores Universitarios</title>
@@ -5432,232 +5503,874 @@
   <programme start="20201104233000 -0600" stop="20201105000000 -0600" channel="MX | HLN FHD">
     <title lang="es">Forensic Files</title>
   </programme>
-  <programme start="20201028010000 -0600" stop="20201028040000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">Barça TV</title>
+  <programme start="20201028000500 -0600" stop="20201028010000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Historias del Más Allá</title>
   </programme>
-  <programme start="20201028040000 -0600" stop="20201028050000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">SportsCenter</title>
+  <programme start="20201028010000 -0600" stop="20201028020000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Mexiquense Noticias Nocturno</title>
   </programme>
-  <programme start="20201028050000 -0600" stop="20201028060000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">SportsCenter</title>
+  <programme start="20201028020000 -0600" stop="20201028060000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">TV Mexiquense</title>
   </programme>
-  <programme start="20201028060000 -0600" stop="20201028070000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">Italian Serie A Highlights</title>
+  <programme start="20201028060000 -0600" stop="20201028061500 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Himno Nacional</title>
   </programme>
-  <programme start="20201028070000 -0600" stop="20201028103000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">Erste BankOpen 500</title>
+  <programme start="20201028061500 -0600" stop="20201028063000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Noticias en Fa</title>
   </programme>
-  <programme start="20201028103000 -0600" stop="20201028110000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">MLS Highlights</title>
+  <programme start="20201028063000 -0600" stop="20201028073000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">AMX con José Luis Arévalo</title>
   </programme>
-  <programme start="20201028110000 -0600" stop="20201028114500 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">SportsCenter</title>
+  <programme start="20201028073000 -0600" stop="20201028080000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Atrévete por ti</title>
   </programme>
-  <programme start="20201028114500 -0600" stop="20201028135000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">Krasnodar vs. Chelsea</title>
+  <programme start="20201028080000 -0600" stop="20201028100000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Emociónate</title>
   </programme>
-  <programme start="20201028135000 -0600" stop="20201028160000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">Borussia Dortmund vs. Zenit</title>
+  <programme start="20201028100000 -0600" stop="20201028103000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Porque soy mujer</title>
   </programme>
-  <programme start="20201028160000 -0600" stop="20201028170000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">SportsCenter</title>
+  <programme start="20201028103000 -0600" stop="20201028110000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Bionatura</title>
   </programme>
-  <programme start="20201028170000 -0600" stop="20201028180000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">SportsCenter</title>
+  <programme start="20201028110000 -0600" stop="20201028130000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Pelicula del Cine Mexicano</title>
   </programme>
-  <programme start="20201028180000 -0600" stop="20201028210000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">Rays vs. Dodgers</title>
+  <programme start="20201028130000 -0600" stop="20201028133000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">La lista de Erick</title>
   </programme>
-  <programme start="20201028210000 -0600" stop="20201028220000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">SportsCenter</title>
+  <programme start="20201028133000 -0600" stop="20201028150000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Bim Bam Bum</title>
   </programme>
-  <programme start="20201028220000 -0600" stop="20201028230000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">SportsCenter</title>
+  <programme start="20201028150000 -0600" stop="20201028160000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">AMX con Kimberly Armengol</title>
   </programme>
-  <programme start="20201028230000 -0600" stop="20201029000000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">SportsCenter</title>
+  <programme start="20201028160000 -0600" stop="20201028170000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Noticias en HoraBuena</title>
   </programme>
-  <programme start="20201029010000 -0600" stop="20201029030000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">Borussia Dortmund vs. Zenit</title>
+  <programme start="20201028170000 -0600" stop="20201028180000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">La Loca Margarita</title>
   </programme>
-  <programme start="20201029030000 -0600" stop="20201029040000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">SportsCenter</title>
+  <programme start="20201028180000 -0600" stop="20201028190000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Pasión por el sabor</title>
   </programme>
-  <programme start="20201029040000 -0600" stop="20201029050000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">SportsCenter</title>
+  <programme start="20201028190000 -0600" stop="20201028200000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Profesión Héroe</title>
   </programme>
-  <programme start="20201029050000 -0600" stop="20201029060000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">SportsCenter</title>
+  <programme start="20201028200000 -0600" stop="20201028210000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Retuit TV</title>
   </programme>
-  <programme start="20201029060000 -0600" stop="20201029070000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">SportsCenter</title>
+  <programme start="20201028210000 -0600" stop="20201028220000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">AMX con Carlos González</title>
   </programme>
-  <programme start="20201029070000 -0600" stop="20201029103000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">Erste BankOpen 500</title>
+  <programme start="20201028220000 -0600" stop="20201028230000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">La Zona</title>
   </programme>
-  <programme start="20201029103000 -0600" stop="20201029110000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">ATP World Tour Uncovered</title>
+  <programme start="20201029020000 -0600" stop="20201029043000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">TV Mexiquense</title>
   </programme>
-  <programme start="20201029110000 -0600" stop="20201029114500 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">SportsCenter</title>
+  <programme start="20201029043000 -0600" stop="20201029060000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">TV Mexiquense</title>
   </programme>
-  <programme start="20201029114500 -0600" stop="20201029135000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">UEFA Europa league</title>
+  <programme start="20201029060000 -0600" stop="20201029061500 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Himno Nacional</title>
   </programme>
-  <programme start="20201029135000 -0600" stop="20201029160000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">UEFA Europa league</title>
+  <programme start="20201029061500 -0600" stop="20201029063000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Noticias en Fa</title>
   </programme>
-  <programme start="20201029160000 -0600" stop="20201029170000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">SportsCenter</title>
+  <programme start="20201029063000 -0600" stop="20201029073000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">AMX con José Luis Arévalo</title>
   </programme>
-  <programme start="20201029170000 -0600" stop="20201029180000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">NFL Live desde México</title>
+  <programme start="20201029073000 -0600" stop="20201029080000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Atrévete por ti</title>
   </programme>
-  <programme start="20201029180000 -0600" stop="20201029200000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">UEFA Europa league</title>
+  <programme start="20201029080000 -0600" stop="20201029100000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Emociónate</title>
   </programme>
-  <programme start="20201029200000 -0600" stop="20201029220000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">UEFA Europa league</title>
+  <programme start="20201029100000 -0600" stop="20201029103000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Porque soy mujer</title>
   </programme>
-  <programme start="20201029220000 -0600" stop="20201030000000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">Istanbul Basaksehir vs. Paris Saint-Germain</title>
+  <programme start="20201029103000 -0600" stop="20201029110000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Bionatura</title>
   </programme>
-  <programme start="20201030040000 -0600" stop="20201030043000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">Planet Speed</title>
+  <programme start="20201029110000 -0600" stop="20201029130000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Pelicula del Cine Mexicano</title>
   </programme>
-  <programme start="20201030043000 -0600" stop="20201030050000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">ATP World Tour Uncovered</title>
+  <programme start="20201029130000 -0600" stop="20201029133000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Enjambre universitario</title>
   </programme>
-  <programme start="20201030103000 -0600" stop="20201030110000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">Major League Soccer Highlights</title>
+  <programme start="20201029133000 -0600" stop="20201029150000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Bim Bam Bum</title>
   </programme>
-  <programme start="20201030110000 -0600" stop="20201030113000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">Inside Serie A</title>
+  <programme start="20201029150000 -0600" stop="20201029160000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">AMX con Kimberly Armengol</title>
   </programme>
-  <programme start="20201030113000 -0600" stop="20201030123000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">French Ligue 1 Highlights</title>
+  <programme start="20201029160000 -0600" stop="20201029170000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Noticias en HoraBuena</title>
   </programme>
-  <programme start="20201030123000 -0600" stop="20201030144500 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">Ligue 1 French Championship</title>
+  <programme start="20201029170000 -0600" stop="20201029180000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Las Pasantes</title>
   </programme>
-  <programme start="20201030144500 -0600" stop="20201030150000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">Football's Greatest</title>
+  <programme start="20201029180000 -0600" stop="20201029190000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Destino Verde</title>
   </programme>
-  <programme start="20201030150000 -0600" stop="20201030170000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">Krasnodar vs. Chelsea</title>
+  <programme start="20201029190000 -0600" stop="20201029200000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Salud en Casa</title>
   </programme>
-  <programme start="20201030170000 -0600" stop="20201030180000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">NFL Live desde México</title>
+  <programme start="20201029200000 -0600" stop="20201029210000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Cinescape</title>
   </programme>
-  <programme start="20201030180000 -0600" stop="20201030210000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">Ohara Davies vs. Tyrone McKen</title>
+  <programme start="20201029210000 -0600" stop="20201029220000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">AMX con Carlos González</title>
   </programme>
-  <programme start="20201030230000 -0600" stop="20201030233000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">SportsCenter</title>
+  <programme start="20201029220000 -0600" stop="20201029230000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">100% Grupero</title>
   </programme>
-  <programme start="20201030233000 -0600" stop="20201031000000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">SportsCenter</title>
+  <programme start="20201029230000 -0600" stop="20201030000500 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">La Saga con Adela</title>
   </programme>
-  <programme start="20201031000000 -0600" stop="20201031010000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">ESPN Knockout</title>
+  <programme start="20201030020000 -0600" stop="20201030050000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">TV Mexiquense</title>
   </programme>
-  <programme start="20201031010000 -0600" stop="20201031020000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">Futbol Picante</title>
+  <programme start="20201030050000 -0600" stop="20201030060000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">TV Mexiquense</title>
   </programme>
-  <programme start="20201031020000 -0600" stop="20201031030000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">SportsCenter</title>
+  <programme start="20201030130000 -0600" stop="20201030133000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Con sabor y saber</title>
   </programme>
-  <programme start="20201031030000 -0600" stop="20201031040000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">SportsCenter</title>
+  <programme start="20201030170000 -0600" stop="20201030180000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">De pata de perro</title>
   </programme>
-  <programme start="20201031060000 -0600" stop="20201031070000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">SportsCenter</title>
+  <programme start="20201030180000 -0600" stop="20201030190000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Las mil y una notas</title>
   </programme>
-  <programme start="20201031103000 -0600" stop="20201031105500 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">UEFA Champions League Weekly</title>
+  <programme start="20201030190000 -0600" stop="20201030200000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Experiencia EdoMex</title>
   </programme>
-  <programme start="20201031105500 -0600" stop="20201031130000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">Inter vs. Parma</title>
+  <programme start="20201030200000 -0600" stop="20201030210000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Charrería?lo nuestro</title>
   </programme>
-  <programme start="20201031130000 -0600" stop="20201031133000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">UEFA Champions League Weekly</title>
+  <programme start="20201030220000 -0600" stop="20201030230000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Noches en vela</title>
   </programme>
-  <programme start="20201031133000 -0600" stop="20201031154500 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">Bologna vs. Cagliari</title>
+  <programme start="20201030230000 -0600" stop="20201031000000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">La Saga con Adela</title>
   </programme>
-  <programme start="20201031154500 -0600" stop="20201031173000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">Nantes vs. Paris Saint-Germain</title>
+  <programme start="20201031000000 -0600" stop="20201031010000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Historias del Más Allá</title>
   </programme>
-  <programme start="20201031173000 -0600" stop="20201031180000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">Planet Speed</title>
+  <programme start="20201031010000 -0600" stop="20201031020000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Mexiquense Noticias Nocturno</title>
   </programme>
-  <programme start="20201031180000 -0600" stop="20201031190000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">ESPN Knockout</title>
+  <programme start="20201031020000 -0600" stop="20201031040000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">TV Mexiquense</title>
   </programme>
-  <programme start="20201031190000 -0600" stop="20201031220000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">Usyk vs. Chisora</title>
+  <programme start="20201031040000 -0600" stop="20201031060000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">TV Mexiquense</title>
   </programme>
-  <programme start="20201031220000 -0600" stop="20201101000000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">SportsCenter</title>
+  <programme start="20201031060000 -0600" stop="20201031061500 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">TV Mexiquense</title>
   </programme>
-  <programme start="20201101000000 -0600" stop="20201101010000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">SportsCenter</title>
+  <programme start="20201031061500 -0600" stop="20201031063000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Patrimonio mundial</title>
   </programme>
-  <programme start="20201101020000 -0600" stop="20201101040000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">Ligue 1 French Championship</title>
+  <programme start="20201031063000 -0600" stop="20201031070000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Historias con sabor</title>
   </programme>
-  <programme start="20201101070000 -0600" stop="20201101090000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">Erste BankOpen 500</title>
+  <programme start="20201031070000 -0600" stop="20201031073000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Fuerza latina</title>
   </programme>
-  <programme start="20201101090000 -0600" stop="20201101093000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">UEFA Europa League Magazine</title>
+  <programme start="20201031080000 -0600" stop="20201031083000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Monstruos en Red</title>
   </programme>
-  <programme start="20201101093000 -0600" stop="20201101095500 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">Football's Greatest</title>
+  <programme start="20201031083000 -0600" stop="20201031090000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Somos México</title>
   </programme>
-  <programme start="20201101095500 -0600" stop="20201101120000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">Ligue 1 French Championship</title>
+  <programme start="20201031090000 -0600" stop="20201031100000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Diablos Rojos TV</title>
   </programme>
-  <programme start="20201101120000 -0600" stop="20201101132500 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">Ligue 1 French Championship</title>
+  <programme start="20201031100000 -0600" stop="20201031110000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Otro Stylo para Cocinar</title>
   </programme>
-  <programme start="20201101132500 -0600" stop="20201101153000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">Napoli vs. Sassuolo</title>
+  <programme start="20201031110000 -0600" stop="20201031120000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Bionatura</title>
   </programme>
-  <programme start="20201101153000 -0600" stop="20201101160000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">UEFA Champions League Weekly</title>
+  <programme start="20201031120000 -0600" stop="20201031130000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Concierto OSEM</title>
   </programme>
-  <programme start="20201101160000 -0600" stop="20201101180000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">Nantes vs. Paris Saint-Germain</title>
+  <programme start="20201031130000 -0600" stop="20201031140000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Europa en concierto</title>
   </programme>
-  <programme start="20201101180000 -0600" stop="20201101190000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">SportsCenter</title>
+  <programme start="20201031140000 -0600" stop="20201031141500 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Imagen magisterial</title>
   </programme>
-  <programme start="20201101190000 -0600" stop="20201101223000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">Cowboys vs. Eagles</title>
+  <programme start="20201031141500 -0600" stop="20201031143000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Fuerza TV</title>
   </programme>
-  <programme start="20201101223000 -0600" stop="20201101233000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">SportsCenter</title>
+  <programme start="20201031143000 -0600" stop="20201031150000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Mobil1</title>
   </programme>
-  <programme start="20201101233000 -0600" stop="20201102000000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">UEFA Europa League Magazine</title>
+  <programme start="20201031150000 -0600" stop="20201031160000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Profesión Héroe</title>
   </programme>
-  <programme start="20201102000000 -0600" stop="20201102040000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">ESPN</title>
+  <programme start="20201031160000 -0600" stop="20201031170000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Salud en Casa</title>
   </programme>
-  <programme start="20201102040000 -0600" stop="20201102080000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">ESPN</title>
+  <programme start="20201031170000 -0600" stop="20201031180000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Nuestra Chamba</title>
   </programme>
-  <programme start="20201102080000 -0600" stop="20201102120000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">ESPN</title>
+  <programme start="20201031180000 -0600" stop="20201031190000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Ver y creer</title>
   </programme>
-  <programme start="20201102120000 -0600" stop="20201102160000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">ESPN</title>
+  <programme start="20201031190000 -0600" stop="20201031200000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Genio y Figura</title>
   </programme>
-  <programme start="20201102160000 -0600" stop="20201102200000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">ESPN</title>
+  <programme start="20201031200000 -0600" stop="20201031220000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Su casa EDOMEX</title>
   </programme>
-  <programme start="20201102200000 -0600" stop="20201103000000 -0600" channel="DEP | ESPN FHD (MX)">
-    <title lang="es">ESPN</title>
+  <programme start="20201031220000 -0600" stop="20201031221500 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Parejas</title>
+  </programme>
+  <programme start="20201031221500 -0600" stop="20201031230000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">100% Grupero</title>
+  </programme>
+  <programme start="20201031230000 -0600" stop="20201101000000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Mirada Global</title>
+  </programme>
+  <programme start="20201101000000 -0600" stop="20201101010000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Cóncavo y Consexo</title>
+  </programme>
+  <programme start="20201101010000 -0600" stop="20201101033000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">TV Mexiquense</title>
+  </programme>
+  <programme start="20201101033000 -0600" stop="20201101053000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">TV Mexiquense</title>
+  </programme>
+  <programme start="20201101053000 -0600" stop="20201101060000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">TV Mexiquense</title>
+  </programme>
+  <programme start="20201101061500 -0600" stop="20201101063000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Todo deporte</title>
+  </programme>
+  <programme start="20201101063000 -0600" stop="20201101070000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Trotamundos</title>
+  </programme>
+  <programme start="20201101070000 -0600" stop="20201101073000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">La conquista del espacio</title>
+  </programme>
+  <programme start="20201101080000 -0600" stop="20201101083000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">La mesa amarilla</title>
+  </programme>
+  <programme start="20201101083000 -0600" stop="20201101090000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Pequeñas aventuras</title>
+  </programme>
+  <programme start="20201101090000 -0600" stop="20201101093000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Listos a jugar</title>
+  </programme>
+  <programme start="20201101093000 -0600" stop="20201101100000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Cuéntamelo Chabelito</title>
+  </programme>
+  <programme start="20201101100000 -0600" stop="20201101110000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Ver y creer</title>
+  </programme>
+  <programme start="20201101110000 -0600" stop="20201101120000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Bionatura</title>
+  </programme>
+  <programme start="20201101120000 -0600" stop="20201101130000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Especial Rocío Durcal</title>
+  </programme>
+  <programme start="20201101130000 -0600" stop="20201101140000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Documental Toña la Negra</title>
+  </programme>
+  <programme start="20201101140000 -0600" stop="20201101160000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Su casa EDOMEX</title>
+  </programme>
+  <programme start="20201101160000 -0600" stop="20201101170000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Cinescape Repetición</title>
+  </programme>
+  <programme start="20201101170000 -0600" stop="20201101180000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Experiencia EdoMex</title>
+  </programme>
+  <programme start="20201101180000 -0600" stop="20201101190000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Pasión por el sabor</title>
+  </programme>
+  <programme start="20201101190000 -0600" stop="20201101200000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">La Zona</title>
+  </programme>
+  <programme start="20201101200000 -0600" stop="20201101210000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Los colores de mi tierra</title>
+  </programme>
+  <programme start="20201101210000 -0600" stop="20201101220000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">En la cima con Roa</title>
+  </programme>
+  <programme start="20201101230000 -0600" stop="20201102000000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Destino Verde</title>
+  </programme>
+  <programme start="20201102000000 -0600" stop="20201102010000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Retuit TV</title>
+  </programme>
+  <programme start="20201102010000 -0600" stop="20201102030000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">TV Mexiquense</title>
+  </programme>
+  <programme start="20201102030000 -0600" stop="20201102050000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">TV Mexiquense</title>
+  </programme>
+  <programme start="20201102050000 -0600" stop="20201102060000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">TV Mexiquense</title>
+  </programme>
+  <programme start="20201102130000 -0600" stop="20201102133000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Enjambre universitario</title>
+  </programme>
+  <programme start="20201102133000 -0600" stop="20201102150000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Bim Bam Bum</title>
+  </programme>
+  <programme start="20201102170000 -0600" stop="20201102180000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Ranqueles</title>
+  </programme>
+  <programme start="20201102180000 -0600" stop="20201102190000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Genio y Figura</title>
+  </programme>
+  <programme start="20201102190000 -0600" stop="20201102200000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Otro Stylo para Cocinar</title>
+  </programme>
+  <programme start="20201102200000 -0600" stop="20201102210000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Cóncavo y Consexo</title>
+  </programme>
+  <programme start="20201102220000 -0600" stop="20201102230000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">En la cima con Roa</title>
+  </programme>
+  <programme start="20201103130000 -0600" stop="20201103133000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Escápate</title>
+  </programme>
+  <programme start="20201103170000 -0600" stop="20201103180000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">El oficio del artista</title>
+  </programme>
+  <programme start="20201103180000 -0600" stop="20201103190000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Escuela para padres</title>
+  </programme>
+  <programme start="20201103190000 -0600" stop="20201103200000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Nuestra Chamba</title>
+  </programme>
+  <programme start="20201103200000 -0600" stop="20201103210000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Mirada Global</title>
+  </programme>
+  <programme start="20201103220000 -0600" stop="20201103230000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Los colores de mi tierra</title>
+  </programme>
+  <programme start="20201028004500 -0600" stop="20201028010000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Bote Pronto con Carlos Puig</title>
+  </programme>
+  <programme start="20201028010000 -0600" stop="20201028050000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20201028050000 -0600" stop="20201028060000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Milenio Enrique Burgos</title>
+  </programme>
+  <programme start="20201028060000 -0600" stop="20201028080000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Milenio noticias</title>
+  </programme>
+  <programme start="20201028080000 -0600" stop="20201028100000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Milenio noticias</title>
+  </programme>
+  <programme start="20201028100000 -0600" stop="20201028104500 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Milenio noticias</title>
+  </programme>
+  <programme start="20201028104500 -0600" stop="20201028110000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Milenio Negocios</title>
+  </programme>
+  <programme start="20201028110000 -0600" stop="20201028120000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Milenio noticias</title>
+  </programme>
+  <programme start="20201028120000 -0600" stop="20201028140000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Noticias con Josué Becerra</title>
+  </programme>
+  <programme start="20201028140000 -0600" stop="20201028160000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Noticias con Claudia Ovalle</title>
+  </programme>
+  <programme start="20201028160000 -0600" stop="20201028180000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Noticias con Magda González</title>
+  </programme>
+  <programme start="20201028180000 -0600" stop="20201028184500 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Milenio Pedro Gamboa</title>
+  </programme>
+  <programme start="20201028184500 -0600" stop="20201028190000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">M2 con Susana Moscatel</title>
+  </programme>
+  <programme start="20201028190000 -0600" stop="20201028200000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Noticias con Sergio Gómez</title>
+  </programme>
+  <programme start="20201028200000 -0600" stop="20201028204500 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Noticias con Elisa Alanís</title>
+  </programme>
+  <programme start="20201028204500 -0600" stop="20201028210000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">M2 con Susana Moscatel</title>
+  </programme>
+  <programme start="20201028210000 -0600" stop="20201028213000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Noticias con Alejandro Dmgz</title>
+  </programme>
+  <programme start="20201028213000 -0600" stop="20201028214500 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Bote Pronto con Carlos Puig</title>
+  </programme>
+  <programme start="20201028214500 -0600" stop="20201028220000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">El asalto a la razón</title>
+  </programme>
+  <programme start="20201028220000 -0600" stop="20201028224500 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Azucena por Milenio</title>
+  </programme>
+  <programme start="20201028224500 -0600" stop="20201028230000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">La afición</title>
+  </programme>
+  <programme start="20201028230000 -0600" stop="20201028234500 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Noticias con Héctor Zamarrón</title>
+  </programme>
+  <programme start="20201028234500 -0600" stop="20201029000000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">El asalto a la razón</title>
+  </programme>
+  <programme start="20201029104500 -0600" stop="20201029110000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">M2 con Susana Moscatel</title>
+  </programme>
+  <programme start="20201029140000 -0600" stop="20201029160000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Noticias con Claudia Ovalle</title>
+  </programme>
+  <programme start="20201029184500 -0600" stop="20201029190000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Susana y Álvaro en Milenio</title>
+  </programme>
+  <programme start="20201029204500 -0600" stop="20201029210000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Susana y Álvaro en Milenio</title>
+  </programme>
+  <programme start="20201030104500 -0600" stop="20201030110000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Susana y Álvaro en Milenio</title>
+  </programme>
+  <programme start="20201030110000 -0600" stop="20201030114500 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Milenio noticias</title>
+  </programme>
+  <programme start="20201030114500 -0600" stop="20201030120000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">El Arte de la Canción</title>
+  </programme>
+  <programme start="20201030120000 -0600" stop="20201030140000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Noticias con Josué Becerra</title>
+  </programme>
+  <programme start="20201030140000 -0600" stop="20201030160000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Noticias con Claudia Ovalle</title>
+  </programme>
+  <programme start="20201030160000 -0600" stop="20201030180000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Noticias con Magda González</title>
+  </programme>
+  <programme start="20201030180000 -0600" stop="20201030184500 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Milenio Pedro Gamboa</title>
+  </programme>
+  <programme start="20201030184500 -0600" stop="20201030190000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">El Arte de la Canción</title>
+  </programme>
+  <programme start="20201030190000 -0600" stop="20201030200000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Noticias con Sergio Gómez</title>
+  </programme>
+  <programme start="20201030200000 -0600" stop="20201030204500 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Noticias con Elisa Alanís</title>
+  </programme>
+  <programme start="20201030204500 -0600" stop="20201030210000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Tragaluz</title>
+  </programme>
+  <programme start="20201030210000 -0600" stop="20201030213000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Noticias con Alejandro Dmgz</title>
+  </programme>
+  <programme start="20201030213000 -0600" stop="20201030214500 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">En 15 con Carlos Puig</title>
+  </programme>
+  <programme start="20201030214500 -0600" stop="20201030220000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">El asalto a la razón</title>
+  </programme>
+  <programme start="20201030220000 -0600" stop="20201030224500 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Azucena por Milenio</title>
+  </programme>
+  <programme start="20201030224500 -0600" stop="20201030230000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">La afición</title>
+  </programme>
+  <programme start="20201030230000 -0600" stop="20201030234500 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Noticias con Héctor Zamarrón</title>
+  </programme>
+  <programme start="20201030234500 -0600" stop="20201031004500 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">El asalto a la razón</title>
+  </programme>
+  <programme start="20201031004500 -0600" stop="20201031010000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">En 15 con Carlos Puig</title>
+  </programme>
+  <programme start="20201031050000 -0600" stop="20201031054500 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Milenio noticias</title>
+  </programme>
+  <programme start="20201031054500 -0600" stop="20201031060000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Susana y Álvaro en Milenio</title>
+  </programme>
+  <programme start="20201031060000 -0600" stop="20201031064500 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Milenio noticias</title>
+  </programme>
+  <programme start="20201031064500 -0600" stop="20201031070000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">El asalto a la razón</title>
+  </programme>
+  <programme start="20201031070000 -0600" stop="20201031104500 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Milenio noticias</title>
+  </programme>
+  <programme start="20201031104500 -0600" stop="20201031110000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">M2 con Susana Moscatel</title>
+  </programme>
+  <programme start="20201031110000 -0600" stop="20201031124500 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Milenio noticias</title>
+  </programme>
+  <programme start="20201031124500 -0600" stop="20201031130000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Milenio Tech</title>
+  </programme>
+  <programme start="20201031130000 -0600" stop="20201031150000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Milenio noticias</title>
+  </programme>
+  <programme start="20201031150000 -0600" stop="20201031170000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Milenio noticias</title>
+  </programme>
+  <programme start="20201031170000 -0600" stop="20201031180000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Milenio noticias</title>
+  </programme>
+  <programme start="20201031180000 -0600" stop="20201031190000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Milenio Pedro Gamboa</title>
+  </programme>
+  <programme start="20201031190000 -0600" stop="20201031200000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Milenio Pedro Gamboa</title>
+  </programme>
+  <programme start="20201031200000 -0600" stop="20201031210000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Noticias Verónica Sánchez</title>
+  </programme>
+  <programme start="20201031210000 -0600" stop="20201031214500 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Noticias Verónica Sánchez</title>
+  </programme>
+  <programme start="20201031214500 -0600" stop="20201031220000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">El Arte de la Canción</title>
+  </programme>
+  <programme start="20201031220000 -0600" stop="20201031230000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Noticias con Erik Rocha</title>
+  </programme>
+  <programme start="20201031230000 -0600" stop="20201031234500 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Noticias con Erik Rocha</title>
+  </programme>
+  <programme start="20201031234500 -0600" stop="20201101000000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">El Arte de la Canción</title>
+  </programme>
+  <programme start="20201101000000 -0600" stop="20201101020000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20201101020000 -0600" stop="20201101040000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20201101040000 -0600" stop="20201101050000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20201101054500 -0600" stop="20201101060000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">M2 con Susana Moscatel</title>
+  </programme>
+  <programme start="20201101064500 -0600" stop="20201101070000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">En 15 con Carlos Puig</title>
+  </programme>
+  <programme start="20201101104500 -0600" stop="20201101110000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Susana y Álvaro en Milenio</title>
+  </programme>
+  <programme start="20201101124500 -0600" stop="20201101130000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">El Arte de la Canción</title>
+  </programme>
+  <programme start="20201101180000 -0600" stop="20201101184500 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Milenio noticias</title>
+  </programme>
+  <programme start="20201101184500 -0600" stop="20201101190000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Milenio Negocios</title>
+  </programme>
+  <programme start="20201101190000 -0600" stop="20201101193000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Milenio noticias</title>
+  </programme>
+  <programme start="20201101193000 -0600" stop="20201101194500 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Tragaluz</title>
+  </programme>
+  <programme start="20201101194500 -0600" stop="20201101200000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">En 15 con Carlos Puig</title>
+  </programme>
+  <programme start="20201101200000 -0600" stop="20201101204500 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Milenio noticias</title>
+  </programme>
+  <programme start="20201101204500 -0600" stop="20201101210000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Milenio Mercados Perspectiva</title>
+  </programme>
+  <programme start="20201101210000 -0600" stop="20201101214500 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Milenio noticias</title>
+  </programme>
+  <programme start="20201101214500 -0600" stop="20201101220000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">La afición</title>
+  </programme>
+  <programme start="20201101220000 -0600" stop="20201101230000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Milenio noticias</title>
+  </programme>
+  <programme start="20201101230000 -0600" stop="20201101234500 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Milenio noticias</title>
+  </programme>
+  <programme start="20201102104500 -0600" stop="20201102110000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Milenio Mercados Perspectiva</title>
+  </programme>
+  <programme start="20201102213000 -0600" stop="20201102214500 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Bote Pronto con Carlos Puig</title>
+  </programme>
+  <programme start="20201102234500 -0600" stop="20201103000000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">El asalto a la razón</title>
+  </programme>
+  <programme start="20201103104500 -0600" stop="20201103110000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Tragaluz</title>
+  </programme>
+  <programme start="20201103184500 -0600" stop="20201103190000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Milenio Tech</title>
+  </programme>
+  <programme start="20201103204500 -0600" stop="20201103210000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Milenio Negocios</title>
+  </programme>
+  <programme start="20201028010000 -0600" stop="20201028020000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">El Chiringuito</title>
+  </programme>
+  <programme start="20201028020000 -0600" stop="20201028023000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201028023000 -0600" stop="20201028030000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201028030000 -0600" stop="20201028033000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201028033000 -0600" stop="20201028050000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">El Chismorreo Repetición</title>
+  </programme>
+  <programme start="20201028050000 -0600" stop="20201028053000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201028053000 -0600" stop="20201028060000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201028060000 -0600" stop="20201028100000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Telediario Matutino CDMX</title>
+  </programme>
+  <programme start="20201028100000 -0600" stop="20201028120000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Vivalavi</title>
+  </programme>
+  <programme start="20201028120000 -0600" stop="20201028140000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Telediario vespertino MTY</title>
+  </programme>
+  <programme start="20201028140000 -0600" stop="20201028150000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Telediario vespertino CDMX</title>
+  </programme>
+  <programme start="20201028150000 -0600" stop="20201028153000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Cerca de Ti CDMX</title>
+  </programme>
+  <programme start="20201028153000 -0600" stop="20201028170000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">El Chismorreo</title>
+  </programme>
+  <programme start="20201028170000 -0600" stop="20201028190000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">La Bola del 6</title>
+  </programme>
+  <programme start="20201028190000 -0600" stop="20201028200000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Telediario Nocturno CDMX</title>
+  </programme>
+  <programme start="20201028200000 -0600" stop="20201028210000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Telediario Nocturno Monterrey</title>
+  </programme>
+  <programme start="20201028210000 -0600" stop="20201028213000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Multimedios Deportes</title>
+  </programme>
+  <programme start="20201028213000 -0600" stop="20201028223000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Las Aparicio</title>
+  </programme>
+  <programme start="20201028223000 -0600" stop="20201029000000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Adrián Marcelo presenta</title>
+  </programme>
+  <programme start="20201029000000 -0600" stop="20201029010000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Adrián Marcelo presenta</title>
+  </programme>
+  <programme start="20201029140000 -0600" stop="20201029150000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Telediario vespertino CDMX</title>
+  </programme>
+  <programme start="20201029223000 -0600" stop="20201030000000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">SNSerio</title>
+  </programme>
+  <programme start="20201030000000 -0600" stop="20201030010000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">SNSerio</title>
+  </programme>
+  <programme start="20201030223000 -0600" stop="20201030233000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Adivigana</title>
+  </programme>
+  <programme start="20201030233000 -0600" stop="20201031010000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Es Show, el musical</title>
+  </programme>
+  <programme start="20201031010000 -0600" stop="20201031020000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Buenas Noches Don Fematt</title>
+  </programme>
+  <programme start="20201031060000 -0600" stop="20201031070000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Adivigana Repetición</title>
+  </programme>
+  <programme start="20201031070000 -0600" stop="20201031090000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Telediario Matutino CDMX</title>
+  </programme>
+  <programme start="20201031090000 -0600" stop="20201031110000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Sub20 Rayados vs. Cruz Azul</title>
+  </programme>
+  <programme start="20201031110000 -0600" stop="20201031120000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Vivalavi</title>
+  </programme>
+  <programme start="20201031120000 -0600" stop="20201031140000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Telediario vespertino CDMX</title>
+  </programme>
+  <programme start="20201031140000 -0600" stop="20201031150000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Fútbol al Día</title>
+  </programme>
+  <programme start="20201031150000 -0600" stop="20201031160000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Conferencia de Prensa N.L</title>
+  </programme>
+  <programme start="20201031160000 -0600" stop="20201031170000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Homenaje Día de Muertos</title>
+  </programme>
+  <programme start="20201031170000 -0600" stop="20201031180000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">El Rebote de la Bola del 6</title>
+  </programme>
+  <programme start="20201031180000 -0600" stop="20201031190000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Adivigana Repetición</title>
+  </programme>
+  <programme start="20201031190000 -0600" stop="20201031210000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Telediario Nocturno CDMX</title>
+  </programme>
+  <programme start="20201031210000 -0600" stop="20201031220000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Dame Dembow</title>
+  </programme>
+  <programme start="20201031220000 -0600" stop="20201101000000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Desvelados</title>
+  </programme>
+  <programme start="20201101000000 -0600" stop="20201101020000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Desvelados</title>
+  </programme>
+  <programme start="20201101020000 -0600" stop="20201101023000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201101023000 -0600" stop="20201101030000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201101030000 -0600" stop="20201101033000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201101033000 -0600" stop="20201101050000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Es Show, el musical</title>
+  </programme>
+  <programme start="20201101050000 -0600" stop="20201101053000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201101053000 -0600" stop="20201101060000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201101060000 -0600" stop="20201101070000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Alerta</title>
+  </programme>
+  <programme start="20201101070000 -0600" stop="20201101100000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Telediario Matutino CDMX</title>
+  </programme>
+  <programme start="20201101100000 -0600" stop="20201101110000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Mundo Fit</title>
+  </programme>
+  <programme start="20201101110000 -0600" stop="20201101130000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Sheffield vs. Manchester City</title>
+  </programme>
+  <programme start="20201101130000 -0600" stop="20201101140000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Aficionados</title>
+  </programme>
+  <programme start="20201101140000 -0600" stop="20201101160000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Lucha libre AAA</title>
+  </programme>
+  <programme start="20201101160000 -0600" stop="20201101173000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Lo mejor de Las Aparicio</title>
+  </programme>
+  <programme start="20201101173000 -0600" stop="20201101190000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Carrera Todos Somos Uno</title>
+  </programme>
+  <programme start="20201101190000 -0600" stop="20201101210000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Telediario Nocturno CDMX</title>
+  </programme>
+  <programme start="20201101210000 -0600" stop="20201101220000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">MD Express</title>
+  </programme>
+  <programme start="20201101220000 -0600" stop="20201102000000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Adrián Marcelo presenta</title>
+  </programme>
+  <programme start="20201102000000 -0600" stop="20201102013000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">El Chiringuito</title>
+  </programme>
+  <programme start="20201102013000 -0600" stop="20201102020000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201102030000 -0600" stop="20201102040000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Resumen La Bola del 6</title>
+  </programme>
+  <programme start="20201102040000 -0600" stop="20201102050000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Resumen El Chismorreo</title>
+  </programme>
+  <programme start="20201102170000 -0600" stop="20201102183000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">La Bola del 6</title>
+  </programme>
+  <programme start="20201102183000 -0600" stop="20201102190000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Cerca de Ti CDMX</title>
+  </programme>
+  <programme start="20201102190000 -0600" stop="20201102200000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Telediario Nocturno CDMX</title>
+  </programme>
+  <programme start="20201102200000 -0600" stop="20201102213000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Telediario Nocturno Monterrey</title>
+  </programme>
+  <programme start="20201102213000 -0600" stop="20201102220000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Multimedios Deportes</title>
+  </programme>
+  <programme start="20201102220000 -0600" stop="20201103000000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Es show</title>
+  </programme>
+  <programme start="20201103000000 -0600" stop="20201103003000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Es show</title>
+  </programme>
+  <programme start="20201103003000 -0600" stop="20201103013000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">El Chiringuito</title>
+  </programme>
+  <programme start="20201103013000 -0600" stop="20201103020000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201103030000 -0600" stop="20201103040000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Resumen La Bola del 6</title>
+  </programme>
+  <programme start="20201103040000 -0600" stop="20201103050000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Resumen El Chismorreo</title>
+  </programme>
+  <programme start="20201103060000 -0600" stop="20201103100000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Telediario Matutino CDMX</title>
+  </programme>
+  <programme start="20201103100000 -0600" stop="20201103120000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Vivalavi</title>
+  </programme>
+  <programme start="20201103120000 -0600" stop="20201103140000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Telediario vespertino MTY</title>
+  </programme>
+  <programme start="20201103140000 -0600" stop="20201103150000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Telediario vespertino CDMX</title>
+  </programme>
+  <programme start="20201103150000 -0600" stop="20201103153000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Cerca de Ti CDMX</title>
+  </programme>
+  <programme start="20201103153000 -0600" stop="20201103170000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">El Chismorreo</title>
+  </programme>
+  <programme start="20201103170000 -0600" stop="20201103183000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">La Bola del 6</title>
+  </programme>
+  <programme start="20201103183000 -0600" stop="20201103190000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Cerca de Ti CDMX</title>
+  </programme>
+  <programme start="20201103200000 -0600" stop="20201103213000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Telediario Nocturno Monterrey</title>
+  </programme>
+  <programme start="20201103213000 -0600" stop="20201103220000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Multimedios Deportes</title>
+  </programme>
+  <programme start="20201103220000 -0600" stop="20201104000000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Es show</title>
   </programme>
 </tv>
