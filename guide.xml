@@ -30,6 +30,11 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_corazon-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="MX | AZ Mundo FHD">
+    <display-name lang="es">MX | AZ Mundo FHD</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_mundo-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
   <channel id="MX | AZTECA SIETE FHD">
     <display-name lang="es">MX | AZTECA SIETE FHD</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7-mediano.png" />
@@ -200,19 +205,19 @@
     <title lang="es">José de los milagros</title>
   </programme>
   <programme start="20201102053000 -0600" stop="20201102080000 -0600" channel="MX | A Plus">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201102080000 -0600" stop="20201102090000 -0600" channel="MX | A Plus">
     <title lang="es">Naturista Naturalmente</title>
   </programme>
   <programme start="20201102090000 -0600" stop="20201102100000 -0600" channel="MX | A Plus">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201102100000 -0600" stop="20201102103000 -0600" channel="MX | A Plus">
     <title lang="es">Naturista Naturalmente</title>
   </programme>
   <programme start="20201102103000 -0600" stop="20201102113000 -0600" channel="MX | A Plus">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201102113000 -0600" stop="20201102120000 -0600" channel="MX | A Plus">
     <title lang="es">Manantial CDMX</title>
@@ -269,19 +274,19 @@
     <title lang="es">José de los milagros</title>
   </programme>
   <programme start="20201104053000 -0600" stop="20201104080000 -0600" channel="MX | A Plus">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201104080000 -0600" stop="20201104090000 -0600" channel="MX | A Plus">
     <title lang="es">Naturista Naturalmente</title>
   </programme>
   <programme start="20201104090000 -0600" stop="20201104100000 -0600" channel="MX | A Plus">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201104100000 -0600" stop="20201104103000 -0600" channel="MX | A Plus">
     <title lang="es">Naturista Naturalmente</title>
   </programme>
   <programme start="20201104103000 -0600" stop="20201104113000 -0600" channel="MX | A Plus">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201104113000 -0600" stop="20201104120000 -0600" channel="MX | A Plus">
     <title lang="es">Manantial CDMX</title>
@@ -302,13 +307,13 @@
     <title lang="es">Manantial CDMX</title>
   </programme>
   <programme start="20201105000000 -0600" stop="20201105013000 -0600" channel="MX | A Plus">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201105013000 -0600" stop="20201105050000 -0600" channel="MX | A Plus">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20201105100000 -0600" stop="20201105103000 -0600" channel="MX | A Plus">
-    <title lang="es">Naturista Naturalmente</title>
+  <programme start="20201105113000 -0600" stop="20201105120000 -0600" channel="MX | A Plus">
+    <title lang="es">Manantial CDMX</title>
   </programme>
   <programme start="20201105120000 -0600" stop="20201105134500 -0600" channel="MX | A Plus">
     <title lang="es">Los tres amores de Lola</title>
@@ -350,25 +355,25 @@
     <title lang="es">Mafias</title>
   </programme>
   <programme start="20201108053000 -0600" stop="20201108073000 -0600" channel="MX | A Plus">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201108073000 -0600" stop="20201108103000 -0600" channel="MX | A Plus">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201108103000 -0600" stop="20201108110000 -0600" channel="MX | A Plus">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201108110000 -0600" stop="20201108113000 -0600" channel="MX | A Plus">
     <title lang="es">Agua Inmaculada</title>
   </programme>
   <programme start="20201108113000 -0600" stop="20201108120000 -0600" channel="MX | A Plus">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201108120000 -0600" stop="20201108123000 -0600" channel="MX | A Plus">
     <title lang="es">Agua Inmaculada</title>
   </programme>
   <programme start="20201108123000 -0600" stop="20201108150000 -0600" channel="MX | A Plus">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201108150000 -0600" stop="20201108153000 -0600" channel="MX | A Plus">
     <title lang="es">Vive +</title>
@@ -401,13 +406,40 @@
     <title lang="es">Los Placeres Ocultos</title>
   </programme>
   <programme start="20201108233000 -0600" stop="20201109000000 -0600" channel="MX | A Plus">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201109000000 -0600" stop="20201109003000 -0600" channel="MX | A Plus">
     <title lang="es">Yetzali</title>
   </programme>
   <programme start="20201109003000 -0600" stop="20201109023000 -0600" channel="MX | A Plus">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201109023000 -0600" stop="20201109043000 -0600" channel="MX | A Plus">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201109043000 -0600" stop="20201109050000 -0600" channel="MX | A Plus">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201109053000 -0600" stop="20201109093000 -0600" channel="MX | A Plus">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201109093000 -0600" stop="20201109100000 -0600" channel="MX | A Plus">
+    <title lang="es">Aqua Clyva</title>
+  </programme>
+  <programme start="20201109100000 -0600" stop="20201109103000 -0600" channel="MX | A Plus">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201109103000 -0600" stop="20201109110000 -0600" channel="MX | A Plus">
+    <title lang="es">Agua Inmaculada</title>
+  </programme>
+  <programme start="20201109110000 -0600" stop="20201109150000 -0600" channel="MX | A Plus">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201109150000 -0600" stop="20201109160000 -0600" channel="MX | A Plus">
+    <title lang="es">Lucha Azteca AAA</title>
+  </programme>
+  <programme start="20201109160000 -0600" stop="20201109180000 -0600" channel="MX | A Plus">
+    <title lang="es">Clima Mortal</title>
   </programme>
   <programme start="20201102003400 -0600" stop="20201102020700 -0600" channel="MX | A3 Series FHD">
     <title lang="es">Allí abajo</title>
@@ -486,9 +518,6 @@
   </programme>
   <programme start="20201104064700 -0600" stop="20201104082500 -0600" channel="MX | A3 Series FHD">
     <title lang="es">El Internado</title>
-  </programme>
-  <programme start="20201104095300 -0600" stop="20201104110700 -0600" channel="MX | A3 Series FHD">
-    <title lang="es">Amar es para siempre</title>
   </programme>
   <programme start="20201104110700 -0600" stop="20201104115900 -0600" channel="MX | A3 Series FHD">
     <title lang="es">Aguanta corazón</title>
@@ -692,10 +721,10 @@
     <title lang="es">Marcaje personal</title>
   </programme>
   <programme start="20201102010000 -0600" stop="20201102050000 -0600" channel="MX | ADN40 FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201102050000 -0600" stop="20201102053000 -0600" channel="MX | ADN40 FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201102053000 -0600" stop="20201102070000 -0600" channel="MX | ADN40 FHD">
     <title lang="es">Noticias para despertar</title>
@@ -755,13 +784,13 @@
     <title lang="es">MDR</title>
   </programme>
   <programme start="20201103010000 -0600" stop="20201103023000 -0600" channel="MX | ADN40 FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201103023000 -0600" stop="20201103033000 -0600" channel="MX | ADN40 FHD">
     <title lang="es">MDR</title>
   </programme>
   <programme start="20201103033000 -0600" stop="20201103050000 -0600" channel="MX | ADN40 FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201103050000 -0600" stop="20201103053000 -0600" channel="MX | ADN40 FHD">
     <title lang="es">MDR</title>
@@ -820,8 +849,8 @@
   <programme start="20201104050000 -0600" stop="20201104053000 -0600" channel="MX | ADN40 FHD">
     <title lang="es">MDR</title>
   </programme>
-  <programme start="20201104100000 -0600" stop="20201104110000 -0600" channel="MX | ADN40 FHD">
-    <title lang="es">Noticias con Vaitiare Mateos</title>
+  <programme start="20201104110000 -0600" stop="20201104120000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Tu Mundo en Tiempo Real</title>
   </programme>
   <programme start="20201104233000 -0600" stop="20201104234500 -0600" channel="MX | ADN40 FHD">
     <title lang="es">Reporte ADN 40</title>
@@ -830,28 +859,28 @@
     <title lang="es">Índice Económico</title>
   </programme>
   <programme start="20201105000000 -0600" stop="20201105020000 -0600" channel="MX | ADN40 FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201105020000 -0600" stop="20201105040000 -0600" channel="MX | ADN40 FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201105040000 -0600" stop="20201105050000 -0600" channel="MX | ADN40 FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201105233000 -0600" stop="20201106000000 -0600" channel="MX | ADN40 FHD">
     <title lang="es">Desde las Cámaras</title>
   </programme>
   <programme start="20201106000000 -0600" stop="20201106003000 -0600" channel="MX | ADN40 FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201106010000 -0600" stop="20201106023000 -0600" channel="MX | ADN40 FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201106023000 -0600" stop="20201106033000 -0600" channel="MX | ADN40 FHD">
     <title lang="es">MDR</title>
   </programme>
   <programme start="20201106033000 -0600" stop="20201106050000 -0600" channel="MX | ADN40 FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201106233000 -0600" stop="20201106234500 -0600" channel="MX | ADN40 FHD">
     <title lang="es">Al filo</title>
@@ -860,7 +889,7 @@
     <title lang="es">La de 8</title>
   </programme>
   <programme start="20201107053000 -0600" stop="20201107080000 -0600" channel="MX | ADN40 FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201107080000 -0600" stop="20201107100000 -0600" channel="MX | ADN40 FHD">
     <title lang="es">Es de Mañana</title>
@@ -921,6 +950,54 @@
   </programme>
   <programme start="20201108004500 -0600" stop="20201108010000 -0600" channel="MX | ADN40 FHD">
     <title lang="es">Punto de Fuga</title>
+  </programme>
+  <programme start="20201108050000 -0600" stop="20201108073000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">MDR</title>
+  </programme>
+  <programme start="20201108073000 -0600" stop="20201108080000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201108100000 -0600" stop="20201108110000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Noticias Jorge Armando Rocha</title>
+  </programme>
+  <programme start="20201108120000 -0600" stop="20201108130000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Noticias con Max Espejel</title>
+  </programme>
+  <programme start="20201108130000 -0600" stop="20201108140000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">ADN Deportes</title>
+  </programme>
+  <programme start="20201108170000 -0600" stop="20201108180000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">El Foco</title>
+  </programme>
+  <programme start="20201108180000 -0600" stop="20201108183000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Noticias con Alejandro Brofft</title>
+  </programme>
+  <programme start="20201108183000 -0600" stop="20201108190000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">La otra aventura</title>
+  </programme>
+  <programme start="20201108190000 -0600" stop="20201108193000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Expansión</title>
+  </programme>
+  <programme start="20201108193000 -0600" stop="20201108200000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">El Refugio</title>
+  </programme>
+  <programme start="20201108200000 -0600" stop="20201108210000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Noticias Jorge Armando Rocha</title>
+  </programme>
+  <programme start="20201108210000 -0600" stop="20201108220000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Político MX</title>
+  </programme>
+  <programme start="20201108220000 -0600" stop="20201108223000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">De Cabeza con Andrés Roemer</title>
+  </programme>
+  <programme start="20201108223000 -0600" stop="20201108230000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Marcaje personal</title>
+  </programme>
+  <programme start="20201108230000 -0600" stop="20201108233000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Séptimo Día</title>
+  </programme>
+  <programme start="20201108233000 -0600" stop="20201109003000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Es Noticia con Jorge A. Rocha</title>
   </programme>
   <programme start="20201102000700 -0600" stop="20201102010000 -0600" channel="MX | Antena 3 FHD">
     <title lang="es">Zapeando</title>
@@ -1227,6 +1304,27 @@
   </programme>
   <programme start="20201107230000 -0600" stop="20201108020000 -0600" channel="MX | Antena 3 FHD">
     <title lang="es">Aquí no hay quién viva</title>
+  </programme>
+  <programme start="20201108073000 -0600" stop="20201108080000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Bricomanía</title>
+  </programme>
+  <programme start="20201108084500 -0600" stop="20201108090000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Centímetros cúbicos</title>
+  </programme>
+  <programme start="20201108100000 -0600" stop="20201108113000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Random neox</title>
+  </programme>
+  <programme start="20201108144500 -0600" stop="20201108160000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Algo que celebrar</title>
+  </programme>
+  <programme start="20201108160000 -0600" stop="20201108173000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Aquí no hay quién viva</title>
+  </programme>
+  <programme start="20201108173000 -0600" stop="20201108193000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Pasapalabra</title>
+  </programme>
+  <programme start="20201108201500 -0600" stop="20201108230000 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Atrescine Extraños</title>
   </programme>
   <programme start="20201102010900 -0600" stop="20201102023700 -0600" channel="MX | AZ Cinema FHD">
     <title lang="es">Cómo Enfriar a Mi Marido</title>
@@ -1627,6 +1725,180 @@
   <programme start="20201103103000 -0600" stop="20201103120000 -0600" channel="MX | AZ Corazon FHD">
     <title lang="es">Gata salvaje - Parte 2</title>
   </programme>
+  <programme start="20201102010000 -0600" stop="20201102020000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">Vida y salud</title>
+  </programme>
+  <programme start="20201102020000 -0600" stop="20201102030000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">Lo que callamos las mujeres</title>
+    <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema.</desc>
+    <credits>
+      <producer>Genoveva Martínez</producer>
+      <producer>María Eva Hernández</producer>
+    </credits>
+    <date>2001</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png" />
+  </programme>
+  <programme start="20201102030000 -0600" stop="20201102050000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">Cine de mundo</title>
+  </programme>
+  <programme start="20201102050000 -0600" stop="20201102060000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">Ventaneando</title>
+    <desc lang="es">Un programa de análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy.</desc>
+    <date>1996</date>
+    <category lang="es">Programa</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ventaneando.png" />
+  </programme>
+  <programme start="20201102060000 -0600" stop="20201102070000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">Hechos A.M. Primeras líneas</title>
+  </programme>
+  <programme start="20201102070000 -0600" stop="20201102080000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">Hechos A.M</title>
+  </programme>
+  <programme start="20201102080000 -0600" stop="20201102090000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">Hechos Aquí entre nos</title>
+  </programme>
+  <programme start="20201102090000 -0600" stop="20201102110000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20201102110000 -0600" stop="20201102130000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20201102130000 -0600" stop="20201102140000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20201102140000 -0600" stop="20201102150000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">Noticiero Primera línea</title>
+  </programme>
+  <programme start="20201102150000 -0600" stop="20201102163000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">Ventaneando</title>
+    <desc lang="es">Un programa de análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy.</desc>
+    <date>1996</date>
+    <category lang="es">Programa</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ventaneando.png" />
+  </programme>
+  <programme start="20201102163000 -0600" stop="20201102173000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">Todos quieren fama</title>
+  </programme>
+  <programme start="20201102173000 -0600" stop="20201102180000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">Cocinísima</title>
+  </programme>
+  <programme start="20201102180000 -0600" stop="20201102200000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">Los Rey</title>
+  </programme>
+  <programme start="20201102200000 -0600" stop="20201102210000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">En sus Batallas</title>
+  </programme>
+  <programme start="20201102210000 -0600" stop="20201102220000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20201102220000 -0600" stop="20201102230000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">Noticias de ida y vuelta internacional</title>
+  </programme>
+  <programme start="20201102230000 -0600" stop="20201103000000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">Latin Angels</title>
+  </programme>
+  <programme start="20201103000000 -0600" stop="20201103020000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">Los Rey</title>
+  </programme>
+  <programme start="20201103020000 -0600" stop="20201103040000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20201103040000 -0600" stop="20201103050000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">Noticias de ida y vuelta internacional</title>
+  </programme>
+  <programme start="20201103050000 -0600" stop="20201103060000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">Ventaneando</title>
+    <desc lang="es">Un programa de análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy.</desc>
+    <date>1996</date>
+    <category lang="es">Programa</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ventaneando.png" />
+  </programme>
+  <programme start="20201103060000 -0600" stop="20201103070000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">Hechos A.M. Primeras líneas</title>
+  </programme>
+  <programme start="20201103070000 -0600" stop="20201103080000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">Hechos A.M</title>
+  </programme>
+  <programme start="20201103080000 -0600" stop="20201103090000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">Hechos Aquí entre nos</title>
+  </programme>
+  <programme start="20201103090000 -0600" stop="20201103110000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20201103110000 -0600" stop="20201103130000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20201103130000 -0600" stop="20201103140000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20201103140000 -0600" stop="20201103150000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">Noticiero Primera línea</title>
+  </programme>
+  <programme start="20201103150000 -0600" stop="20201103163000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">Ventaneando</title>
+    <desc lang="es">Un programa de análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy.</desc>
+    <date>1996</date>
+    <category lang="es">Programa</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ventaneando.png" />
+  </programme>
+  <programme start="20201103163000 -0600" stop="20201103173000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">Todos quieren fama</title>
+  </programme>
+  <programme start="20201103173000 -0600" stop="20201103180000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">Cocinísima</title>
+  </programme>
+  <programme start="20201103180000 -0600" stop="20201103200000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">Los Rey</title>
+  </programme>
+  <programme start="20201103200000 -0600" stop="20201103210000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">Detrás del personaje</title>
+  </programme>
+  <programme start="20201103210000 -0600" stop="20201103220000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">Desaparecida</title>
+  </programme>
+  <programme start="20201103220000 -0600" stop="20201103230000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">Noticias de ida y vuelta internacional</title>
+  </programme>
+  <programme start="20201103230000 -0600" stop="20201104000000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">Latin Angels</title>
+  </programme>
+  <programme start="20201104000000 -0600" stop="20201104020000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">Las Bravo</title>
+  </programme>
+  <programme start="20201104020000 -0600" stop="20201104030000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">Detrás del personaje</title>
+  </programme>
+  <programme start="20201104030000 -0600" stop="20201104040000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">Desaparecida</title>
+  </programme>
+  <programme start="20201104040000 -0600" stop="20201104050000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">Noticias de ida y vuelta internacional</title>
+  </programme>
+  <programme start="20201104110000 -0600" stop="20201104130000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
   <programme start="20201102001500 -0600" stop="20201102021500 -0600" channel="MX | AZTECA SIETE FHD">
     <title lang="es">Azteca 7</title>
   </programme>
@@ -1634,13 +1906,13 @@
     <title lang="es">Azteca 7</title>
   </programme>
   <programme start="20201102040000 -0600" stop="20201102051500 -0600" channel="MX | AZTECA SIETE FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201102051500 -0600" stop="20201102053000 -0600" channel="MX | AZTECA SIETE FHD">
     <title lang="es">Especial de R.T.C</title>
   </programme>
   <programme start="20201102053000 -0600" stop="20201102063000 -0600" channel="MX | AZTECA SIETE FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201102063000 -0600" stop="20201102064500 -0600" channel="MX | AZTECA SIETE FHD">
     <title lang="es">El Reino Infantil</title>
@@ -1712,16 +1984,16 @@
     <title lang="es">Macgyver</title>
   </programme>
   <programme start="20201104003000 -0600" stop="20201104040000 -0600" channel="MX | AZTECA SIETE FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201104040000 -0600" stop="20201104051500 -0600" channel="MX | AZTECA SIETE FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201104051500 -0600" stop="20201104053000 -0600" channel="MX | AZTECA SIETE FHD">
     <title lang="es">Especial de R.T.C</title>
   </programme>
   <programme start="20201104053000 -0600" stop="20201104063000 -0600" channel="MX | AZTECA SIETE FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201104063000 -0600" stop="20201104070000 -0600" channel="MX | AZTECA SIETE FHD">
     <title lang="es">Amigazazo</title>
@@ -1793,19 +2065,19 @@
     <title lang="es">Alvin y las ardillas</title>
   </programme>
   <programme start="20201106003000 -0600" stop="20201106004500 -0600" channel="MX | AZTECA SIETE FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201106004500 -0600" stop="20201106010000 -0600" channel="MX | AZTECA SIETE FHD">
     <title lang="es">Farmacias Similares</title>
   </programme>
   <programme start="20201106010000 -0600" stop="20201106030000 -0600" channel="MX | AZTECA SIETE FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201106030000 -0600" stop="20201106050000 -0600" channel="MX | AZTECA SIETE FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201106050000 -0600" stop="20201106051500 -0600" channel="MX | AZTECA SIETE FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201106063000 -0600" stop="20201106064500 -0600" channel="MX | AZTECA SIETE FHD">
     <title lang="es">Amigazazo</title>
@@ -1813,8 +2085,8 @@
   <programme start="20201106064500 -0600" stop="20201106070000 -0600" channel="MX | AZTECA SIETE FHD">
     <title lang="es">Bubu Dom</title>
   </programme>
-  <programme start="20201106103000 -0600" stop="20201106110000 -0600" channel="MX | AZTECA SIETE FHD">
-    <title lang="es">Mickey Mouse Mix Aventuras</title>
+  <programme start="20201106113000 -0600" stop="20201106120000 -0600" channel="MX | AZTECA SIETE FHD">
+    <title lang="es">Transformers Rescue Bots</title>
   </programme>
   <programme start="20201106190000 -0600" stop="20201106211500 -0600" channel="MX | AZTECA SIETE FHD">
     <title lang="es">9.1.1</title>
@@ -1823,13 +2095,13 @@
     <title lang="es">Yo soy Betty la fea</title>
   </programme>
   <programme start="20201107003000 -0600" stop="20201107021500 -0600" channel="MX | AZTECA SIETE FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201107021500 -0600" stop="20201107041500 -0600" channel="MX | AZTECA SIETE FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201107041500 -0600" stop="20201107051500 -0600" channel="MX | AZTECA SIETE FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201107090000 -0600" stop="20201107093000 -0600" channel="MX | AZTECA SIETE FHD">
     <title lang="es">Doctora Juguetes</title>
@@ -1947,23 +2219,88 @@
   <programme start="20201109010000 -0600" stop="20201109050000 -0600" channel="MX | AZTECA SIETE FHD">
     <title lang="es">Paid Programing</title>
   </programme>
+  <programme start="20201109050000 -0600" stop="20201109051500 -0600" channel="MX | AZTECA SIETE FHD">
+    <title lang="es">Azteca 7</title>
+  </programme>
+  <programme start="20201109051500 -0600" stop="20201109053000 -0600" channel="MX | AZTECA SIETE FHD">
+    <title lang="es">RTC</title>
+  </programme>
+  <programme start="20201109063000 -0600" stop="20201109064500 -0600" channel="MX | AZTECA SIETE FHD">
+    <title lang="es">Amigazazo</title>
+  </programme>
+  <programme start="20201109064500 -0600" stop="20201109070000 -0600" channel="MX | AZTECA SIETE FHD">
+    <title lang="es">Bubu Dom</title>
+  </programme>
+  <programme start="20201109070000 -0600" stop="20201109071500 -0600" channel="MX | AZTECA SIETE FHD">
+    <title lang="es">El Reino Infantil</title>
+  </programme>
+  <programme start="20201109071500 -0600" stop="20201109073000 -0600" channel="MX | AZTECA SIETE FHD">
+    <title lang="es">Molang</title>
+  </programme>
+  <programme start="20201109073000 -0600" stop="20201109080000 -0600" channel="MX | AZTECA SIETE FHD">
+    <title lang="es">Pocoyó</title>
+  </programme>
+  <programme start="20201109083000 -0600" stop="20201109090000 -0600" channel="MX | AZTECA SIETE FHD">
+    <title lang="es">Rev &amp; Roll</title>
+  </programme>
+  <programme start="20201109090000 -0600" stop="20201109093000 -0600" channel="MX | AZTECA SIETE FHD">
+    <title lang="es">Vampirina</title>
+    <title lang="xx">Vampirina</title>
+    <desc lang="es">Vee es una joven vampira que se muda con su familia de Transilvania a Pensilvania, ella y su familia se deben adaptar la vida como vampiros en la ciudad.</desc>
+    <credits>
+      <producer>Norton Virgien</producer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/vampirina.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">Irlanda</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20201109093000 -0600" stop="20201109100000 -0600" channel="MX | AZTECA SIETE FHD">
+    <title lang="es">Las aventuras enredadas..</title>
+  </programme>
+  <programme start="20201109100000 -0600" stop="20201109103000 -0600" channel="MX | AZTECA SIETE FHD">
+    <title lang="es">Tiny Ones Transport Service</title>
+  </programme>
+  <programme start="20201109103000 -0600" stop="20201109110000 -0600" channel="MX | AZTECA SIETE FHD">
+    <title lang="es">Fancy Nancy Clancy</title>
+  </programme>
+  <programme start="20201109110000 -0600" stop="20201109113000 -0600" channel="MX | AZTECA SIETE FHD">
+    <title lang="es">Doctora Juguetes</title>
+  </programme>
+  <programme start="20201109113000 -0600" stop="20201109153000 -0600" channel="MX | AZTECA SIETE FHD">
+    <title lang="es">Azteca 7</title>
+  </programme>
+  <programme start="20201109153000 -0600" stop="20201109193000 -0600" channel="MX | AZTECA SIETE FHD">
+    <title lang="es">Azteca 7</title>
+  </programme>
+  <programme start="20201109193000 -0600" stop="20201109221500 -0600" channel="MX | AZTECA SIETE FHD">
+    <title lang="es">Azteca 7</title>
+  </programme>
+  <programme start="20201109221500 -0600" stop="20201110000000 -0600" channel="MX | AZTECA SIETE FHD">
+    <title lang="es">Azteca 7</title>
+  </programme>
   <programme start="20201102001500 -0600" stop="20201102004500 -0600" channel="MX | Azteca UNO FHD">
     <title lang="es">Farmacias Similares</title>
   </programme>
   <programme start="20201102004500 -0600" stop="20201102024500 -0600" channel="MX | Azteca UNO FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201102024500 -0600" stop="20201102044500 -0600" channel="MX | Azteca UNO FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201102044500 -0600" stop="20201102050000 -0600" channel="MX | Azteca UNO FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201102050000 -0600" stop="20201102053000 -0600" channel="MX | Azteca UNO FHD">
     <title lang="es">Que Cotorreo</title>
   </programme>
   <programme start="20201102053000 -0600" stop="20201102061500 -0600" channel="MX | Azteca UNO FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201102061500 -0600" stop="20201102070000 -0600" channel="MX | Azteca UNO FHD">
     <title lang="es">Primera Línea</title>
@@ -2035,7 +2372,7 @@
   <programme start="20201103041500 -0600" stop="20201103050000 -0600" channel="MX | Azteca UNO FHD">
     <title lang="es">Paid Programing</title>
   </programme>
-  <programme start="20201103090000 -0600" stop="20201103110000 -0600" channel="MX | Azteca UNO FHD">
+  <programme start="20201103110000 -0600" stop="20201103130000 -0600" channel="MX | Azteca UNO FHD">
     <title lang="es">Venga la alegría</title>
     <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
     <date>2006</date>
@@ -2098,16 +2435,80 @@
     <title lang="es">La resolana</title>
   </programme>
   <programme start="20201105001500 -0600" stop="20201105021500 -0600" channel="MX | Azteca UNO FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201105021500 -0600" stop="20201105041500 -0600" channel="MX | Azteca UNO FHD">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201105041500 -0600" stop="20201105050000 -0600" channel="MX | Azteca UNO FHD">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201105050000 -0600" stop="20201105053000 -0600" channel="MX | Azteca UNO FHD">
+    <title lang="es">Que Cotorreo</title>
+  </programme>
+  <programme start="20201105053000 -0600" stop="20201105061500 -0600" channel="MX | Azteca UNO FHD">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20201105061500 -0600" stop="20201105080000 -0600" channel="MX | Azteca UNO FHD">
+    <title lang="es">Azteca Uno</title>
+  </programme>
+  <programme start="20201105080000 -0600" stop="20201105090000 -0600" channel="MX | Azteca UNO FHD">
+    <title lang="es">Lo que callamos las mujeres</title>
+    <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema.</desc>
+    <credits>
+      <producer>Genoveva Martínez</producer>
+      <producer>María Eva Hernández</producer>
+    </credits>
+    <date>2001</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png" />
+  </programme>
+  <programme start="20201105090000 -0600" stop="20201105120000 -0600" channel="MX | Azteca UNO FHD">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20201105120000 -0600" stop="20201105130000 -0600" channel="MX | Azteca UNO FHD">
+    <title lang="es">Deezer Live</title>
+  </programme>
+  <programme start="20201105130000 -0600" stop="20201105140000 -0600" channel="MX | Azteca UNO FHD">
+    <title lang="es">Escape Perfecto</title>
+  </programme>
+  <programme start="20201105140000 -0600" stop="20201105150000 -0600" channel="MX | Azteca UNO FHD">
+    <title lang="es">En sus Batallas</title>
+  </programme>
+  <programme start="20201105150000 -0600" stop="20201105160000 -0600" channel="MX | Azteca UNO FHD">
+    <title lang="es">Lo que callamos las mujeres</title>
+    <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema.</desc>
+    <credits>
+      <producer>Genoveva Martínez</producer>
+      <producer>María Eva Hernández</producer>
+    </credits>
+    <date>2001</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png" />
+  </programme>
+  <programme start="20201105160000 -0600" stop="20201105180000 -0600" channel="MX | Azteca UNO FHD">
+    <title lang="es">MasterChef</title>
+  </programme>
+  <programme start="20201105180000 -0600" stop="20201105200000 -0600" channel="MX | Azteca UNO FHD">
+    <title lang="es">Domingo Al Extremo</title>
+  </programme>
+  <programme start="20201105200000 -0600" stop="20201105231500 -0600" channel="MX | Azteca UNO FHD">
+    <title lang="es">Exatlón Titanes vs. Héroes</title>
+  </programme>
+  <programme start="20201105231500 -0600" stop="20201106000000 -0600" channel="MX | Azteca UNO FHD">
+    <title lang="es">La resolana</title>
   </programme>
   <programme start="20201102003000 -0600" stop="20201102043000 -0600" channel="MX | Canal 5 FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201102043000 -0600" stop="20201102050000 -0600" channel="MX | Canal 5 FHD">
     <title lang="es">Especial de R.T.C</title>
   </programme>
   <programme start="20201102050000 -0600" stop="20201102063000 -0600" channel="MX | Canal 5 FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201102063000 -0600" stop="20201102080000 -0600" channel="MX | Canal 5 FHD">
     <title lang="es">Las Historias Espeluznantes de</title>
@@ -2223,16 +2624,16 @@
     <title lang="es">Mamá</title>
   </programme>
   <programme start="20201103003000 -0600" stop="20201103040000 -0600" channel="MX | Canal 5 FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201103040000 -0600" stop="20201103043000 -0600" channel="MX | Canal 5 FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201103043000 -0600" stop="20201103050000 -0600" channel="MX | Canal 5 FHD">
     <title lang="es">Especial de R.T.C</title>
   </programme>
   <programme start="20201103050000 -0600" stop="20201103063000 -0600" channel="MX | Canal 5 FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201103063000 -0600" stop="20201103070000 -0600" channel="MX | Canal 5 FHD">
     <title lang="es">Thomas y sus amigos</title>
@@ -2301,13 +2702,13 @@
     <title lang="es">Miraculous II</title>
   </programme>
   <programme start="20201104003000 -0600" stop="20201104010000 -0600" channel="MX | Canal 5 FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201104010000 -0600" stop="20201104013000 -0600" channel="MX | Canal 5 FHD">
     <title lang="es">Estatus</title>
   </programme>
   <programme start="20201104013000 -0600" stop="20201104043000 -0600" channel="MX | Canal 5 FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201104063000 -0600" stop="20201104070000 -0600" channel="MX | Canal 5 FHD">
     <title lang="es">Thomas y sus amigos</title>
@@ -2455,7 +2856,7 @@
     <title lang="es">Dragones: Carrera al borde</title>
   </programme>
   <programme start="20201106000000 -0600" stop="20201106010000 -0600" channel="MX | Canal 5 FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201106010000 -0600" stop="20201106020000 -0600" channel="MX | Canal 5 FHD">
     <title lang="es">México Nuevo Siglo</title>
@@ -2464,7 +2865,7 @@
     <title lang="es">Paid Programing</title>
   </programme>
   <programme start="20201106050000 -0600" stop="20201106053000 -0600" channel="MX | Canal 5 FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201106053000 -0600" stop="20201106063000 -0600" channel="MX | Canal 5 FHD">
     <title lang="es">Soy sano</title>
@@ -2634,16 +3035,49 @@
     <title lang="es">Mamá</title>
   </programme>
   <programme start="20201109013000 -0600" stop="20201109020000 -0600" channel="MX | Canal 5 FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201109050000 -0600" stop="20201109060000 -0600" channel="MX | Canal 5 FHD">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201109060000 -0600" stop="20201109070000 -0600" channel="MX | Canal 5 FHD">
+    <title lang="es">Los Caballeros del Zodiaco La</title>
+  </programme>
+  <programme start="20201109070000 -0600" stop="20201109073000 -0600" channel="MX | Canal 5 FHD">
+    <title lang="es">Blaze and the Monster Machine</title>
+  </programme>
+  <programme start="20201109073000 -0600" stop="20201109090000 -0600" channel="MX | Canal 5 FHD">
+    <title lang="es">El Espectacular Spiderman</title>
+  </programme>
+  <programme start="20201109090000 -0600" stop="20201109103000 -0600" channel="MX | Canal 5 FHD">
+    <title lang="es">Dragon Ball GT</title>
+  </programme>
+  <programme start="20201109103000 -0600" stop="20201109124500 -0600" channel="MX | Canal 5 FHD">
+    <title lang="es">Jem y los hologramas</title>
+  </programme>
+  <programme start="20201109124500 -0600" stop="20201109144500 -0600" channel="MX | Canal 5 FHD">
+    <title lang="es">Triunfos robados: Otra vez</title>
+  </programme>
+  <programme start="20201109144500 -0600" stop="20201109164500 -0600" channel="MX | Canal 5 FHD">
+    <title lang="es">Un papá genial</title>
+  </programme>
+  <programme start="20201109164500 -0600" stop="20201109190000 -0600" channel="MX | Canal 5 FHD">
+    <title lang="es">Red 2</title>
+  </programme>
+  <programme start="20201109190000 -0600" stop="20201109214500 -0600" channel="MX | Canal 5 FHD">
+    <title lang="es">007 Spectre</title>
+  </programme>
+  <programme start="20201109214500 -0600" stop="20201110000000 -0600" channel="MX | Canal 5 FHD">
+    <title lang="es">La carrera de la muerte</title>
   </programme>
   <programme start="20201102011000 -0600" stop="20201102043000 -0600" channel="MX | Canal de las Estrellas FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201102043000 -0600" stop="20201102050000 -0600" channel="MX | Canal de las Estrellas FHD">
     <title lang="es">Especial de R.T.C</title>
   </programme>
   <programme start="20201102050000 -0600" stop="20201102060000 -0600" channel="MX | Canal de las Estrellas FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201102060000 -0600" stop="20201102063000 -0600" channel="MX | Canal de las Estrellas FHD">
     <title lang="es">Las noticias En Vivo</title>
@@ -2735,7 +3169,7 @@
     <title lang="es">Paid Programing</title>
   </programme>
   <programme start="20201103050000 -0600" stop="20201103053000 -0600" channel="MX | Canal de las Estrellas FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201103053000 -0600" stop="20201103060000 -0600" channel="MX | Canal de las Estrellas FHD">
     <title lang="es">Farmacias de similares</title>
@@ -2868,10 +3302,52 @@
     <episode-num system="onscreen">S2</episode-num>
   </programme>
   <programme start="20201107230000 -0600" stop="20201108000000 -0600" channel="MX | Canal de las Estrellas FHD">
-    <title lang="es">Más Noche</title>
+    <title lang="es">+ noche</title>
   </programme>
   <programme start="20201108000000 -0600" stop="20201108023000 -0600" channel="MX | Canal de las Estrellas FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201108023000 -0600" stop="20201108060000 -0600" channel="MX | Canal de las Estrellas FHD">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201108071500 -0600" stop="20201108091500 -0600" channel="MX | Canal de las Estrellas FHD">
+    <title lang="es">Los Canallas</title>
+  </programme>
+  <programme start="20201108091500 -0600" stop="20201108110000 -0600" channel="MX | Canal de las Estrellas FHD">
+    <title lang="es">Una Maestra Con Ángel</title>
+  </programme>
+  <programme start="20201108110000 -0600" stop="20201108115500 -0600" channel="MX | Canal de las Estrellas FHD">
+    <title lang="es">Más Deporte En Vivo</title>
+  </programme>
+  <programme start="20201108115500 -0600" stop="20201108140000 -0600" channel="MX | Canal de las Estrellas FHD">
+    <title lang="es">Toluca Vs. León</title>
+    <desc lang="es">El Deportivo Toluca FC recibe al Club León FC en el estadio Nemesio Díez, en la ciudad de Toluca, México.</desc>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/toluca_vs_leon.png" />
+  </programme>
+  <programme start="20201108140000 -0600" stop="20201108150000 -0600" channel="MX | Canal de las Estrellas FHD">
+    <title lang="es">Acción</title>
+  </programme>
+  <programme start="20201108150000 -0600" stop="20201108160000 -0600" channel="MX | Canal de las Estrellas FHD">
+    <title lang="es">100 mexicanos dijieron</title>
+  </programme>
+  <programme start="20201108160000 -0600" stop="20201108183000 -0600" channel="MX | Canal de las Estrellas FHD">
+    <title lang="es">El señor doctor</title>
+  </programme>
+  <programme start="20201108183000 -0600" stop="20201108193000 -0600" channel="MX | Canal de las Estrellas FHD">
+    <title lang="es">Nosotros los guapos</title>
+    <episode-num system="onscreen">S4</episode-num>
+  </programme>
+  <programme start="20201108193000 -0600" stop="20201108203000 -0600" channel="MX | Canal de las Estrellas FHD">
+    <title lang="es">Una familia de diez</title>
+  </programme>
+  <programme start="20201108203000 -0600" stop="20201108230000 -0600" channel="MX | Canal de las Estrellas FHD">
+    <title lang="es">¿Quién es la Máscara</title>
+    <episode-num system="onscreen">S2</episode-num>
+  </programme>
+  <programme start="20201108230000 -0600" stop="20201109000000 -0600" channel="MX | Canal de las Estrellas FHD">
+    <title lang="es">La Jugada</title>
   </programme>
   <programme start="20201102010000 -0600" stop="20201102020000 -0600" channel="MX | Canal Judicial FHD">
     <title lang="es">Derecho a Disentir</title>
@@ -3543,7 +4019,7 @@
     <title lang="es">En Forma</title>
   </programme>
   <programme start="20201103083000 -0600" stop="20201103090000 -0600" channel="MX | DW">
-    <title lang="es">Enlaces: Ventana Abierta Al Mundo Digital</title>
+    <title lang="es">Enlaces</title>
   </programme>
   <programme start="20201103090000 -0600" stop="20201103090300 -0600" channel="MX | DW">
     <title lang="es">DW Noticias</title>
@@ -3590,71 +4066,65 @@
   <programme start="20201103163000 -0600" stop="20201103170000 -0600" channel="MX | DW">
     <title lang="es">RPM</title>
   </programme>
+  <programme start="20201103170000 -0600" stop="20201103173000 -0600" channel="MX | DW">
+    <title lang="es">DW Noticias</title>
+  </programme>
   <programme start="20201103173000 -0600" stop="20201103180000 -0600" channel="MX | DW">
     <title lang="es">Fuerza latina, mujeres inspiradoras de América Latina</title>
   </programme>
-  <programme start="20201103180000 -0600" stop="20201103181500 -0600" channel="MX | DW">
+  <programme start="20201103180000 -0600" stop="20201103183000 -0600" channel="MX | DW">
     <title lang="es">DW Noticias</title>
-  </programme>
-  <programme start="20201103181500 -0600" stop="20201103183000 -0600" channel="MX | DW">
-    <title lang="es">Economía creativa</title>
   </programme>
   <programme start="20201103183000 -0600" stop="20201103190000 -0600" channel="MX | DW">
     <title lang="es">Hecho en Alemania</title>
   </programme>
-  <programme start="20201103190000 -0600" stop="20201103191500 -0600" channel="MX | DW">
+  <programme start="20201103190000 -0600" stop="20201103193000 -0600" channel="MX | DW">
     <title lang="es">DW Noticias</title>
-  </programme>
-  <programme start="20201103191500 -0600" stop="20201103193000 -0600" channel="MX | DW">
-    <title lang="es">Economía creativa</title>
   </programme>
   <programme start="20201103193000 -0600" stop="20201103200000 -0600" channel="MX | DW">
     <title lang="es">Fuerza latina, mujeres inspiradoras de América Latina</title>
   </programme>
-  <programme start="20201103200000 -0600" stop="20201103200300 -0600" channel="MX | DW">
+  <programme start="20201103200000 -0600" stop="20201103203000 -0600" channel="MX | DW">
     <title lang="es">DW Noticias</title>
   </programme>
-  <programme start="20201103200300 -0600" stop="20201103201500 -0600" channel="MX | DW">
-    <title lang="es">Patrimonio mundial</title>
+  <programme start="20201103203000 -0600" stop="20201103210000 -0600" channel="MX | DW">
+    <title lang="es">RPM</title>
   </programme>
-  <programme start="20201103201500 -0600" stop="20201103210000 -0600" channel="MX | DW">
-    <title lang="es">Negociaciones de paz - Los diarios de Oslo</title>
-  </programme>
-  <programme start="20201103210000 -0600" stop="20201103210300 -0600" channel="MX | DW">
+  <programme start="20201103210000 -0600" stop="20201103213000 -0600" channel="MX | DW">
     <title lang="es">DW Noticias</title>
-  </programme>
-  <programme start="20201103210300 -0600" stop="20201103213000 -0600" channel="MX | DW">
-    <title lang="es">Global 3000</title>
   </programme>
   <programme start="20201103213000 -0600" stop="20201103220000 -0600" channel="MX | DW">
-    <title lang="es">Enlaces: Ventana Abierta Al Mundo Digital</title>
+    <title lang="es">Enlaces</title>
   </programme>
-  <programme start="20201103220000 -0600" stop="20201103221500 -0600" channel="MX | DW">
+  <programme start="20201103220000 -0600" stop="20201103223000 -0600" channel="MX | DW">
     <title lang="es">DW Noticias</title>
-  </programme>
-  <programme start="20201103221500 -0600" stop="20201103223000 -0600" channel="MX | DW">
-    <title lang="es">Economía creativa</title>
   </programme>
   <programme start="20201103223000 -0600" stop="20201103230000 -0600" channel="MX | DW">
     <title lang="es">Hecho en Alemania</title>
   </programme>
-  <programme start="20201103230000 -0600" stop="20201103230300 -0600" channel="MX | DW">
+  <programme start="20201103230000 -0600" stop="20201103233000 -0600" channel="MX | DW">
     <title lang="es">DW Noticias</title>
   </programme>
-  <programme start="20201103230300 -0600" stop="20201103231500 -0600" channel="MX | DW">
-    <title lang="es">Patrimonio mundial</title>
-  </programme>
-  <programme start="20201103231500 -0600" stop="20201104000000 -0600" channel="MX | DW">
-    <title lang="es">El yogur, ¿fuente de juventud? - La peregrinación china a un pueblo de Bulgaria</title>
-  </programme>
-  <programme start="20201104000300 -0600" stop="20201104003000 -0600" channel="MX | DW">
+  <programme start="20201103233000 -0600" stop="20201104000000 -0600" channel="MX | DW">
     <title lang="es">En Forma</title>
+  </programme>
+  <programme start="20201104000000 -0600" stop="20201104003000 -0600" channel="MX | DW">
+    <title lang="es">DW Noticias</title>
   </programme>
   <programme start="20201104003000 -0600" stop="20201104010000 -0600" channel="MX | DW">
     <title lang="es">Primer Plano</title>
   </programme>
+  <programme start="20201104010000 -0600" stop="20201104010300 -0600" channel="MX | DW">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20201104010300 -0600" stop="20201104011500 -0600" channel="MX | DW">
+    <title lang="es">Economía creativa</title>
+  </programme>
   <programme start="20201104011500 -0600" stop="20201104020000 -0600" channel="MX | DW">
     <title lang="es">Negociaciones de paz - Los diarios de Oslo</title>
+  </programme>
+  <programme start="20201104020000 -0600" stop="20201104020300 -0600" channel="MX | DW">
+    <title lang="es">DW Noticias</title>
   </programme>
   <programme start="20201104020300 -0600" stop="20201104023000 -0600" channel="MX | DW">
     <title lang="es">Visión futuro</title>
@@ -3710,14 +4180,23 @@
   <programme start="20201104103000 -0600" stop="20201104110000 -0600" channel="MX | DW">
     <title lang="es">Primer Plano</title>
   </programme>
+  <programme start="20201104110000 -0600" stop="20201104110300 -0600" channel="MX | DW">
+    <title lang="es">DW Noticias</title>
+  </programme>
   <programme start="20201104110300 -0600" stop="20201104111500 -0600" channel="MX | DW">
     <title lang="es">Todo deporte</title>
   </programme>
   <programme start="20201104111500 -0600" stop="20201104120000 -0600" channel="MX | DW">
     <title lang="es">El yogur, ¿fuente de juventud? - La peregrinación china a un pueblo de Bulgaria</title>
   </programme>
+  <programme start="20201104120000 -0600" stop="20201104123000 -0600" channel="MX | DW">
+    <title lang="es">DW Noticias</title>
+  </programme>
   <programme start="20201104123000 -0600" stop="20201104130000 -0600" channel="MX | DW">
     <title lang="es">Visión futuro</title>
+  </programme>
+  <programme start="20201104130000 -0600" stop="20201104130300 -0600" channel="MX | DW">
+    <title lang="es">DW Noticias</title>
   </programme>
   <programme start="20201104130300 -0600" stop="20201104131500 -0600" channel="MX | DW">
     <title lang="es">Reporteros en el Mundo</title>
@@ -3725,8 +4204,14 @@
   <programme start="20201104131500 -0600" stop="20201104140000 -0600" channel="MX | DW">
     <title lang="es">Boeing - El sistema mortal</title>
   </programme>
+  <programme start="20201104140000 -0600" stop="20201104143000 -0600" channel="MX | DW">
+    <title lang="es">DW Noticias</title>
+  </programme>
   <programme start="20201104143000 -0600" stop="20201104150000 -0600" channel="MX | DW">
     <title lang="es">Fuerza latina, mujeres inspiradoras de América Latina</title>
+  </programme>
+  <programme start="20201104150000 -0600" stop="20201104150300 -0600" channel="MX | DW">
+    <title lang="es">DW Noticias</title>
   </programme>
   <programme start="20201104150300 -0600" stop="20201104151500 -0600" channel="MX | DW">
     <title lang="es">El reportero: Sobre el terreno</title>
@@ -3734,8 +4219,17 @@
   <programme start="20201104151500 -0600" stop="20201104160000 -0600" channel="MX | DW">
     <title lang="es">Un viaje de 10 dólares - La crisis del fentanilo</title>
   </programme>
+  <programme start="20201104160000 -0600" stop="20201104163000 -0600" channel="MX | DW">
+    <title lang="es">DW Noticias</title>
+  </programme>
   <programme start="20201104163000 -0600" stop="20201104170000 -0600" channel="MX | DW">
     <title lang="es">Aquí estoy</title>
+  </programme>
+  <programme start="20201104170000 -0600" stop="20201104171500 -0600" channel="MX | DW">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20201104171500 -0600" stop="20201104173000 -0600" channel="MX | DW">
+    <title lang="es">Economía creativa</title>
   </programme>
   <programme start="20201104173000 -0600" stop="20201104180000 -0600" channel="MX | DW">
     <title lang="es">Enlaces: Ventana Abierta Al Mundo Digital</title>
@@ -3743,8 +4237,17 @@
   <programme start="20201104183000 -0600" stop="20201104190000 -0600" channel="MX | DW">
     <title lang="es">Enfoque europa: Países, gentes, destinos</title>
   </programme>
+  <programme start="20201104190000 -0600" stop="20201104191500 -0600" channel="MX | DW">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20201104191500 -0600" stop="20201104193000 -0600" channel="MX | DW">
+    <title lang="es">Economía creativa</title>
+  </programme>
   <programme start="20201104193000 -0600" stop="20201104200000 -0600" channel="MX | DW">
     <title lang="es">Enlaces: Ventana Abierta Al Mundo Digital</title>
+  </programme>
+  <programme start="20201104200000 -0600" stop="20201104200300 -0600" channel="MX | DW">
+    <title lang="es">DW Noticias</title>
   </programme>
   <programme start="20201104200300 -0600" stop="20201104201500 -0600" channel="MX | DW">
     <title lang="es">Todo deporte</title>
@@ -3752,14 +4255,26 @@
   <programme start="20201104201500 -0600" stop="20201104210000 -0600" channel="MX | DW">
     <title lang="es">Un viaje de 10 dólares - La crisis del fentanilo</title>
   </programme>
+  <programme start="20201104210000 -0600" stop="20201104210300 -0600" channel="MX | DW">
+    <title lang="es">DW Noticias</title>
+  </programme>
   <programme start="20201104210300 -0600" stop="20201104213000 -0600" channel="MX | DW">
     <title lang="es">Hecho en Alemania</title>
   </programme>
   <programme start="20201104213000 -0600" stop="20201104220000 -0600" channel="MX | DW">
     <title lang="es">Primer Plano</title>
   </programme>
+  <programme start="20201104220000 -0600" stop="20201104221500 -0600" channel="MX | DW">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20201104221500 -0600" stop="20201104223000 -0600" channel="MX | DW">
+    <title lang="es">Economía creativa</title>
+  </programme>
   <programme start="20201104223000 -0600" stop="20201104230000 -0600" channel="MX | DW">
     <title lang="es">Aquí estoy</title>
+  </programme>
+  <programme start="20201104230000 -0600" stop="20201104230300 -0600" channel="MX | DW">
+    <title lang="es">DW Noticias</title>
   </programme>
   <programme start="20201104230300 -0600" stop="20201104231500 -0600" channel="MX | DW">
     <title lang="es">Patrimonio mundial</title>
@@ -4079,9 +4594,6 @@
   <programme start="20201107103000 -0600" stop="20201107110000 -0600" channel="MX | DW">
     <title lang="es">Cultura.21</title>
   </programme>
-  <programme start="20201107110000 -0600" stop="20201107110300 -0600" channel="MX | DW">
-    <title lang="es">DW Noticias</title>
-  </programme>
   <programme start="20201107110300 -0600" stop="20201107111500 -0600" channel="MX | DW">
     <title lang="es">Economía creativa</title>
   </programme>
@@ -4112,9 +4624,6 @@
   <programme start="20201107143000 -0600" stop="20201107150000 -0600" channel="MX | DW">
     <title lang="es">Euromaxx</title>
   </programme>
-  <programme start="20201107150000 -0600" stop="20201107150300 -0600" channel="MX | DW">
-    <title lang="es">DW Noticias</title>
-  </programme>
   <programme start="20201107150300 -0600" stop="20201107151500 -0600" channel="MX | DW">
     <title lang="es">Economía creativa</title>
   </programme>
@@ -4132,6 +4641,9 @@
   </programme>
   <programme start="20201107173000 -0600" stop="20201107180000 -0600" channel="MX | DW">
     <title lang="es">¡Escápate</title>
+  </programme>
+  <programme start="20201107180000 -0600" stop="20201107181500 -0600" channel="MX | DW">
+    <title lang="es">DW Noticias</title>
   </programme>
   <programme start="20201107181500 -0600" stop="20201107183000 -0600" channel="MX | DW">
     <title lang="es">La semana: En América Latina</title>
@@ -4379,8 +4891,8 @@
   <programme start="20201103020000 -0600" stop="20201103030000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
     <title lang="es">La silla roja</title>
   </programme>
-  <programme start="20201103100000 -0600" stop="20201103110000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
-    <title lang="es">Bloomberg markets balance</title>
+  <programme start="20201103110000 -0600" stop="20201103120000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
+    <title lang="es">Bloomberg markets Americas</title>
   </programme>
   <programme start="20201103230000 -0600" stop="20201104000000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
     <title lang="es">Al cierre con Leonardo</title>
@@ -4561,6 +5073,133 @@
   <programme start="20201107230000 -0600" stop="20201108000000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
     <title lang="es">Bloomberg Wall Street Week</title>
   </programme>
+  <programme start="20201108020000 -0600" stop="20201108023000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
+    <title lang="es">Hello World</title>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20201108023000 -0600" stop="20201108030000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
+    <title lang="es">The David Rubenstein Show</title>
+  </programme>
+  <programme start="20201108030000 -0600" stop="20201108033000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
+    <title lang="es">Bloomberg Big Decisions</title>
+  </programme>
+  <programme start="20201108033000 -0600" stop="20201108040000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
+    <title lang="es">Studio 1.0</title>
+  </programme>
+  <programme start="20201108040000 -0600" stop="20201108043000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
+    <title lang="es">High Flyers</title>
+  </programme>
+  <programme start="20201108043000 -0600" stop="20201108050000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
+    <title lang="es">A conversation with</title>
+  </programme>
+  <programme start="20201108050000 -0600" stop="20201108053000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
+    <title lang="es">Asean Next Generation</title>
+  </programme>
+  <programme start="20201108053000 -0600" stop="20201108060000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
+    <title lang="es">Bloomberg Front Row</title>
+  </programme>
+  <programme start="20201108060000 -0600" stop="20201108063000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
+    <title lang="es">Game Changers</title>
+  </programme>
+  <programme start="20201108063000 -0600" stop="20201108070000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
+    <title lang="es">Titans at the Table</title>
+    <episode-num system="onscreen">S5 E4</episode-num>
+  </programme>
+  <programme start="20201108070000 -0600" stop="20201108073000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
+    <title lang="es">The Mentor</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20201108073000 -0600" stop="20201108080000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
+    <title lang="es">Eye to Eye</title>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20201108080000 -0600" stop="20201108083000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
+    <title lang="es">The Mentor American</title>
+  </programme>
+  <programme start="20201108083000 -0600" stop="20201108090000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
+    <title lang="es">Titans at the Table</title>
+    <episode-num system="onscreen">S5 E3</episode-num>
+  </programme>
+  <programme start="20201108090000 -0600" stop="20201108093000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
+    <title lang="es">Bloomberg Big Decisions</title>
+  </programme>
+  <programme start="20201108093000 -0600" stop="20201108100000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
+    <title lang="es">Studio 1.0</title>
+  </programme>
+  <programme start="20201108100000 -0600" stop="20201108103000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
+    <title lang="es">High Flyers</title>
+  </programme>
+  <programme start="20201108103000 -0600" stop="20201108110000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
+    <title lang="es">A conversation with</title>
+  </programme>
+  <programme start="20201108110000 -0600" stop="20201108113000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
+    <title lang="es">Asean Next Generation</title>
+  </programme>
+  <programme start="20201108113000 -0600" stop="20201108120000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
+    <title lang="es">Bloomberg Front Row</title>
+  </programme>
+  <programme start="20201108120000 -0600" stop="20201108123000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
+    <title lang="es">Game Changers</title>
+  </programme>
+  <programme start="20201108123000 -0600" stop="20201108130000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
+    <title lang="es">Titans at the Table</title>
+    <episode-num system="onscreen">S5 E4</episode-num>
+  </programme>
+  <programme start="20201108130000 -0600" stop="20201108133000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
+    <title lang="es">The Mentor</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20201108133000 -0600" stop="20201108140000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
+    <title lang="es">Eye to Eye</title>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20201108140000 -0600" stop="20201108143000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
+    <title lang="es">The Mentor American</title>
+  </programme>
+  <programme start="20201108143000 -0600" stop="20201108150000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
+    <title lang="es">Titans at the Table</title>
+    <episode-num system="onscreen">S5 E3</episode-num>
+  </programme>
+  <programme start="20201108150000 -0600" stop="20201108153000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
+    <title lang="es">Hello World</title>
+    <episode-num system="onscreen">E9</episode-num>
+  </programme>
+  <programme start="20201108153000 -0600" stop="20201108160000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
+    <title lang="es">Good fortunes</title>
+  </programme>
+  <programme start="20201108160000 -0600" stop="20201108163000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
+    <title lang="es">Studio 1.0</title>
+  </programme>
+  <programme start="20201108163000 -0600" stop="20201108170000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
+    <title lang="es">Leaders of Lacqua</title>
+  </programme>
+  <programme start="20201108170000 -0600" stop="20201108173000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
+    <title lang="es">Studio 1.0</title>
+  </programme>
+  <programme start="20201108173000 -0600" stop="20201108180000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
+    <title lang="es">Brilliant Ideas</title>
+  </programme>
+  <programme start="20201108180000 -0600" stop="20201108190000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
+    <title lang="es">Best of bloomberg daybreak</title>
+  </programme>
+  <programme start="20201108190000 -0600" stop="20201108200000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
+    <title lang="es">Bloomberg Wall Street Week</title>
+  </programme>
+  <programme start="20201108200000 -0600" stop="20201108203000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
+    <title lang="es">Tiempo de toros</title>
+  </programme>
+  <programme start="20201108203000 -0600" stop="20201108210000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
+    <title lang="es">The David Rubenstein Show</title>
+  </programme>
+  <programme start="20201108210000 -0600" stop="20201108220000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
+    <title lang="es">La silla roja</title>
+  </programme>
+  <programme start="20201108220000 -0600" stop="20201108230000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
+    <title lang="es">Rumbo a la Casa Blanca</title>
+  </programme>
+  <programme start="20201108230000 -0600" stop="20201109000000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
+    <title lang="es">Bloomberg Wall Street Week</title>
+  </programme>
   <programme start="20201102010000 -0600" stop="20201102020000 -0600" channel="MX | Formula Noticias FHD">
     <title lang="es">Shanik en Fórmula</title>
   </programme>
@@ -4723,14 +5362,77 @@
   <programme start="20201105010000 -0600" stop="20201105020000 -0600" channel="MX | Formula Noticias FHD">
     <title lang="es">Blitz</title>
   </programme>
+  <programme start="20201105020000 -0600" stop="20201105030000 -0600" channel="MX | Formula Noticias FHD">
+    <title lang="es">En el Estudio de Eduardo</title>
+  </programme>
+  <programme start="20201105030000 -0600" stop="20201105040000 -0600" channel="MX | Formula Noticias FHD">
+    <title lang="es">Javier Poza en Fórmula</title>
+  </programme>
+  <programme start="20201105050000 -0600" stop="20201105060000 -0600" channel="MX | Formula Noticias FHD">
+    <title lang="es">Javier Poza en Fórmula</title>
+  </programme>
+  <programme start="20201105060000 -0600" stop="20201105070000 -0600" channel="MX | Formula Noticias FHD">
+    <title lang="es">Shanik en Fórmula</title>
+  </programme>
+  <programme start="20201105070000 -0600" stop="20201105100000 -0600" channel="MX | Formula Noticias FHD">
+    <title lang="es">Fórmula Noticias con Jaime N</title>
+  </programme>
+  <programme start="20201105100000 -0600" stop="20201105103000 -0600" channel="MX | Formula Noticias FHD">
+    <title lang="es">Cambiando Mentes</title>
+  </programme>
+  <programme start="20201105103000 -0600" stop="20201105110000 -0600" channel="MX | Formula Noticias FHD">
+    <title lang="es">Hoy Cambia tu Vida</title>
+  </programme>
+  <programme start="20201105110000 -0600" stop="20201105120000 -0600" channel="MX | Formula Noticias FHD">
+    <title lang="es">Blitz</title>
+  </programme>
+  <programme start="20201105120000 -0600" stop="20201105130000 -0600" channel="MX | Formula Noticias FHD">
+    <title lang="es">Janett Arceo la mujer actual</title>
+  </programme>
+  <programme start="20201105130000 -0600" stop="20201105140000 -0600" channel="MX | Formula Noticias FHD">
+    <title lang="es">Road TV</title>
+  </programme>
+  <programme start="20201105140000 -0600" stop="20201105150000 -0600" channel="MX | Formula Noticias FHD">
+    <title lang="es">Formula Noticias</title>
+  </programme>
+  <programme start="20201105150000 -0600" stop="20201105153000 -0600" channel="MX | Formula Noticias FHD">
+    <title lang="es">Estrategia de Negocios</title>
+  </programme>
+  <programme start="20201105153000 -0600" stop="20201105160000 -0600" channel="MX | Formula Noticias FHD">
+    <title lang="es">Cambiando Mentes</title>
+  </programme>
+  <programme start="20201105160000 -0600" stop="20201105170000 -0600" channel="MX | Formula Noticias FHD">
+    <title lang="es">Fórmula Dominical Flor Rubio</title>
+  </programme>
+  <programme start="20201105170000 -0600" stop="20201105180000 -0600" channel="MX | Formula Noticias FHD">
+    <title lang="es">Perfecta-Mente</title>
+  </programme>
+  <programme start="20201105180000 -0600" stop="20201105190000 -0600" channel="MX | Formula Noticias FHD">
+    <title lang="es">Formula Noticias</title>
+  </programme>
+  <programme start="20201105190000 -0600" stop="20201105200000 -0600" channel="MX | Formula Noticias FHD">
+    <title lang="es">Javier Poza en Fórmula</title>
+  </programme>
+  <programme start="20201105200000 -0600" stop="20201105210000 -0600" channel="MX | Formula Noticias FHD">
+    <title lang="es">La Fórmula es...Domingo</title>
+  </programme>
+  <programme start="20201105210000 -0600" stop="20201105220000 -0600" channel="MX | Formula Noticias FHD">
+    <title lang="es">Piano de cola</title>
+  </programme>
+  <programme start="20201105220000 -0600" stop="20201105230000 -0600" channel="MX | Formula Noticias FHD">
+    <title lang="es">Todo para la Mujer con Maxine</title>
+  </programme>
+  <programme start="20201105230000 -0600" stop="20201106000000 -0600" channel="MX | Formula Noticias FHD">
+    <title lang="es">Fórmula Notas</title>
+  </programme>
   <programme start="20201102010000 -0600" stop="20201102030000 -0600" channel="MX | Foro TV FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201102030000 -0600" stop="20201102050000 -0600" channel="MX | Foro TV FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201102050000 -0600" stop="20201102060000 -0600" channel="MX | Foro TV FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201102060000 -0600" stop="20201102070000 -0600" channel="MX | Foro TV FHD">
     <title lang="es">Las noticias</title>
@@ -4837,8 +5539,8 @@
   <programme start="20201104033000 -0600" stop="20201104060000 -0600" channel="MX | Foro TV FHD">
     <title lang="es">Paid Programing</title>
   </programme>
-  <programme start="20201104080000 -0600" stop="20201104110000 -0600" channel="MX | Foro TV FHD">
-    <title lang="es">Expreso de la Mañana</title>
+  <programme start="20201104110000 -0600" stop="20201104120000 -0600" channel="MX | Foro TV FHD">
+    <title lang="es">Por las mañanas</title>
   </programme>
   <programme start="20201104180000 -0600" stop="20201104200000 -0600" channel="MX | Foro TV FHD">
     <title lang="es">Las noticias</title>
@@ -4929,6 +5631,36 @@
   </programme>
   <programme start="20201106013000 -0600" stop="20201106020000 -0600" channel="MX | Foro TV FHD">
     <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20201106080000 -0600" stop="20201106110000 -0600" channel="MX | Foro TV FHD">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20201106110000 -0600" stop="20201106120000 -0600" channel="MX | Foro TV FHD">
+    <title lang="es">Agenda Pública</title>
+  </programme>
+  <programme start="20201106120000 -0600" stop="20201106130000 -0600" channel="MX | Foro TV FHD">
+    <title lang="es">Clío TV</title>
+  </programme>
+  <programme start="20201106150000 -0600" stop="20201106153000 -0600" channel="MX | Foro TV FHD">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20201106153000 -0600" stop="20201106160000 -0600" channel="MX | Foro TV FHD">
+    <title lang="es">Cuide su Salud</title>
+  </programme>
+  <programme start="20201106160000 -0600" stop="20201106173000 -0600" channel="MX | Foro TV FHD">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20201106190000 -0600" stop="20201106200000 -0600" channel="MX | Foro TV FHD">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20201106200000 -0600" stop="20201106210000 -0600" channel="MX | Foro TV FHD">
+    <title lang="es">Alebrijes, Águila o Sol</title>
+  </programme>
+  <programme start="20201106210000 -0600" stop="20201106230000 -0600" channel="MX | Foro TV FHD">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20201106230000 -0600" stop="20201107000000 -0600" channel="MX | Foro TV FHD">
+    <title lang="es">Sin Filtro</title>
   </programme>
   <programme start="20201102003000 -0600" stop="20201102010000 -0600" channel="MX | HLN FHD">
     <title lang="es">Forensic Files</title>
@@ -5557,6 +6289,72 @@
   <programme start="20201108050000 -0600" stop="20201108060000 -0600" channel="MX | HLN FHD">
     <title lang="es">Real Life Nightmare</title>
   </programme>
+  <programme start="20201108110000 -0600" stop="20201108120000 -0600" channel="MX | HLN FHD">
+    <title lang="es">Real Life Nightmare</title>
+  </programme>
+  <programme start="20201108120000 -0600" stop="20201108130000 -0600" channel="MX | HLN FHD">
+    <title lang="es">Real Life Nightmare</title>
+  </programme>
+  <programme start="20201108130000 -0600" stop="20201108140000 -0600" channel="MX | HLN FHD">
+    <title lang="es">Real Life Nightmare</title>
+  </programme>
+  <programme start="20201108140000 -0600" stop="20201108143000 -0600" channel="MX | HLN FHD">
+    <title lang="es">Forensic Files</title>
+  </programme>
+  <programme start="20201108143000 -0600" stop="20201108150000 -0600" channel="MX | HLN FHD">
+    <title lang="es">Forensic Files</title>
+  </programme>
+  <programme start="20201108150000 -0600" stop="20201108153000 -0600" channel="MX | HLN FHD">
+    <title lang="es">Forensic Files</title>
+  </programme>
+  <programme start="20201108153000 -0600" stop="20201108160000 -0600" channel="MX | HLN FHD">
+    <title lang="es">Forensic Files</title>
+  </programme>
+  <programme start="20201108160000 -0600" stop="20201108163000 -0600" channel="MX | HLN FHD">
+    <title lang="es">Forensic Files</title>
+  </programme>
+  <programme start="20201108163000 -0600" stop="20201108170000 -0600" channel="MX | HLN FHD">
+    <title lang="es">Forensic Files</title>
+  </programme>
+  <programme start="20201108170000 -0600" stop="20201108173000 -0600" channel="MX | HLN FHD">
+    <title lang="es">Forensic Files</title>
+  </programme>
+  <programme start="20201108173000 -0600" stop="20201108180000 -0600" channel="MX | HLN FHD">
+    <title lang="es">Forensic Files</title>
+  </programme>
+  <programme start="20201108180000 -0600" stop="20201108183000 -0600" channel="MX | HLN FHD">
+    <title lang="es">Forensic Files</title>
+  </programme>
+  <programme start="20201108183000 -0600" stop="20201108190000 -0600" channel="MX | HLN FHD">
+    <title lang="es">Forensic Files</title>
+  </programme>
+  <programme start="20201108190000 -0600" stop="20201108193000 -0600" channel="MX | HLN FHD">
+    <title lang="es">Forensic Files</title>
+  </programme>
+  <programme start="20201108193000 -0600" stop="20201108200000 -0600" channel="MX | HLN FHD">
+    <title lang="es">Forensic Files</title>
+  </programme>
+  <programme start="20201108200000 -0600" stop="20201108203000 -0600" channel="MX | HLN FHD">
+    <title lang="es">Forensic Files</title>
+  </programme>
+  <programme start="20201108203000 -0600" stop="20201108210000 -0600" channel="MX | HLN FHD">
+    <title lang="es">Forensic Files</title>
+  </programme>
+  <programme start="20201108210000 -0600" stop="20201108220000 -0600" channel="MX | HLN FHD">
+    <title lang="es">Real Life Nightmare</title>
+  </programme>
+  <programme start="20201108220000 -0600" stop="20201108223000 -0600" channel="MX | HLN FHD">
+    <title lang="es">Forensic Files</title>
+  </programme>
+  <programme start="20201108223000 -0600" stop="20201108230000 -0600" channel="MX | HLN FHD">
+    <title lang="es">Forensic Files</title>
+  </programme>
+  <programme start="20201108230000 -0600" stop="20201108233000 -0600" channel="MX | HLN FHD">
+    <title lang="es">Forensic Files</title>
+  </programme>
+  <programme start="20201108233000 -0600" stop="20201109000000 -0600" channel="MX | HLN FHD">
+    <title lang="es">Forensic Files</title>
+  </programme>
   <programme start="20201102010000 -0600" stop="20201102030000 -0600" channel="MX | Mexiquence TV FHD">
     <title lang="es">TV Mexiquense</title>
   </programme>
@@ -5710,8 +6508,8 @@
   <programme start="20201105043000 -0600" stop="20201105060000 -0600" channel="MX | Mexiquence TV FHD">
     <title lang="es">TV Mexiquense</title>
   </programme>
-  <programme start="20201105103000 -0600" stop="20201105110000 -0600" channel="MX | Mexiquence TV FHD">
-    <title lang="es">Bionatura</title>
+  <programme start="20201105110000 -0600" stop="20201105130000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Pelicula del Cine Mexicano</title>
   </programme>
   <programme start="20201105170000 -0600" stop="20201105180000 -0600" channel="MX | Mexiquence TV FHD">
     <title lang="es">Las Pasantes</title>
@@ -5833,6 +6631,48 @@
   <programme start="20201108010000 -0600" stop="20201108033000 -0600" channel="MX | Mexiquence TV FHD">
     <title lang="es">TV Mexiquense</title>
   </programme>
+  <programme start="20201108033000 -0600" stop="20201108053000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">TV Mexiquense</title>
+  </programme>
+  <programme start="20201108053000 -0600" stop="20201108060000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">TV Mexiquense</title>
+  </programme>
+  <programme start="20201108061500 -0600" stop="20201108063000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Todo deporte</title>
+  </programme>
+  <programme start="20201108063000 -0600" stop="20201108070000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Trotamundos</title>
+  </programme>
+  <programme start="20201108070000 -0600" stop="20201108073000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">La conquista del espacio</title>
+  </programme>
+  <programme start="20201108080000 -0600" stop="20201108083000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">La mesa amarilla</title>
+  </programme>
+  <programme start="20201108083000 -0600" stop="20201108090000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Pequeñas aventuras</title>
+  </programme>
+  <programme start="20201108090000 -0600" stop="20201108100000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Hacienda Santa Anita</title>
+  </programme>
+  <programme start="20201108100000 -0600" stop="20201108110000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Ver y creer</title>
+  </programme>
+  <programme start="20201108120000 -0600" stop="20201108130000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Especial Rocío Durcal</title>
+  </programme>
+  <programme start="20201108130000 -0600" stop="20201108140000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Documental Toña la Negra</title>
+  </programme>
+  <programme start="20201108140000 -0600" stop="20201108160000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Su casa EDOMEX</title>
+  </programme>
+  <programme start="20201108160000 -0600" stop="20201108170000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Cinescape Repetición</title>
+  </programme>
+  <programme start="20201108170000 -0600" stop="20201108180000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Experiencia EdoMex</title>
+  </programme>
   <programme start="20201102020000 -0600" stop="20201102040000 -0600" channel="MX | Milenio TV FHD">
     <title lang="es">Inova</title>
   </programme>
@@ -5914,9 +6754,6 @@
   <programme start="20201103010000 -0600" stop="20201103050000 -0600" channel="MX | Milenio TV FHD">
     <title lang="es">Inova</title>
   </programme>
-  <programme start="20201103100000 -0600" stop="20201103104500 -0600" channel="MX | Milenio TV FHD">
-    <title lang="es">Milenio noticias</title>
-  </programme>
   <programme start="20201103104500 -0600" stop="20201103110000 -0600" channel="MX | Milenio TV FHD">
     <title lang="es">Tragaluz</title>
   </programme>
@@ -5989,6 +6826,9 @@
   <programme start="20201106104500 -0600" stop="20201106110000 -0600" channel="MX | Milenio TV FHD">
     <title lang="es">Susana y Álvaro en Milenio</title>
   </programme>
+  <programme start="20201106110000 -0600" stop="20201106114500 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Milenio noticias</title>
+  </programme>
   <programme start="20201106213000 -0600" stop="20201106214500 -0600" channel="MX | Milenio TV FHD">
     <title lang="es">En 15 con Carlos Puig</title>
   </programme>
@@ -6055,26 +6895,71 @@
   <programme start="20201107234500 -0600" stop="20201108000000 -0600" channel="MX | Milenio TV FHD">
     <title lang="es">El Arte de la Canción</title>
   </programme>
+  <programme start="20201108054500 -0600" stop="20201108060000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">M2 con Susana Moscatel</title>
+  </programme>
+  <programme start="20201108064500 -0600" stop="20201108070000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">En 15 con Carlos Puig</title>
+  </programme>
+  <programme start="20201108104500 -0600" stop="20201108110000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Susana y Álvaro en Milenio</title>
+  </programme>
+  <programme start="20201108124500 -0600" stop="20201108130000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">El Arte de la Canción</title>
+  </programme>
+  <programme start="20201108180000 -0600" stop="20201108184500 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Milenio noticias</title>
+  </programme>
+  <programme start="20201108184500 -0600" stop="20201108190000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Milenio Negocios</title>
+  </programme>
+  <programme start="20201108190000 -0600" stop="20201108193000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Milenio noticias</title>
+  </programme>
+  <programme start="20201108193000 -0600" stop="20201108194500 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Tragaluz</title>
+  </programme>
+  <programme start="20201108194500 -0600" stop="20201108200000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">En 15 con Carlos Puig</title>
+  </programme>
+  <programme start="20201108200000 -0600" stop="20201108204500 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Milenio noticias</title>
+  </programme>
+  <programme start="20201108204500 -0600" stop="20201108210000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Milenio Mercados Perspectiva</title>
+  </programme>
+  <programme start="20201108210000 -0600" stop="20201108214500 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Milenio noticias</title>
+  </programme>
+  <programme start="20201108214500 -0600" stop="20201108220000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">La afición</title>
+  </programme>
+  <programme start="20201108220000 -0600" stop="20201108230000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Milenio noticias</title>
+  </programme>
+  <programme start="20201108230000 -0600" stop="20201108234500 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Milenio noticias</title>
+  </programme>
   <programme start="20201102020000 -0600" stop="20201102023000 -0600" channel="MX | Multimedios Plus FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201102023000 -0600" stop="20201102030000 -0600" channel="MX | Multimedios Plus FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201102030000 -0600" stop="20201102033000 -0600" channel="MX | Multimedios Plus FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201102033000 -0600" stop="20201102040000 -0600" channel="MX | Multimedios Plus FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201102040000 -0600" stop="20201102050000 -0600" channel="MX | Multimedios Plus FHD">
     <title lang="es">Lo mejor de Las Aparicio</title>
   </programme>
   <programme start="20201102050000 -0600" stop="20201102053000 -0600" channel="MX | Multimedios Plus FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201102053000 -0600" stop="20201102060000 -0600" channel="MX | Multimedios Plus FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201102060000 -0600" stop="20201102100000 -0600" channel="MX | Multimedios Plus FHD">
     <title lang="es">Telediario Matutino CDMX</title>
@@ -6119,25 +7004,25 @@
     <title lang="es">El Chiringuito</title>
   </programme>
   <programme start="20201103020000 -0600" stop="20201103023000 -0600" channel="MX | Multimedios Plus FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201103023000 -0600" stop="20201103030000 -0600" channel="MX | Multimedios Plus FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201103030000 -0600" stop="20201103033000 -0600" channel="MX | Multimedios Plus FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201103033000 -0600" stop="20201103040000 -0600" channel="MX | Multimedios Plus FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201103040000 -0600" stop="20201103050000 -0600" channel="MX | Multimedios Plus FHD">
     <title lang="es">El Chismorreo Repetición</title>
   </programme>
   <programme start="20201103050000 -0600" stop="20201103053000 -0600" channel="MX | Multimedios Plus FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201103053000 -0600" stop="20201103060000 -0600" channel="MX | Multimedios Plus FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201103060000 -0600" stop="20201103100000 -0600" channel="MX | Multimedios Plus FHD">
     <title lang="es">Telediario Matutino CDMX</title>
@@ -6187,41 +7072,26 @@
   <programme start="20201106000000 -0600" stop="20201106010000 -0600" channel="MX | Multimedios Plus FHD">
     <title lang="es">SNSerio</title>
   </programme>
-  <programme start="20201106170000 -0600" stop="20201106183000 -0600" channel="MX | Multimedios Plus FHD">
-    <title lang="es">La Bola del 6</title>
-  </programme>
-  <programme start="20201106183000 -0600" stop="20201106190000 -0600" channel="MX | Multimedios Plus FHD">
-    <title lang="es">Cerca de Ti CDMX</title>
-  </programme>
-  <programme start="20201106200000 -0600" stop="20201106213000 -0600" channel="MX | Multimedios Plus FHD">
-    <title lang="es">Telediario Nocturno Monterrey</title>
-  </programme>
-  <programme start="20201106213000 -0600" stop="20201106220000 -0600" channel="MX | Multimedios Plus FHD">
-    <title lang="es">Multimedios Deportes</title>
-  </programme>
-  <programme start="20201106220000 -0600" stop="20201106230000 -0600" channel="MX | Multimedios Plus FHD">
+  <programme start="20201106223000 -0600" stop="20201106233000 -0600" channel="MX | Multimedios Plus FHD">
     <title lang="es">Adivigana</title>
   </programme>
-  <programme start="20201106230000 -0600" stop="20201107000000 -0600" channel="MX | Multimedios Plus FHD">
+  <programme start="20201106233000 -0600" stop="20201107000000 -0600" channel="MX | Multimedios Plus FHD">
     <title lang="es">Es Show, el musical</title>
   </programme>
-  <programme start="20201107000000 -0600" stop="20201107013000 -0600" channel="MX | Multimedios Plus FHD">
+  <programme start="20201107000000 -0600" stop="20201107010000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Es Show, el musical</title>
+  </programme>
+  <programme start="20201107010000 -0600" stop="20201107020000 -0600" channel="MX | Multimedios Plus FHD">
     <title lang="es">Buenas Noches Don Fematt</title>
   </programme>
-  <programme start="20201107013000 -0600" stop="20201107020000 -0600" channel="MX | Multimedios Plus FHD">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20201107030000 -0600" stop="20201107040000 -0600" channel="MX | Multimedios Plus FHD">
-    <title lang="es">Resumen La Bola del 6</title>
-  </programme>
-  <programme start="20201107040000 -0600" stop="20201107050000 -0600" channel="MX | Multimedios Plus FHD">
-    <title lang="es">Resumen El Chismorreo</title>
-  </programme>
   <programme start="20201107060000 -0600" stop="20201107070000 -0600" channel="MX | Multimedios Plus FHD">
-    <title lang="es">TD Nocturno CDMX</title>
+    <title lang="es">Adivigana Repetición</title>
   </programme>
   <programme start="20201107070000 -0600" stop="20201107100000 -0600" channel="MX | Multimedios Plus FHD">
     <title lang="es">Telediario Matutino CDMX</title>
+  </programme>
+  <programme start="20201107100000 -0600" stop="20201107120000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Vivalavi</title>
   </programme>
   <programme start="20201107120000 -0600" stop="20201107140000 -0600" channel="MX | Multimedios Plus FHD">
     <title lang="es">Telediario vespertino CDMX</title>
@@ -6233,36 +7103,64 @@
     <title lang="es">Conferencia de Prensa N.L</title>
   </programme>
   <programme start="20201107160000 -0600" stop="20201107170000 -0600" channel="MX | Multimedios Plus FHD">
-    <title lang="es">Homenaje a Ramón Valdés</title>
+    <title lang="es">Homenaje a J. Alfredo Jiménez</title>
   </programme>
-  <programme start="20201107170000 -0600" stop="20201107190000 -0600" channel="MX | Multimedios Plus FHD">
-    <title lang="es">Los Payasónicos</title>
+  <programme start="20201107170000 -0600" stop="20201107180000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">El Rebote de la Bola del 6</title>
+  </programme>
+  <programme start="20201107180000 -0600" stop="20201107190000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Adivigana Repetición</title>
   </programme>
   <programme start="20201107190000 -0600" stop="20201107210000 -0600" channel="MX | Multimedios Plus FHD">
     <title lang="es">Telediario Nocturno CDMX</title>
   </programme>
   <programme start="20201107210000 -0600" stop="20201107220000 -0600" channel="MX | Multimedios Plus FHD">
-    <title lang="es">MD MTY</title>
+    <title lang="es">Dame Dembow</title>
   </programme>
   <programme start="20201107220000 -0600" stop="20201108000000 -0600" channel="MX | Multimedios Plus FHD">
-    <title lang="es">Manchester City vs. Real Madrid</title>
-    <desc lang="es">El Manchester City FC de Inglaterra recibe al Real Madrid CF de España el Etihad Stadium en la ciudad de Mánchester, Inglaterra.</desc>
-    <category lang="es">Fútbol</category>
-    <category lang="es">Fútbol Europeo</category>
-    <category lang="es">UEFA</category>
-    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/manchester_city_vs_real_madrid.png" />
+    <title lang="es">Desvelados</title>
   </programme>
-  <programme start="20201108000000 -0600" stop="20201108010000 -0600" channel="MX | Multimedios Plus FHD">
-    <title lang="es">El Chiringuito</title>
+  <programme start="20201108000000 -0600" stop="20201108020000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Desvelados</title>
   </programme>
-  <programme start="20201108010000 -0600" stop="20201108013000 -0600" channel="MX | Multimedios Plus FHD">
-    <title lang="es">Resumen El Chismorreo</title>
+  <programme start="20201108040000 -0600" stop="20201108050000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Es Show, el musical</title>
   </programme>
-  <programme start="20201108013000 -0600" stop="20201108020000 -0600" channel="MX | Multimedios Plus FHD">
-    <title lang="es">Infomerciales</title>
+  <programme start="20201108060000 -0600" stop="20201108070000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Alerta</title>
+  </programme>
+  <programme start="20201108070000 -0600" stop="20201108100000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Telediario Matutino CDMX</title>
+  </programme>
+  <programme start="20201108100000 -0600" stop="20201108110000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Mundo Fit</title>
+  </programme>
+  <programme start="20201108110000 -0600" stop="20201108130000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Manchester City vs. Olympiacos</title>
+  </programme>
+  <programme start="20201108130000 -0600" stop="20201108140000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Aficionados</title>
+  </programme>
+  <programme start="20201108140000 -0600" stop="20201108160000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Lucha libre AAA</title>
+  </programme>
+  <programme start="20201108160000 -0600" stop="20201108173000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Lo mejor de Las Aparicio</title>
+  </programme>
+  <programme start="20201108173000 -0600" stop="20201108183000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Homenaje a J. Alfredo Jiménez</title>
+  </programme>
+  <programme start="20201108183000 -0600" stop="20201108210000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Telediario Nocturno CDMX</title>
+  </programme>
+  <programme start="20201108210000 -0600" stop="20201108220000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">MD Express</title>
+  </programme>
+  <programme start="20201108220000 -0600" stop="20201109000000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Adrián Marcelo presenta</title>
   </programme>
   <programme start="20201102010000 -0600" stop="20201102020000 -0600" channel="MX | NU9VE TV FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201102020000 -0600" stop="20201102040000 -0600" channel="MX | NU9VE TV FHD">
     <title lang="es">Lo mejor de Aqui y Ahora</title>
@@ -6277,13 +7175,13 @@
     <title lang="es">Iglesia de Dios Internacional</title>
   </programme>
   <programme start="20201102060000 -0600" stop="20201102090000 -0600" channel="MX | NU9VE TV FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201102090000 -0600" stop="20201102120000 -0600" channel="MX | NU9VE TV FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201102120000 -0600" stop="20201102150000 -0600" channel="MX | NU9VE TV FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201102150000 -0600" stop="20201102160000 -0600" channel="MX | NU9VE TV FHD">
     <title lang="es">Jesus</title>
@@ -6355,16 +7253,16 @@
     <title lang="es">El final del paraíso</title>
   </programme>
   <programme start="20201104060000 -0600" stop="20201104080000 -0600" channel="MX | NU9VE TV FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201104080000 -0600" stop="20201104100000 -0600" channel="MX | NU9VE TV FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201104100000 -0600" stop="20201104110000 -0600" channel="MX | NU9VE TV FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201104110000 -0600" stop="20201104150000 -0600" channel="MX | NU9VE TV FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201104150000 -0600" stop="20201104160000 -0600" channel="MX | NU9VE TV FHD">
     <title lang="es">Jesus</title>
@@ -6385,7 +7283,7 @@
     <title lang="es">El final del paraíso</title>
   </programme>
   <programme start="20201105000000 -0600" stop="20201105010000 -0600" channel="MX | NU9VE TV FHD">
-    <title lang="es">Preso no.1</title>
+    <title lang="es">Preso No. 1</title>
   </programme>
   <programme start="20201105100000 -0600" stop="20201105110000 -0600" channel="MX | NU9VE TV FHD">
     <title lang="es">Paid Programing</title>
@@ -6406,16 +7304,16 @@
     <title lang="es">Paid Programing</title>
   </programme>
   <programme start="20201107053000 -0600" stop="20201107083000 -0600" channel="MX | NU9VE TV FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201107083000 -0600" stop="20201107103000 -0600" channel="MX | NU9VE TV FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201107103000 -0600" stop="20201107123000 -0600" channel="MX | NU9VE TV FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201107123000 -0600" stop="20201107133000 -0600" channel="MX | NU9VE TV FHD">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201107133000 -0600" stop="20201107143000 -0600" channel="MX | NU9VE TV FHD">
     <title lang="es">Reventon musical</title>
@@ -6446,6 +7344,39 @@
   </programme>
   <programme start="20201108010000 -0600" stop="20201108030000 -0600" channel="MX | NU9VE TV FHD">
     <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20201108030000 -0600" stop="20201108040000 -0600" channel="MX | NU9VE TV FHD">
+    <title lang="es">Lo mejor de Aqui y Ahora</title>
+  </programme>
+  <programme start="20201108040000 -0600" stop="20201108043000 -0600" channel="MX | NU9VE TV FHD">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20201108043000 -0600" stop="20201108053000 -0600" channel="MX | NU9VE TV FHD">
+    <title lang="es">Veredicto Final</title>
+  </programme>
+  <programme start="20201108053000 -0600" stop="20201108083000 -0600" channel="MX | NU9VE TV FHD">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201108083000 -0600" stop="20201108113000 -0600" channel="MX | NU9VE TV FHD">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201108113000 -0600" stop="20201108114500 -0600" channel="MX | NU9VE TV FHD">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201108114500 -0600" stop="20201108151500 -0600" channel="MX | NU9VE TV FHD">
+    <title lang="es">Blitz NFL</title>
+  </programme>
+  <programme start="20201108151500 -0600" stop="20201108183000 -0600" channel="MX | NU9VE TV FHD">
+    <title lang="es">NFL</title>
+  </programme>
+  <programme start="20201108183000 -0600" stop="20201108200000 -0600" channel="MX | NU9VE TV FHD">
+    <title lang="es">La Escuelita V.I.P</title>
+  </programme>
+  <programme start="20201108200000 -0600" stop="20201108220000 -0600" channel="MX | NU9VE TV FHD">
+    <title lang="es">El hijo de Pedro Navaja</title>
+  </programme>
+  <programme start="20201108220000 -0600" stop="20201109000000 -0600" channel="MX | NU9VE TV FHD">
+    <title lang="es">El hijo de Pedro Navaja</title>
   </programme>
   <programme start="20201102003000 -0600" stop="20201102020000 -0600" channel="MX | Once FHD">
     <title lang="es">Diario de Viaje Canadá</title>
@@ -6646,9 +7577,6 @@
   <programme start="20201104053000 -0600" stop="20201104060700 -0600" channel="MX | Once FHD">
     <title lang="es">Actívate</title>
     <episode-num system="onscreen">E26</episode-num>
-  </programme>
-  <programme start="20201104090300 -0600" stop="20201104113000 -0600" channel="MX | Once FHD">
-    <title lang="es">Diálogos En Confianza</title>
   </programme>
   <programme start="20201104113000 -0600" stop="20201104130300 -0600" channel="MX | Once FHD">
     <title lang="es">En la hacienda de la flor</title>
@@ -6966,6 +7894,99 @@
   <programme start="20201108013000 -0600" stop="20201108020000 -0600" channel="MX | Once FHD">
     <title lang="es">Lugares Secretos</title>
   </programme>
+  <programme start="20201108020000 -0600" stop="20201108023000 -0600" channel="MX | Once FHD">
+    <title lang="es">Expedientes Médicos</title>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20201108023000 -0600" stop="20201108030000 -0600" channel="MX | Once FHD">
+    <title lang="es">Aquí nos tocó vivir</title>
+  </programme>
+  <programme start="20201108030000 -0600" stop="20201108060700 -0600" channel="MX | Once FHD">
+    <title lang="es">Aprender a Envejecer</title>
+  </programme>
+  <programme start="20201108060700 -0600" stop="20201108063000 -0600" channel="MX | Once FHD">
+    <title lang="es">Actívate</title>
+    <episode-num system="onscreen">E27</episode-num>
+  </programme>
+  <programme start="20201108063000 -0600" stop="20201108064500 -0600" channel="MX | Once FHD">
+    <title lang="es">Lunnis de Leyenda</title>
+  </programme>
+  <programme start="20201108064500 -0600" stop="20201108070000 -0600" channel="MX | Once FHD">
+    <title lang="es">Los ejercicios salvajes</title>
+  </programme>
+  <programme start="20201108070000 -0600" stop="20201108071500 -0600" channel="MX | Once FHD">
+    <title lang="es">Aprende Inglés con Timmy</title>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20201108071500 -0600" stop="20201108073000 -0600" channel="MX | Once FHD">
+    <title lang="es">Los Cuentos de Yetili</title>
+    <episode-num system="onscreen">E63</episode-num>
+  </programme>
+  <programme start="20201108073000 -0600" stop="20201108074500 -0600" channel="MX | Once FHD">
+    <title lang="es">Pingu en la ciudad</title>
+  </programme>
+  <programme start="20201108074500 -0600" stop="20201108080000 -0600" channel="MX | Once FHD">
+    <title lang="es">Duda y Dada</title>
+  </programme>
+  <programme start="20201108080000 -0600" stop="20201108081500 -0600" channel="MX | Once FHD">
+    <title lang="es">La Familia de Bo y To</title>
+  </programme>
+  <programme start="20201108081500 -0600" stop="20201108083000 -0600" channel="MX | Once FHD">
+    <title lang="es">Mirette Investiga</title>
+    <episode-num system="onscreen">E18</episode-num>
+  </programme>
+  <programme start="20201108083000 -0600" stop="20201108084500 -0600" channel="MX | Once FHD">
+    <title lang="es">Martín Matín</title>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20201108084500 -0600" stop="20201108090000 -0600" channel="MX | Once FHD">
+    <title lang="es">Mis Vecinos Piratas</title>
+    <episode-num system="onscreen">E29</episode-num>
+  </programme>
+  <programme start="20201108090000 -0600" stop="20201108091500 -0600" channel="MX | Once FHD">
+    <title lang="es">Puerto papel</title>
+    <episode-num system="onscreen">E11</episode-num>
+  </programme>
+  <programme start="20201108091500 -0600" stop="20201108093000 -0600" channel="MX | Once FHD">
+    <title lang="es">Un Día en Once Niños</title>
+  </programme>
+  <programme start="20201108093000 -0600" stop="20201108100000 -0600" channel="MX | Once FHD">
+    <title lang="es">Alisa sabe que hacer</title>
+    <episode-num system="onscreen">E11</episode-num>
+  </programme>
+  <programme start="20201108100000 -0600" stop="20201108103000 -0600" channel="MX | Once FHD">
+    <title lang="es">Las Aventuras de Julio Verne</title>
+  </programme>
+  <programme start="20201108103000 -0600" stop="20201108110000 -0600" channel="MX | Once FHD">
+    <title lang="es">¡Ven a ver mi Mundo</title>
+  </programme>
+  <programme start="20201108110000 -0600" stop="20201108140000 -0600" channel="MX | Once FHD">
+    <title lang="es">Aprender a Envejecer</title>
+  </programme>
+  <programme start="20201108140000 -0600" stop="20201108143000 -0600" channel="MX | Once FHD">
+    <title lang="es">Guinda y Blanco</title>
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20201108143000 -0600" stop="20201108150000 -0600" channel="MX | Once FHD">
+    <title lang="es">Viajar Para Contar</title>
+  </programme>
+  <programme start="20201108150000 -0600" stop="20201108153000 -0600" channel="MX | Once FHD">
+    <title lang="es">Watch En Busca de la Verdad</title>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20201108153000 -0600" stop="20201108160000 -0600" channel="MX | Once FHD">
+    <title lang="es">Aquí nos tocó vivir</title>
+  </programme>
+  <programme start="20201108160000 -0600" stop="20201108163000 -0600" channel="MX | Once FHD">
+    <title lang="es">La ruta del sabor</title>
+  </programme>
+  <programme start="20201108163000 -0600" stop="20201108170000 -0600" channel="MX | Once FHD">
+    <title lang="es">El Libro Rojo, Especies A</title>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20201108170000 -0600" stop="20201108184000 -0600" channel="MX | Once FHD">
+    <title lang="es">La Reina del Mambo</title>
+  </programme>
   <programme start="20201102003000 -0600" stop="20201102010000 -0600" channel="MX | TVC FHD">
     <title lang="es">Televenta</title>
   </programme>
@@ -7083,7 +8104,7 @@
   <programme start="20201103070000 -0600" stop="20201103075800 -0600" channel="MX | TVC FHD">
     <title lang="es">Meganoticias TVC con Francisco Ramírez</title>
   </programme>
-  <programme start="20201103103000 -0600" stop="20201103110000 -0600" channel="MX | TVC FHD">
+  <programme start="20201103113000 -0600" stop="20201103115800 -0600" channel="MX | TVC FHD">
     <title lang="es">Televenta</title>
   </programme>
   <programme start="20201103125800 -0600" stop="20201103135800 -0600" channel="MX | TVC FHD">
@@ -7461,8 +8482,8 @@
   <programme start="20201103090000 -0600" stop="20201103100000 -0600" channel="MX | AZ Click">
     <title lang="es">Dos de viaje</title>
   </programme>
-  <programme start="20201103100000 -0600" stop="20201103110000 -0600" channel="MX | AZ Click">
-    <title lang="es">Mis doctores</title>
+  <programme start="20201103110000 -0600" stop="20201103130000 -0600" channel="MX | AZ Click">
+    <title lang="es">Será Anunciado</title>
   </programme>
   <programme start="20201103153000 -0600" stop="20201103160000 -0600" channel="MX | AZ Click">
     <title lang="es">Desafío</title>
@@ -7729,13 +8750,13 @@
     <title lang="es">Azteca 7</title>
   </programme>
   <programme start="20201102040000 -0600" stop="20201102051500 -0600" channel="MX | Azteca 7">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201102051500 -0600" stop="20201102053000 -0600" channel="MX | Azteca 7">
     <title lang="es">Especial de R.T.C</title>
   </programme>
   <programme start="20201102053000 -0600" stop="20201102063000 -0600" channel="MX | Azteca 7">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201102063000 -0600" stop="20201102064500 -0600" channel="MX | Azteca 7">
     <title lang="es">El Reino Infantil</title>
@@ -7807,16 +8828,16 @@
     <title lang="es">Macgyver</title>
   </programme>
   <programme start="20201104003000 -0600" stop="20201104040000 -0600" channel="MX | Azteca 7">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201104040000 -0600" stop="20201104051500 -0600" channel="MX | Azteca 7">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201104051500 -0600" stop="20201104053000 -0600" channel="MX | Azteca 7">
     <title lang="es">Especial de R.T.C</title>
   </programme>
   <programme start="20201104053000 -0600" stop="20201104063000 -0600" channel="MX | Azteca 7">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201104063000 -0600" stop="20201104070000 -0600" channel="MX | Azteca 7">
     <title lang="es">Amigazazo</title>
@@ -7888,19 +8909,19 @@
     <title lang="es">Alvin y las ardillas</title>
   </programme>
   <programme start="20201106003000 -0600" stop="20201106004500 -0600" channel="MX | Azteca 7">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201106004500 -0600" stop="20201106010000 -0600" channel="MX | Azteca 7">
     <title lang="es">Farmacias Similares</title>
   </programme>
   <programme start="20201106010000 -0600" stop="20201106030000 -0600" channel="MX | Azteca 7">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201106030000 -0600" stop="20201106050000 -0600" channel="MX | Azteca 7">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201106050000 -0600" stop="20201106051500 -0600" channel="MX | Azteca 7">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201106063000 -0600" stop="20201106064500 -0600" channel="MX | Azteca 7">
     <title lang="es">Amigazazo</title>
@@ -7908,8 +8929,8 @@
   <programme start="20201106064500 -0600" stop="20201106070000 -0600" channel="MX | Azteca 7">
     <title lang="es">Bubu Dom</title>
   </programme>
-  <programme start="20201106103000 -0600" stop="20201106110000 -0600" channel="MX | Azteca 7">
-    <title lang="es">Mickey Mouse Mix Aventuras</title>
+  <programme start="20201106113000 -0600" stop="20201106120000 -0600" channel="MX | Azteca 7">
+    <title lang="es">Transformers Rescue Bots</title>
   </programme>
   <programme start="20201106190000 -0600" stop="20201106211500 -0600" channel="MX | Azteca 7">
     <title lang="es">9.1.1</title>
@@ -7918,13 +8939,13 @@
     <title lang="es">Yo soy Betty la fea</title>
   </programme>
   <programme start="20201107003000 -0600" stop="20201107021500 -0600" channel="MX | Azteca 7">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201107021500 -0600" stop="20201107041500 -0600" channel="MX | Azteca 7">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201107041500 -0600" stop="20201107051500 -0600" channel="MX | Azteca 7">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201107090000 -0600" stop="20201107093000 -0600" channel="MX | Azteca 7">
     <title lang="es">Doctora Juguetes</title>
@@ -8042,23 +9063,88 @@
   <programme start="20201109010000 -0600" stop="20201109050000 -0600" channel="MX | Azteca 7">
     <title lang="es">Paid Programing</title>
   </programme>
+  <programme start="20201109050000 -0600" stop="20201109051500 -0600" channel="MX | Azteca 7">
+    <title lang="es">Azteca 7</title>
+  </programme>
+  <programme start="20201109051500 -0600" stop="20201109053000 -0600" channel="MX | Azteca 7">
+    <title lang="es">RTC</title>
+  </programme>
+  <programme start="20201109063000 -0600" stop="20201109064500 -0600" channel="MX | Azteca 7">
+    <title lang="es">Amigazazo</title>
+  </programme>
+  <programme start="20201109064500 -0600" stop="20201109070000 -0600" channel="MX | Azteca 7">
+    <title lang="es">Bubu Dom</title>
+  </programme>
+  <programme start="20201109070000 -0600" stop="20201109071500 -0600" channel="MX | Azteca 7">
+    <title lang="es">El Reino Infantil</title>
+  </programme>
+  <programme start="20201109071500 -0600" stop="20201109073000 -0600" channel="MX | Azteca 7">
+    <title lang="es">Molang</title>
+  </programme>
+  <programme start="20201109073000 -0600" stop="20201109080000 -0600" channel="MX | Azteca 7">
+    <title lang="es">Pocoyó</title>
+  </programme>
+  <programme start="20201109083000 -0600" stop="20201109090000 -0600" channel="MX | Azteca 7">
+    <title lang="es">Rev &amp; Roll</title>
+  </programme>
+  <programme start="20201109090000 -0600" stop="20201109093000 -0600" channel="MX | Azteca 7">
+    <title lang="es">Vampirina</title>
+    <title lang="xx">Vampirina</title>
+    <desc lang="es">Vee es una joven vampira que se muda con su familia de Transilvania a Pensilvania, ella y su familia se deben adaptar la vida como vampiros en la ciudad.</desc>
+    <credits>
+      <producer>Norton Virgien</producer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/vampirina.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">Irlanda</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20201109093000 -0600" stop="20201109100000 -0600" channel="MX | Azteca 7">
+    <title lang="es">Las aventuras enredadas..</title>
+  </programme>
+  <programme start="20201109100000 -0600" stop="20201109103000 -0600" channel="MX | Azteca 7">
+    <title lang="es">Tiny Ones Transport Service</title>
+  </programme>
+  <programme start="20201109103000 -0600" stop="20201109110000 -0600" channel="MX | Azteca 7">
+    <title lang="es">Fancy Nancy Clancy</title>
+  </programme>
+  <programme start="20201109110000 -0600" stop="20201109113000 -0600" channel="MX | Azteca 7">
+    <title lang="es">Doctora Juguetes</title>
+  </programme>
+  <programme start="20201109113000 -0600" stop="20201109153000 -0600" channel="MX | Azteca 7">
+    <title lang="es">Azteca 7</title>
+  </programme>
+  <programme start="20201109153000 -0600" stop="20201109193000 -0600" channel="MX | Azteca 7">
+    <title lang="es">Azteca 7</title>
+  </programme>
+  <programme start="20201109193000 -0600" stop="20201109221500 -0600" channel="MX | Azteca 7">
+    <title lang="es">Azteca 7</title>
+  </programme>
+  <programme start="20201109221500 -0600" stop="20201110000000 -0600" channel="MX | Azteca 7">
+    <title lang="es">Azteca 7</title>
+  </programme>
   <programme start="20201102001500 -0600" stop="20201102004500 -0600" channel="MX | Azteca Uno">
     <title lang="es">Farmacias Similares</title>
   </programme>
   <programme start="20201102004500 -0600" stop="20201102024500 -0600" channel="MX | Azteca Uno">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201102024500 -0600" stop="20201102044500 -0600" channel="MX | Azteca Uno">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201102044500 -0600" stop="20201102050000 -0600" channel="MX | Azteca Uno">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201102050000 -0600" stop="20201102053000 -0600" channel="MX | Azteca Uno">
     <title lang="es">Que Cotorreo</title>
   </programme>
   <programme start="20201102053000 -0600" stop="20201102061500 -0600" channel="MX | Azteca Uno">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201102061500 -0600" stop="20201102070000 -0600" channel="MX | Azteca Uno">
     <title lang="es">Primera Línea</title>
@@ -8130,7 +9216,7 @@
   <programme start="20201103041500 -0600" stop="20201103050000 -0600" channel="MX | Azteca Uno">
     <title lang="es">Paid Programing</title>
   </programme>
-  <programme start="20201103090000 -0600" stop="20201103110000 -0600" channel="MX | Azteca Uno">
+  <programme start="20201103110000 -0600" stop="20201103130000 -0600" channel="MX | Azteca Uno">
     <title lang="es">Venga la alegría</title>
     <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
     <date>2006</date>
@@ -8193,7 +9279,71 @@
     <title lang="es">La resolana</title>
   </programme>
   <programme start="20201105001500 -0600" stop="20201105021500 -0600" channel="MX | Azteca Uno">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201105021500 -0600" stop="20201105041500 -0600" channel="MX | Azteca Uno">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201105041500 -0600" stop="20201105050000 -0600" channel="MX | Azteca Uno">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201105050000 -0600" stop="20201105053000 -0600" channel="MX | Azteca Uno">
+    <title lang="es">Que Cotorreo</title>
+  </programme>
+  <programme start="20201105053000 -0600" stop="20201105061500 -0600" channel="MX | Azteca Uno">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20201105061500 -0600" stop="20201105080000 -0600" channel="MX | Azteca Uno">
+    <title lang="es">Azteca Uno</title>
+  </programme>
+  <programme start="20201105080000 -0600" stop="20201105090000 -0600" channel="MX | Azteca Uno">
+    <title lang="es">Lo que callamos las mujeres</title>
+    <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema.</desc>
+    <credits>
+      <producer>Genoveva Martínez</producer>
+      <producer>María Eva Hernández</producer>
+    </credits>
+    <date>2001</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png" />
+  </programme>
+  <programme start="20201105090000 -0600" stop="20201105120000 -0600" channel="MX | Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20201105120000 -0600" stop="20201105130000 -0600" channel="MX | Azteca Uno">
+    <title lang="es">Deezer Live</title>
+  </programme>
+  <programme start="20201105130000 -0600" stop="20201105140000 -0600" channel="MX | Azteca Uno">
+    <title lang="es">Escape Perfecto</title>
+  </programme>
+  <programme start="20201105140000 -0600" stop="20201105150000 -0600" channel="MX | Azteca Uno">
+    <title lang="es">En sus Batallas</title>
+  </programme>
+  <programme start="20201105150000 -0600" stop="20201105160000 -0600" channel="MX | Azteca Uno">
+    <title lang="es">Lo que callamos las mujeres</title>
+    <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema.</desc>
+    <credits>
+      <producer>Genoveva Martínez</producer>
+      <producer>María Eva Hernández</producer>
+    </credits>
+    <date>2001</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png" />
+  </programme>
+  <programme start="20201105160000 -0600" stop="20201105180000 -0600" channel="MX | Azteca Uno">
+    <title lang="es">MasterChef</title>
+  </programme>
+  <programme start="20201105180000 -0600" stop="20201105200000 -0600" channel="MX | Azteca Uno">
+    <title lang="es">Domingo Al Extremo</title>
+  </programme>
+  <programme start="20201105200000 -0600" stop="20201105231500 -0600" channel="MX | Azteca Uno">
+    <title lang="es">Exatlón Titanes vs. Héroes</title>
+  </programme>
+  <programme start="20201105231500 -0600" stop="20201106000000 -0600" channel="MX | Azteca Uno">
+    <title lang="es">La resolana</title>
   </programme>
   <programme start="20201102003000 -0600" stop="20201102020000 -0600" channel="MX | CANAL Once">
     <title lang="es">Diario de Viaje Canadá</title>
@@ -8394,9 +9544,6 @@
   <programme start="20201104053000 -0600" stop="20201104060700 -0600" channel="MX | CANAL Once">
     <title lang="es">Actívate</title>
     <episode-num system="onscreen">E26</episode-num>
-  </programme>
-  <programme start="20201104090300 -0600" stop="20201104113000 -0600" channel="MX | CANAL Once">
-    <title lang="es">Diálogos En Confianza</title>
   </programme>
   <programme start="20201104113000 -0600" stop="20201104130300 -0600" channel="MX | CANAL Once">
     <title lang="es">En la hacienda de la flor</title>
@@ -8714,6 +9861,99 @@
   <programme start="20201108013000 -0600" stop="20201108020000 -0600" channel="MX | CANAL Once">
     <title lang="es">Lugares Secretos</title>
   </programme>
+  <programme start="20201108020000 -0600" stop="20201108023000 -0600" channel="MX | CANAL Once">
+    <title lang="es">Expedientes Médicos</title>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20201108023000 -0600" stop="20201108030000 -0600" channel="MX | CANAL Once">
+    <title lang="es">Aquí nos tocó vivir</title>
+  </programme>
+  <programme start="20201108030000 -0600" stop="20201108060700 -0600" channel="MX | CANAL Once">
+    <title lang="es">Aprender a Envejecer</title>
+  </programme>
+  <programme start="20201108060700 -0600" stop="20201108063000 -0600" channel="MX | CANAL Once">
+    <title lang="es">Actívate</title>
+    <episode-num system="onscreen">E27</episode-num>
+  </programme>
+  <programme start="20201108063000 -0600" stop="20201108064500 -0600" channel="MX | CANAL Once">
+    <title lang="es">Lunnis de Leyenda</title>
+  </programme>
+  <programme start="20201108064500 -0600" stop="20201108070000 -0600" channel="MX | CANAL Once">
+    <title lang="es">Los ejercicios salvajes</title>
+  </programme>
+  <programme start="20201108070000 -0600" stop="20201108071500 -0600" channel="MX | CANAL Once">
+    <title lang="es">Aprende Inglés con Timmy</title>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20201108071500 -0600" stop="20201108073000 -0600" channel="MX | CANAL Once">
+    <title lang="es">Los Cuentos de Yetili</title>
+    <episode-num system="onscreen">E63</episode-num>
+  </programme>
+  <programme start="20201108073000 -0600" stop="20201108074500 -0600" channel="MX | CANAL Once">
+    <title lang="es">Pingu en la ciudad</title>
+  </programme>
+  <programme start="20201108074500 -0600" stop="20201108080000 -0600" channel="MX | CANAL Once">
+    <title lang="es">Duda y Dada</title>
+  </programme>
+  <programme start="20201108080000 -0600" stop="20201108081500 -0600" channel="MX | CANAL Once">
+    <title lang="es">La Familia de Bo y To</title>
+  </programme>
+  <programme start="20201108081500 -0600" stop="20201108083000 -0600" channel="MX | CANAL Once">
+    <title lang="es">Mirette Investiga</title>
+    <episode-num system="onscreen">E18</episode-num>
+  </programme>
+  <programme start="20201108083000 -0600" stop="20201108084500 -0600" channel="MX | CANAL Once">
+    <title lang="es">Martín Matín</title>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20201108084500 -0600" stop="20201108090000 -0600" channel="MX | CANAL Once">
+    <title lang="es">Mis Vecinos Piratas</title>
+    <episode-num system="onscreen">E29</episode-num>
+  </programme>
+  <programme start="20201108090000 -0600" stop="20201108091500 -0600" channel="MX | CANAL Once">
+    <title lang="es">Puerto papel</title>
+    <episode-num system="onscreen">E11</episode-num>
+  </programme>
+  <programme start="20201108091500 -0600" stop="20201108093000 -0600" channel="MX | CANAL Once">
+    <title lang="es">Un Día en Once Niños</title>
+  </programme>
+  <programme start="20201108093000 -0600" stop="20201108100000 -0600" channel="MX | CANAL Once">
+    <title lang="es">Alisa sabe que hacer</title>
+    <episode-num system="onscreen">E11</episode-num>
+  </programme>
+  <programme start="20201108100000 -0600" stop="20201108103000 -0600" channel="MX | CANAL Once">
+    <title lang="es">Las Aventuras de Julio Verne</title>
+  </programme>
+  <programme start="20201108103000 -0600" stop="20201108110000 -0600" channel="MX | CANAL Once">
+    <title lang="es">¡Ven a ver mi Mundo</title>
+  </programme>
+  <programme start="20201108110000 -0600" stop="20201108140000 -0600" channel="MX | CANAL Once">
+    <title lang="es">Aprender a Envejecer</title>
+  </programme>
+  <programme start="20201108140000 -0600" stop="20201108143000 -0600" channel="MX | CANAL Once">
+    <title lang="es">Guinda y Blanco</title>
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20201108143000 -0600" stop="20201108150000 -0600" channel="MX | CANAL Once">
+    <title lang="es">Viajar Para Contar</title>
+  </programme>
+  <programme start="20201108150000 -0600" stop="20201108153000 -0600" channel="MX | CANAL Once">
+    <title lang="es">Watch En Busca de la Verdad</title>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20201108153000 -0600" stop="20201108160000 -0600" channel="MX | CANAL Once">
+    <title lang="es">Aquí nos tocó vivir</title>
+  </programme>
+  <programme start="20201108160000 -0600" stop="20201108163000 -0600" channel="MX | CANAL Once">
+    <title lang="es">La ruta del sabor</title>
+  </programme>
+  <programme start="20201108163000 -0600" stop="20201108170000 -0600" channel="MX | CANAL Once">
+    <title lang="es">El Libro Rojo, Especies A</title>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20201108170000 -0600" stop="20201108184000 -0600" channel="MX | CANAL Once">
+    <title lang="es">La Reina del Mambo</title>
+  </programme>
   <programme start="20201102010000 -0600" stop="20201102020000 -0600" channel="MX | FORMULA TV">
     <title lang="es">Shanik en Fórmula</title>
   </programme>
@@ -8876,14 +10116,77 @@
   <programme start="20201105010000 -0600" stop="20201105020000 -0600" channel="MX | FORMULA TV">
     <title lang="es">Blitz</title>
   </programme>
+  <programme start="20201105020000 -0600" stop="20201105030000 -0600" channel="MX | FORMULA TV">
+    <title lang="es">En el Estudio de Eduardo</title>
+  </programme>
+  <programme start="20201105030000 -0600" stop="20201105040000 -0600" channel="MX | FORMULA TV">
+    <title lang="es">Javier Poza en Fórmula</title>
+  </programme>
+  <programme start="20201105050000 -0600" stop="20201105060000 -0600" channel="MX | FORMULA TV">
+    <title lang="es">Javier Poza en Fórmula</title>
+  </programme>
+  <programme start="20201105060000 -0600" stop="20201105070000 -0600" channel="MX | FORMULA TV">
+    <title lang="es">Shanik en Fórmula</title>
+  </programme>
+  <programme start="20201105070000 -0600" stop="20201105100000 -0600" channel="MX | FORMULA TV">
+    <title lang="es">Fórmula Noticias con Jaime N</title>
+  </programme>
+  <programme start="20201105100000 -0600" stop="20201105103000 -0600" channel="MX | FORMULA TV">
+    <title lang="es">Cambiando Mentes</title>
+  </programme>
+  <programme start="20201105103000 -0600" stop="20201105110000 -0600" channel="MX | FORMULA TV">
+    <title lang="es">Hoy Cambia tu Vida</title>
+  </programme>
+  <programme start="20201105110000 -0600" stop="20201105120000 -0600" channel="MX | FORMULA TV">
+    <title lang="es">Blitz</title>
+  </programme>
+  <programme start="20201105120000 -0600" stop="20201105130000 -0600" channel="MX | FORMULA TV">
+    <title lang="es">Janett Arceo la mujer actual</title>
+  </programme>
+  <programme start="20201105130000 -0600" stop="20201105140000 -0600" channel="MX | FORMULA TV">
+    <title lang="es">Road TV</title>
+  </programme>
+  <programme start="20201105140000 -0600" stop="20201105150000 -0600" channel="MX | FORMULA TV">
+    <title lang="es">Formula Noticias</title>
+  </programme>
+  <programme start="20201105150000 -0600" stop="20201105153000 -0600" channel="MX | FORMULA TV">
+    <title lang="es">Estrategia de Negocios</title>
+  </programme>
+  <programme start="20201105153000 -0600" stop="20201105160000 -0600" channel="MX | FORMULA TV">
+    <title lang="es">Cambiando Mentes</title>
+  </programme>
+  <programme start="20201105160000 -0600" stop="20201105170000 -0600" channel="MX | FORMULA TV">
+    <title lang="es">Fórmula Dominical Flor Rubio</title>
+  </programme>
+  <programme start="20201105170000 -0600" stop="20201105180000 -0600" channel="MX | FORMULA TV">
+    <title lang="es">Perfecta-Mente</title>
+  </programme>
+  <programme start="20201105180000 -0600" stop="20201105190000 -0600" channel="MX | FORMULA TV">
+    <title lang="es">Formula Noticias</title>
+  </programme>
+  <programme start="20201105190000 -0600" stop="20201105200000 -0600" channel="MX | FORMULA TV">
+    <title lang="es">Javier Poza en Fórmula</title>
+  </programme>
+  <programme start="20201105200000 -0600" stop="20201105210000 -0600" channel="MX | FORMULA TV">
+    <title lang="es">La Fórmula es...Domingo</title>
+  </programme>
+  <programme start="20201105210000 -0600" stop="20201105220000 -0600" channel="MX | FORMULA TV">
+    <title lang="es">Piano de cola</title>
+  </programme>
+  <programme start="20201105220000 -0600" stop="20201105230000 -0600" channel="MX | FORMULA TV">
+    <title lang="es">Todo para la Mujer con Maxine</title>
+  </programme>
+  <programme start="20201105230000 -0600" stop="20201106000000 -0600" channel="MX | FORMULA TV">
+    <title lang="es">Fórmula Notas</title>
+  </programme>
   <programme start="20201102010000 -0600" stop="20201102030000 -0600" channel="MX | ForoTV">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201102030000 -0600" stop="20201102050000 -0600" channel="MX | ForoTV">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201102050000 -0600" stop="20201102060000 -0600" channel="MX | ForoTV">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201102060000 -0600" stop="20201102070000 -0600" channel="MX | ForoTV">
     <title lang="es">Las noticias</title>
@@ -8990,8 +10293,8 @@
   <programme start="20201104033000 -0600" stop="20201104060000 -0600" channel="MX | ForoTV">
     <title lang="es">Paid Programing</title>
   </programme>
-  <programme start="20201104080000 -0600" stop="20201104110000 -0600" channel="MX | ForoTV">
-    <title lang="es">Expreso de la Mañana</title>
+  <programme start="20201104110000 -0600" stop="20201104120000 -0600" channel="MX | ForoTV">
+    <title lang="es">Por las mañanas</title>
   </programme>
   <programme start="20201104180000 -0600" stop="20201104200000 -0600" channel="MX | ForoTV">
     <title lang="es">Las noticias</title>
@@ -9082,6 +10385,36 @@
   </programme>
   <programme start="20201106013000 -0600" stop="20201106020000 -0600" channel="MX | ForoTV">
     <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20201106080000 -0600" stop="20201106110000 -0600" channel="MX | ForoTV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20201106110000 -0600" stop="20201106120000 -0600" channel="MX | ForoTV">
+    <title lang="es">Agenda Pública</title>
+  </programme>
+  <programme start="20201106120000 -0600" stop="20201106130000 -0600" channel="MX | ForoTV">
+    <title lang="es">Clío TV</title>
+  </programme>
+  <programme start="20201106150000 -0600" stop="20201106153000 -0600" channel="MX | ForoTV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20201106153000 -0600" stop="20201106160000 -0600" channel="MX | ForoTV">
+    <title lang="es">Cuide su Salud</title>
+  </programme>
+  <programme start="20201106160000 -0600" stop="20201106173000 -0600" channel="MX | ForoTV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20201106190000 -0600" stop="20201106200000 -0600" channel="MX | ForoTV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20201106200000 -0600" stop="20201106210000 -0600" channel="MX | ForoTV">
+    <title lang="es">Alebrijes, Águila o Sol</title>
+  </programme>
+  <programme start="20201106210000 -0600" stop="20201106230000 -0600" channel="MX | ForoTV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20201106230000 -0600" stop="20201107000000 -0600" channel="MX | ForoTV">
+    <title lang="es">Sin Filtro</title>
   </programme>
   <programme start="20201102003000 -0600" stop="20201102010000 -0600" channel="MX | INGENIO TV">
     <title lang="es">Educación y saberes Digitales</title>
@@ -9527,6 +10860,9 @@
   <programme start="20201105110000 -0600" stop="20201105113000 -0600" channel="MX | INGENIO TV">
     <title lang="es">Vida Saludable</title>
   </programme>
+  <programme start="20201105113000 -0600" stop="20201105120000 -0600" channel="MX | INGENIO TV">
+    <title lang="es">Responsabilidad Social</title>
+  </programme>
   <programme start="20201105120000 -0600" stop="20201105124000 -0600" channel="MX | INGENIO TV">
     <title lang="es">Informática II</title>
   </programme>
@@ -9598,9 +10934,6 @@
   </programme>
   <programme start="20201106093000 -0600" stop="20201106100000 -0600" channel="MX | INGENIO TV">
     <title lang="es">Pensamiento Matemático</title>
-  </programme>
-  <programme start="20201106103000 -0600" stop="20201106110000 -0600" channel="MX | INGENIO TV">
-    <title lang="es">Conciencia Histórica</title>
   </programme>
   <programme start="20201106113000 -0600" stop="20201106120000 -0600" channel="MX | INGENIO TV">
     <title lang="es">Educación y saberes Digitales</title>
@@ -9737,14 +11070,35 @@
   <programme start="20201108003000 -0600" stop="20201108010000 -0600" channel="MX | INGENIO TV">
     <title lang="es">Responsabilidad Social</title>
   </programme>
+  <programme start="20201108023000 -0600" stop="20201108033000 -0600" channel="MX | INGENIO TV">
+    <title lang="es">Conciencia Histórica</title>
+  </programme>
+  <programme start="20201108033000 -0600" stop="20201108040000 -0600" channel="MX | INGENIO TV">
+    <title lang="es">Vida Saludable</title>
+  </programme>
+  <programme start="20201108040000 -0600" stop="20201108044000 -0600" channel="MX | INGENIO TV">
+    <title lang="es">Ciencias de la Comunicación I</title>
+  </programme>
+  <programme start="20201108044000 -0600" stop="20201108050000 -0600" channel="MX | INGENIO TV">
+    <title lang="es">Ciencias de la Comunicación I</title>
+  </programme>
+  <programme start="20201108050000 -0600" stop="20201108052000 -0600" channel="MX | INGENIO TV">
+    <title lang="es">Ciencias de la Comunicación I</title>
+  </programme>
+  <programme start="20201108052000 -0600" stop="20201108054000 -0600" channel="MX | INGENIO TV">
+    <title lang="es">Taller de Lectura y Redacción</title>
+  </programme>
+  <programme start="20201108054000 -0600" stop="20201108060000 -0600" channel="MX | INGENIO TV">
+    <title lang="es">Taller de Lectura y Redacción</title>
+  </programme>
   <programme start="20201102011000 -0600" stop="20201102043000 -0600" channel="MX | Las Estrellas">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201102043000 -0600" stop="20201102050000 -0600" channel="MX | Las Estrellas">
     <title lang="es">Especial de R.T.C</title>
   </programme>
   <programme start="20201102050000 -0600" stop="20201102060000 -0600" channel="MX | Las Estrellas">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201102060000 -0600" stop="20201102063000 -0600" channel="MX | Las Estrellas">
     <title lang="es">Las noticias En Vivo</title>
@@ -9836,7 +11190,7 @@
     <title lang="es">Paid Programing</title>
   </programme>
   <programme start="20201103050000 -0600" stop="20201103053000 -0600" channel="MX | Las Estrellas">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20201103053000 -0600" stop="20201103060000 -0600" channel="MX | Las Estrellas">
     <title lang="es">Farmacias de similares</title>
@@ -9969,10 +11323,52 @@
     <episode-num system="onscreen">S2</episode-num>
   </programme>
   <programme start="20201107230000 -0600" stop="20201108000000 -0600" channel="MX | Las Estrellas">
-    <title lang="es">Más Noche</title>
+    <title lang="es">+ noche</title>
   </programme>
   <programme start="20201108000000 -0600" stop="20201108023000 -0600" channel="MX | Las Estrellas">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201108023000 -0600" stop="20201108060000 -0600" channel="MX | Las Estrellas">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201108071500 -0600" stop="20201108091500 -0600" channel="MX | Las Estrellas">
+    <title lang="es">Los Canallas</title>
+  </programme>
+  <programme start="20201108091500 -0600" stop="20201108110000 -0600" channel="MX | Las Estrellas">
+    <title lang="es">Una Maestra Con Ángel</title>
+  </programme>
+  <programme start="20201108110000 -0600" stop="20201108115500 -0600" channel="MX | Las Estrellas">
+    <title lang="es">Más Deporte En Vivo</title>
+  </programme>
+  <programme start="20201108115500 -0600" stop="20201108140000 -0600" channel="MX | Las Estrellas">
+    <title lang="es">Toluca Vs. León</title>
+    <desc lang="es">El Deportivo Toluca FC recibe al Club León FC en el estadio Nemesio Díez, en la ciudad de Toluca, México.</desc>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/toluca_vs_leon.png" />
+  </programme>
+  <programme start="20201108140000 -0600" stop="20201108150000 -0600" channel="MX | Las Estrellas">
+    <title lang="es">Acción</title>
+  </programme>
+  <programme start="20201108150000 -0600" stop="20201108160000 -0600" channel="MX | Las Estrellas">
+    <title lang="es">100 mexicanos dijieron</title>
+  </programme>
+  <programme start="20201108160000 -0600" stop="20201108183000 -0600" channel="MX | Las Estrellas">
+    <title lang="es">El señor doctor</title>
+  </programme>
+  <programme start="20201108183000 -0600" stop="20201108193000 -0600" channel="MX | Las Estrellas">
+    <title lang="es">Nosotros los guapos</title>
+    <episode-num system="onscreen">S4</episode-num>
+  </programme>
+  <programme start="20201108193000 -0600" stop="20201108203000 -0600" channel="MX | Las Estrellas">
+    <title lang="es">Una familia de diez</title>
+  </programme>
+  <programme start="20201108203000 -0600" stop="20201108230000 -0600" channel="MX | Las Estrellas">
+    <title lang="es">¿Quién es la Máscara</title>
+    <episode-num system="onscreen">S2</episode-num>
+  </programme>
+  <programme start="20201108230000 -0600" stop="20201109000000 -0600" channel="MX | Las Estrellas">
+    <title lang="es">La Jugada</title>
   </programme>
   <programme start="20201102010000 -0600" stop="20201102030000 -0600" channel="MX | Mexiquense TV">
     <title lang="es">TV Mexiquense</title>
@@ -10127,8 +11523,8 @@
   <programme start="20201105043000 -0600" stop="20201105060000 -0600" channel="MX | Mexiquense TV">
     <title lang="es">TV Mexiquense</title>
   </programme>
-  <programme start="20201105103000 -0600" stop="20201105110000 -0600" channel="MX | Mexiquense TV">
-    <title lang="es">Bionatura</title>
+  <programme start="20201105110000 -0600" stop="20201105130000 -0600" channel="MX | Mexiquense TV">
+    <title lang="es">Pelicula del Cine Mexicano</title>
   </programme>
   <programme start="20201105170000 -0600" stop="20201105180000 -0600" channel="MX | Mexiquense TV">
     <title lang="es">Las Pasantes</title>
@@ -10250,6 +11646,48 @@
   <programme start="20201108010000 -0600" stop="20201108033000 -0600" channel="MX | Mexiquense TV">
     <title lang="es">TV Mexiquense</title>
   </programme>
+  <programme start="20201108033000 -0600" stop="20201108053000 -0600" channel="MX | Mexiquense TV">
+    <title lang="es">TV Mexiquense</title>
+  </programme>
+  <programme start="20201108053000 -0600" stop="20201108060000 -0600" channel="MX | Mexiquense TV">
+    <title lang="es">TV Mexiquense</title>
+  </programme>
+  <programme start="20201108061500 -0600" stop="20201108063000 -0600" channel="MX | Mexiquense TV">
+    <title lang="es">Todo deporte</title>
+  </programme>
+  <programme start="20201108063000 -0600" stop="20201108070000 -0600" channel="MX | Mexiquense TV">
+    <title lang="es">Trotamundos</title>
+  </programme>
+  <programme start="20201108070000 -0600" stop="20201108073000 -0600" channel="MX | Mexiquense TV">
+    <title lang="es">La conquista del espacio</title>
+  </programme>
+  <programme start="20201108080000 -0600" stop="20201108083000 -0600" channel="MX | Mexiquense TV">
+    <title lang="es">La mesa amarilla</title>
+  </programme>
+  <programme start="20201108083000 -0600" stop="20201108090000 -0600" channel="MX | Mexiquense TV">
+    <title lang="es">Pequeñas aventuras</title>
+  </programme>
+  <programme start="20201108090000 -0600" stop="20201108100000 -0600" channel="MX | Mexiquense TV">
+    <title lang="es">Hacienda Santa Anita</title>
+  </programme>
+  <programme start="20201108100000 -0600" stop="20201108110000 -0600" channel="MX | Mexiquense TV">
+    <title lang="es">Ver y creer</title>
+  </programme>
+  <programme start="20201108120000 -0600" stop="20201108130000 -0600" channel="MX | Mexiquense TV">
+    <title lang="es">Especial Rocío Durcal</title>
+  </programme>
+  <programme start="20201108130000 -0600" stop="20201108140000 -0600" channel="MX | Mexiquense TV">
+    <title lang="es">Documental Toña la Negra</title>
+  </programme>
+  <programme start="20201108140000 -0600" stop="20201108160000 -0600" channel="MX | Mexiquense TV">
+    <title lang="es">Su casa EDOMEX</title>
+  </programme>
+  <programme start="20201108160000 -0600" stop="20201108170000 -0600" channel="MX | Mexiquense TV">
+    <title lang="es">Cinescape Repetición</title>
+  </programme>
+  <programme start="20201108170000 -0600" stop="20201108180000 -0600" channel="MX | Mexiquense TV">
+    <title lang="es">Experiencia EdoMex</title>
+  </programme>
   <programme start="20201102020000 -0600" stop="20201102040000 -0600" channel="MX | Milenio TV">
     <title lang="es">Inova</title>
   </programme>
@@ -10331,9 +11769,6 @@
   <programme start="20201103010000 -0600" stop="20201103050000 -0600" channel="MX | Milenio TV">
     <title lang="es">Inova</title>
   </programme>
-  <programme start="20201103100000 -0600" stop="20201103104500 -0600" channel="MX | Milenio TV">
-    <title lang="es">Milenio noticias</title>
-  </programme>
   <programme start="20201103104500 -0600" stop="20201103110000 -0600" channel="MX | Milenio TV">
     <title lang="es">Tragaluz</title>
   </programme>
@@ -10406,6 +11841,9 @@
   <programme start="20201106104500 -0600" stop="20201106110000 -0600" channel="MX | Milenio TV">
     <title lang="es">Susana y Álvaro en Milenio</title>
   </programme>
+  <programme start="20201106110000 -0600" stop="20201106114500 -0600" channel="MX | Milenio TV">
+    <title lang="es">Milenio noticias</title>
+  </programme>
   <programme start="20201106213000 -0600" stop="20201106214500 -0600" channel="MX | Milenio TV">
     <title lang="es">En 15 con Carlos Puig</title>
   </programme>
@@ -10471,6 +11909,51 @@
   </programme>
   <programme start="20201107234500 -0600" stop="20201108000000 -0600" channel="MX | Milenio TV">
     <title lang="es">El Arte de la Canción</title>
+  </programme>
+  <programme start="20201108054500 -0600" stop="20201108060000 -0600" channel="MX | Milenio TV">
+    <title lang="es">M2 con Susana Moscatel</title>
+  </programme>
+  <programme start="20201108064500 -0600" stop="20201108070000 -0600" channel="MX | Milenio TV">
+    <title lang="es">En 15 con Carlos Puig</title>
+  </programme>
+  <programme start="20201108104500 -0600" stop="20201108110000 -0600" channel="MX | Milenio TV">
+    <title lang="es">Susana y Álvaro en Milenio</title>
+  </programme>
+  <programme start="20201108124500 -0600" stop="20201108130000 -0600" channel="MX | Milenio TV">
+    <title lang="es">El Arte de la Canción</title>
+  </programme>
+  <programme start="20201108180000 -0600" stop="20201108184500 -0600" channel="MX | Milenio TV">
+    <title lang="es">Milenio noticias</title>
+  </programme>
+  <programme start="20201108184500 -0600" stop="20201108190000 -0600" channel="MX | Milenio TV">
+    <title lang="es">Milenio Negocios</title>
+  </programme>
+  <programme start="20201108190000 -0600" stop="20201108193000 -0600" channel="MX | Milenio TV">
+    <title lang="es">Milenio noticias</title>
+  </programme>
+  <programme start="20201108193000 -0600" stop="20201108194500 -0600" channel="MX | Milenio TV">
+    <title lang="es">Tragaluz</title>
+  </programme>
+  <programme start="20201108194500 -0600" stop="20201108200000 -0600" channel="MX | Milenio TV">
+    <title lang="es">En 15 con Carlos Puig</title>
+  </programme>
+  <programme start="20201108200000 -0600" stop="20201108204500 -0600" channel="MX | Milenio TV">
+    <title lang="es">Milenio noticias</title>
+  </programme>
+  <programme start="20201108204500 -0600" stop="20201108210000 -0600" channel="MX | Milenio TV">
+    <title lang="es">Milenio Mercados Perspectiva</title>
+  </programme>
+  <programme start="20201108210000 -0600" stop="20201108214500 -0600" channel="MX | Milenio TV">
+    <title lang="es">Milenio noticias</title>
+  </programme>
+  <programme start="20201108214500 -0600" stop="20201108220000 -0600" channel="MX | Milenio TV">
+    <title lang="es">La afición</title>
+  </programme>
+  <programme start="20201108220000 -0600" stop="20201108230000 -0600" channel="MX | Milenio TV">
+    <title lang="es">Milenio noticias</title>
+  </programme>
+  <programme start="20201108230000 -0600" stop="20201108234500 -0600" channel="MX | Milenio TV">
+    <title lang="es">Milenio noticias</title>
   </programme>
   <programme start="20201102003000 -0600" stop="20201102010000 -0600" channel="MX | TVC">
     <title lang="es">Televenta</title>
@@ -10589,7 +12072,7 @@
   <programme start="20201103070000 -0600" stop="20201103075800 -0600" channel="MX | TVC">
     <title lang="es">Meganoticias TVC con Francisco Ramírez</title>
   </programme>
-  <programme start="20201103103000 -0600" stop="20201103110000 -0600" channel="MX | TVC">
+  <programme start="20201103113000 -0600" stop="20201103115800 -0600" channel="MX | TVC">
     <title lang="es">Televenta</title>
   </programme>
   <programme start="20201103125800 -0600" stop="20201103135800 -0600" channel="MX | TVC">
@@ -11253,6 +12736,84 @@
   <programme start="20201108010000 -0600" stop="20201108030000 -0600" channel="DEP | ESPN FHD (MX)">
     <title lang="es">Dutch Football</title>
   </programme>
+  <programme start="20201108070000 -0600" stop="20201108080000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol Español</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
+  </programme>
+  <programme start="20201108080000 -0600" stop="20201108100000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">Rolex Paris Masters</title>
+  </programme>
+  <programme start="20201108100000 -0600" stop="20201108105500 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20201108105500 -0600" stop="20201108130000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">Ligue 1 French Championship</title>
+  </programme>
+  <programme start="20201108153000 -0600" stop="20201108173000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">Italian Serie A Football</title>
+  </programme>
+  <programme start="20201108173000 -0600" stop="20201108180000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">UEFA Champions League Weekly</title>
+  </programme>
+  <programme start="20201108180000 -0600" stop="20201108190000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol Español</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
+  </programme>
+  <programme start="20201108190000 -0600" stop="20201108223000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">Saints vs. Buccaneers</title>
+  </programme>
+  <programme start="20201108223000 -0600" stop="20201108233000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol Español</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
+  </programme>
+  <programme start="20201108233000 -0600" stop="20201109000000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">ESPN Run</title>
+  </programme>
   <programme start="20201102003000 -0600" stop="20201102010000 -0600" channel="INF | BABY FIRST">
     <title lang="es">Programas para el desarrollo del bebé</title>
   </programme>
@@ -11394,8 +12955,8 @@
   <programme start="20201102233000 -0600" stop="20201103000000 -0600" channel="INF | BABY FIRST">
     <title lang="es">Programas para el desarrollo del bebé</title>
   </programme>
-  <programme start="20201103103000 -0600" stop="20201103110000 -0600" channel="INF | BABY FIRST">
-    <title lang="es">Favoritos de Baby First</title>
+  <programme start="20201103113000 -0600" stop="20201103120000 -0600" channel="INF | BABY FIRST">
+    <title lang="es">Squeak</title>
   </programme>
   <programme start="20201104003000 -0600" stop="20201104020000 -0600" channel="INF | BABY FIRST">
     <title lang="es">Programas para el desarrollo del bebé</title>
