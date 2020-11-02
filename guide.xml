@@ -189,6 +189,11 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/babyfirst_tv-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="INF | Baby First FHD (MX)">
+    <display-name lang="es">INF | Baby First FHD (MX)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/babyfirst_tv-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
   <channel id="INF | BOOMERANG">
     <display-name lang="es">INF | BOOMERANG</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/boomerang_latinoamerica-mediano.png" />
@@ -308,9 +313,6 @@
   </programme>
   <programme start="20201104120000 -0600" stop="20201104140000 -0600" channel="MX | A Plus">
     <title lang="es">Amor en cuatro tiempos</title>
-  </programme>
-  <programme start="20201104150000 -0600" stop="20201104160000 -0600" channel="MX | A Plus">
-    <title lang="es">Ahora Más en tu Barrio</title>
   </programme>
   <programme start="20201104160000 -0600" stop="20201104174500 -0600" channel="MX | A Plus">
     <title lang="es">Celos</title>
@@ -654,8 +656,8 @@
   <programme start="20201104050000 -0600" stop="20201104053000 -0600" channel="MX | ADN40 FHD">
     <title lang="es">MDR</title>
   </programme>
-  <programme start="20201104150000 -0600" stop="20201104160000 -0600" channel="MX | ADN40 FHD">
-    <title lang="es">Es Tendencia</title>
+  <programme start="20201104160000 -0600" stop="20201104170000 -0600" channel="MX | ADN40 FHD">
+    <title lang="es">Noticias con Romina Ramos</title>
   </programme>
   <programme start="20201104233000 -0600" stop="20201104234500 -0600" channel="MX | ADN40 FHD">
     <title lang="es">Reporte ADN 40</title>
@@ -1546,6 +1548,9 @@
   <programme start="20201105140000 -0600" stop="20201105160000 -0600" channel="MX | AZTECA SIETE FHD">
     <title lang="es">Alvin y las ardillas</title>
   </programme>
+  <programme start="20201105160000 -0600" stop="20201105163000 -0600" channel="MX | AZTECA SIETE FHD">
+    <title lang="es">Recargado de Risa</title>
+  </programme>
   <programme start="20201106003000 -0600" stop="20201106004500 -0600" channel="MX | AZTECA SIETE FHD">
     <title lang="es">Paid Programming</title>
   </programme>
@@ -1566,9 +1571,6 @@
   </programme>
   <programme start="20201106064500 -0600" stop="20201106070000 -0600" channel="MX | AZTECA SIETE FHD">
     <title lang="es">Bubu Dom</title>
-  </programme>
-  <programme start="20201106150000 -0600" stop="20201106160000 -0600" channel="MX | AZTECA SIETE FHD">
-    <title lang="es">Escandalosos</title>
   </programme>
   <programme start="20201106190000 -0600" stop="20201106211500 -0600" channel="MX | AZTECA SIETE FHD">
     <title lang="es">9.1.1</title>
@@ -1870,6 +1872,19 @@
   </programme>
   <programme start="20201103150000 -0600" stop="20201103160000 -0600" channel="MX | Canal 5 FHD">
     <title lang="es">Miraculous II</title>
+  </programme>
+  <programme start="20201103160000 -0600" stop="20201103170000 -0600" channel="MX | Canal 5 FHD">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Faberbakke</actor>
+      <actor>Rodger Bumpass</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Infantil</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png" />
   </programme>
   <programme start="20201104003000 -0600" stop="20201104010000 -0600" channel="MX | Canal 5 FHD">
     <title lang="es">Paid Programming</title>
@@ -2821,6 +2836,9 @@
   <programme start="20201103151500 -0600" stop="20201103160000 -0600" channel="MX | DW">
     <title lang="es">Negociaciones de paz - Los diarios de Oslo</title>
   </programme>
+  <programme start="20201103160000 -0600" stop="20201103163000 -0600" channel="MX | DW">
+    <title lang="es">DW Noticias</title>
+  </programme>
   <programme start="20201103163000 -0600" stop="20201103170000 -0600" channel="MX | DW">
     <title lang="es">RPM</title>
   </programme>
@@ -3220,8 +3238,8 @@
   <programme start="20201103020000 -0600" stop="20201103030000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
     <title lang="es">La silla roja</title>
   </programme>
-  <programme start="20201103150000 -0600" stop="20201103160000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
-    <title lang="es">Al sonar la campana con Lucero</title>
+  <programme start="20201103160000 -0600" stop="20201103170000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
+    <title lang="es">Ganadores y perdedores</title>
   </programme>
   <programme start="20201103230000 -0600" stop="20201104000000 -0600" channel="MX | El Financiero Bloomberg FHD B1">
     <title lang="es">Al cierre con Leonardo</title>
@@ -3475,8 +3493,8 @@
   <programme start="20201104033000 -0600" stop="20201104060000 -0600" channel="MX | Foro TV FHD">
     <title lang="es">Paid Programing</title>
   </programme>
-  <programme start="20201104150000 -0600" stop="20201104160000 -0600" channel="MX | Foro TV FHD">
-    <title lang="es">A las 3</title>
+  <programme start="20201104160000 -0600" stop="20201104180000 -0600" channel="MX | Foro TV FHD">
+    <title lang="es">Las noticias</title>
   </programme>
   <programme start="20201104180000 -0600" stop="20201104200000 -0600" channel="MX | Foro TV FHD">
     <title lang="es">Las noticias</title>
@@ -4060,8 +4078,8 @@
   <programme start="20201105043000 -0600" stop="20201105060000 -0600" channel="MX | Mexiquence TV FHD">
     <title lang="es">TV Mexiquense</title>
   </programme>
-  <programme start="20201105150000 -0600" stop="20201105160000 -0600" channel="MX | Mexiquence TV FHD">
-    <title lang="es">AMX con Kimberly Armengol</title>
+  <programme start="20201105160000 -0600" stop="20201105170000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">Noticias en HoraBuena</title>
   </programme>
   <programme start="20201105170000 -0600" stop="20201105180000 -0600" channel="MX | Mexiquence TV FHD">
     <title lang="es">Las Pasantes</title>
@@ -4441,8 +4459,8 @@
   <programme start="20201103140000 -0600" stop="20201103150000 -0600" channel="MX | NU9VE TV FHD">
     <title lang="es">Paid Programing</title>
   </programme>
-  <programme start="20201103150000 -0600" stop="20201103160000 -0600" channel="MX | NU9VE TV FHD">
-    <title lang="es">Jesus</title>
+  <programme start="20201103160000 -0600" stop="20201103173000 -0600" channel="MX | NU9VE TV FHD">
+    <title lang="es">Mujer, casos de la vida real</title>
   </programme>
   <programme start="20201103193000 -0600" stop="20201103203000 -0600" channel="MX | NU9VE TV FHD">
     <title lang="es">María de todos los Angeles</title>
@@ -4635,6 +4653,9 @@
   <programme start="20201103154500 -0600" stop="20201103160000 -0600" channel="MX | Once FHD">
     <title lang="es">Mirette Investiga</title>
     <episode-num system="onscreen">E16</episode-num>
+  </programme>
+  <programme start="20201103160000 -0600" stop="20201103161500 -0600" channel="MX | Once FHD">
+    <title lang="es">Puerto Papel</title>
   </programme>
   <programme start="20201103161500 -0600" stop="20201103163000 -0600" channel="MX | Once FHD">
     <title lang="es">Mis Vecinos Piratas</title>
@@ -4944,8 +4965,8 @@
   <programme start="20201103125800 -0600" stop="20201103135800 -0600" channel="MX | TVC FHD">
     <title lang="es">Meganoticias TVC con Juan Carlos Zuñiga En Vivo</title>
   </programme>
-  <programme start="20201103145800 -0600" stop="20201103155800 -0600" channel="MX | TVC FHD">
-    <title lang="es">Meganoticias TVC con Mitzi Cordero y Alex Piñón En Vivo</title>
+  <programme start="20201103155800 -0600" stop="20201103165800 -0600" channel="MX | TVC FHD">
+    <title lang="es">Meganoticias TVC con Tania Gómez y Adrián Olvera En Vivo</title>
   </programme>
   <programme start="20201103175800 -0600" stop="20201103185800 -0600" channel="MX | TVC FHD">
     <title lang="es">A Fondo con Mayté Noriega, Eduardo Torreblanca En Vivo</title>
@@ -5493,6 +5514,9 @@
   <programme start="20201105140000 -0600" stop="20201105160000 -0600" channel="MX | Azteca 7">
     <title lang="es">Alvin y las ardillas</title>
   </programme>
+  <programme start="20201105160000 -0600" stop="20201105163000 -0600" channel="MX | Azteca 7">
+    <title lang="es">Recargado de Risa</title>
+  </programme>
   <programme start="20201106003000 -0600" stop="20201106004500 -0600" channel="MX | Azteca 7">
     <title lang="es">Paid Programming</title>
   </programme>
@@ -5513,9 +5537,6 @@
   </programme>
   <programme start="20201106064500 -0600" stop="20201106070000 -0600" channel="MX | Azteca 7">
     <title lang="es">Bubu Dom</title>
-  </programme>
-  <programme start="20201106150000 -0600" stop="20201106160000 -0600" channel="MX | Azteca 7">
-    <title lang="es">Escandalosos</title>
   </programme>
   <programme start="20201106190000 -0600" stop="20201106211500 -0600" channel="MX | Azteca 7">
     <title lang="es">9.1.1</title>
@@ -5758,6 +5779,9 @@
   <programme start="20201103154500 -0600" stop="20201103160000 -0600" channel="MX | CANAL Once">
     <title lang="es">Mirette Investiga</title>
     <episode-num system="onscreen">E16</episode-num>
+  </programme>
+  <programme start="20201103160000 -0600" stop="20201103161500 -0600" channel="MX | CANAL Once">
+    <title lang="es">Puerto Papel</title>
   </programme>
   <programme start="20201103161500 -0600" stop="20201103163000 -0600" channel="MX | CANAL Once">
     <title lang="es">Mis Vecinos Piratas</title>
@@ -6157,8 +6181,8 @@
   <programme start="20201104033000 -0600" stop="20201104060000 -0600" channel="MX | ForoTV">
     <title lang="es">Paid Programing</title>
   </programme>
-  <programme start="20201104150000 -0600" stop="20201104160000 -0600" channel="MX | ForoTV">
-    <title lang="es">A las 3</title>
+  <programme start="20201104160000 -0600" stop="20201104180000 -0600" channel="MX | ForoTV">
+    <title lang="es">Las noticias</title>
   </programme>
   <programme start="20201104180000 -0600" stop="20201104200000 -0600" channel="MX | ForoTV">
     <title lang="es">Las noticias</title>
@@ -7013,8 +7037,8 @@
   <programme start="20201105043000 -0600" stop="20201105060000 -0600" channel="MX | Mexiquense TV">
     <title lang="es">TV Mexiquense</title>
   </programme>
-  <programme start="20201105150000 -0600" stop="20201105160000 -0600" channel="MX | Mexiquense TV">
-    <title lang="es">AMX con Kimberly Armengol</title>
+  <programme start="20201105160000 -0600" stop="20201105170000 -0600" channel="MX | Mexiquense TV">
+    <title lang="es">Noticias en HoraBuena</title>
   </programme>
   <programme start="20201105170000 -0600" stop="20201105180000 -0600" channel="MX | Mexiquense TV">
     <title lang="es">Las Pasantes</title>
@@ -7301,8 +7325,8 @@
   <programme start="20201103125800 -0600" stop="20201103135800 -0600" channel="MX | TVC">
     <title lang="es">Meganoticias TVC con Juan Carlos Zuñiga En Vivo</title>
   </programme>
-  <programme start="20201103145800 -0600" stop="20201103155800 -0600" channel="MX | TVC">
-    <title lang="es">Meganoticias TVC con Mitzi Cordero y Alex Piñón En Vivo</title>
+  <programme start="20201103155800 -0600" stop="20201103165800 -0600" channel="MX | TVC">
+    <title lang="es">Meganoticias TVC con Tania Gómez y Adrián Olvera En Vivo</title>
   </programme>
   <programme start="20201103175800 -0600" stop="20201103185800 -0600" channel="MX | TVC">
     <title lang="es">A Fondo con Mayté Noriega, Eduardo Torreblanca En Vivo</title>
@@ -7833,8 +7857,152 @@
   <programme start="20201102233000 -0600" stop="20201103000000 -0600" channel="INF | BABY FIRST">
     <title lang="es">Programas para el desarrollo del bebé</title>
   </programme>
-  <programme start="20201103153000 -0600" stop="20201103160000 -0600" channel="INF | BABY FIRST">
+  <programme start="20201103160000 -0600" stop="20201103163000 -0600" channel="INF | BABY FIRST">
+    <title lang="es">Tec, el Tractor</title>
+  </programme>
+  <programme start="20201102003000 -0600" stop="20201102010000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Programas para el desarrollo del bebé</title>
+  </programme>
+  <programme start="20201102010000 -0600" stop="20201102013000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Programas para el desarrollo del bebé</title>
+  </programme>
+  <programme start="20201102013000 -0600" stop="20201102020000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Programas para el desarrollo del bebé</title>
+  </programme>
+  <programme start="20201102020000 -0600" stop="20201102023000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Programas para el desarrollo del bebé</title>
+  </programme>
+  <programme start="20201102023000 -0600" stop="20201102030000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Programas para el desarrollo del bebé</title>
+  </programme>
+  <programme start="20201102030000 -0600" stop="20201102033000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Programas para el desarrollo del bebé</title>
+  </programme>
+  <programme start="20201102033000 -0600" stop="20201102040000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Programas para el desarrollo del bebé</title>
+  </programme>
+  <programme start="20201102040000 -0600" stop="20201102043000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Floreciendo temprano</title>
+  </programme>
+  <programme start="20201102043000 -0600" stop="20201102050000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Floreciendo temprano</title>
+  </programme>
+  <programme start="20201102050000 -0600" stop="20201102053000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Levántate y Brilla</title>
+  </programme>
+  <programme start="20201102053000 -0600" stop="20201102060000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Levántate y Brilla</title>
+  </programme>
+  <programme start="20201102060000 -0600" stop="20201102063000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Levántate y Brilla</title>
+  </programme>
+  <programme start="20201102063000 -0600" stop="20201102070000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Levántate y Brilla</title>
+  </programme>
+  <programme start="20201102070000 -0600" stop="20201102073000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Larry y Amigos</title>
+  </programme>
+  <programme start="20201102073000 -0600" stop="20201102080000 -0600" channel="INF | Baby First FHD (MX)">
     <title lang="es">GooGoo</title>
+  </programme>
+  <programme start="20201102080000 -0600" stop="20201102083000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Tec, el Tractor</title>
+  </programme>
+  <programme start="20201102083000 -0600" stop="20201102090000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Galaxia ABC</title>
+  </programme>
+  <programme start="20201102090000 -0600" stop="20201102093000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Pandilla de Colores</title>
+  </programme>
+  <programme start="20201102093000 -0600" stop="20201102100000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Las Notas Musicales</title>
+  </programme>
+  <programme start="20201102100000 -0600" stop="20201102103000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Favoritos de Baby First</title>
+  </programme>
+  <programme start="20201102103000 -0600" stop="20201102110000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Favoritos de Baby First</title>
+  </programme>
+  <programme start="20201102110000 -0600" stop="20201102113000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Harry y Larry: ¡Profesiones que Ayudan</title>
+  </programme>
+  <programme start="20201102113000 -0600" stop="20201102120000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Squeak</title>
+  </programme>
+  <programme start="20201102120000 -0600" stop="20201102123000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Squeak</title>
+  </programme>
+  <programme start="20201102123000 -0600" stop="20201102130000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Mamá y Yo - Diversión Familiar</title>
+  </programme>
+  <programme start="20201102130000 -0600" stop="20201102133000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Mamá y Yo - Cantemos</title>
+  </programme>
+  <programme start="20201102133000 -0600" stop="20201102140000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Programas para el desarrollo del bebé</title>
+  </programme>
+  <programme start="20201102140000 -0600" stop="20201102143000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Hora de jugar con Al</title>
+  </programme>
+  <programme start="20201102143000 -0600" stop="20201102150000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Hora de jugar con Al</title>
+  </programme>
+  <programme start="20201102150000 -0600" stop="20201102153000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Larry y Amigos</title>
+  </programme>
+  <programme start="20201102153000 -0600" stop="20201102160000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">GooGoo</title>
+  </programme>
+  <programme start="20201102160000 -0600" stop="20201102163000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Tec, el Tractor</title>
+  </programme>
+  <programme start="20201102163000 -0600" stop="20201102170000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Galaxia ABC</title>
+  </programme>
+  <programme start="20201102170000 -0600" stop="20201102173000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Pandilla de Colores</title>
+  </programme>
+  <programme start="20201102173000 -0600" stop="20201102180000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Las Notas Musicales</title>
+  </programme>
+  <programme start="20201102180000 -0600" stop="20201102183000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Favoritos de Baby First</title>
+  </programme>
+  <programme start="20201102183000 -0600" stop="20201102190000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Favoritos de Baby First</title>
+  </programme>
+  <programme start="20201102190000 -0600" stop="20201102193000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Harry y Larry: ¡Profesiones que Ayudan</title>
+  </programme>
+  <programme start="20201102193000 -0600" stop="20201102200000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Squeak</title>
+  </programme>
+  <programme start="20201102200000 -0600" stop="20201102203000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Squeak</title>
+  </programme>
+  <programme start="20201102203000 -0600" stop="20201102210000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Mamá y Yo - Diversión Familiar</title>
+  </programme>
+  <programme start="20201102210000 -0600" stop="20201102213000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Mamá y Yo - Cantemos</title>
+  </programme>
+  <programme start="20201102213000 -0600" stop="20201102220000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">A la camita con BabyFirst</title>
+  </programme>
+  <programme start="20201102220000 -0600" stop="20201102223000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Programas para el desarrollo del bebé</title>
+  </programme>
+  <programme start="20201102223000 -0600" stop="20201102230000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Programas para el desarrollo del bebé</title>
+  </programme>
+  <programme start="20201102230000 -0600" stop="20201102233000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Programas para el desarrollo del bebé</title>
+  </programme>
+  <programme start="20201102233000 -0600" stop="20201103000000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Programas para el desarrollo del bebé</title>
+  </programme>
+  <programme start="20201103160000 -0600" stop="20201103163000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Tec, el Tractor</title>
   </programme>
   <programme start="20201102010000 -0600" stop="20201102020000 -0600" channel="INF | BOOMERANG">
     <title lang="es">Lluvia de hamburguesas serie</title>
@@ -8567,8 +8735,21 @@
   <programme start="20201103110000 -0600" stop="20201103113000 -0600" channel="INF | CARTOON NETWORK">
     <title lang="es">DC Super Hero Girls</title>
   </programme>
-  <programme start="20201103150000 -0600" stop="20201103160000 -0600" channel="INF | CARTOON NETWORK">
-    <title lang="es">Escandalosos</title>
+  <programme start="20201103160000 -0600" stop="20201103170000 -0600" channel="INF | CARTOON NETWORK">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+    <title lang="xx">Teen Titans Go!</title>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa.</desc>
+    <credits>
+      <producer>Aaron Horvath</producer>
+      <producer>Michael Jelenic</producer>
+      <composer>Andy Sturmer</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_jovenes_titanes_en_accion.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme>
   <programme start="20201103174500 -0600" stop="20201103180000 -0600" channel="INF | CARTOON NETWORK">
     <title lang="es">Mónica joven</title>
@@ -9629,11 +9810,25 @@
   <programme start="20201103152000 -0600" stop="20201103153000 -0600" channel="INF | Cartoon Network FHD (CO)">
     <title lang="es">El mundo de Craig</title>
   </programme>
-  <programme start="20201103153000 -0600" stop="20201103155500 -0600" channel="INF | Cartoon Network FHD (CO)">
-    <title lang="es">Víctor y Valentino</title>
-  </programme>
   <programme start="20201103155500 -0600" stop="20201103160000 -0600" channel="INF | Cartoon Network FHD (CO)">
     <title lang="es">Mr. Trance</title>
+  </programme>
+  <programme start="20201103160000 -0600" stop="20201103164500 -0600" channel="INF | Cartoon Network FHD (CO)">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+    <title lang="xx">The Amazing World of Gumball</title>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore.</desc>
+    <credits>
+      <producer>Joanna Beresford</producer>
+      <producer>Sarah Fell</producer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/el_increible_mundo_de_gumball.jpg" />
+    <country lang="es">Reino Unido</country>
+    <country lang="es">Estados Unidos</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme>
   <programme start="20201103164500 -0600" stop="20201103170000 -0600" channel="INF | Cartoon Network FHD (CO)">
     <title lang="es">El mundo de Craig</title>
