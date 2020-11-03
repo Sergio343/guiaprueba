@@ -264,6 +264,51 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_sur-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="DEP | ESPN DEPORTES HD">
+    <display-name lang="es">DEP | ESPN DEPORTES HD</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/espn_deportes-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="DEP | ESPN FHD (MX)">
+    <display-name lang="es">DEP | ESPN FHD (MX)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="DEP | ESPN HD (AR)">
+    <display-name lang="es">DEP | ESPN HD (AR)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/espn_sur-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="DEP | ESPN Extra (MX)">
+    <display-name lang="es">DEP | ESPN Extra (MX)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/espn_extra_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="DEP | ESPN Extra FHD (MX)">
+    <display-name lang="es">DEP | ESPN Extra FHD (MX)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/espn_extra_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="DEP | ESPN Extra HD (AR)">
+    <display-name lang="es">DEP | ESPN Extra HD (AR)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/espn_extra_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="DEP | EUROSPORT 1 HD (ES)">
+    <display-name lang="es">DEP | EUROSPORT 1 HD (ES)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/eurosport_1-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="DEP | FOX Deportes HD">
+    <display-name lang="es">DEP | FOX Deportes HD</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_deportes-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="DEP | Fox Sports (MX)">
+    <display-name lang="es">DEP | Fox Sports (MX)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
   <programme start="20201103003000 -0600" stop="20201103013000 -0600" channel="MX | A Plus">
     <title lang="es">Paid Programing</title>
   </programme>
@@ -1162,6 +1207,9 @@
   <programme start="20201104133000 -0600" stop="20201104150000 -0600" channel="MX | AZ Corazon FHD">
     <title lang="es">La otra cara del alma - Parte 2</title>
   </programme>
+  <programme start="20201104164500 -0600" stop="20201104180000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Gata salvaje - Parte 2</title>
+  </programme>
   <programme start="20201103020000 -0600" stop="20201103040000 -0600" channel="MX | AZ Mundo FHD">
     <title lang="es">A confirmar</title>
   </programme>
@@ -1424,6 +1472,9 @@
   <programme start="20201104160000 -0600" stop="20201104163000 -0600" channel="MX | AZTECA SIETE FHD">
     <title lang="es">Recargado de Risa</title>
   </programme>
+  <programme start="20201104163000 -0600" stop="20201104174500 -0600" channel="MX | AZTECA SIETE FHD">
+    <title lang="es">Así en el barrio como en</title>
+  </programme>
   <programme start="20201105003000 -0600" stop="20201105004500 -0600" channel="MX | AZTECA SIETE FHD">
     <title lang="es">Infomerciales</title>
   </programme>
@@ -1648,6 +1699,9 @@
   </programme>
   <programme start="20201104140000 -0600" stop="20201104150000 -0600" channel="MX | Azteca UNO FHD">
     <title lang="es">Hechos meridiano</title>
+  </programme>
+  <programme start="20201104163000 -0600" stop="20201104173000 -0600" channel="MX | Azteca UNO FHD">
+    <title lang="es">Todos quieren fama</title>
   </programme>
   <programme start="20201104193000 -0600" stop="20201104223000 -0600" channel="MX | Azteca UNO FHD">
     <title lang="es">MasterChef</title>
@@ -1958,6 +2012,22 @@
   <programme start="20201105140000 -0600" stop="20201105150000 -0600" channel="MX | Canal 5 FHD">
     <title lang="es">Henry Danger</title>
   </programme>
+  <programme start="20201105170000 -0600" stop="20201105180000 -0600" channel="MX | Canal 5 FHD">
+    <title lang="es">Victorious</title>
+    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.</desc>
+    <credits>
+      <actor>Victoria Justice</actor>
+      <producer>Robin Weiner</producer>
+      <producer>Joe Catania</producer>
+      <composer>Michael Corcoran</composer>
+      <composer>Dr. Luke</composer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Serie</category>
+    <category lang="es">Juvenil</category>
+    <category lang="es">Programa</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
+  </programme>
   <programme start="20201106000000 -0600" stop="20201106010000 -0600" channel="MX | Canal 5 FHD">
     <title lang="es">Infomerciales</title>
   </programme>
@@ -2137,6 +2207,9 @@
   </programme>
   <programme start="20201104133000 -0600" stop="20201104143000 -0600" channel="MX | Canal de las Estrellas FHD">
     <title lang="es">Minuto para ganar VIP</title>
+  </programme>
+  <programme start="20201104153000 -0600" stop="20201104173000 -0600" channel="MX | Canal de las Estrellas FHD">
+    <title lang="es">Soy tu dueña</title>
   </programme>
   <programme start="20201104230000 -0600" stop="20201105000000 -0600" channel="MX | Canal de las Estrellas FHD">
     <title lang="es">Tercer Grado</title>
@@ -3246,6 +3319,9 @@
   <programme start="20201104170000 -0600" stop="20201104180000 -0600" channel="MX | Formula Noticias FHD">
     <title lang="es">La Fórmula es...Orvañanos</title>
   </programme>
+  <programme start="20201105170000 -0600" stop="20201105180000 -0600" channel="MX | Formula Noticias FHD">
+    <title lang="es">La Fórmula es...Orvañanos</title>
+  </programme>
   <programme start="20201103013000 -0600" stop="20201103020000 -0600" channel="MX | Foro TV FHD">
     <title lang="es">Las noticias</title>
   </programme>
@@ -3368,6 +3444,9 @@
   </programme>
   <programme start="20201105140000 -0600" stop="20201105150000 -0600" channel="MX | Foro TV FHD">
     <title lang="es">Noticias MX</title>
+  </programme>
+  <programme start="20201105160000 -0600" stop="20201105180000 -0600" channel="MX | Foro TV FHD">
+    <title lang="es">Las noticias</title>
   </programme>
   <programme start="20201103003000 -0600" stop="20201103010000 -0600" channel="MX | HLN FHD">
     <title lang="es">Forensic Files</title>
@@ -4050,6 +4129,9 @@
   <programme start="20201104140000 -0600" stop="20201104160000 -0600" channel="MX | Milenio TV FHD">
     <title lang="es">Noticias con Claudia Ovalle</title>
   </programme>
+  <programme start="20201104160000 -0600" stop="20201104180000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Noticias con Magda González</title>
+  </programme>
   <programme start="20201104184500 -0600" stop="20201104190000 -0600" channel="MX | Milenio TV FHD">
     <title lang="es">M2 con Susana Moscatel</title>
   </programme>
@@ -4179,6 +4261,9 @@
   <programme start="20201104140000 -0600" stop="20201104150000 -0600" channel="MX | Multimedios Plus FHD">
     <title lang="es">Telediario vespertino CDMX</title>
   </programme>
+  <programme start="20201104170000 -0600" stop="20201104190000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">La Bola del 6</title>
+  </programme>
   <programme start="20201104210000 -0600" stop="20201104213000 -0600" channel="MX | Multimedios Plus FHD">
     <title lang="es">MD MTY</title>
   </programme>
@@ -4301,6 +4386,9 @@
   </programme>
   <programme start="20201106120000 -0600" stop="20201106150000 -0600" channel="MX | NU9VE TV FHD">
     <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20201106160000 -0600" stop="20201106173000 -0600" channel="MX | NU9VE TV FHD">
+    <title lang="es">Mujer, casos de la vida real</title>
   </programme>
   <programme start="20201106193000 -0600" stop="20201106203000 -0600" channel="MX | NU9VE TV FHD">
     <title lang="es">La Familia Peluche</title>
@@ -4466,6 +4554,9 @@
   <programme start="20201104163000 -0600" stop="20201104170300 -0600" channel="MX | Once FHD">
     <title lang="es">Alisa sabe que hacer</title>
     <episode-num system="onscreen">E11</episode-num>
+  </programme>
+  <programme start="20201104170300 -0600" stop="20201104173000 -0600" channel="MX | Once FHD">
+    <title lang="es">¡Ven a ver mi Mundo</title>
   </programme>
   <programme start="20201104173000 -0600" stop="20201104180300 -0600" channel="MX | Once FHD">
     <title lang="es">Arte Ninja</title>
@@ -4730,6 +4821,9 @@
   <programme start="20201104135800 -0600" stop="20201104142800 -0600" channel="MX | TVC FHD">
     <title lang="es">Meganoticias TVC con Raúl Frías En Vivo</title>
   </programme>
+  <programme start="20201104165800 -0600" stop="20201104175800 -0600" channel="MX | TVC FHD">
+    <title lang="es">Meganoticias TVC con Yoelí Ramírez En Vivo</title>
+  </programme>
   <programme start="20201104175800 -0600" stop="20201104182800 -0600" channel="MX | TVC FHD">
     <title lang="es">Para Opinar con Raúl Frías En Vivo</title>
   </programme>
@@ -4976,6 +5070,9 @@
   <programme start="20201105140000 -0600" stop="20201105143000 -0600" channel="MX: AZ Click">
     <title lang="es">Be</title>
   </programme>
+  <programme start="20201105163000 -0600" stop="20201105173000 -0600" channel="MX: AZ Click">
+    <title lang="es">La Ciudad de las Ideas</title>
+  </programme>
   <programme start="20201106083000 -0600" stop="20201106090000 -0600" channel="MX: AZ Click">
     <title lang="es">Cocina angelical</title>
   </programme>
@@ -5035,6 +5132,9 @@
   </programme>
   <programme start="20201104133000 -0600" stop="20201104150000 -0600" channel="MX: AZ Corazon">
     <title lang="es">La otra cara del alma - Parte 2</title>
+  </programme>
+  <programme start="20201104164500 -0600" stop="20201104180000 -0600" channel="MX: AZ Corazon">
+    <title lang="es">Gata salvaje - Parte 2</title>
   </programme>
   <programme start="20201103003000 -0600" stop="20201103040000 -0600" channel="MX: Azteca 7">
     <title lang="es">Infomerciales</title>
@@ -5143,6 +5243,9 @@
   </programme>
   <programme start="20201104160000 -0600" stop="20201104163000 -0600" channel="MX: Azteca 7">
     <title lang="es">Recargado de Risa</title>
+  </programme>
+  <programme start="20201104163000 -0600" stop="20201104174500 -0600" channel="MX: Azteca 7">
+    <title lang="es">Así en el barrio como en</title>
   </programme>
   <programme start="20201105003000 -0600" stop="20201105004500 -0600" channel="MX: Azteca 7">
     <title lang="es">Infomerciales</title>
@@ -5369,6 +5472,9 @@
   <programme start="20201104140000 -0600" stop="20201104150000 -0600" channel="MX: Azteca Uno">
     <title lang="es">Hechos meridiano</title>
   </programme>
+  <programme start="20201104163000 -0600" stop="20201104173000 -0600" channel="MX: Azteca Uno">
+    <title lang="es">Todos quieren fama</title>
+  </programme>
   <programme start="20201104193000 -0600" stop="20201104223000 -0600" channel="MX: Azteca Uno">
     <title lang="es">MasterChef</title>
   </programme>
@@ -5527,6 +5633,9 @@
   <programme start="20201104163000 -0600" stop="20201104170300 -0600" channel="MX: CANAL Once">
     <title lang="es">Alisa sabe que hacer</title>
     <episode-num system="onscreen">E11</episode-num>
+  </programme>
+  <programme start="20201104170300 -0600" stop="20201104173000 -0600" channel="MX: CANAL Once">
+    <title lang="es">¡Ven a ver mi Mundo</title>
   </programme>
   <programme start="20201104173000 -0600" stop="20201104180300 -0600" channel="MX: CANAL Once">
     <title lang="es">Arte Ninja</title>
@@ -5755,6 +5864,9 @@
   <programme start="20201104170000 -0600" stop="20201104180000 -0600" channel="MX: FORMULA TV">
     <title lang="es">La Fórmula es...Orvañanos</title>
   </programme>
+  <programme start="20201105170000 -0600" stop="20201105180000 -0600" channel="MX: FORMULA TV">
+    <title lang="es">La Fórmula es...Orvañanos</title>
+  </programme>
   <programme start="20201103013000 -0600" stop="20201103020000 -0600" channel="MX: ForoTV">
     <title lang="es">Las noticias</title>
   </programme>
@@ -5877,6 +5989,9 @@
   </programme>
   <programme start="20201105140000 -0600" stop="20201105150000 -0600" channel="MX: ForoTV">
     <title lang="es">Noticias MX</title>
+  </programme>
+  <programme start="20201105160000 -0600" stop="20201105180000 -0600" channel="MX: ForoTV">
+    <title lang="es">Las noticias</title>
   </programme>
   <programme start="20201103003000 -0600" stop="20201103010000 -0600" channel="MX: INGENIO TV">
     <title lang="es">Vida Saludable</title>
@@ -6450,6 +6565,9 @@
   <programme start="20201104133000 -0600" stop="20201104143000 -0600" channel="MX: Las Estrellas">
     <title lang="es">Minuto para ganar VIP</title>
   </programme>
+  <programme start="20201104153000 -0600" stop="20201104173000 -0600" channel="MX: Las Estrellas">
+    <title lang="es">Soy tu dueña</title>
+  </programme>
   <programme start="20201104230000 -0600" stop="20201105000000 -0600" channel="MX: Las Estrellas">
     <title lang="es">Tercer Grado</title>
   </programme>
@@ -6714,6 +6832,9 @@
   <programme start="20201104140000 -0600" stop="20201104160000 -0600" channel="MX: Milenio TV">
     <title lang="es">Noticias con Claudia Ovalle</title>
   </programme>
+  <programme start="20201104160000 -0600" stop="20201104180000 -0600" channel="MX: Milenio TV">
+    <title lang="es">Noticias con Magda González</title>
+  </programme>
   <programme start="20201104184500 -0600" stop="20201104190000 -0600" channel="MX: Milenio TV">
     <title lang="es">M2 con Susana Moscatel</title>
   </programme>
@@ -6881,6 +7002,9 @@
   </programme>
   <programme start="20201104135800 -0600" stop="20201104142800 -0600" channel="MX: TVC">
     <title lang="es">Meganoticias TVC con Raúl Frías En Vivo</title>
+  </programme>
+  <programme start="20201104165800 -0600" stop="20201104175800 -0600" channel="MX: TVC">
+    <title lang="es">Meganoticias TVC con Yoelí Ramírez En Vivo</title>
   </programme>
   <programme start="20201104175800 -0600" stop="20201104182800 -0600" channel="MX: TVC">
     <title lang="es">Para Opinar con Raúl Frías En Vivo</title>
@@ -7311,6 +7435,9 @@
   <programme start="20201104134500 -0600" stop="20201104144000 -0600" channel="DEP | Adrenalina Sports">
     <title lang="es">XFL 2018</title>
   </programme>
+  <programme start="20201104170000 -0600" stop="20201104175000 -0600" channel="DEP | Adrenalina Sports">
+    <title lang="es">Aventura Extrema 2014</title>
+  </programme>
   <programme start="20201104190500 -0600" stop="20201104210000 -0600" channel="DEP | Adrenalina Sports">
     <title lang="es">Reto 4 Elementos</title>
   </programme>
@@ -7481,6 +7608,9 @@
   </programme>
   <programme start="20201104134500 -0600" stop="20201104144000 -0600" channel="DEP | Adrenalina Sports FHD">
     <title lang="es">XFL 2018</title>
+  </programme>
+  <programme start="20201104170000 -0600" stop="20201104175000 -0600" channel="DEP | Adrenalina Sports FHD">
+    <title lang="es">Aventura Extrema 2014</title>
   </programme>
   <programme start="20201104190500 -0600" stop="20201104210000 -0600" channel="DEP | Adrenalina Sports FHD">
     <title lang="es">Reto 4 Elementos</title>
@@ -9001,6 +9131,9 @@
   <programme start="20201106150000 -0600" stop="20201106170000 -0600" channel="DEP | ESPN (MX)">
     <title lang="es">Rijeka vs. Napoli</title>
   </programme>
+  <programme start="20201106170000 -0600" stop="20201106180000 -0600" channel="DEP | ESPN (MX)">
+    <title lang="es">NFL Live desde México</title>
+  </programme>
   <programme start="20201106180000 -0600" stop="20201106200000 -0600" channel="DEP | ESPN (MX)">
     <title lang="es">Sevilla vs. Krasnodar</title>
   </programme>
@@ -9212,6 +9345,25 @@
   </programme>
   <programme start="20201104135000 -0600" stop="20201104160000 -0600" channel="DEP | ESPN 2 (MX)">
     <title lang="es">Barcelona vs. Dynamo Kiev</title>
+  </programme>
+  <programme start="20201104170000 -0600" stop="20201104180000 -0600" channel="DEP | ESPN 2 (MX)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol Español</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
   </programme>
   <programme start="20201104190000 -0600" stop="20201104193000 -0600" channel="DEP | ESPN 2 (MX)">
     <title lang="es">SportsCenter</title>
@@ -9631,6 +9783,25 @@
   <programme start="20201104135000 -0600" stop="20201104160000 -0600" channel="DEP | ESPN 2 FHD (MX)">
     <title lang="es">Barcelona vs. Dynamo Kiev</title>
   </programme>
+  <programme start="20201104170000 -0600" stop="20201104180000 -0600" channel="DEP | ESPN 2 FHD (MX)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol Español</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
+  </programme>
   <programme start="20201104190000 -0600" stop="20201104193000 -0600" channel="DEP | ESPN 2 FHD (MX)">
     <title lang="es">SportsCenter</title>
     <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
@@ -10003,6 +10174,9 @@
   </programme>
   <programme start="20201107135000 -0600" stop="20201107160000 -0600" channel="DEP | ESPN 2 HD (AR)">
     <title lang="es">Southampton vs. Newcastle United En Vivo</title>
+  </programme>
+  <programme start="20201107160000 -0600" stop="20201107180000 -0600" channel="DEP | ESPN 2 HD (AR)">
+    <title lang="es">ESPN F90 Segunda edición En Vivo</title>
   </programme>
   <programme start="20201107230000 -0600" stop="20201107233000 -0600" channel="DEP | ESPN 2 HD (AR)">
     <title lang="es">ESPN Playroom</title>
@@ -10493,6 +10667,25 @@
   </programme>
   <programme start="20201104134500 -0600" stop="20201104160000 -0600" channel="DEP | ESPN 3 FHD (AR)">
     <title lang="es">Leipzig vs. Paris Saint-Germain</title>
+  </programme>
+  <programme start="20201104160000 -0600" stop="20201104180000 -0600" channel="DEP | ESPN 3 FHD (AR)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol Español</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
   </programme>
   <programme start="20201104180000 -0600" stop="20201104183000 -0600" channel="DEP | ESPN 3 FHD (AR)">
     <title lang="es">ESPN Polo</title>
@@ -11143,6 +11336,25 @@
   <programme start="20201104134500 -0600" stop="20201104160000 -0600" channel="DEP | ESPN 3 HD (AR)">
     <title lang="es">Leipzig vs. Paris Saint-Germain</title>
   </programme>
+  <programme start="20201104160000 -0600" stop="20201104180000 -0600" channel="DEP | ESPN 3 HD (AR)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol Español</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
+  </programme>
   <programme start="20201104180000 -0600" stop="20201104183000 -0600" channel="DEP | ESPN 3 HD (AR)">
     <title lang="es">ESPN Polo</title>
   </programme>
@@ -11304,5 +11516,1900 @@
   </programme>
   <programme start="20201106193000 -0600" stop="20201106200000 -0600" channel="DEP | ESPN 3 HD (AR)">
     <title lang="es">UEFA Champions League Weekly</title>
+  </programme>
+  <programme start="20201103010000 -0600" stop="20201103040000 -0600" channel="DEP | ESPN DEPORTES HD">
+    <title lang="es">Jorge Ramos y Su Banda</title>
+  </programme>
+  <programme start="20201103040000 -0600" stop="20201103050000 -0600" channel="DEP | ESPN DEPORTES HD">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20201103050000 -0600" stop="20201103060000 -0600" channel="DEP | ESPN DEPORTES HD">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol Español</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
+  </programme>
+  <programme start="20201103060000 -0600" stop="20201103090000 -0600" channel="DEP | ESPN DEPORTES HD">
+    <title lang="es">Jorge Ramos y Su Banda</title>
+  </programme>
+  <programme start="20201103090000 -0600" stop="20201103100000 -0600" channel="DEP | ESPN DEPORTES HD">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20201103100000 -0600" stop="20201103110000 -0600" channel="DEP | ESPN DEPORTES HD">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol Español</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
+  </programme>
+  <programme start="20201103110000 -0600" stop="20201103130000 -0600" channel="DEP | ESPN DEPORTES HD">
+    <title lang="es">Final: Tampa Bay Rowdies vs. Phoenix Rising FC</title>
+  </programme>
+  <programme start="20201103130000 -0600" stop="20201103150000 -0600" channel="DEP | ESPN DEPORTES HD">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20201103150000 -0600" stop="20201103180000 -0600" channel="DEP | ESPN DEPORTES HD">
+    <title lang="es">Jorge Ramos y Su Banda</title>
+  </programme>
+  <programme start="20201103180000 -0600" stop="20201103183000 -0600" channel="DEP | ESPN DEPORTES HD">
+    <title lang="es">Cronómetro</title>
+  </programme>
+  <programme start="20201103183000 -0600" stop="20201103190000 -0600" channel="DEP | ESPN DEPORTES HD">
+    <title lang="es">Ahora o nunca</title>
+  </programme>
+  <programme start="20201103190000 -0600" stop="20201103203000 -0600" channel="DEP | ESPN DEPORTES HD">
+    <title lang="es">Nürnberg vs. RB Leipzig</title>
+  </programme>
+  <programme start="20201103203000 -0600" stop="20201103220000 -0600" channel="DEP | ESPN DEPORTES HD">
+    <title lang="es">Udinese vs. Milan</title>
+  </programme>
+  <programme start="20201103220000 -0600" stop="20201103230000 -0600" channel="DEP | ESPN DEPORTES HD">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol Español</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
+  </programme>
+  <programme start="20201103230000 -0600" stop="20201104000000 -0600" channel="DEP | ESPN DEPORTES HD">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20201104110000 -0600" stop="20201104130000 -0600" channel="DEP | ESPN DEPORTES HD">
+    <title lang="es">Udinese vs. Milan</title>
+  </programme>
+  <programme start="20201104150000 -0600" stop="20201104180000 -0600" channel="DEP | ESPN DEPORTES HD">
+    <title lang="es">Jorge Ramos y Su Banda</title>
+  </programme>
+  <programme start="20201104190000 -0600" stop="20201104203000 -0600" channel="DEP | ESPN DEPORTES HD">
+    <title lang="es">Portland Timbers vs. LA Galaxy</title>
+  </programme>
+  <programme start="20201104203000 -0600" stop="20201104220000 -0600" channel="DEP | ESPN DEPORTES HD">
+    <title lang="es">Columbus Crew SC vs. Philadelphia Union</title>
+  </programme>
+  <programme start="20201105110000 -0600" stop="20201105130000 -0600" channel="DEP | ESPN DEPORTES HD">
+    <title lang="es">Columbus Crew SC vs. Philadelphia Union</title>
+  </programme>
+  <programme start="20201105190000 -0600" stop="20201105200000 -0600" channel="DEP | ESPN DEPORTES HD">
+    <title lang="es">UFC Unleashed</title>
+  </programme>
+  <programme start="20201105200000 -0600" stop="20201105210000 -0600" channel="DEP | ESPN DEPORTES HD">
+    <title lang="es">Karate Combat</title>
+  </programme>
+  <programme start="20201105210000 -0600" stop="20201105220000 -0600" channel="DEP | ESPN DEPORTES HD">
+    <title lang="es">Karate Combat</title>
+  </programme>
+  <programme start="20201105220000 -0600" stop="20201105230000 -0600" channel="DEP | ESPN DEPORTES HD">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol Español</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
+  </programme>
+  <programme start="20201105230000 -0600" stop="20201106000000 -0600" channel="DEP | ESPN DEPORTES HD">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20201106110000 -0600" stop="20201106120000 -0600" channel="DEP | ESPN DEPORTES HD">
+    <title lang="es">Karate Combat</title>
+  </programme>
+  <programme start="20201106120000 -0600" stop="20201106130000 -0600" channel="DEP | ESPN DEPORTES HD">
+    <title lang="es">Karate Combat</title>
+  </programme>
+  <programme start="20201106130000 -0600" stop="20201106150000 -0600" channel="DEP | ESPN DEPORTES HD">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20201106150000 -0600" stop="20201106180000 -0600" channel="DEP | ESPN DEPORTES HD">
+    <title lang="es">Jorge Ramos y Su Banda</title>
+  </programme>
+  <programme start="20201106180000 -0600" stop="20201106183000 -0600" channel="DEP | ESPN DEPORTES HD">
+    <title lang="es">Cronómetro</title>
+  </programme>
+  <programme start="20201106183000 -0600" stop="20201106190000 -0600" channel="DEP | ESPN DEPORTES HD">
+    <title lang="es">Ahora o nunca</title>
+  </programme>
+  <programme start="20201106190000 -0600" stop="20201106200000 -0600" channel="DEP | ESPN DEPORTES HD">
+    <title lang="es">UFC Unleashed</title>
+  </programme>
+  <programme start="20201106200000 -0600" stop="20201106220000 -0600" channel="DEP | ESPN DEPORTES HD">
+    <title lang="es">V. Lomachenko vs. T. López</title>
+  </programme>
+  <programme start="20201106230000 -0600" stop="20201106233000 -0600" channel="DEP | ESPN DEPORTES HD">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol Español</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
+  </programme>
+  <programme start="20201106233000 -0600" stop="20201107003000 -0600" channel="DEP | ESPN DEPORTES HD">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20201103010000 -0600" stop="20201103030000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">FC Dallas vs. Houston Dynamo</title>
+  </programme>
+  <programme start="20201103030000 -0600" stop="20201103040000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20201103040000 -0600" stop="20201103070000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">Rolex Paris Masters</title>
+  </programme>
+  <programme start="20201103070000 -0600" stop="20201103100000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">Rolex Paris Masters</title>
+  </programme>
+  <programme start="20201103100000 -0600" stop="20201103110000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">Rolex Paris Masters</title>
+  </programme>
+  <programme start="20201103110000 -0600" stop="20201103134500 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">Rolex Paris Masters</title>
+  </programme>
+  <programme start="20201103134500 -0600" stop="20201103160000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">FC Salzburg vs. Bayern Munich</title>
+  </programme>
+  <programme start="20201103160000 -0600" stop="20201103170000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol Español</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
+  </programme>
+  <programme start="20201103170000 -0600" stop="20201103180000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">NFL Live desde México</title>
+  </programme>
+  <programme start="20201103180000 -0600" stop="20201103200000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">Lokomotiv vs. Atletico Madrid</title>
+  </programme>
+  <programme start="20201103200000 -0600" stop="20201103220000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">Midtjylland vs. Ajax</title>
+  </programme>
+  <programme start="20201103220000 -0600" stop="20201103230000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol Español</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
+  </programme>
+  <programme start="20201103230000 -0600" stop="20201104000000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol Español</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
+  </programme>
+  <programme start="20201104010000 -0600" stop="20201104040000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">Barça TV</title>
+  </programme>
+  <programme start="20201104040000 -0600" stop="20201104070000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">Rolex Paris Masters</title>
+  </programme>
+  <programme start="20201104070000 -0600" stop="20201104100000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">Rolex Paris Masters</title>
+  </programme>
+  <programme start="20201104100000 -0600" stop="20201104110000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">Rolex Paris Masters</title>
+  </programme>
+  <programme start="20201104110000 -0600" stop="20201104134500 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">Rolex Paris Masters</title>
+  </programme>
+  <programme start="20201104134500 -0600" stop="20201104160000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">Ferencváros vs. Juventus</title>
+  </programme>
+  <programme start="20201104160000 -0600" stop="20201104170000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol Español</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
+  </programme>
+  <programme start="20201104170000 -0600" stop="20201104180000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">NFL Live desde México</title>
+  </programme>
+  <programme start="20201104180000 -0600" stop="20201104193000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">Lokomotiv vs. Atletico Madrid</title>
+  </programme>
+  <programme start="20201104193000 -0600" stop="20201104213000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">Nashville vs. FC Dallas</title>
+  </programme>
+  <programme start="20201104213000 -0600" stop="20201105000000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol Español</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
+  </programme>
+  <programme start="20201105010000 -0600" stop="20201105030000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">Barcelona vs. Dynamo Kiev</title>
+  </programme>
+  <programme start="20201105110000 -0600" stop="20201105114500 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol Español</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
+  </programme>
+  <programme start="20201105114500 -0600" stop="20201105135000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">Ludogorets vs. Tottenham Hotspur</title>
+  </programme>
+  <programme start="20201105135000 -0600" stop="20201105160000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">Villarreal vs. Maccabi</title>
+  </programme>
+  <programme start="20201105180000 -0600" stop="20201105200000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">Rijeka vs. Napoli</title>
+  </programme>
+  <programme start="20201105200000 -0600" stop="20201105220000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">Ludogorets vs. Tottenham Hotspur</title>
+  </programme>
+  <programme start="20201105220000 -0600" stop="20201105230000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol Español</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
+  </programme>
+  <programme start="20201105230000 -0600" stop="20201106000000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol Español</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
+  </programme>
+  <programme start="20201106040000 -0600" stop="20201106043000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">ATP World Tour Uncovered</title>
+  </programme>
+  <programme start="20201106043000 -0600" stop="20201106050000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">Planet Speed</title>
+  </programme>
+  <programme start="20201106050000 -0600" stop="20201106060000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol Español</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
+  </programme>
+  <programme start="20201106060000 -0600" stop="20201106070000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol Español</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
+  </programme>
+  <programme start="20201106070000 -0600" stop="20201106103000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">Rolex Paris Masters</title>
+  </programme>
+  <programme start="20201106103000 -0600" stop="20201106110000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">ESPN W</title>
+  </programme>
+  <programme start="20201106110000 -0600" stop="20201106113000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">Inside Serie A</title>
+  </programme>
+  <programme start="20201106113000 -0600" stop="20201106150000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">Rolex Paris Masters</title>
+  </programme>
+  <programme start="20201106150000 -0600" stop="20201106170000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">Rijeka vs. Napoli</title>
+  </programme>
+  <programme start="20201106170000 -0600" stop="20201106180000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">NFL Live desde México</title>
+  </programme>
+  <programme start="20201106180000 -0600" stop="20201106200000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">Sevilla vs. Krasnodar</title>
+  </programme>
+  <programme start="20201106200000 -0600" stop="20201106220000 -0600" channel="DEP | ESPN FHD (MX)">
+    <title lang="es">Strasbourg vs. Marseille</title>
+  </programme>
+  <programme start="20201103010000 -0600" stop="20201103020000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">ESPN en Primera Persona</title>
+  </programme>
+  <programme start="20201103020000 -0600" stop="20201103030000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol Español</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
+  </programme>
+  <programme start="20201103030000 -0600" stop="20201103040000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">Goles de Europa</title>
+  </programme>
+  <programme start="20201103040000 -0600" stop="20201103110000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">Tenis</title>
+  </programme>
+  <programme start="20201103110000 -0600" stop="20201103114500 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">Previa UEFA Champions League</title>
+  </programme>
+  <programme start="20201103114500 -0600" stop="20201103135000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">Lokomotiv Moscow vs. Atlético Madrid</title>
+  </programme>
+  <programme start="20201103135000 -0600" stop="20201103160000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">Atalanta vs. Liverpool</title>
+  </programme>
+  <programme start="20201103160000 -0600" stop="20201103170000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">Goles de Europa</title>
+  </programme>
+  <programme start="20201103170000 -0600" stop="20201103180000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">#Redes</title>
+  </programme>
+  <programme start="20201103180000 -0600" stop="20201103200000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">Real Madrid vs. Inter Milan</title>
+  </programme>
+  <programme start="20201103200000 -0600" stop="20201103220000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">Manchester City vs. Olympiacos</title>
+  </programme>
+  <programme start="20201103220000 -0600" stop="20201103230000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">UEFA Champions League Highlights</title>
+  </programme>
+  <programme start="20201103230000 -0600" stop="20201104010000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">ESPN Knockout</title>
+  </programme>
+  <programme start="20201104230000 -0600" stop="20201105010000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">ESPN Knockout</title>
+  </programme>
+  <programme start="20201105010000 -0600" stop="20201105020000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">ESPN FC Show</title>
+  </programme>
+  <programme start="20201105114500 -0600" stop="20201105135000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">Basaksehir vs. Manchester United</title>
+  </programme>
+  <programme start="20201105135000 -0600" stop="20201105160000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">Ferencváros vs. Juventus</title>
+  </programme>
+  <programme start="20201105170000 -0600" stop="20201105180000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">#Redes</title>
+  </programme>
+  <programme start="20201105180000 -0600" stop="20201105190000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">UEFA Champions League Highlights</title>
+  </programme>
+  <programme start="20201105190000 -0600" stop="20201105210000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">ESPN Knockout</title>
+  </programme>
+  <programme start="20201105210000 -0600" stop="20201105230000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">Barcelona vs. Dynamo Kyiv</title>
+  </programme>
+  <programme start="20201105230000 -0600" stop="20201106000000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">UEFA Champions League Highlights</title>
+  </programme>
+  <programme start="20201106000000 -0600" stop="20201106020000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">ESPN Knockout</title>
+  </programme>
+  <programme start="20201106020000 -0600" stop="20201106030000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol Español</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
+  </programme>
+  <programme start="20201106030000 -0600" stop="20201106040000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">Goles de Europa</title>
+  </programme>
+  <programme start="20201106040000 -0600" stop="20201106110000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">Tenis</title>
+  </programme>
+  <programme start="20201106110000 -0600" stop="20201106113000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">ATP World Tour Weekly</title>
+  </programme>
+  <programme start="20201106113000 -0600" stop="20201106114500 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">UEFA Europa league</title>
+  </programme>
+  <programme start="20201106114500 -0600" stop="20201106135000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">UEFA Europa league</title>
+  </programme>
+  <programme start="20201106135000 -0600" stop="20201106160000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">UEFA Europa league</title>
+  </programme>
+  <programme start="20201106180000 -0600" stop="20201106190000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">Simplemente Futbol</title>
+  </programme>
+  <programme start="20201106190000 -0600" stop="20201106193000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">La liga show</title>
+  </programme>
+  <programme start="20201106193000 -0600" stop="20201106200000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">La liga World</title>
+  </programme>
+  <programme start="20201106200000 -0600" stop="20201106220000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">UEFA Europa league</title>
+  </programme>
+  <programme start="20201106220000 -0600" stop="20201106230000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">UEFA Europa League Highlights</title>
+  </programme>
+  <programme start="20201106230000 -0600" stop="20201107000000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">Golf PGA Tour Champions</title>
+  </programme>
+  <programme start="20201107000000 -0600" stop="20201107010000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">PGA Tour Highlights</title>
+  </programme>
+  <programme start="20201107030000 -0600" stop="20201107033000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">ESPN W</title>
+  </programme>
+  <programme start="20201107033000 -0600" stop="20201107040000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">ESPN Run</title>
+  </programme>
+  <programme start="20201107040000 -0600" stop="20201107050000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">Argentine Horse Racing Magazine</title>
+  </programme>
+  <programme start="20201107050000 -0600" stop="20201107060000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">#Redes</title>
+  </programme>
+  <programme start="20201107060000 -0600" stop="20201107070000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">Goles de Europa</title>
+  </programme>
+  <programme start="20201107070000 -0600" stop="20201107103000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">Tenis</title>
+  </programme>
+  <programme start="20201107103000 -0600" stop="20201107110000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">ATP World Tour Weekly</title>
+  </programme>
+  <programme start="20201107110000 -0600" stop="20201107113000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">La liga show</title>
+  </programme>
+  <programme start="20201107113000 -0600" stop="20201107150000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">Tenis</title>
+  </programme>
+  <programme start="20201107150000 -0600" stop="20201107160000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">#Redes</title>
+  </programme>
+  <programme start="20201107160000 -0600" stop="20201107170000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">Goles de Europa</title>
+  </programme>
+  <programme start="20201107170000 -0600" stop="20201107173000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">UEFA Champions League Weekly</title>
+  </programme>
+  <programme start="20201107173000 -0600" stop="20201107180000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">GP1</title>
+  </programme>
+  <programme start="20201107180000 -0600" stop="20201107190000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">ESPN Knockout</title>
+  </programme>
+  <programme start="20201107210000 -0600" stop="20201107230000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">ESPN Knockout</title>
+  </programme>
+  <programme start="20201107230000 -0600" stop="20201108000000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">ESPN Knockout</title>
+  </programme>
+  <programme start="20201103010000 -0600" stop="20201103020000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">ATP Masters 1000 - Paris</title>
+  </programme>
+  <programme start="20201103020000 -0600" stop="20201103030000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">ATP Masters 1000 - Paris</title>
+  </programme>
+  <programme start="20201103030000 -0600" stop="20201103050000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">Hellas Verona vs. Benevento</title>
+  </programme>
+  <programme start="20201103050000 -0600" stop="20201103053000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">Planet Speed</title>
+  </programme>
+  <programme start="20201103053000 -0600" stop="20201103060000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">ATP World Tour Uncovered</title>
+  </programme>
+  <programme start="20201103060000 -0600" stop="20201103063000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">ESPN X</title>
+  </programme>
+  <programme start="20201103063000 -0600" stop="20201103070000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">ESPN Run</title>
+  </programme>
+  <programme start="20201103070000 -0600" stop="20201103080000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">French Ligue 1 Highlights</title>
+  </programme>
+  <programme start="20201103080000 -0600" stop="20201103110000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">Buccaneers vs. Giants</title>
+  </programme>
+  <programme start="20201103110000 -0600" stop="20201103150000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">Rolex Paris Masters</title>
+  </programme>
+  <programme start="20201103150000 -0600" stop="20201103153000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">ESPN W</title>
+  </programme>
+  <programme start="20201103153000 -0600" stop="20201103160000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">Aguas Arriba</title>
+  </programme>
+  <programme start="20201103160000 -0600" stop="20201103180000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">Lokomotiv vs. Atletico Madrid</title>
+  </programme>
+  <programme start="20201103180000 -0600" stop="20201103200000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">Cycling</title>
+  </programme>
+  <programme start="20201103200000 -0600" stop="20201103210000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">UEFA CL Highlights</title>
+  </programme>
+  <programme start="20201103210000 -0600" stop="20201103220000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">ATP Masters 1000 - Paris</title>
+  </programme>
+  <programme start="20201103220000 -0600" stop="20201103230000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">ATP Masters 1000 - Paris</title>
+  </programme>
+  <programme start="20201103230000 -0600" stop="20201104010000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">Lokomotiv vs. Atletico Madrid</title>
+  </programme>
+  <programme start="20201104030000 -0600" stop="20201104040000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">UEFA CL Highlights</title>
+  </programme>
+  <programme start="20201104040000 -0600" stop="20201104060000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">Lokomotiv vs. Atletico Madrid</title>
+  </programme>
+  <programme start="20201104060000 -0600" stop="20201104070000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">French Ligue 1 Highlights</title>
+  </programme>
+  <programme start="20201104070000 -0600" stop="20201104073000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">ESPN X</title>
+  </programme>
+  <programme start="20201104073000 -0600" stop="20201104080000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">ESPN Run</title>
+  </programme>
+  <programme start="20201104080000 -0600" stop="20201104090000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">Steelers vs. Titans</title>
+  </programme>
+  <programme start="20201104090000 -0600" stop="20201104100000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">Browns vs. Bengals</title>
+  </programme>
+  <programme start="20201104100000 -0600" stop="20201104110000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">Goles De La Serie A</title>
+  </programme>
+  <programme start="20201104110000 -0600" stop="20201104150000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">Rolex Paris Masters</title>
+  </programme>
+  <programme start="20201104150000 -0600" stop="20201104153000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">ATP World Tour Uncovered</title>
+  </programme>
+  <programme start="20201104153000 -0600" stop="20201104160000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">ESPN X</title>
+  </programme>
+  <programme start="20201104160000 -0600" stop="20201104180000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">Barcelona vs. Dynamo Kiev</title>
+  </programme>
+  <programme start="20201104180000 -0600" stop="20201104200000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">Cycling</title>
+  </programme>
+  <programme start="20201104200000 -0600" stop="20201104210000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">UEFA CL Highlights</title>
+  </programme>
+  <programme start="20201104210000 -0600" stop="20201104220000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">ATP Masters 1000 - Paris</title>
+  </programme>
+  <programme start="20201104220000 -0600" stop="20201104230000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">ATP Masters 1000 - Paris</title>
+  </programme>
+  <programme start="20201104230000 -0600" stop="20201105010000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">Barcelona vs. Dynamo Kiev</title>
+  </programme>
+  <programme start="20201105230000 -0600" stop="20201106010000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">Barcelona vs. Dynamo Kiev</title>
+  </programme>
+  <programme start="20201106040000 -0600" stop="20201106060000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">Barcelona vs. Dynamo Kiev</title>
+  </programme>
+  <programme start="20201106070000 -0600" stop="20201106080000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">PGA Tour Highlights</title>
+  </programme>
+  <programme start="20201106080000 -0600" stop="20201106090000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">Dutch League Highlights</title>
+  </programme>
+  <programme start="20201106090000 -0600" stop="20201106110000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">Barcelona vs. Dynamo Kiev</title>
+  </programme>
+  <programme start="20201106150000 -0600" stop="20201106160000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">Goles De La Serie A</title>
+  </programme>
+  <programme start="20201106160000 -0600" stop="20201106180000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">UEFA Europa league</title>
+  </programme>
+  <programme start="20201106200000 -0600" stop="20201106210000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">UEFA Europa League Highlights</title>
+  </programme>
+  <programme start="20201106230000 -0600" stop="20201107010000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">UEFA Europa league</title>
+  </programme>
+  <programme start="20201107030000 -0600" stop="20201107050000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">UEFA Europa league</title>
+  </programme>
+  <programme start="20201107050000 -0600" stop="20201107060000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">UEFA CL Highlights</title>
+  </programme>
+  <programme start="20201107060000 -0600" stop="20201107070000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">UEFA CL Highlights</title>
+  </programme>
+  <programme start="20201107070000 -0600" stop="20201107090000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">Lokomotiv vs. Atletico Madrid</title>
+  </programme>
+  <programme start="20201107090000 -0600" stop="20201107110000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">Barcelona vs. Dynamo Kiev</title>
+  </programme>
+  <programme start="20201107110000 -0600" stop="20201107130000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">UEFA Europa league</title>
+  </programme>
+  <programme start="20201107130000 -0600" stop="20201107140000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">French Ligue 1 Highlights</title>
+  </programme>
+  <programme start="20201107140000 -0600" stop="20201107150000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">Goles De La Serie A</title>
+  </programme>
+  <programme start="20201107150000 -0600" stop="20201107160000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">PGA Tour Highlights</title>
+  </programme>
+  <programme start="20201107160000 -0600" stop="20201107170000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">UEFA Europa League Highlights</title>
+  </programme>
+  <programme start="20201107170000 -0600" stop="20201107173000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">Aguas Arriba</title>
+  </programme>
+  <programme start="20201107173000 -0600" stop="20201107190000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">Serie A Preview Show</title>
+  </programme>
+  <programme start="20201107190000 -0600" stop="20201107210000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">Cycling</title>
+  </programme>
+  <programme start="20201107220000 -0600" stop="20201108010000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">ATP Masters 1000 - Paris</title>
+  </programme>
+  <programme start="20201103010000 -0600" stop="20201103020000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">ATP Masters 1000 - Paris</title>
+  </programme>
+  <programme start="20201103020000 -0600" stop="20201103030000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">ATP Masters 1000 - Paris</title>
+  </programme>
+  <programme start="20201103030000 -0600" stop="20201103050000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">Hellas Verona vs. Benevento</title>
+  </programme>
+  <programme start="20201103050000 -0600" stop="20201103053000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">Planet Speed</title>
+  </programme>
+  <programme start="20201103053000 -0600" stop="20201103060000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">ATP World Tour Uncovered</title>
+  </programme>
+  <programme start="20201103060000 -0600" stop="20201103063000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">ESPN X</title>
+  </programme>
+  <programme start="20201103063000 -0600" stop="20201103070000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">ESPN Run</title>
+  </programme>
+  <programme start="20201103070000 -0600" stop="20201103080000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">French Ligue 1 Highlights</title>
+  </programme>
+  <programme start="20201103080000 -0600" stop="20201103110000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">Buccaneers vs. Giants</title>
+  </programme>
+  <programme start="20201103110000 -0600" stop="20201103150000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">Rolex Paris Masters</title>
+  </programme>
+  <programme start="20201103150000 -0600" stop="20201103153000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">ESPN W</title>
+  </programme>
+  <programme start="20201103153000 -0600" stop="20201103160000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">Aguas Arriba</title>
+  </programme>
+  <programme start="20201103160000 -0600" stop="20201103180000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">Lokomotiv vs. Atletico Madrid</title>
+  </programme>
+  <programme start="20201103180000 -0600" stop="20201103200000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">Cycling</title>
+  </programme>
+  <programme start="20201103200000 -0600" stop="20201103210000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">UEFA CL Highlights</title>
+  </programme>
+  <programme start="20201103210000 -0600" stop="20201103220000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">ATP Masters 1000 - Paris</title>
+  </programme>
+  <programme start="20201103220000 -0600" stop="20201103230000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">ATP Masters 1000 - Paris</title>
+  </programme>
+  <programme start="20201103230000 -0600" stop="20201104010000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">Lokomotiv vs. Atletico Madrid</title>
+  </programme>
+  <programme start="20201104030000 -0600" stop="20201104040000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">UEFA CL Highlights</title>
+  </programme>
+  <programme start="20201104040000 -0600" stop="20201104060000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">Lokomotiv vs. Atletico Madrid</title>
+  </programme>
+  <programme start="20201104060000 -0600" stop="20201104070000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">French Ligue 1 Highlights</title>
+  </programme>
+  <programme start="20201104070000 -0600" stop="20201104073000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">ESPN X</title>
+  </programme>
+  <programme start="20201104073000 -0600" stop="20201104080000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">ESPN Run</title>
+  </programme>
+  <programme start="20201104080000 -0600" stop="20201104090000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">Steelers vs. Titans</title>
+  </programme>
+  <programme start="20201104090000 -0600" stop="20201104100000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">Browns vs. Bengals</title>
+  </programme>
+  <programme start="20201104100000 -0600" stop="20201104110000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">Goles De La Serie A</title>
+  </programme>
+  <programme start="20201104110000 -0600" stop="20201104150000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">Rolex Paris Masters</title>
+  </programme>
+  <programme start="20201104150000 -0600" stop="20201104153000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">ATP World Tour Uncovered</title>
+  </programme>
+  <programme start="20201104153000 -0600" stop="20201104160000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">ESPN X</title>
+  </programme>
+  <programme start="20201104160000 -0600" stop="20201104180000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">Barcelona vs. Dynamo Kiev</title>
+  </programme>
+  <programme start="20201104180000 -0600" stop="20201104200000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">Cycling</title>
+  </programme>
+  <programme start="20201104200000 -0600" stop="20201104210000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">UEFA CL Highlights</title>
+  </programme>
+  <programme start="20201104210000 -0600" stop="20201104220000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">ATP Masters 1000 - Paris</title>
+  </programme>
+  <programme start="20201104220000 -0600" stop="20201104230000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">ATP Masters 1000 - Paris</title>
+  </programme>
+  <programme start="20201104230000 -0600" stop="20201105010000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">Barcelona vs. Dynamo Kiev</title>
+  </programme>
+  <programme start="20201105230000 -0600" stop="20201106010000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">Barcelona vs. Dynamo Kiev</title>
+  </programme>
+  <programme start="20201106040000 -0600" stop="20201106060000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">Barcelona vs. Dynamo Kiev</title>
+  </programme>
+  <programme start="20201106070000 -0600" stop="20201106080000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">PGA Tour Highlights</title>
+  </programme>
+  <programme start="20201106080000 -0600" stop="20201106090000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">Dutch League Highlights</title>
+  </programme>
+  <programme start="20201106090000 -0600" stop="20201106110000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">Barcelona vs. Dynamo Kiev</title>
+  </programme>
+  <programme start="20201106150000 -0600" stop="20201106160000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">Goles De La Serie A</title>
+  </programme>
+  <programme start="20201106160000 -0600" stop="20201106180000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">UEFA Europa league</title>
+  </programme>
+  <programme start="20201106200000 -0600" stop="20201106210000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">UEFA Europa League Highlights</title>
+  </programme>
+  <programme start="20201106230000 -0600" stop="20201107010000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">UEFA Europa league</title>
+  </programme>
+  <programme start="20201107030000 -0600" stop="20201107050000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">UEFA Europa league</title>
+  </programme>
+  <programme start="20201107050000 -0600" stop="20201107060000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">UEFA CL Highlights</title>
+  </programme>
+  <programme start="20201107060000 -0600" stop="20201107070000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">UEFA CL Highlights</title>
+  </programme>
+  <programme start="20201107070000 -0600" stop="20201107090000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">Lokomotiv vs. Atletico Madrid</title>
+  </programme>
+  <programme start="20201107090000 -0600" stop="20201107110000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">Barcelona vs. Dynamo Kiev</title>
+  </programme>
+  <programme start="20201107110000 -0600" stop="20201107130000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">UEFA Europa league</title>
+  </programme>
+  <programme start="20201107130000 -0600" stop="20201107140000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">French Ligue 1 Highlights</title>
+  </programme>
+  <programme start="20201107140000 -0600" stop="20201107150000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">Goles De La Serie A</title>
+  </programme>
+  <programme start="20201107150000 -0600" stop="20201107160000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">PGA Tour Highlights</title>
+  </programme>
+  <programme start="20201107160000 -0600" stop="20201107170000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">UEFA Europa League Highlights</title>
+  </programme>
+  <programme start="20201107170000 -0600" stop="20201107173000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">Aguas Arriba</title>
+  </programme>
+  <programme start="20201107173000 -0600" stop="20201107190000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">Serie A Preview Show</title>
+  </programme>
+  <programme start="20201107190000 -0600" stop="20201107210000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">Cycling</title>
+  </programme>
+  <programme start="20201107220000 -0600" stop="20201108010000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">ATP Masters 1000 - Paris</title>
+  </programme>
+  <programme start="20201103010000 -0600" stop="20201103020000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">ATP Masters 1000 - Paris</title>
+  </programme>
+  <programme start="20201103020000 -0600" stop="20201103030000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">ATP Masters 1000 - Paris</title>
+  </programme>
+  <programme start="20201103030000 -0600" stop="20201103050000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">Hellas Verona vs. Benevento</title>
+  </programme>
+  <programme start="20201103050000 -0600" stop="20201103053000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">Planet Speed</title>
+  </programme>
+  <programme start="20201103053000 -0600" stop="20201103060000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">ATP World Tour Uncovered</title>
+  </programme>
+  <programme start="20201103060000 -0600" stop="20201103063000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">ESPN X</title>
+  </programme>
+  <programme start="20201103063000 -0600" stop="20201103070000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">ESPN Run</title>
+  </programme>
+  <programme start="20201103070000 -0600" stop="20201103080000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">French Ligue 1 Highlights</title>
+  </programme>
+  <programme start="20201103080000 -0600" stop="20201103110000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">Buccaneers vs. Giants</title>
+  </programme>
+  <programme start="20201103110000 -0600" stop="20201103150000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">Rolex Paris Masters</title>
+  </programme>
+  <programme start="20201103150000 -0600" stop="20201103153000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">ESPN W</title>
+  </programme>
+  <programme start="20201103153000 -0600" stop="20201103160000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">Aguas Arriba</title>
+  </programme>
+  <programme start="20201103160000 -0600" stop="20201103180000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">Lokomotiv vs. Atletico Madrid</title>
+  </programme>
+  <programme start="20201103180000 -0600" stop="20201103200000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">Cycling</title>
+  </programme>
+  <programme start="20201103200000 -0600" stop="20201103210000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">UEFA CL Highlights</title>
+  </programme>
+  <programme start="20201103210000 -0600" stop="20201103220000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">ATP Masters 1000 - Paris</title>
+  </programme>
+  <programme start="20201103220000 -0600" stop="20201103230000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">ATP Masters 1000 - Paris</title>
+  </programme>
+  <programme start="20201103230000 -0600" stop="20201104010000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">Lokomotiv vs. Atletico Madrid</title>
+  </programme>
+  <programme start="20201104030000 -0600" stop="20201104040000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">UEFA CL Highlights</title>
+  </programme>
+  <programme start="20201104040000 -0600" stop="20201104060000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">Lokomotiv vs. Atletico Madrid</title>
+  </programme>
+  <programme start="20201104060000 -0600" stop="20201104070000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">French Ligue 1 Highlights</title>
+  </programme>
+  <programme start="20201104070000 -0600" stop="20201104073000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">ESPN X</title>
+  </programme>
+  <programme start="20201104073000 -0600" stop="20201104080000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">ESPN Run</title>
+  </programme>
+  <programme start="20201104080000 -0600" stop="20201104090000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">Steelers vs. Titans</title>
+  </programme>
+  <programme start="20201104090000 -0600" stop="20201104100000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">Browns vs. Bengals</title>
+  </programme>
+  <programme start="20201104100000 -0600" stop="20201104110000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">Goles De La Serie A</title>
+  </programme>
+  <programme start="20201104110000 -0600" stop="20201104150000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">Rolex Paris Masters</title>
+  </programme>
+  <programme start="20201104150000 -0600" stop="20201104153000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">ATP World Tour Uncovered</title>
+  </programme>
+  <programme start="20201104153000 -0600" stop="20201104160000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">ESPN X</title>
+  </programme>
+  <programme start="20201104160000 -0600" stop="20201104180000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">Barcelona vs. Dynamo Kiev</title>
+  </programme>
+  <programme start="20201104180000 -0600" stop="20201104200000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">Cycling</title>
+  </programme>
+  <programme start="20201104200000 -0600" stop="20201104210000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">UEFA CL Highlights</title>
+  </programme>
+  <programme start="20201104210000 -0600" stop="20201104220000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">ATP Masters 1000 - Paris</title>
+  </programme>
+  <programme start="20201104220000 -0600" stop="20201104230000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">ATP Masters 1000 - Paris</title>
+  </programme>
+  <programme start="20201104230000 -0600" stop="20201105010000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">Barcelona vs. Dynamo Kiev</title>
+  </programme>
+  <programme start="20201105230000 -0600" stop="20201106010000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">Barcelona vs. Dynamo Kiev</title>
+  </programme>
+  <programme start="20201106040000 -0600" stop="20201106060000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">Barcelona vs. Dynamo Kiev</title>
+  </programme>
+  <programme start="20201106070000 -0600" stop="20201106080000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">PGA Tour Highlights</title>
+  </programme>
+  <programme start="20201106080000 -0600" stop="20201106090000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">Dutch League Highlights</title>
+  </programme>
+  <programme start="20201106090000 -0600" stop="20201106110000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">Barcelona vs. Dynamo Kiev</title>
+  </programme>
+  <programme start="20201106150000 -0600" stop="20201106160000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">Goles De La Serie A</title>
+  </programme>
+  <programme start="20201106160000 -0600" stop="20201106180000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">UEFA Europa league</title>
+  </programme>
+  <programme start="20201106200000 -0600" stop="20201106210000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">UEFA Europa League Highlights</title>
+  </programme>
+  <programme start="20201106230000 -0600" stop="20201107010000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">UEFA Europa league</title>
+  </programme>
+  <programme start="20201107030000 -0600" stop="20201107050000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">UEFA Europa league</title>
+  </programme>
+  <programme start="20201107050000 -0600" stop="20201107060000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">UEFA CL Highlights</title>
+  </programme>
+  <programme start="20201107060000 -0600" stop="20201107070000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">UEFA CL Highlights</title>
+  </programme>
+  <programme start="20201107070000 -0600" stop="20201107090000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">Lokomotiv vs. Atletico Madrid</title>
+  </programme>
+  <programme start="20201107090000 -0600" stop="20201107110000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">Barcelona vs. Dynamo Kiev</title>
+  </programme>
+  <programme start="20201107110000 -0600" stop="20201107130000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">UEFA Europa league</title>
+  </programme>
+  <programme start="20201107130000 -0600" stop="20201107140000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">French Ligue 1 Highlights</title>
+  </programme>
+  <programme start="20201107140000 -0600" stop="20201107150000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">Goles De La Serie A</title>
+  </programme>
+  <programme start="20201107150000 -0600" stop="20201107160000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">PGA Tour Highlights</title>
+  </programme>
+  <programme start="20201107160000 -0600" stop="20201107170000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">UEFA Europa League Highlights</title>
+  </programme>
+  <programme start="20201107170000 -0600" stop="20201107173000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">Aguas Arriba</title>
+  </programme>
+  <programme start="20201107173000 -0600" stop="20201107190000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">Serie A Preview Show</title>
+  </programme>
+  <programme start="20201107190000 -0600" stop="20201107210000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">Cycling</title>
+  </programme>
+  <programme start="20201107220000 -0600" stop="20201108010000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">ATP Masters 1000 - Paris</title>
+  </programme>
+  <programme start="20201103013000 -0600" stop="20201103033000 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Vuelta ciclista a España</title>
+  </programme>
+  <programme start="20201103033000 -0600" stop="20201103053000 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Naomi Osaka-Victoria Azarenka</title>
+  </programme>
+  <programme start="20201103053000 -0600" stop="20201103061500 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Vuelta ciclista a España</title>
+  </programme>
+  <programme start="20201103061500 -0600" stop="20201103073500 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Vuelta ciclista a España</title>
+  </programme>
+  <programme start="20201103073500 -0600" stop="20201103103000 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Vuelta ciclista a España</title>
+  </programme>
+  <programme start="20201103103000 -0600" stop="20201103110000 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">La montonera</title>
+  </programme>
+  <programme start="20201103110000 -0600" stop="20201103112500 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Dominic Thiem-Novak Djokovic</title>
+  </programme>
+  <programme start="20201103112500 -0600" stop="20201103113000 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Eurosportnews</title>
+  </programme>
+  <programme start="20201103113000 -0600" stop="20201103120000 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Anatomy Of</title>
+  </programme>
+  <programme start="20201103120000 -0600" stop="20201103123500 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Anatomy Of</title>
+  </programme>
+  <programme start="20201103123500 -0600" stop="20201103130500 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">IJF Grand Slam series</title>
+  </programme>
+  <programme start="20201103130500 -0600" stop="20201103145500 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Vuelta ciclista a España</title>
+  </programme>
+  <programme start="20201103145500 -0600" stop="20201103150000 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Eurosportnews</title>
+  </programme>
+  <programme start="20201103150000 -0600" stop="20201103153000 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Copa Mundial de Turismos</title>
+  </programme>
+  <programme start="20201103153000 -0600" stop="20201103154500 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Eset V4 Cup</title>
+  </programme>
+  <programme start="20201103154500 -0600" stop="20201103170000 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Naomi Osaka-Victoria Azarenka</title>
+  </programme>
+  <programme start="20201103170000 -0600" stop="20201103183000 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Vuelta ciclista a España</title>
+  </programme>
+  <programme start="20201103183000 -0600" stop="20201103200000 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Mundial de snooker</title>
+  </programme>
+  <programme start="20201103200000 -0600" stop="20201103220000 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Vuelta ciclista a España</title>
+  </programme>
+  <programme start="20201103220000 -0600" stop="20201103223000 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Copa Mundial de Turismos</title>
+  </programme>
+  <programme start="20201103223000 -0600" stop="20201103230000 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Copa Mundial de Turismos</title>
+  </programme>
+  <programme start="20201103230000 -0600" stop="20201103233000 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Copa Mundial de Turismos</title>
+  </programme>
+  <programme start="20201103233000 -0600" stop="20201104013000 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Ronnie</title>
+  </programme>
+  <programme start="20201104233000 -0600" stop="20201105013000 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Ronnie</title>
+  </programme>
+  <programme start="20201105013000 -0600" stop="20201105033000 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Vuelta ciclista a España</title>
+  </programme>
+  <programme start="20201105033000 -0600" stop="20201105053000 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Alexander Zverev-Dominic Thiem</title>
+  </programme>
+  <programme start="20201105053000 -0600" stop="20201105061500 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Vuelta ciclista a España</title>
+  </programme>
+  <programme start="20201105061500 -0600" stop="20201105073500 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Vuelta ciclista a España</title>
+  </programme>
+  <programme start="20201105073500 -0600" stop="20201105103000 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Vuelta ciclista a España</title>
+  </programme>
+  <programme start="20201105110000 -0600" stop="20201105110500 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Eurosportnews</title>
+  </programme>
+  <programme start="20201105110500 -0600" stop="20201105130000 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Alexander Zverev-Dominic Thiem</title>
+  </programme>
+  <programme start="20201105130000 -0600" stop="20201105145500 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Vuelta ciclista a España</title>
+  </programme>
+  <programme start="20201105145500 -0600" stop="20201105150000 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Eurosportnews</title>
+  </programme>
+  <programme start="20201105150000 -0600" stop="20201105170000 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Alexander Zverev-Dominic Thiem</title>
+  </programme>
+  <programme start="20201105170000 -0600" stop="20201105183000 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Vuelta ciclista a España</title>
+  </programme>
+  <programme start="20201105183000 -0600" stop="20201105200000 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Ronnie</title>
+  </programme>
+  <programme start="20201105200000 -0600" stop="20201105220000 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Vuelta ciclista a España</title>
+  </programme>
+  <programme start="20201105220000 -0600" stop="20201105223000 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Copa Mundial de Turismos</title>
+  </programme>
+  <programme start="20201105223000 -0600" stop="20201105230000 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Copa Mundial de Turismos</title>
+  </programme>
+  <programme start="20201105230000 -0600" stop="20201105233000 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Copa Mundial de Turismos</title>
+  </programme>
+  <programme start="20201105233000 -0600" stop="20201106013000 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Master Europeo de snooker</title>
+  </programme>
+  <programme start="20201106013000 -0600" stop="20201106033000 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Vuelta ciclista a España</title>
+  </programme>
+  <programme start="20201106033000 -0600" stop="20201106053000 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Roland Garros</title>
+  </programme>
+  <programme start="20201106053000 -0600" stop="20201106061500 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Vuelta ciclista a España</title>
+  </programme>
+  <programme start="20201106061500 -0600" stop="20201106073500 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Vuelta ciclista a España</title>
+  </programme>
+  <programme start="20201106073500 -0600" stop="20201106103000 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Vuelta ciclista a España</title>
+  </programme>
+  <programme start="20201106110000 -0600" stop="20201106125500 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Roland Garros</title>
+  </programme>
+  <programme start="20201106125500 -0600" stop="20201106130000 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Eurosportnews</title>
+  </programme>
+  <programme start="20201106130000 -0600" stop="20201106145500 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Vuelta ciclista a España</title>
+  </programme>
+  <programme start="20201106150000 -0600" stop="20201106170000 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Roland Garros</title>
+  </programme>
+  <programme start="20201106170000 -0600" stop="20201106183000 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Vuelta ciclista a España</title>
+  </programme>
+  <programme start="20201106183000 -0600" stop="20201106200000 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Master Europeo de snooker</title>
+  </programme>
+  <programme start="20201106200000 -0600" stop="20201106220000 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Vuelta ciclista a España</title>
+  </programme>
+  <programme start="20201106220000 -0600" stop="20201106223000 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Copa Mundial de Turismos</title>
+  </programme>
+  <programme start="20201106223000 -0600" stop="20201106230000 -0600" channel="DEP | EUROSPORT 1 HD (ES)">
+    <title lang="es">Copa Mundial de Turismos</title>
+  </programme>
+  <programme start="20201103010000 -0600" stop="20201103020000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">La última palabra</title>
+  </programme>
+  <programme start="20201103020000 -0600" stop="20201103030000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.</desc>
+    <date>1997</date>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">IndyCar Series</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Deporte</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Español</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png" />
+    <country lang="es">México</country>
+    <country lang="es">Argentina</country>
+  </programme>
+  <programme start="20201103030000 -0600" stop="20201103033000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201103033000 -0600" stop="20201103040000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201103040000 -0600" stop="20201103043000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201103043000 -0600" stop="20201103050000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201103050000 -0600" stop="20201103053000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201103053000 -0600" stop="20201103060000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201103060000 -0600" stop="20201103070000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.</desc>
+    <date>1997</date>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">IndyCar Series</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Deporte</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Español</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png" />
+    <country lang="es">México</country>
+    <country lang="es">Argentina</country>
+  </programme>
+  <programme start="20201103070000 -0600" stop="20201103080000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">El chiringuito de Jugones</title>
+  </programme>
+  <programme start="20201103080000 -0600" stop="20201103090000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">La última palabra</title>
+  </programme>
+  <programme start="20201103090000 -0600" stop="20201103100000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">Agenda Fox Sports</title>
+  </programme>
+  <programme start="20201103100000 -0600" stop="20201103110000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">La última palabra</title>
+  </programme>
+  <programme start="20201103110000 -0600" stop="20201103120000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.</desc>
+    <date>1997</date>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">IndyCar Series</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Deporte</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Español</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png" />
+    <country lang="es">México</country>
+    <country lang="es">Argentina</country>
+  </programme>
+  <programme start="20201103120000 -0600" stop="20201103130000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">La última palabra</title>
+  </programme>
+  <programme start="20201103130000 -0600" stop="20201103140000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">El chiringuito de Jugones</title>
+  </programme>
+  <programme start="20201103140000 -0600" stop="20201103160000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">2019-2020: Tijuana vs. Toluca</title>
+  </programme>
+  <programme start="20201103160000 -0600" stop="20201103170000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">Fox Sports Radio México</title>
+  </programme>
+  <programme start="20201103170000 -0600" stop="20201103180000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">Compacto: Monterrey vs. Juárez</title>
+  </programme>
+  <programme start="20201103180000 -0600" stop="20201103190000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">El chiringuito de Jugones</title>
+  </programme>
+  <programme start="20201103190000 -0600" stop="20201103200000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">FOX Gamers Elite</title>
+  </programme>
+  <programme start="20201103200000 -0600" stop="20201103220000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">Apertura 2018: Monterrey vs. Cruz Azul</title>
+  </programme>
+  <programme start="20201103220000 -0600" stop="20201103230000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.</desc>
+    <date>1997</date>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">IndyCar Series</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Deporte</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Español</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png" />
+    <country lang="es">México</country>
+    <country lang="es">Argentina</country>
+  </programme>
+  <programme start="20201103230000 -0600" stop="20201104000000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">La última palabra</title>
+  </programme>
+  <programme start="20201104000000 -0600" stop="20201104010000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">El chiringuito de Jugones</title>
+  </programme>
+  <programme start="20201104140000 -0600" stop="20201104160000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">Monterrey Vs. Cruz Azul</title>
+    <desc lang="es">El CF Monterrey recibe al Cruz Azul FC en el estadio Tecnológico en la ciudad de Monterrey, Nuevo León, México.</desc>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/monterrey_vs_cruz_azul.png" />
+  </programme>
+  <programme start="20201104170000 -0600" stop="20201104180000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">Compacto 2019-2020: Tijuana vs. Monterrey</title>
+  </programme>
+  <programme start="20201104190000 -0600" stop="20201104200000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">FOX Deportes en Vivo</title>
+  </programme>
+  <programme start="20201104200000 -0600" stop="20201104203000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">Previo Copa MX</title>
+  </programme>
+  <programme start="20201104203000 -0600" stop="20201104223000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">Monterrey vs. Tijuana</title>
+  </programme>
+  <programme start="20201104223000 -0600" stop="20201104230000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">FOX Deportes en Vivo</title>
+  </programme>
+  <programme start="20201104230000 -0600" stop="20201105000000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">La última palabra</title>
+  </programme>
+  <programme start="20201105000000 -0600" stop="20201105010000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.</desc>
+    <date>1997</date>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">IndyCar Series</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Deporte</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Español</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png" />
+    <country lang="es">México</country>
+    <country lang="es">Argentina</country>
+  </programme>
+  <programme start="20201105140000 -0600" stop="20201105160000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">PBC Fight Night: Eimantas Stanionis vs. Justin DeLoach</title>
+  </programme>
+  <programme start="20201105160000 -0600" stop="20201105180000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">Monterrey vs. Tijuana</title>
+  </programme>
+  <programme start="20201105180000 -0600" stop="20201105183000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">NFL turning point</title>
+  </programme>
+  <programme start="20201105183000 -0600" stop="20201105190000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">FOX NFL Pregame</title>
+  </programme>
+  <programme start="20201105190000 -0600" stop="20201105223000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">Packers vs. 49ers</title>
+  </programme>
+  <programme start="20201105223000 -0600" stop="20201105230000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">NFLeros</title>
+  </programme>
+  <programme start="20201106010000 -0600" stop="20201106020000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">El chiringuito de Jugones</title>
+  </programme>
+  <programme start="20201106140000 -0600" stop="20201106160000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">Monterrey vs. Tijuana</title>
+  </programme>
+  <programme start="20201106170000 -0600" stop="20201106190000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">PBC Fight Night: Eimantas Stanionis vs. Justin DeLoach</title>
+  </programme>
+  <programme start="20201106190000 -0600" stop="20201106210000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">WWE Friday Night SmackDown</title>
+  </programme>
+  <programme start="20201106210000 -0600" stop="20201106220000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">2011: Saúl Álvarez vs. Alfonso Gómez</title>
+  </programme>
+  <programme start="20201106220000 -0600" stop="20201106230000 -0600" channel="DEP | FOX Deportes HD">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.</desc>
+    <date>1997</date>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">IndyCar Series</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Deporte</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Español</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png" />
+    <country lang="es">México</country>
+    <country lang="es">Argentina</country>
+  </programme>
+  <programme start="20201103010000 -0600" stop="20201103030000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">León vs. Santos</title>
+  </programme>
+  <programme start="20201103030000 -0600" stop="20201103040000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">La última palabra</title>
+  </programme>
+  <programme start="20201103040000 -0600" stop="20201103050000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.</desc>
+    <date>1997</date>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">IndyCar Series</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Deporte</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Español</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png" />
+    <country lang="es">México</country>
+    <country lang="es">Argentina</country>
+  </programme>
+  <programme start="20201103050000 -0600" stop="20201103060000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">La última palabra</title>
+  </programme>
+  <programme start="20201103060000 -0600" stop="20201103070000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.</desc>
+    <date>1997</date>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">IndyCar Series</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Deporte</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Español</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png" />
+    <country lang="es">México</country>
+    <country lang="es">Argentina</country>
+  </programme>
+  <programme start="20201103070000 -0600" stop="20201103073000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">Fox Fit</title>
+  </programme>
+  <programme start="20201103073000 -0600" stop="20201103080000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">Fox Fit</title>
+  </programme>
+  <programme start="20201103080000 -0600" stop="20201103090000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.</desc>
+    <date>1997</date>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">IndyCar Series</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Deporte</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Español</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png" />
+    <country lang="es">México</country>
+    <country lang="es">Argentina</country>
+  </programme>
+  <programme start="20201103090000 -0600" stop="20201103100000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">Agenda Fox Sports</title>
+  </programme>
+  <programme start="20201103100000 -0600" stop="20201103110000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">La última palabra</title>
+  </programme>
+  <programme start="20201103110000 -0600" stop="20201103113000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">Rumbo a Estambul</title>
+  </programme>
+  <programme start="20201103113000 -0600" stop="20201103133000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">Shakhtar Donets vs. Borussia M</title>
+  </programme>
+  <programme start="20201103133000 -0600" stop="20201103153000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">Shakhtar Donets vs. Borussia M</title>
+  </programme>
+  <programme start="20201103153000 -0600" stop="20201103160000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">Shakhtar Donets vs. Borussia M</title>
+  </programme>
+  <programme start="20201103160000 -0600" stop="20201103170000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">Fox Sports Radio del Plata</title>
+  </programme>
+  <programme start="20201103170000 -0600" stop="20201103180000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">Lo mejor de Fox Sports</title>
+  </programme>
+  <programme start="20201103180000 -0600" stop="20201103190000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">WWE NXT</title>
+  </programme>
+  <programme start="20201103190000 -0600" stop="20201103200000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">UFC Main Event</title>
+  </programme>
+  <programme start="20201103200000 -0600" stop="20201103220000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">Real Madrid vs. Inter</title>
+  </programme>
+  <programme start="20201103220000 -0600" stop="20201103230000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.</desc>
+    <date>1997</date>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">IndyCar Series</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Deporte</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Español</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png" />
+    <country lang="es">México</country>
+    <country lang="es">Argentina</country>
+  </programme>
+  <programme start="20201103230000 -0600" stop="20201104000000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">La última palabra</title>
+  </programme>
+  <programme start="20201104000000 -0600" stop="20201104020000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">Atalanta vs. Liverpool</title>
+  </programme>
+  <programme start="20201104020000 -0600" stop="20201104030000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">Lo mejor de Fox Sports</title>
+  </programme>
+  <programme start="20201104110000 -0600" stop="20201104113000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">El show de la UEFA Europa leag</title>
+  </programme>
+  <programme start="20201104113000 -0600" stop="20201104133000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">Istanbul Basaksehir vs. Manche</title>
+  </programme>
+  <programme start="20201104133000 -0600" stop="20201104153000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">Istanbul Basaksehir vs. Manche</title>
+  </programme>
+  <programme start="20201104153000 -0600" stop="20201104160000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">Istanbul Basaksehir vs. Manche</title>
+  </programme>
+  <programme start="20201104170000 -0600" stop="20201104180000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">Lo mejor de Fox Sports</title>
+  </programme>
+  <programme start="20201104180000 -0600" stop="20201104190000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">WWE Vintage</title>
+  </programme>
+  <programme start="20201104190000 -0600" stop="20201104193000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">UFC Ultimate Knockouts</title>
+  </programme>
+  <programme start="20201104193000 -0600" stop="20201104200000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">UFC Ultimate Knockouts</title>
+  </programme>
+  <programme start="20201104200000 -0600" stop="20201104230000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">Monterrey vs. Tijuana</title>
+  </programme>
+  <programme start="20201105010000 -0600" stop="20201105030000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">Monterrey vs. Tijuana</title>
+  </programme>
+  <programme start="20201105113000 -0600" stop="20201105133000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">Roma vs. CFR 1907 Cluj</title>
+  </programme>
+  <programme start="20201105133000 -0600" stop="20201105153000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">Roma vs. CFR 1907 Cluj</title>
+  </programme>
+  <programme start="20201105153000 -0600" stop="20201105160000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">Roma vs. CFR 1907 Cluj</title>
+  </programme>
+  <programme start="20201105180000 -0600" stop="20201105183000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">Nfl gameday</title>
+  </programme>
+  <programme start="20201105183000 -0600" stop="20201105223000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">Fox impacto NFL</title>
+  </programme>
+  <programme start="20201105223000 -0600" stop="20201105230000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">UFC Ultimate Knockouts</title>
+  </programme>
+  <programme start="20201105230000 -0600" stop="20201106000000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">La última palabra</title>
+  </programme>
+  <programme start="20201106010000 -0600" stop="20201106030000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">Arsenal vs. Molde FK</title>
+  </programme>
+  <programme start="20201106110000 -0600" stop="20201106120000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">Agenda Fox Sports</title>
+  </programme>
+  <programme start="20201106120000 -0600" stop="20201106140000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">Real Madrid vs. Inter</title>
+  </programme>
+  <programme start="20201106140000 -0600" stop="20201106150000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">WWE Main Event</title>
+  </programme>
+  <programme start="20201106150000 -0600" stop="20201106160000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">Lo mejor de Fox Sports</title>
+  </programme>
+  <programme start="20201106170000 -0600" stop="20201106173000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">Bundesliga weekly</title>
+  </programme>
+  <programme start="20201106173000 -0600" stop="20201106180000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">Rumbo a Estambul</title>
+  </programme>
+  <programme start="20201106180000 -0600" stop="20201106183000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">Nfl gameday</title>
+  </programme>
+  <programme start="20201106183000 -0600" stop="20201106190000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">Inside UFC</title>
+  </programme>
+  <programme start="20201106190000 -0600" stop="20201106210000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">WWE Smackdown</title>
+  </programme>
+  <programme start="20201106210000 -0600" stop="20201106213000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">UFC Ultimate Knockouts</title>
+  </programme>
+  <programme start="20201106213000 -0600" stop="20201106220000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">Inside UFC</title>
+  </programme>
+  <programme start="20201106220000 -0600" stop="20201106230000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.</desc>
+    <date>1997</date>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">IndyCar Series</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Deporte</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Español</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png" />
+    <country lang="es">México</country>
+    <country lang="es">Argentina</country>
   </programme>
 </tv>
