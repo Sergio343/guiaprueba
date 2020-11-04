@@ -309,6 +309,70 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="DEP | Fox Sports 1 FHD (AR)">
+    <display-name lang="es">DEP | Fox Sports 1 FHD (AR))</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="DEP | Fox Sports FHD (MX)">
+    <display-name lang="es">DEP | Fox Sports FHD (MX)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="DEP | Fox Sports 2 (MX)">
+    <display-name lang="es">DEP | Fox Sports 2 (MX)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_2-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="DEP | Fox Sports 2 FHD (AR)">
+    <display-name lang="es">DEP | Fox Sports 2 FHD (AR))</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_2-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="DEP | Fox Sports 2 FHD (MX)">
+    <display-name lang="es">DEP | Fox Sports 2 FHD (MX)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_2-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="DEP | Fox Sports 2 HD (AR)">
+    <display-name lang="es">DEP | Fox Sports 2 HD (AR))</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_2-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="DEP | Fox Sports 3 (MX)">
+    <display-name lang="es">DEP | Fox Sports 3 (MX)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_3-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="DEP | Fox Sports 3 FHD (AR)">
+    <display-name lang="es">DEP | Fox Sports 3 FHD (AR))</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_3-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="DEP | Fox Sports 3 FHD (MX)">
+    <display-name lang="es">DEP | Fox Sports 3 FHD (MX)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_3-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="DEP | Fox Sports 3 HD (AR)">
+    <display-name lang="es">DEP | Fox Sports 3 HD (AR))</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_3-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="DEP | Fox Sports Premium FHD (AR)">
+    <display-name lang="es">DEP | Fox Sports Premium FHD (AR)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_premium_argentina-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="DEP | Fox Sports Premium HD (AR)">
+    <display-name lang="es">DEP | Fox Sports Premium HD (AR)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_premium_argentina-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="DEP | M. DEPORTES (ES)">
+    <display-name lang="es">DEP | M. DEPORTES (ES)</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
   <programme start="20201103003000 -0600" stop="20201103013000 -0600" channel="MX | A Plus">
     <title lang="es">Paid Programing</title>
   </programme>
@@ -419,6 +483,9 @@
   </programme>
   <programme start="20201104193000 -0600" stop="20201104203000 -0600" channel="MX | A Plus">
     <title lang="es">Furia en la Ciudad</title>
+  </programme>
+  <programme start="20201104203000 -0600" stop="20201104210000 -0600" channel="MX | A Plus">
+    <title lang="es">El lado siniestro de la histor</title>
   </programme>
   <programme start="20201105000000 -0600" stop="20201105013000 -0600" channel="MX | A Plus">
     <title lang="es">Paid Programing</title>
@@ -1210,6 +1277,9 @@
   <programme start="20201104164500 -0600" stop="20201104180000 -0600" channel="MX | AZ Corazon FHD">
     <title lang="es">Gata salvaje - Parte 2</title>
   </programme>
+  <programme start="20201104193000 -0600" stop="20201104210000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">La otra cara del alma - Parte 2</title>
+  </programme>
   <programme start="20201103020000 -0600" stop="20201103040000 -0600" channel="MX | AZ Mundo FHD">
     <title lang="es">A confirmar</title>
   </programme>
@@ -1475,6 +1545,9 @@
   <programme start="20201104163000 -0600" stop="20201104174500 -0600" channel="MX | AZTECA SIETE FHD">
     <title lang="es">Así en el barrio como en</title>
   </programme>
+  <programme start="20201104204500 -0600" stop="20201104223000 -0600" channel="MX | AZTECA SIETE FHD">
+    <title lang="es">Yo soy Betty la fea</title>
+  </programme>
   <programme start="20201105003000 -0600" stop="20201105004500 -0600" channel="MX | AZTECA SIETE FHD">
     <title lang="es">Infomerciales</title>
   </programme>
@@ -1704,6 +1777,9 @@
     <title lang="es">Todos quieren fama</title>
   </programme>
   <programme start="20201104193000 -0600" stop="20201104223000 -0600" channel="MX | Azteca UNO FHD">
+    <title lang="es">Exatlón Titanes vs. Héroes</title>
+  </programme>
+  <programme start="20201105193000 -0600" stop="20201105223000 -0600" channel="MX | Azteca UNO FHD">
     <title lang="es">MasterChef</title>
   </programme>
   <programme start="20201103003000 -0600" stop="20201103040000 -0600" channel="MX | Canal 5 FHD">
@@ -2028,6 +2104,9 @@
     <category lang="es">Programa</category>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
   </programme>
+  <programme start="20201105203000 -0600" stop="20201105223000 -0600" channel="MX | Canal 5 FHD">
+    <title lang="es">Me caigo de risa</title>
+  </programme>
   <programme start="20201106000000 -0600" stop="20201106010000 -0600" channel="MX | Canal 5 FHD">
     <title lang="es">Infomerciales</title>
   </programme>
@@ -2210,6 +2289,9 @@
   </programme>
   <programme start="20201104153000 -0600" stop="20201104173000 -0600" channel="MX | Canal de las Estrellas FHD">
     <title lang="es">Soy tu dueña</title>
+  </programme>
+  <programme start="20201104203000 -0600" stop="20201104213000 -0600" channel="MX | Canal de las Estrellas FHD">
+    <title lang="es">Vencer el desamor</title>
   </programme>
   <programme start="20201104230000 -0600" stop="20201105000000 -0600" channel="MX | Canal de las Estrellas FHD">
     <title lang="es">Tercer Grado</title>
@@ -3319,6 +3401,9 @@
   <programme start="20201104170000 -0600" stop="20201104180000 -0600" channel="MX | Formula Noticias FHD">
     <title lang="es">La Fórmula es...Orvañanos</title>
   </programme>
+  <programme start="20201104200000 -0600" stop="20201104210000 -0600" channel="MX | Formula Noticias FHD">
+    <title lang="es">Leonardo Curzio en fórmula</title>
+  </programme>
   <programme start="20201105170000 -0600" stop="20201105180000 -0600" channel="MX | Formula Noticias FHD">
     <title lang="es">La Fórmula es...Orvañanos</title>
   </programme>
@@ -3446,6 +3531,9 @@
     <title lang="es">Noticias MX</title>
   </programme>
   <programme start="20201105160000 -0600" stop="20201105180000 -0600" channel="MX | Foro TV FHD">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20201105200000 -0600" stop="20201105210000 -0600" channel="MX | Foro TV FHD">
     <title lang="es">Las noticias</title>
   </programme>
   <programme start="20201103003000 -0600" stop="20201103010000 -0600" channel="MX | HLN FHD">
@@ -4264,6 +4352,9 @@
   <programme start="20201104170000 -0600" stop="20201104190000 -0600" channel="MX | Multimedios Plus FHD">
     <title lang="es">La Bola del 6</title>
   </programme>
+  <programme start="20201104200000 -0600" stop="20201104210000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Telediario Nocturno Monterrey</title>
+  </programme>
   <programme start="20201104210000 -0600" stop="20201104213000 -0600" channel="MX | Multimedios Plus FHD">
     <title lang="es">MD MTY</title>
   </programme>
@@ -4917,6 +5008,9 @@
   <programme start="20201106175800 -0600" stop="20201106185800 -0600" channel="MX | TVC FHD">
     <title lang="es">Expedientes TVC con Leonardo Ferrera O Antonio Jiménez En Vivo</title>
   </programme>
+  <programme start="20201106202800 -0600" stop="20201106205800 -0600" channel="MX | TVC FHD">
+    <title lang="es">Reporte Meganoticias TVC con Alex Piñón En Vivo</title>
+  </programme>
   <programme start="20201106220700 -0600" stop="20201106230000 -0600" channel="MX | TVC FHD">
     <title lang="es">Expedientes TVC con Leonardo Ferrera O Antonio Jiménez</title>
   </programme>
@@ -5061,6 +5155,12 @@
   <programme start="20201104193000 -0600" stop="20201104200000 -0600" channel="MX: AZ Click">
     <title lang="es">Tecno life</title>
   </programme>
+  <programme start="20201104200000 -0600" stop="20201104220000 -0600" channel="MX: AZ Click">
+    <title lang="es">Será Anunciado</title>
+  </programme>
+  <programme start="20201105083000 -0600" stop="20201105090000 -0600" channel="MX: AZ Click">
+    <title lang="es">Cocina angelical</title>
+  </programme>
   <programme start="20201105110000 -0600" stop="20201105130000 -0600" channel="MX: AZ Click">
     <title lang="es">Será Anunciado</title>
   </programme>
@@ -5072,6 +5172,9 @@
   </programme>
   <programme start="20201105163000 -0600" stop="20201105173000 -0600" channel="MX: AZ Click">
     <title lang="es">La Ciudad de las Ideas</title>
+  </programme>
+  <programme start="20201105173000 -0600" stop="20201105180000 -0600" channel="MX: AZ Click">
+    <title lang="es">Cocina angelical</title>
   </programme>
   <programme start="20201106083000 -0600" stop="20201106090000 -0600" channel="MX: AZ Click">
     <title lang="es">Cocina angelical</title>
@@ -5135,6 +5238,9 @@
   </programme>
   <programme start="20201104164500 -0600" stop="20201104180000 -0600" channel="MX: AZ Corazon">
     <title lang="es">Gata salvaje - Parte 2</title>
+  </programme>
+  <programme start="20201104193000 -0600" stop="20201104210000 -0600" channel="MX: AZ Corazon">
+    <title lang="es">La otra cara del alma - Parte 2</title>
   </programme>
   <programme start="20201103003000 -0600" stop="20201103040000 -0600" channel="MX: Azteca 7">
     <title lang="es">Infomerciales</title>
@@ -5246,6 +5352,9 @@
   </programme>
   <programme start="20201104163000 -0600" stop="20201104174500 -0600" channel="MX: Azteca 7">
     <title lang="es">Así en el barrio como en</title>
+  </programme>
+  <programme start="20201104204500 -0600" stop="20201104223000 -0600" channel="MX: Azteca 7">
+    <title lang="es">Yo soy Betty la fea</title>
   </programme>
   <programme start="20201105003000 -0600" stop="20201105004500 -0600" channel="MX: Azteca 7">
     <title lang="es">Infomerciales</title>
@@ -5476,6 +5585,9 @@
     <title lang="es">Todos quieren fama</title>
   </programme>
   <programme start="20201104193000 -0600" stop="20201104223000 -0600" channel="MX: Azteca Uno">
+    <title lang="es">Exatlón Titanes vs. Héroes</title>
+  </programme>
+  <programme start="20201105193000 -0600" stop="20201105223000 -0600" channel="MX: Azteca Uno">
     <title lang="es">MasterChef</title>
   </programme>
   <programme start="20201103000200 -0600" stop="20201103003000 -0600" channel="MX: CANAL Once">
@@ -5864,6 +5976,9 @@
   <programme start="20201104170000 -0600" stop="20201104180000 -0600" channel="MX: FORMULA TV">
     <title lang="es">La Fórmula es...Orvañanos</title>
   </programme>
+  <programme start="20201104200000 -0600" stop="20201104210000 -0600" channel="MX: FORMULA TV">
+    <title lang="es">Leonardo Curzio en fórmula</title>
+  </programme>
   <programme start="20201105170000 -0600" stop="20201105180000 -0600" channel="MX: FORMULA TV">
     <title lang="es">La Fórmula es...Orvañanos</title>
   </programme>
@@ -5991,6 +6106,9 @@
     <title lang="es">Noticias MX</title>
   </programme>
   <programme start="20201105160000 -0600" stop="20201105180000 -0600" channel="MX: ForoTV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20201105200000 -0600" stop="20201105210000 -0600" channel="MX: ForoTV">
     <title lang="es">Las noticias</title>
   </programme>
   <programme start="20201103003000 -0600" stop="20201103010000 -0600" channel="MX: INGENIO TV">
@@ -6568,6 +6686,9 @@
   <programme start="20201104153000 -0600" stop="20201104173000 -0600" channel="MX: Las Estrellas">
     <title lang="es">Soy tu dueña</title>
   </programme>
+  <programme start="20201104203000 -0600" stop="20201104213000 -0600" channel="MX: Las Estrellas">
+    <title lang="es">Vencer el desamor</title>
+  </programme>
   <programme start="20201104230000 -0600" stop="20201105000000 -0600" channel="MX: Las Estrellas">
     <title lang="es">Tercer Grado</title>
   </programme>
@@ -7098,6 +7219,9 @@
   </programme>
   <programme start="20201106175800 -0600" stop="20201106185800 -0600" channel="MX: TVC">
     <title lang="es">Expedientes TVC con Leonardo Ferrera O Antonio Jiménez En Vivo</title>
+  </programme>
+  <programme start="20201106202800 -0600" stop="20201106205800 -0600" channel="MX: TVC">
+    <title lang="es">Reporte Meganoticias TVC con Alex Piñón En Vivo</title>
   </programme>
   <programme start="20201106220700 -0600" stop="20201106230000 -0600" channel="MX: TVC">
     <title lang="es">Expedientes TVC con Leonardo Ferrera O Antonio Jiménez</title>
@@ -7896,6 +8020,9 @@
     <category lang="es">Fútbol</category>
     <category lang="es">Fútbol Mexicano</category>
     <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/toluca_vs_guadalajara.png" />
+  </programme>
+  <programme start="20201106200000 -0600" stop="20201106210000 -0600" channel="DEP | AFIZZIONADOS HD">
+    <title lang="es">Pasión futbolera</title>
   </programme>
   <programme start="20201106210000 -0600" stop="20201106220000 -0600" channel="DEP | AFIZZIONADOS HD">
     <title lang="es">Nunca se olvida América vs. Ti</title>
@@ -10178,6 +10305,9 @@
   <programme start="20201107160000 -0600" stop="20201107180000 -0600" channel="DEP | ESPN 2 HD (AR)">
     <title lang="es">ESPN F90 Segunda edición En Vivo</title>
   </programme>
+  <programme start="20201107200000 -0600" stop="20201107210000 -0600" channel="DEP | ESPN 2 HD (AR)">
+    <title lang="es">ESPN FC Show En Vivo</title>
+  </programme>
   <programme start="20201107230000 -0600" stop="20201107233000 -0600" channel="DEP | ESPN 2 HD (AR)">
     <title lang="es">ESPN Playroom</title>
   </programme>
@@ -10762,6 +10892,25 @@
   </programme>
   <programme start="20201105193000 -0600" stop="20201105200000 -0600" channel="DEP | ESPN 3 FHD (AR)">
     <title lang="es">La liga show</title>
+  </programme>
+  <programme start="20201105200000 -0600" stop="20201105210000 -0600" channel="DEP | ESPN 3 FHD (AR)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol Español</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
   </programme>
   <programme start="20201105210000 -0600" stop="20201105230000 -0600" channel="DEP | ESPN 3 FHD (AR)">
     <title lang="es">Polo</title>
@@ -11430,6 +11579,25 @@
   </programme>
   <programme start="20201105193000 -0600" stop="20201105200000 -0600" channel="DEP | ESPN 3 HD (AR)">
     <title lang="es">La liga show</title>
+  </programme>
+  <programme start="20201105200000 -0600" stop="20201105210000 -0600" channel="DEP | ESPN 3 HD (AR)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol Español</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
   </programme>
   <programme start="20201105210000 -0600" stop="20201105230000 -0600" channel="DEP | ESPN 3 HD (AR)">
     <title lang="es">Polo</title>
@@ -13411,5 +13579,2025 @@
     <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png" />
     <country lang="es">México</country>
     <country lang="es">Argentina</country>
+  </programme>
+  <programme start="20201103010000 -0600" stop="20201103030000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">León vs. Santos</title>
+  </programme>
+  <programme start="20201103030000 -0600" stop="20201103040000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">La última palabra</title>
+  </programme>
+  <programme start="20201103040000 -0600" stop="20201103050000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.</desc>
+    <date>1997</date>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">IndyCar Series</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Deporte</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Español</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png" />
+    <country lang="es">México</country>
+    <country lang="es">Argentina</country>
+  </programme>
+  <programme start="20201103050000 -0600" stop="20201103060000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">La última palabra</title>
+  </programme>
+  <programme start="20201103060000 -0600" stop="20201103070000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.</desc>
+    <date>1997</date>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">IndyCar Series</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Deporte</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Español</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png" />
+    <country lang="es">México</country>
+    <country lang="es">Argentina</country>
+  </programme>
+  <programme start="20201103070000 -0600" stop="20201103073000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">Fox Fit</title>
+  </programme>
+  <programme start="20201103073000 -0600" stop="20201103080000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">Fox Fit</title>
+  </programme>
+  <programme start="20201103080000 -0600" stop="20201103090000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.</desc>
+    <date>1997</date>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">IndyCar Series</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Deporte</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Español</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png" />
+    <country lang="es">México</country>
+    <country lang="es">Argentina</country>
+  </programme>
+  <programme start="20201103090000 -0600" stop="20201103100000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">Agenda Fox Sports</title>
+  </programme>
+  <programme start="20201103100000 -0600" stop="20201103110000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">La última palabra</title>
+  </programme>
+  <programme start="20201103110000 -0600" stop="20201103113000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">Rumbo a Estambul</title>
+  </programme>
+  <programme start="20201103113000 -0600" stop="20201103133000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">Shakhtar Donets vs. Borussia M</title>
+  </programme>
+  <programme start="20201103133000 -0600" stop="20201103153000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">Shakhtar Donets vs. Borussia M</title>
+  </programme>
+  <programme start="20201103153000 -0600" stop="20201103160000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">Shakhtar Donets vs. Borussia M</title>
+  </programme>
+  <programme start="20201103160000 -0600" stop="20201103170000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">Fox Sports Radio del Plata</title>
+  </programme>
+  <programme start="20201103170000 -0600" stop="20201103180000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">Lo mejor de Fox Sports</title>
+  </programme>
+  <programme start="20201103180000 -0600" stop="20201103190000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">WWE NXT</title>
+  </programme>
+  <programme start="20201103190000 -0600" stop="20201103200000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">UFC Main Event</title>
+  </programme>
+  <programme start="20201103200000 -0600" stop="20201103220000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">Real Madrid vs. Inter</title>
+  </programme>
+  <programme start="20201103220000 -0600" stop="20201103230000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.</desc>
+    <date>1997</date>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">IndyCar Series</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Deporte</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Español</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png" />
+    <country lang="es">México</country>
+    <country lang="es">Argentina</country>
+  </programme>
+  <programme start="20201103230000 -0600" stop="20201104000000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">La última palabra</title>
+  </programme>
+  <programme start="20201104000000 -0600" stop="20201104020000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">Atalanta vs. Liverpool</title>
+  </programme>
+  <programme start="20201104020000 -0600" stop="20201104030000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">Lo mejor de Fox Sports</title>
+  </programme>
+  <programme start="20201104110000 -0600" stop="20201104113000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">El show de la UEFA Europa leag</title>
+  </programme>
+  <programme start="20201104113000 -0600" stop="20201104133000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">Istanbul Basaksehir vs. Manche</title>
+  </programme>
+  <programme start="20201104133000 -0600" stop="20201104153000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">Istanbul Basaksehir vs. Manche</title>
+  </programme>
+  <programme start="20201104153000 -0600" stop="20201104160000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">Istanbul Basaksehir vs. Manche</title>
+  </programme>
+  <programme start="20201104180000 -0600" stop="20201104190000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">WWE Vintage</title>
+  </programme>
+  <programme start="20201104190000 -0600" stop="20201104193000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">UFC Ultimate Knockouts</title>
+  </programme>
+  <programme start="20201104193000 -0600" stop="20201104200000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">UFC Ultimate Knockouts</title>
+  </programme>
+  <programme start="20201104200000 -0600" stop="20201104230000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">Monterrey vs. Tijuana</title>
+  </programme>
+  <programme start="20201105010000 -0600" stop="20201105030000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">Monterrey vs. Tijuana</title>
+  </programme>
+  <programme start="20201105113000 -0600" stop="20201105133000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">Roma vs. CFR 1907 Cluj</title>
+  </programme>
+  <programme start="20201105133000 -0600" stop="20201105153000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">Roma vs. CFR 1907 Cluj</title>
+  </programme>
+  <programme start="20201105153000 -0600" stop="20201105160000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">Roma vs. CFR 1907 Cluj</title>
+  </programme>
+  <programme start="20201105180000 -0600" stop="20201105183000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">Nfl gameday</title>
+  </programme>
+  <programme start="20201105183000 -0600" stop="20201105223000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">Fox impacto NFL</title>
+  </programme>
+  <programme start="20201105223000 -0600" stop="20201105230000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">UFC Ultimate Knockouts</title>
+  </programme>
+  <programme start="20201105230000 -0600" stop="20201106000000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">La última palabra</title>
+  </programme>
+  <programme start="20201106010000 -0600" stop="20201106030000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">Arsenal vs. Molde FK</title>
+  </programme>
+  <programme start="20201106110000 -0600" stop="20201106120000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">Agenda Fox Sports</title>
+  </programme>
+  <programme start="20201106120000 -0600" stop="20201106140000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">Real Madrid vs. Inter</title>
+  </programme>
+  <programme start="20201106140000 -0600" stop="20201106150000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">WWE Main Event</title>
+  </programme>
+  <programme start="20201106150000 -0600" stop="20201106160000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">Lo mejor de Fox Sports</title>
+  </programme>
+  <programme start="20201106170000 -0600" stop="20201106173000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">Bundesliga weekly</title>
+  </programme>
+  <programme start="20201106173000 -0600" stop="20201106180000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">Rumbo a Estambul</title>
+  </programme>
+  <programme start="20201106180000 -0600" stop="20201106183000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">Nfl gameday</title>
+  </programme>
+  <programme start="20201106183000 -0600" stop="20201106190000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">Inside UFC</title>
+  </programme>
+  <programme start="20201106190000 -0600" stop="20201106210000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">WWE Smackdown</title>
+  </programme>
+  <programme start="20201106210000 -0600" stop="20201106213000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">UFC Ultimate Knockouts</title>
+  </programme>
+  <programme start="20201106213000 -0600" stop="20201106220000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">Inside UFC</title>
+  </programme>
+  <programme start="20201106220000 -0600" stop="20201106230000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.</desc>
+    <date>1997</date>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">IndyCar Series</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Deporte</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Español</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png" />
+    <country lang="es">México</country>
+    <country lang="es">Argentina</country>
+  </programme>
+  <programme start="20201103010000 -0600" stop="20201103040000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">UFC fight night</title>
+  </programme>
+  <programme start="20201103040000 -0600" stop="20201103050000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">NET Nunca es tarde</title>
+  </programme>
+  <programme start="20201103050000 -0600" stop="20201103070000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">León vs. Santos</title>
+  </programme>
+  <programme start="20201103070000 -0600" stop="20201103080000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Lo mejor de Fox Sports</title>
+  </programme>
+  <programme start="20201103080000 -0600" stop="20201103083000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Fox Fit</title>
+  </programme>
+  <programme start="20201103083000 -0600" stop="20201103090000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Fox Fit</title>
+  </programme>
+  <programme start="20201103090000 -0600" stop="20201103110000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Monterrey Vs. Cruz Azul</title>
+    <desc lang="es">El CF Monterrey recibe al Cruz Azul FC en el estadio Tecnológico en la ciudad de Monterrey, Nuevo León, México.</desc>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/monterrey_vs_cruz_azul.png" />
+  </programme>
+  <programme start="20201103110000 -0600" stop="20201103134500 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">WWE Raw</title>
+  </programme>
+  <programme start="20201103134500 -0600" stop="20201103160000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Atalanta vs. Liverpool</title>
+  </programme>
+  <programme start="20201103160000 -0600" stop="20201103170000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Nascar Peak México series</title>
+  </programme>
+  <programme start="20201103170000 -0600" stop="20201103190000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Tapatío vs. Celaya</title>
+  </programme>
+  <programme start="20201103190000 -0600" stop="20201103210000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Monarcas Morelia vs. Cimarrones</title>
+  </programme>
+  <programme start="20201103210000 -0600" stop="20201103230000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Venados FC vs. Pumas Tabasco</title>
+  </programme>
+  <programme start="20201103230000 -0600" stop="20201104000000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">La última palabra</title>
+  </programme>
+  <programme start="20201104000000 -0600" stop="20201104020000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">WWE Smackdown</title>
+  </programme>
+  <programme start="20201104020000 -0600" stop="20201104030000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Fox impacto NFL</title>
+  </programme>
+  <programme start="20201104030000 -0600" stop="20201104040000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.</desc>
+    <date>1997</date>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">IndyCar Series</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Deporte</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Español</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png" />
+    <country lang="es">México</country>
+    <country lang="es">Argentina</country>
+  </programme>
+  <programme start="20201104040000 -0600" stop="20201104050000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Lo mejor de Fox Sports</title>
+  </programme>
+  <programme start="20201104050000 -0600" stop="20201104070000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Real Madrid vs. Inter</title>
+  </programme>
+  <programme start="20201104070000 -0600" stop="20201104080000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Lo mejor de Fox Sports</title>
+  </programme>
+  <programme start="20201104080000 -0600" stop="20201104083000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Fox Fit</title>
+  </programme>
+  <programme start="20201104083000 -0600" stop="20201104090000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Fox Fit</title>
+  </programme>
+  <programme start="20201104090000 -0600" stop="20201104110000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">León vs. Santos</title>
+  </programme>
+  <programme start="20201104110000 -0600" stop="20201104134500 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">UFC fight night</title>
+  </programme>
+  <programme start="20201104134500 -0600" stop="20201104160000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Chelsea vs. Stade Rennais</title>
+  </programme>
+  <programme start="20201104160000 -0600" stop="20201104180000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">RB Leipzing vs. Paris Saint-Ge</title>
+  </programme>
+  <programme start="20201104180000 -0600" stop="20201104190000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Fox impacto NFL</title>
+  </programme>
+  <programme start="20201104190000 -0600" stop="20201104210000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Dana White_s Contender Series</title>
+  </programme>
+  <programme start="20201104210000 -0600" stop="20201104213000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">UFC Ultimate Knockouts</title>
+  </programme>
+  <programme start="20201104213000 -0600" stop="20201104233000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Premier Boxing Champions Repetición</title>
+  </programme>
+  <programme start="20201104233000 -0600" stop="20201105000000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">UFC Ultimate Knockouts</title>
+  </programme>
+  <programme start="20201105000000 -0600" stop="20201105020000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Dana White_s Contender Series</title>
+  </programme>
+  <programme start="20201105020000 -0600" stop="20201105030000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">La última palabra</title>
+  </programme>
+  <programme start="20201105050000 -0600" stop="20201105070000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">RB Leipzing vs. Paris Saint-Ge</title>
+  </programme>
+  <programme start="20201105090000 -0600" stop="20201105110000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Monterrey vs. Tijuana</title>
+  </programme>
+  <programme start="20201105110000 -0600" stop="20201105114500 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Latitud fox</title>
+  </programme>
+  <programme start="20201105114500 -0600" stop="20201105134500 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Benfica vs. Rangers FC</title>
+  </programme>
+  <programme start="20201105134500 -0600" stop="20201105160000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Leicester City vs. SC Braga</title>
+  </programme>
+  <programme start="20201105160000 -0600" stop="20201105163000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Rumbo a Estambul</title>
+  </programme>
+  <programme start="20201105163000 -0600" stop="20201105170000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Fox fight club</title>
+  </programme>
+  <programme start="20201105170000 -0600" stop="20201105180000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Super Copa 2020</title>
+  </programme>
+  <programme start="20201105180000 -0600" stop="20201105190000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Fox gol México</title>
+  </programme>
+  <programme start="20201105190000 -0600" stop="20201105210000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Pachuca vs. FC Juárez</title>
+  </programme>
+  <programme start="20201105210000 -0600" stop="20201105230000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Santos vs. Mazatlán</title>
+  </programme>
+  <programme start="20201106000000 -0600" stop="20201106010000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Fox gol México</title>
+  </programme>
+  <programme start="20201106010000 -0600" stop="20201106013000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Rumbo a Estambul</title>
+  </programme>
+  <programme start="20201106013000 -0600" stop="20201106020000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Fox fight club</title>
+  </programme>
+  <programme start="20201106040000 -0600" stop="20201106050000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">NET Nunca es tarde</title>
+  </programme>
+  <programme start="20201106050000 -0600" stop="20201106070000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Roma vs. CFR 1907 Cluj</title>
+  </programme>
+  <programme start="20201106090000 -0600" stop="20201106110000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Pachuca vs. FC Juárez</title>
+  </programme>
+  <programme start="20201106110000 -0600" stop="20201106120000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Super Copa 2020</title>
+  </programme>
+  <programme start="20201106120000 -0600" stop="20201106140000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Nascar Peak México series</title>
+  </programme>
+  <programme start="20201106140000 -0600" stop="20201106143000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Rumbo a Estambul</title>
+  </programme>
+  <programme start="20201106143000 -0600" stop="20201106150000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Fox fight club</title>
+  </programme>
+  <programme start="20201106150000 -0600" stop="20201106160000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Fox gol México</title>
+  </programme>
+  <programme start="20201106160000 -0600" stop="20201106180000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Monterrey vs. Tijuana</title>
+  </programme>
+  <programme start="20201106180000 -0600" stop="20201106200000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Atalanta vs. Liverpool</title>
+  </programme>
+  <programme start="20201106200000 -0600" stop="20201106220000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Real Madrid vs. Inter</title>
+  </programme>
+  <programme start="20201106220000 -0600" stop="20201107000000 -0600" channel="DEP | Fox Sports 2 (MX)">
+    <title lang="es">Monterrey vs. Tijuana</title>
+  </programme>
+  <programme start="20201103020000 -0600" stop="20201103040000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20201103040000 -0600" stop="20201103060000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Lokomotiv Moscow vs. Bayern Munich</title>
+  </programme>
+  <programme start="20201103060000 -0600" stop="20201103070000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Expediente Futbol</title>
+  </programme>
+  <programme start="20201103070000 -0600" stop="20201103100000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">WWE Raw</title>
+  </programme>
+  <programme start="20201103100000 -0600" stop="20201103120000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Fox Sports Clásico</title>
+  </programme>
+  <programme start="20201103120000 -0600" stop="20201103133000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">UFC Clásicos</title>
+  </programme>
+  <programme start="20201103133000 -0600" stop="20201103160000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Porto vs. Marseille</title>
+  </programme>
+  <programme start="20201103160000 -0600" stop="20201103170000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">WWE Vintage</title>
+  </programme>
+  <programme start="20201103170000 -0600" stop="20201103193000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Fox fight club</title>
+  </programme>
+  <programme start="20201103193000 -0600" stop="20201103200000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">UFC Ultimate Knockouts</title>
+  </programme>
+  <programme start="20201103200000 -0600" stop="20201103220000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">FC Midtjylland vs. Ajax</title>
+  </programme>
+  <programme start="20201103220000 -0600" stop="20201104000000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Salzburg vs. Bayern Múnich</title>
+  </programme>
+  <programme start="20201104000000 -0600" stop="20201104020000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">FC Midtjylland vs. Ajax</title>
+  </programme>
+  <programme start="20201104020000 -0600" stop="20201104040000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">River Plate vs. LDU Quito</title>
+  </programme>
+  <programme start="20201104040000 -0600" stop="20201104060000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Shakhtar Donetsk vs. Borussia Mönchengladbach</title>
+  </programme>
+  <programme start="20201104070000 -0600" stop="20201104080000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">WWE Vintage</title>
+  </programme>
+  <programme start="20201104080000 -0600" stop="20201104100000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">River Plate vs. LDU Quito</title>
+  </programme>
+  <programme start="20201104100000 -0600" stop="20201104120000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Salzburg vs. Bayern Múnich</title>
+  </programme>
+  <programme start="20201104120000 -0600" stop="20201104133000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">UFC Clásicos</title>
+  </programme>
+  <programme start="20201104133000 -0600" stop="20201104160000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">UEFA champions League</title>
+  </programme>
+  <programme start="20201104160000 -0600" stop="20201104170000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Wwe nxt</title>
+  </programme>
+  <programme start="20201104170000 -0600" stop="20201104190000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Fox Fight Club Repetición</title>
+  </programme>
+  <programme start="20201104190000 -0600" stop="20201104200000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Expediente Futbol</title>
+  </programme>
+  <programme start="20201104200000 -0600" stop="20201104220000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">UEFA champions League</title>
+  </programme>
+  <programme start="20201104220000 -0600" stop="20201105000000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Fútbol argentino Primera División</title>
+  </programme>
+  <programme start="20201105000000 -0600" stop="20201105020000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">UFC Clásicos</title>
+  </programme>
+  <programme start="20201105020000 -0600" stop="20201105040000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Junior vs. Independiente del Valle</title>
+  </programme>
+  <programme start="20201105040000 -0600" stop="20201105060000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Sevilla vs. Krasnodar</title>
+  </programme>
+  <programme start="20201105070000 -0600" stop="20201105080000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Wwe nxt</title>
+  </programme>
+  <programme start="20201105080000 -0600" stop="20201105100000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Flamengo vs. Independiente del Valle</title>
+  </programme>
+  <programme start="20201105100000 -0600" stop="20201105113000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">UFC Clásicos</title>
+  </programme>
+  <programme start="20201105113000 -0600" stop="20201105135500 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">UEFA Europa league</title>
+  </programme>
+  <programme start="20201105135500 -0600" stop="20201105160000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">UEFA Europa league</title>
+  </programme>
+  <programme start="20201105160000 -0600" stop="20201105170000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">WWE Main event</title>
+  </programme>
+  <programme start="20201105170000 -0600" stop="20201105180000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Juego Sagrado</title>
+  </programme>
+  <programme start="20201105180000 -0600" stop="20201105200000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Fútbol Conmebol Libertadores</title>
+  </programme>
+  <programme start="20201105200000 -0600" stop="20201105210000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">WWE Main event</title>
+  </programme>
+  <programme start="20201105210000 -0600" stop="20201105230000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Fútbol argentino Primera División</title>
+  </programme>
+  <programme start="20201105230000 -0600" stop="20201106000000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">UFC Clásicos</title>
+  </programme>
+  <programme start="20201106000000 -0600" stop="20201106010000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Expediente Futbol</title>
+  </programme>
+  <programme start="20201106010000 -0600" stop="20201106020000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Juego Sagrado</title>
+  </programme>
+  <programme start="20201106020000 -0600" stop="20201106040000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Fútbol Conmebol Libertadores</title>
+  </programme>
+  <programme start="20201106040000 -0600" stop="20201106060000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Fútbol argentino Primera División</title>
+  </programme>
+  <programme start="20201106060000 -0600" stop="20201106070000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Expediente Futbol</title>
+  </programme>
+  <programme start="20201106070000 -0600" stop="20201106080000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Juego Sagrado</title>
+  </programme>
+  <programme start="20201106080000 -0600" stop="20201106083000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Fox Fit</title>
+  </programme>
+  <programme start="20201106083000 -0600" stop="20201106090000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Fox Fit</title>
+  </programme>
+  <programme start="20201106090000 -0600" stop="20201106100000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">WWE Main event</title>
+  </programme>
+  <programme start="20201106100000 -0600" stop="20201106120000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Premier Boxing Championship</title>
+  </programme>
+  <programme start="20201106120000 -0600" stop="20201106140000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Fútbol Conmebol Libertadores</title>
+  </programme>
+  <programme start="20201106140000 -0600" stop="20201106150000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Expediente Futbol</title>
+  </programme>
+  <programme start="20201106150000 -0600" stop="20201106160000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Deporte Será Anunciado</title>
+  </programme>
+  <programme start="20201106160000 -0600" stop="20201106170000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">WWE Raw Highlights</title>
+  </programme>
+  <programme start="20201106180000 -0600" stop="20201106200000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">CONMEBOL Libertadores</title>
+  </programme>
+  <programme start="20201106200000 -0600" stop="20201106210000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">WWE Raw Highlights</title>
+  </programme>
+  <programme start="20201106230000 -0600" stop="20201107000000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Deporte Será Anunciado</title>
+  </programme>
+  <programme start="20201103010000 -0600" stop="20201103040000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">UFC fight night</title>
+  </programme>
+  <programme start="20201103040000 -0600" stop="20201103050000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">NET Nunca es tarde</title>
+  </programme>
+  <programme start="20201103050000 -0600" stop="20201103070000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">León vs. Santos</title>
+  </programme>
+  <programme start="20201103070000 -0600" stop="20201103080000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Lo mejor de Fox Sports</title>
+  </programme>
+  <programme start="20201103080000 -0600" stop="20201103083000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Fox Fit</title>
+  </programme>
+  <programme start="20201103083000 -0600" stop="20201103090000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Fox Fit</title>
+  </programme>
+  <programme start="20201103090000 -0600" stop="20201103110000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Monterrey Vs. Cruz Azul</title>
+    <desc lang="es">El CF Monterrey recibe al Cruz Azul FC en el estadio Tecnológico en la ciudad de Monterrey, Nuevo León, México.</desc>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/monterrey_vs_cruz_azul.png" />
+  </programme>
+  <programme start="20201103110000 -0600" stop="20201103134500 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">WWE Raw</title>
+  </programme>
+  <programme start="20201103134500 -0600" stop="20201103160000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Atalanta vs. Liverpool</title>
+  </programme>
+  <programme start="20201103160000 -0600" stop="20201103170000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Nascar Peak México series</title>
+  </programme>
+  <programme start="20201103170000 -0600" stop="20201103190000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Tapatío vs. Celaya</title>
+  </programme>
+  <programme start="20201103190000 -0600" stop="20201103210000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Monarcas Morelia vs. Cimarrones</title>
+  </programme>
+  <programme start="20201103210000 -0600" stop="20201103230000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Venados FC vs. Pumas Tabasco</title>
+  </programme>
+  <programme start="20201103230000 -0600" stop="20201104000000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">La última palabra</title>
+  </programme>
+  <programme start="20201104000000 -0600" stop="20201104020000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">WWE Smackdown</title>
+  </programme>
+  <programme start="20201104020000 -0600" stop="20201104030000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Fox impacto NFL</title>
+  </programme>
+  <programme start="20201104030000 -0600" stop="20201104040000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.</desc>
+    <date>1997</date>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">IndyCar Series</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Deporte</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Español</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png" />
+    <country lang="es">México</country>
+    <country lang="es">Argentina</country>
+  </programme>
+  <programme start="20201104040000 -0600" stop="20201104050000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Lo mejor de Fox Sports</title>
+  </programme>
+  <programme start="20201104050000 -0600" stop="20201104070000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Real Madrid vs. Inter</title>
+  </programme>
+  <programme start="20201104070000 -0600" stop="20201104080000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Lo mejor de Fox Sports</title>
+  </programme>
+  <programme start="20201104080000 -0600" stop="20201104083000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Fox Fit</title>
+  </programme>
+  <programme start="20201104083000 -0600" stop="20201104090000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Fox Fit</title>
+  </programme>
+  <programme start="20201104090000 -0600" stop="20201104110000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">León vs. Santos</title>
+  </programme>
+  <programme start="20201104110000 -0600" stop="20201104134500 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">UFC fight night</title>
+  </programme>
+  <programme start="20201104134500 -0600" stop="20201104160000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Chelsea vs. Stade Rennais</title>
+  </programme>
+  <programme start="20201104160000 -0600" stop="20201104180000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">RB Leipzing vs. Paris Saint-Ge</title>
+  </programme>
+  <programme start="20201104180000 -0600" stop="20201104190000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Fox impacto NFL</title>
+  </programme>
+  <programme start="20201104190000 -0600" stop="20201104210000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Dana White_s Contender Series</title>
+  </programme>
+  <programme start="20201104210000 -0600" stop="20201104213000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">UFC Ultimate Knockouts</title>
+  </programme>
+  <programme start="20201104213000 -0600" stop="20201104233000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Premier Boxing Champions Repetición</title>
+  </programme>
+  <programme start="20201104233000 -0600" stop="20201105000000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">UFC Ultimate Knockouts</title>
+  </programme>
+  <programme start="20201105000000 -0600" stop="20201105020000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Dana White_s Contender Series</title>
+  </programme>
+  <programme start="20201105020000 -0600" stop="20201105030000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">La última palabra</title>
+  </programme>
+  <programme start="20201105050000 -0600" stop="20201105070000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">RB Leipzing vs. Paris Saint-Ge</title>
+  </programme>
+  <programme start="20201105090000 -0600" stop="20201105110000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Monterrey vs. Tijuana</title>
+  </programme>
+  <programme start="20201105110000 -0600" stop="20201105114500 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Latitud fox</title>
+  </programme>
+  <programme start="20201105114500 -0600" stop="20201105134500 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Benfica vs. Rangers FC</title>
+  </programme>
+  <programme start="20201105134500 -0600" stop="20201105160000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Leicester City vs. SC Braga</title>
+  </programme>
+  <programme start="20201105160000 -0600" stop="20201105163000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Rumbo a Estambul</title>
+  </programme>
+  <programme start="20201105163000 -0600" stop="20201105170000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Fox fight club</title>
+  </programme>
+  <programme start="20201105170000 -0600" stop="20201105180000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Super Copa 2020</title>
+  </programme>
+  <programme start="20201105180000 -0600" stop="20201105190000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Fox gol México</title>
+  </programme>
+  <programme start="20201105190000 -0600" stop="20201105210000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Pachuca vs. FC Juárez</title>
+  </programme>
+  <programme start="20201105210000 -0600" stop="20201105230000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Santos vs. Mazatlán</title>
+  </programme>
+  <programme start="20201106000000 -0600" stop="20201106010000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Fox gol México</title>
+  </programme>
+  <programme start="20201106010000 -0600" stop="20201106013000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Rumbo a Estambul</title>
+  </programme>
+  <programme start="20201106013000 -0600" stop="20201106020000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Fox fight club</title>
+  </programme>
+  <programme start="20201106040000 -0600" stop="20201106050000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">NET Nunca es tarde</title>
+  </programme>
+  <programme start="20201106050000 -0600" stop="20201106070000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Roma vs. CFR 1907 Cluj</title>
+  </programme>
+  <programme start="20201106090000 -0600" stop="20201106110000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Pachuca vs. FC Juárez</title>
+  </programme>
+  <programme start="20201106110000 -0600" stop="20201106120000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Super Copa 2020</title>
+  </programme>
+  <programme start="20201106120000 -0600" stop="20201106140000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Nascar Peak México series</title>
+  </programme>
+  <programme start="20201106140000 -0600" stop="20201106143000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Rumbo a Estambul</title>
+  </programme>
+  <programme start="20201106143000 -0600" stop="20201106150000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Fox fight club</title>
+  </programme>
+  <programme start="20201106150000 -0600" stop="20201106160000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Fox gol México</title>
+  </programme>
+  <programme start="20201106160000 -0600" stop="20201106180000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Monterrey vs. Tijuana</title>
+  </programme>
+  <programme start="20201106180000 -0600" stop="20201106200000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Atalanta vs. Liverpool</title>
+  </programme>
+  <programme start="20201106200000 -0600" stop="20201106220000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Real Madrid vs. Inter</title>
+  </programme>
+  <programme start="20201106220000 -0600" stop="20201107000000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
+    <title lang="es">Monterrey vs. Tijuana</title>
+  </programme>
+  <programme start="20201103020000 -0600" stop="20201103040000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20201103040000 -0600" stop="20201103060000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Lokomotiv Moscow vs. Bayern Munich</title>
+  </programme>
+  <programme start="20201103060000 -0600" stop="20201103070000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Expediente Futbol</title>
+  </programme>
+  <programme start="20201103070000 -0600" stop="20201103100000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">WWE Raw</title>
+  </programme>
+  <programme start="20201103100000 -0600" stop="20201103120000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Fox Sports Clásico</title>
+  </programme>
+  <programme start="20201103120000 -0600" stop="20201103133000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">UFC Clásicos</title>
+  </programme>
+  <programme start="20201103133000 -0600" stop="20201103160000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Porto vs. Marseille</title>
+  </programme>
+  <programme start="20201103160000 -0600" stop="20201103170000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">WWE Vintage</title>
+  </programme>
+  <programme start="20201103170000 -0600" stop="20201103193000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Fox fight club</title>
+  </programme>
+  <programme start="20201103193000 -0600" stop="20201103200000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">UFC Ultimate Knockouts</title>
+  </programme>
+  <programme start="20201103200000 -0600" stop="20201103220000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">FC Midtjylland vs. Ajax</title>
+  </programme>
+  <programme start="20201103220000 -0600" stop="20201104000000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Salzburg vs. Bayern Múnich</title>
+  </programme>
+  <programme start="20201104000000 -0600" stop="20201104020000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">FC Midtjylland vs. Ajax</title>
+  </programme>
+  <programme start="20201104020000 -0600" stop="20201104040000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">River Plate vs. LDU Quito</title>
+  </programme>
+  <programme start="20201104040000 -0600" stop="20201104060000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Shakhtar Donetsk vs. Borussia Mönchengladbach</title>
+  </programme>
+  <programme start="20201104070000 -0600" stop="20201104080000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">WWE Vintage</title>
+  </programme>
+  <programme start="20201104080000 -0600" stop="20201104100000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">River Plate vs. LDU Quito</title>
+  </programme>
+  <programme start="20201104100000 -0600" stop="20201104120000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Salzburg vs. Bayern Múnich</title>
+  </programme>
+  <programme start="20201104120000 -0600" stop="20201104133000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">UFC Clásicos</title>
+  </programme>
+  <programme start="20201104133000 -0600" stop="20201104160000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">UEFA champions League</title>
+  </programme>
+  <programme start="20201104160000 -0600" stop="20201104170000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Wwe nxt</title>
+  </programme>
+  <programme start="20201104170000 -0600" stop="20201104190000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Fox Fight Club Repetición</title>
+  </programme>
+  <programme start="20201104190000 -0600" stop="20201104200000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Expediente Futbol</title>
+  </programme>
+  <programme start="20201104200000 -0600" stop="20201104220000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">UEFA champions League</title>
+  </programme>
+  <programme start="20201104220000 -0600" stop="20201105000000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Fútbol argentino Primera División</title>
+  </programme>
+  <programme start="20201105000000 -0600" stop="20201105020000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">UFC Clásicos</title>
+  </programme>
+  <programme start="20201105020000 -0600" stop="20201105040000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Junior vs. Independiente del Valle</title>
+  </programme>
+  <programme start="20201105040000 -0600" stop="20201105060000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Sevilla vs. Krasnodar</title>
+  </programme>
+  <programme start="20201105070000 -0600" stop="20201105080000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Wwe nxt</title>
+  </programme>
+  <programme start="20201105080000 -0600" stop="20201105100000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Flamengo vs. Independiente del Valle</title>
+  </programme>
+  <programme start="20201105100000 -0600" stop="20201105113000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">UFC Clásicos</title>
+  </programme>
+  <programme start="20201105113000 -0600" stop="20201105135500 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">UEFA Europa league</title>
+  </programme>
+  <programme start="20201105135500 -0600" stop="20201105160000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">UEFA Europa league</title>
+  </programme>
+  <programme start="20201105160000 -0600" stop="20201105170000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">WWE Main event</title>
+  </programme>
+  <programme start="20201105170000 -0600" stop="20201105180000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Juego Sagrado</title>
+  </programme>
+  <programme start="20201105180000 -0600" stop="20201105200000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Fútbol Conmebol Libertadores</title>
+  </programme>
+  <programme start="20201105200000 -0600" stop="20201105210000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">WWE Main event</title>
+  </programme>
+  <programme start="20201105210000 -0600" stop="20201105230000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Fútbol argentino Primera División</title>
+  </programme>
+  <programme start="20201105230000 -0600" stop="20201106000000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">UFC Clásicos</title>
+  </programme>
+  <programme start="20201106000000 -0600" stop="20201106010000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Expediente Futbol</title>
+  </programme>
+  <programme start="20201106010000 -0600" stop="20201106020000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Juego Sagrado</title>
+  </programme>
+  <programme start="20201106020000 -0600" stop="20201106040000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Fútbol Conmebol Libertadores</title>
+  </programme>
+  <programme start="20201106040000 -0600" stop="20201106060000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Fútbol argentino Primera División</title>
+  </programme>
+  <programme start="20201106060000 -0600" stop="20201106070000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Expediente Futbol</title>
+  </programme>
+  <programme start="20201106070000 -0600" stop="20201106080000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Juego Sagrado</title>
+  </programme>
+  <programme start="20201106080000 -0600" stop="20201106083000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Fox Fit</title>
+  </programme>
+  <programme start="20201106083000 -0600" stop="20201106090000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Fox Fit</title>
+  </programme>
+  <programme start="20201106090000 -0600" stop="20201106100000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">WWE Main event</title>
+  </programme>
+  <programme start="20201106100000 -0600" stop="20201106120000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Premier Boxing Championship</title>
+  </programme>
+  <programme start="20201106120000 -0600" stop="20201106140000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Fútbol Conmebol Libertadores</title>
+  </programme>
+  <programme start="20201106140000 -0600" stop="20201106150000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Expediente Futbol</title>
+  </programme>
+  <programme start="20201106150000 -0600" stop="20201106160000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Deporte Será Anunciado</title>
+  </programme>
+  <programme start="20201106160000 -0600" stop="20201106170000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">WWE Raw Highlights</title>
+  </programme>
+  <programme start="20201106180000 -0600" stop="20201106200000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">CONMEBOL Libertadores</title>
+  </programme>
+  <programme start="20201106200000 -0600" stop="20201106210000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">WWE Raw Highlights</title>
+  </programme>
+  <programme start="20201106230000 -0600" stop="20201107000000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Deporte Será Anunciado</title>
+  </programme>
+  <programme start="20201103030000 -0600" stop="20201103040000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">WTCR 2020 España carrera 1</title>
+  </programme>
+  <programme start="20201103040000 -0600" stop="20201103050000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">WTCR 2020 España carrera 2</title>
+  </programme>
+  <programme start="20201103050000 -0600" stop="20201103060000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">WTCR 2020 España carrera 3</title>
+  </programme>
+  <programme start="20201103060000 -0600" stop="20201103080000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">Fórmula 1 2020 GP Emilia</title>
+  </programme>
+  <programme start="20201103080000 -0600" stop="20201103100000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">Juventus vs. Barcelona</title>
+    <desc lang="es">La Juventus FC de Italia recibe al FC Barcelona de España en el Olympic Stadium de Berlín en Alemania.</desc>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Europeo</category>
+    <category lang="es">UEFA</category>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/juventus_vs_barcelona.png" />
+  </programme>
+  <programme start="20201103100000 -0600" stop="20201103130000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">IMSA Weathertech Sportscar</title>
+  </programme>
+  <programme start="20201103130000 -0600" stop="20201103134500 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">World Rally Championship 2020</title>
+  </programme>
+  <programme start="20201103134500 -0600" stop="20201103160000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">Manchester City vs. Olympiacos</title>
+  </programme>
+  <programme start="20201103160000 -0600" stop="20201103170000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">Nascar carreras Históricas</title>
+  </programme>
+  <programme start="20201103170000 -0600" stop="20201103190000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">Fórmula 1 2020 GP Emilia</title>
+  </programme>
+  <programme start="20201103190000 -0600" stop="20201103200000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">El show de la fórmula 1</title>
+  </programme>
+  <programme start="20201103200000 -0600" stop="20201103210000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">Motul FIM Superbikes World</title>
+  </programme>
+  <programme start="20201103210000 -0600" stop="20201103220000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">Motul FIM Superbikes World</title>
+  </programme>
+  <programme start="20201103220000 -0600" stop="20201103230000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">El show de la fórmula 1</title>
+  </programme>
+  <programme start="20201103230000 -0600" stop="20201104013000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">Nascar Xfinity Series 2020</title>
+  </programme>
+  <programme start="20201104230000 -0600" stop="20201105013000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">Nascar Xfinity Series 2020</title>
+  </programme>
+  <programme start="20201105013000 -0600" stop="20201105020000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">FIM Motocross</title>
+  </programme>
+  <programme start="20201105020000 -0600" stop="20201105050000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">IMSA Weathertech Sportscar</title>
+  </programme>
+  <programme start="20201105050000 -0600" stop="20201105060000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">WTCR 2020 Eslovaquia carrera 1</title>
+  </programme>
+  <programme start="20201105060000 -0600" stop="20201105070000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">WTCR 2020 Eslovaquia carrera 2</title>
+  </programme>
+  <programme start="20201105070000 -0600" stop="20201105080000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">WTCR 2020 Eslovaquia carrera 3</title>
+  </programme>
+  <programme start="20201105080000 -0600" stop="20201105110000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">WWE Raw</title>
+  </programme>
+  <programme start="20201105110000 -0600" stop="20201105120000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">WTCR 2020 España carrera 1</title>
+  </programme>
+  <programme start="20201105120000 -0600" stop="20201105130000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">WTCR 2020 España carrera 2</title>
+  </programme>
+  <programme start="20201105130000 -0600" stop="20201105134500 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">WTCR 2020 España carrera 3</title>
+  </programme>
+  <programme start="20201105134500 -0600" stop="20201105160000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">Club Brugge vs. Borussia D</title>
+  </programme>
+  <programme start="20201105160000 -0600" stop="20201105170000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">Motul FIM Superbikes World</title>
+  </programme>
+  <programme start="20201105170000 -0600" stop="20201105180000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">Motul FIM Superbikes World</title>
+  </programme>
+  <programme start="20201105180000 -0600" stop="20201105183000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">FIM Motocross</title>
+  </programme>
+  <programme start="20201105183000 -0600" stop="20201105191500 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">WTCR España carrera 1</title>
+  </programme>
+  <programme start="20201105191500 -0600" stop="20201105211000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">Deportivo S. vs. Club Social</title>
+  </programme>
+  <programme start="20201105211000 -0600" stop="20201105212500 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">Rally on board</title>
+  </programme>
+  <programme start="20201105212500 -0600" stop="20201105233000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">Alianza Fútbol C. vs. C.Motagua</title>
+  </programme>
+  <programme start="20201105233000 -0600" stop="20201106003000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">El show de la fórmula 1</title>
+  </programme>
+  <programme start="20201106003000 -0600" stop="20201106043000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">Nascar Cup Series 2020</title>
+  </programme>
+  <programme start="20201106043000 -0600" stop="20201106053000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">WTCR 2020 Hungría carrera 1</title>
+  </programme>
+  <programme start="20201106053000 -0600" stop="20201106063000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">WTCR 2020 Hungría carrera 2</title>
+  </programme>
+  <programme start="20201106063000 -0600" stop="20201106073000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">WTCR 2020 Hungría carrera 3</title>
+  </programme>
+  <programme start="20201106073000 -0600" stop="20201106080000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">FIM Motocross</title>
+  </programme>
+  <programme start="20201106080000 -0600" stop="20201106100000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">Real Madrid vs. Inter</title>
+  </programme>
+  <programme start="20201106100000 -0600" stop="20201106110000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">El show de la fórmula 1</title>
+  </programme>
+  <programme start="20201106110000 -0600" stop="20201106114500 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">Nascar carreras Históricas</title>
+  </programme>
+  <programme start="20201106114500 -0600" stop="20201106134500 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">Hapoel Beer-Sheva vs. Bayer 04</title>
+  </programme>
+  <programme start="20201106134500 -0600" stop="20201106160000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">Hoffenheim vs. FC Slovan L</title>
+  </programme>
+  <programme start="20201106160000 -0600" stop="20201106163000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">Rally on board</title>
+  </programme>
+  <programme start="20201106163000 -0600" stop="20201106193000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">UFC Reloaded</title>
+  </programme>
+  <programme start="20201106193000 -0600" stop="20201106200000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">Gp 1</title>
+  </programme>
+  <programme start="20201106200000 -0600" stop="20201106210000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">Circuito</title>
+  </programme>
+  <programme start="20201106210000 -0600" stop="20201106213000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">FIM Motocross</title>
+  </programme>
+  <programme start="20201106213000 -0600" stop="20201106220000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">Rally on board</title>
+  </programme>
+  <programme start="20201106220000 -0600" stop="20201106223000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">Gp 1</title>
+  </programme>
+  <programme start="20201106223000 -0600" stop="20201106233000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">Circuito</title>
+  </programme>
+  <programme start="20201106233000 -0600" stop="20201107000000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">Rally on board</title>
+  </programme>
+  <programme start="20201107000000 -0600" stop="20201107003000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">FIM Motocross</title>
+  </programme>
+  <programme start="20201107003000 -0600" stop="20201107013000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">Circuito</title>
+  </programme>
+  <programme start="20201107013000 -0600" stop="20201107020000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">Gp 1</title>
+  </programme>
+  <programme start="20201107020000 -0600" stop="20201107050000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">IMSA Weathertech Sportscar</title>
+  </programme>
+  <programme start="20201107050000 -0600" stop="20201107060000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">WTCR 2020 España carrera 1</title>
+  </programme>
+  <programme start="20201107060000 -0600" stop="20201107070000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">WTCR 2020 España carrera 2</title>
+  </programme>
+  <programme start="20201107070000 -0600" stop="20201107080000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">WTCR 2020 España carrera 3</title>
+  </programme>
+  <programme start="20201107080000 -0600" stop="20201107100000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">Atalanta BC vs. Liverpool</title>
+  </programme>
+  <programme start="20201107100000 -0600" stop="20201107103000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">Rally on board</title>
+  </programme>
+  <programme start="20201107103000 -0600" stop="20201107110000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">Gp 1</title>
+  </programme>
+  <programme start="20201107110000 -0600" stop="20201107120000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">Circuito</title>
+  </programme>
+  <programme start="20201107120000 -0600" stop="20201107140000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">Fórmula 1 2020 GP Emilia</title>
+  </programme>
+  <programme start="20201107140000 -0600" stop="20201107170000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">UFC Reloaded</title>
+  </programme>
+  <programme start="20201107170000 -0600" stop="20201107173000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">Rally on board</title>
+  </programme>
+  <programme start="20201107173000 -0600" stop="20201107180000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">FIM Motocross</title>
+  </programme>
+  <programme start="20201107180000 -0600" stop="20201107190000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">Circuito</title>
+  </programme>
+  <programme start="20201107190000 -0600" stop="20201107210000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">Nascar Gander RV &amp; Outdoors</title>
+  </programme>
+  <programme start="20201107210000 -0600" stop="20201107230000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">Fórmula 1 2020 GP Emilia</title>
+  </programme>
+  <programme start="20201107230000 -0600" stop="20201108000000 -0600" channel="DEP | Fox Sports 3 (MX)">
+    <title lang="es">WTCR 2020 España carrera 1</title>
+  </programme>
+  <programme start="20201103030000 -0600" stop="20201103040000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20201103040000 -0600" stop="20201103050000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20201103050000 -0600" stop="20201103060000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20201103060000 -0600" stop="20201103080000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20201103080000 -0600" stop="20201103100000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Juventus vs. FC Barcelona</title>
+  </programme>
+  <programme start="20201103100000 -0600" stop="20201103130000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20201103130000 -0600" stop="20201103134500 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Rally</title>
+  </programme>
+  <programme start="20201103134500 -0600" stop="20201103160000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Manchester City vs. Olympiacos</title>
+  </programme>
+  <programme start="20201103160000 -0600" stop="20201103170000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">NASCAR Cup Series</title>
+  </programme>
+  <programme start="20201103170000 -0600" stop="20201103190000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20201103190000 -0600" stop="20201103200000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">El show de la fórmula 1</title>
+  </programme>
+  <programme start="20201103200000 -0600" stop="20201103210000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Motociclismo</title>
+  </programme>
+  <programme start="20201103210000 -0600" stop="20201103220000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Motociclismo</title>
+  </programme>
+  <programme start="20201103220000 -0600" stop="20201103230000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">El show de la fórmula 1</title>
+  </programme>
+  <programme start="20201103230000 -0600" stop="20201104013000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">NASCAR XFINITY Series</title>
+  </programme>
+  <programme start="20201104230000 -0600" stop="20201105013000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">NASCAR XFINITY Series</title>
+  </programme>
+  <programme start="20201105013000 -0600" stop="20201105020000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Motociclismo</title>
+  </programme>
+  <programme start="20201105020000 -0600" stop="20201105050000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20201105060000 -0600" stop="20201105070000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20201105070000 -0600" stop="20201105080000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20201105080000 -0600" stop="20201105110000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">WWE Raw</title>
+  </programme>
+  <programme start="20201105110000 -0600" stop="20201105120000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20201105120000 -0600" stop="20201105130000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20201105130000 -0600" stop="20201105134500 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20201105134500 -0600" stop="20201105160000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Club Brugge vs. Borussia Dortmund</title>
+  </programme>
+  <programme start="20201105160000 -0600" stop="20201105170000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Motociclismo</title>
+  </programme>
+  <programme start="20201105170000 -0600" stop="20201105180000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Motociclismo</title>
+  </programme>
+  <programme start="20201105180000 -0600" stop="20201105183000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Motociclismo</title>
+  </programme>
+  <programme start="20201105183000 -0600" stop="20201105191000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20201105191000 -0600" stop="20201105211000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Fútbol Liga CONCACAF</title>
+  </programme>
+  <programme start="20201105211000 -0600" stop="20201105212000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Rally on board</title>
+  </programme>
+  <programme start="20201105212000 -0600" stop="20201105233000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Fútbol Liga CONCACAF</title>
+  </programme>
+  <programme start="20201105233000 -0600" stop="20201106003000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">El show de la fórmula 1</title>
+  </programme>
+  <programme start="20201106003000 -0600" stop="20201106043000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">NASCAR Cup Series</title>
+  </programme>
+  <programme start="20201106043000 -0600" stop="20201106053000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20201106053000 -0600" stop="20201106063000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20201106063000 -0600" stop="20201106073000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20201106073000 -0600" stop="20201106120000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Motociclismo</title>
+  </programme>
+  <programme start="20201106120000 -0600" stop="20201107000000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Fox Sports 3</title>
+  </programme>
+  <programme start="20201107000000 -0600" stop="20201107120000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Fox Sports 3</title>
+  </programme>
+  <programme start="20201107120000 -0600" stop="20201108000000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Fox Sports 3</title>
+  </programme>
+  <programme start="20201103030000 -0600" stop="20201103040000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">WTCR 2020 España carrera 1</title>
+  </programme>
+  <programme start="20201103040000 -0600" stop="20201103050000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">WTCR 2020 España carrera 2</title>
+  </programme>
+  <programme start="20201103050000 -0600" stop="20201103060000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">WTCR 2020 España carrera 3</title>
+  </programme>
+  <programme start="20201103060000 -0600" stop="20201103080000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">Fórmula 1 2020 GP Emilia</title>
+  </programme>
+  <programme start="20201103080000 -0600" stop="20201103100000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">Juventus vs. Barcelona</title>
+    <desc lang="es">La Juventus FC de Italia recibe al FC Barcelona de España en el Olympic Stadium de Berlín en Alemania.</desc>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Europeo</category>
+    <category lang="es">UEFA</category>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/juventus_vs_barcelona.png" />
+  </programme>
+  <programme start="20201103100000 -0600" stop="20201103130000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">IMSA Weathertech Sportscar</title>
+  </programme>
+  <programme start="20201103130000 -0600" stop="20201103134500 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">World Rally Championship 2020</title>
+  </programme>
+  <programme start="20201103134500 -0600" stop="20201103160000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">Manchester City vs. Olympiacos</title>
+  </programme>
+  <programme start="20201103160000 -0600" stop="20201103170000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">Nascar carreras Históricas</title>
+  </programme>
+  <programme start="20201103170000 -0600" stop="20201103190000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">Fórmula 1 2020 GP Emilia</title>
+  </programme>
+  <programme start="20201103190000 -0600" stop="20201103200000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">El show de la fórmula 1</title>
+  </programme>
+  <programme start="20201103200000 -0600" stop="20201103210000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">Motul FIM Superbikes World</title>
+  </programme>
+  <programme start="20201103210000 -0600" stop="20201103220000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">Motul FIM Superbikes World</title>
+  </programme>
+  <programme start="20201103220000 -0600" stop="20201103230000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">El show de la fórmula 1</title>
+  </programme>
+  <programme start="20201103230000 -0600" stop="20201104013000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">Nascar Xfinity Series 2020</title>
+  </programme>
+  <programme start="20201104230000 -0600" stop="20201105013000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">Nascar Xfinity Series 2020</title>
+  </programme>
+  <programme start="20201105013000 -0600" stop="20201105020000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">FIM Motocross</title>
+  </programme>
+  <programme start="20201105020000 -0600" stop="20201105050000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">IMSA Weathertech Sportscar</title>
+  </programme>
+  <programme start="20201105050000 -0600" stop="20201105060000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">WTCR 2020 Eslovaquia carrera 1</title>
+  </programme>
+  <programme start="20201105060000 -0600" stop="20201105070000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">WTCR 2020 Eslovaquia carrera 2</title>
+  </programme>
+  <programme start="20201105070000 -0600" stop="20201105080000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">WTCR 2020 Eslovaquia carrera 3</title>
+  </programme>
+  <programme start="20201105080000 -0600" stop="20201105110000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">WWE Raw</title>
+  </programme>
+  <programme start="20201105110000 -0600" stop="20201105120000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">WTCR 2020 España carrera 1</title>
+  </programme>
+  <programme start="20201105120000 -0600" stop="20201105130000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">WTCR 2020 España carrera 2</title>
+  </programme>
+  <programme start="20201105130000 -0600" stop="20201105134500 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">WTCR 2020 España carrera 3</title>
+  </programme>
+  <programme start="20201105134500 -0600" stop="20201105160000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">Club Brugge vs. Borussia D</title>
+  </programme>
+  <programme start="20201105160000 -0600" stop="20201105170000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">Motul FIM Superbikes World</title>
+  </programme>
+  <programme start="20201105170000 -0600" stop="20201105180000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">Motul FIM Superbikes World</title>
+  </programme>
+  <programme start="20201105180000 -0600" stop="20201105183000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">FIM Motocross</title>
+  </programme>
+  <programme start="20201105183000 -0600" stop="20201105191500 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">WTCR España carrera 1</title>
+  </programme>
+  <programme start="20201105191500 -0600" stop="20201105211000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">Deportivo S. vs. Club Social</title>
+  </programme>
+  <programme start="20201105211000 -0600" stop="20201105212500 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">Rally on board</title>
+  </programme>
+  <programme start="20201105212500 -0600" stop="20201105233000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">Alianza Fútbol C. vs. C.Motagua</title>
+  </programme>
+  <programme start="20201105233000 -0600" stop="20201106003000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">El show de la fórmula 1</title>
+  </programme>
+  <programme start="20201106003000 -0600" stop="20201106043000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">Nascar Cup Series 2020</title>
+  </programme>
+  <programme start="20201106043000 -0600" stop="20201106053000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">WTCR 2020 Hungría carrera 1</title>
+  </programme>
+  <programme start="20201106053000 -0600" stop="20201106063000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">WTCR 2020 Hungría carrera 2</title>
+  </programme>
+  <programme start="20201106063000 -0600" stop="20201106073000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">WTCR 2020 Hungría carrera 3</title>
+  </programme>
+  <programme start="20201106073000 -0600" stop="20201106080000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">FIM Motocross</title>
+  </programme>
+  <programme start="20201106080000 -0600" stop="20201106100000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">Real Madrid vs. Inter</title>
+  </programme>
+  <programme start="20201106100000 -0600" stop="20201106110000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">El show de la fórmula 1</title>
+  </programme>
+  <programme start="20201106110000 -0600" stop="20201106114500 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">Nascar carreras Históricas</title>
+  </programme>
+  <programme start="20201106114500 -0600" stop="20201106134500 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">Hapoel Beer-Sheva vs. Bayer 04</title>
+  </programme>
+  <programme start="20201106134500 -0600" stop="20201106160000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">Hoffenheim vs. FC Slovan L</title>
+  </programme>
+  <programme start="20201106160000 -0600" stop="20201106163000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">Rally on board</title>
+  </programme>
+  <programme start="20201106163000 -0600" stop="20201106193000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">UFC Reloaded</title>
+  </programme>
+  <programme start="20201106193000 -0600" stop="20201106200000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">Gp 1</title>
+  </programme>
+  <programme start="20201106200000 -0600" stop="20201106210000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">Circuito</title>
+  </programme>
+  <programme start="20201106210000 -0600" stop="20201106213000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">FIM Motocross</title>
+  </programme>
+  <programme start="20201106213000 -0600" stop="20201106220000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">Rally on board</title>
+  </programme>
+  <programme start="20201106220000 -0600" stop="20201106223000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">Gp 1</title>
+  </programme>
+  <programme start="20201106223000 -0600" stop="20201106233000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">Circuito</title>
+  </programme>
+  <programme start="20201106233000 -0600" stop="20201107000000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">Rally on board</title>
+  </programme>
+  <programme start="20201107000000 -0600" stop="20201107003000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">FIM Motocross</title>
+  </programme>
+  <programme start="20201107003000 -0600" stop="20201107013000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">Circuito</title>
+  </programme>
+  <programme start="20201107013000 -0600" stop="20201107020000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">Gp 1</title>
+  </programme>
+  <programme start="20201107020000 -0600" stop="20201107050000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">IMSA Weathertech Sportscar</title>
+  </programme>
+  <programme start="20201107050000 -0600" stop="20201107060000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">WTCR 2020 España carrera 1</title>
+  </programme>
+  <programme start="20201107060000 -0600" stop="20201107070000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">WTCR 2020 España carrera 2</title>
+  </programme>
+  <programme start="20201107070000 -0600" stop="20201107080000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">WTCR 2020 España carrera 3</title>
+  </programme>
+  <programme start="20201107080000 -0600" stop="20201107100000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">Atalanta BC vs. Liverpool</title>
+  </programme>
+  <programme start="20201107100000 -0600" stop="20201107103000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">Rally on board</title>
+  </programme>
+  <programme start="20201107103000 -0600" stop="20201107110000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">Gp 1</title>
+  </programme>
+  <programme start="20201107110000 -0600" stop="20201107120000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">Circuito</title>
+  </programme>
+  <programme start="20201107120000 -0600" stop="20201107140000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">Fórmula 1 2020 GP Emilia</title>
+  </programme>
+  <programme start="20201107140000 -0600" stop="20201107170000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">UFC Reloaded</title>
+  </programme>
+  <programme start="20201107170000 -0600" stop="20201107173000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">Rally on board</title>
+  </programme>
+  <programme start="20201107173000 -0600" stop="20201107180000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">FIM Motocross</title>
+  </programme>
+  <programme start="20201107180000 -0600" stop="20201107190000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">Circuito</title>
+  </programme>
+  <programme start="20201107190000 -0600" stop="20201107210000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">Nascar Gander RV &amp; Outdoors</title>
+  </programme>
+  <programme start="20201107210000 -0600" stop="20201107230000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">Fórmula 1 2020 GP Emilia</title>
+  </programme>
+  <programme start="20201107230000 -0600" stop="20201108000000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
+    <title lang="es">WTCR 2020 España carrera 1</title>
+  </programme>
+  <programme start="20201103030000 -0600" stop="20201103040000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20201103040000 -0600" stop="20201103050000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20201103050000 -0600" stop="20201103060000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20201103060000 -0600" stop="20201103080000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20201103080000 -0600" stop="20201103100000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Juventus vs. FC Barcelona</title>
+  </programme>
+  <programme start="20201103100000 -0600" stop="20201103130000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20201103130000 -0600" stop="20201103134500 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Rally</title>
+  </programme>
+  <programme start="20201103134500 -0600" stop="20201103160000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Manchester City vs. Olympiacos</title>
+  </programme>
+  <programme start="20201103160000 -0600" stop="20201103170000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">NASCAR Cup Series</title>
+  </programme>
+  <programme start="20201103170000 -0600" stop="20201103190000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20201103190000 -0600" stop="20201103200000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">El show de la fórmula 1</title>
+  </programme>
+  <programme start="20201103200000 -0600" stop="20201103210000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Motociclismo</title>
+  </programme>
+  <programme start="20201103210000 -0600" stop="20201103220000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Motociclismo</title>
+  </programme>
+  <programme start="20201103220000 -0600" stop="20201103230000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">El show de la fórmula 1</title>
+  </programme>
+  <programme start="20201103230000 -0600" stop="20201104013000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">NASCAR XFINITY Series</title>
+  </programme>
+  <programme start="20201104230000 -0600" stop="20201105013000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">NASCAR XFINITY Series</title>
+  </programme>
+  <programme start="20201105013000 -0600" stop="20201105020000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Motociclismo</title>
+  </programme>
+  <programme start="20201105020000 -0600" stop="20201105050000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20201105060000 -0600" stop="20201105070000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20201105070000 -0600" stop="20201105080000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20201105080000 -0600" stop="20201105110000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">WWE Raw</title>
+  </programme>
+  <programme start="20201105110000 -0600" stop="20201105120000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20201105120000 -0600" stop="20201105130000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20201105130000 -0600" stop="20201105134500 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20201105134500 -0600" stop="20201105160000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Club Brugge vs. Borussia Dortmund</title>
+  </programme>
+  <programme start="20201105160000 -0600" stop="20201105170000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Motociclismo</title>
+  </programme>
+  <programme start="20201105170000 -0600" stop="20201105180000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Motociclismo</title>
+  </programme>
+  <programme start="20201105180000 -0600" stop="20201105183000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Motociclismo</title>
+  </programme>
+  <programme start="20201105183000 -0600" stop="20201105191000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20201105191000 -0600" stop="20201105211000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Fútbol Liga CONCACAF</title>
+  </programme>
+  <programme start="20201105211000 -0600" stop="20201105212000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Rally on board</title>
+  </programme>
+  <programme start="20201105212000 -0600" stop="20201105233000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Fútbol Liga CONCACAF</title>
+  </programme>
+  <programme start="20201105233000 -0600" stop="20201106003000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">El show de la fórmula 1</title>
+  </programme>
+  <programme start="20201106003000 -0600" stop="20201106043000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">NASCAR Cup Series</title>
+  </programme>
+  <programme start="20201106043000 -0600" stop="20201106053000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20201106053000 -0600" stop="20201106063000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20201106063000 -0600" stop="20201106073000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20201106073000 -0600" stop="20201106120000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Motociclismo</title>
+  </programme>
+  <programme start="20201106120000 -0600" stop="20201107000000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Fox Sports 3</title>
+  </programme>
+  <programme start="20201107000000 -0600" stop="20201107120000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Fox Sports 3</title>
+  </programme>
+  <programme start="20201107120000 -0600" stop="20201108000000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Fox Sports 3</title>
+  </programme>
+  <programme start="20201103020000 -0600" stop="20201103040000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">La Era Bianchi</title>
+  </programme>
+  <programme start="20201103040000 -0600" stop="20201103060000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">Lille vs. Lyon</title>
+  </programme>
+  <programme start="20201103060000 -0600" stop="20201103080000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">Torino vs. Lazio</title>
+  </programme>
+  <programme start="20201103080000 -0600" stop="20201103100000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">UEFA Champions League</title>
+  </programme>
+  <programme start="20201103100000 -0600" stop="20201103110000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">UFC Clásicos</title>
+  </programme>
+  <programme start="20201103110000 -0600" stop="20201103114000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">UEFA Champions League Magazine</title>
+  </programme>
+  <programme start="20201103114000 -0600" stop="20201103115500 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">La previa UCL En Vivo</title>
+  </programme>
+  <programme start="20201103115500 -0600" stop="20201103135500 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">UEFA Champions League En Vivo</title>
+  </programme>
+  <programme start="20201103135500 -0600" stop="20201103140000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">La previa UCL En Vivo</title>
+  </programme>
+  <programme start="20201103140000 -0600" stop="20201103160000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">UEFA Champions League En Vivo</title>
+  </programme>
+  <programme start="20201103160000 -0600" stop="20201103180000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">UEFA Champions League</title>
+  </programme>
+  <programme start="20201103180000 -0600" stop="20201103200000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">UEFA Champions League</title>
+  </programme>
+  <programme start="20201103200000 -0600" stop="20201103220000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">CONMEBOL Libertadores</title>
+  </programme>
+  <programme start="20201103220000 -0600" stop="20201104000000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">UEFA Champions League</title>
+  </programme>
+  <programme start="20201104000000 -0600" stop="20201104020000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">Liga de Quito (Ecu) vs. River Plate</title>
+  </programme>
+  <programme start="20201104020000 -0600" stop="20201104040000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">UEFA Champions League</title>
+  </programme>
+  <programme start="20201104040000 -0600" stop="20201104060000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">CONMEBOL Libertadores</title>
+  </programme>
+  <programme start="20201104060000 -0600" stop="20201104080000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">Liga de Quito (Ecu) vs. River Plate</title>
+  </programme>
+  <programme start="20201104080000 -0600" stop="20201104100000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">UEFA Champions League</title>
+  </programme>
+  <programme start="20201104110000 -0600" stop="20201104114000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">UFC Knockouts</title>
+  </programme>
+  <programme start="20201104115500 -0600" stop="20201104135500 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">UEFA Champions League En Vivo</title>
+  </programme>
+  <programme start="20201104140000 -0600" stop="20201104160000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">UEFA Champions League En Vivo</title>
+  </programme>
+  <programme start="20201104160000 -0600" stop="20201104180000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">UEFA Champions League</title>
+  </programme>
+  <programme start="20201104180000 -0600" stop="20201104200000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">UEFA Champions League</title>
+  </programme>
+  <programme start="20201104200000 -0600" stop="20201104220000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">Independiente del Valle vs. Barcelona SC</title>
+  </programme>
+  <programme start="20201104220000 -0600" stop="20201105000000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">UEFA Champions League</title>
+  </programme>
+  <programme start="20201105000000 -0600" stop="20201105020000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">Independiente del Valle vs. Barcelona SC</title>
+  </programme>
+  <programme start="20201105020000 -0600" stop="20201105040000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">Genoa vs. Torino</title>
+  </programme>
+  <programme start="20201105040000 -0600" stop="20201105060000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">Independiente del Valle vs. Barcelona SC</title>
+  </programme>
+  <programme start="20201105060000 -0600" stop="20201105080000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">Independiente del Valle vs. Barcelona SC</title>
+  </programme>
+  <programme start="20201105080000 -0600" stop="20201105100000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">UEFA Champions League</title>
+  </programme>
+  <programme start="20201105110000 -0600" stop="20201105114000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">Magazine Europa League</title>
+  </programme>
+  <programme start="20201105114000 -0600" stop="20201105115500 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">Previa - UEFA Europa League En Vivo</title>
+  </programme>
+  <programme start="20201105115500 -0600" stop="20201105135500 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">UEFA Europa League En Vivo</title>
+  </programme>
+  <programme start="20201105135500 -0600" stop="20201105140000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">Previa - UEFA Europa League En Vivo</title>
+  </programme>
+  <programme start="20201105140000 -0600" stop="20201105160000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">UEFA Europa League En Vivo</title>
+  </programme>
+  <programme start="20201105160000 -0600" stop="20201105180000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">UEFA Europa League</title>
+  </programme>
+  <programme start="20201105180000 -0600" stop="20201105200000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">UEFA Europa League</title>
+  </programme>
+  <programme start="20201105200000 -0600" stop="20201105220000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">Palmeiras (Bra) vs. Guaraní (Par)</title>
+  </programme>
+  <programme start="20201105220000 -0600" stop="20201106000000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">UEFA Europa League</title>
+  </programme>
+  <programme start="20201106000000 -0600" stop="20201106020000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">Palmeiras vs. Tigre</title>
+  </programme>
+  <programme start="20201106020000 -0600" stop="20201106040000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">UEFA Europa League</title>
+  </programme>
+  <programme start="20201106040000 -0600" stop="20201106060000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">Palmeiras (Bra) vs. Guaraní (Par)</title>
+  </programme>
+  <programme start="20201106060000 -0600" stop="20201106080000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">Palmeiras vs. Tigre</title>
+  </programme>
+  <programme start="20201106080000 -0600" stop="20201106100000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">UEFA Europa League</title>
+  </programme>
+  <programme start="20201106100000 -0600" stop="20201106130000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">Fox Fight Club</title>
+  </programme>
+  <programme start="20201106130000 -0600" stop="20201106133000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">UFC Knockouts</title>
+  </programme>
+  <programme start="20201106133000 -0600" stop="20201106134500 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">Previa - Serie A En Vivo</title>
+  </programme>
+  <programme start="20201106134500 -0600" stop="20201106154500 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">Sassuolo vs. Udinese En Vivo</title>
+  </programme>
+  <programme start="20201106154500 -0600" stop="20201106180000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">La era Ramon Bianchi</title>
+  </programme>
+  <programme start="20201106180000 -0600" stop="20201106190000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">Expediente Futbol</title>
+  </programme>
+  <programme start="20201106190000 -0600" stop="20201106210000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">WWE Smackdown En Vivo</title>
+  </programme>
+  <programme start="20201106210000 -0600" stop="20201106220000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">Final de Película</title>
+  </programme>
+  <programme start="20201106220000 -0600" stop="20201107000000 -0600" channel="DEP | Fox Sports Premium FHD (AR)">
+    <title lang="es">UEFA Champions League</title>
+  </programme>
+  <programme start="20201103020000 -0600" stop="20201103040000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">La Era Bianchi</title>
+  </programme>
+  <programme start="20201103040000 -0600" stop="20201103060000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">Lille vs. Lyon</title>
+  </programme>
+  <programme start="20201103060000 -0600" stop="20201103080000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">Torino vs. Lazio</title>
+  </programme>
+  <programme start="20201103080000 -0600" stop="20201103100000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">UEFA Champions League</title>
+  </programme>
+  <programme start="20201103100000 -0600" stop="20201103110000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">UFC Clásicos</title>
+  </programme>
+  <programme start="20201103110000 -0600" stop="20201103114000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">UEFA Champions League Magazine</title>
+  </programme>
+  <programme start="20201103114000 -0600" stop="20201103115500 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">La previa UCL En Vivo</title>
+  </programme>
+  <programme start="20201103115500 -0600" stop="20201103135500 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">UEFA Champions League En Vivo</title>
+  </programme>
+  <programme start="20201103135500 -0600" stop="20201103140000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">La previa UCL En Vivo</title>
+  </programme>
+  <programme start="20201103140000 -0600" stop="20201103160000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">UEFA Champions League En Vivo</title>
+  </programme>
+  <programme start="20201103160000 -0600" stop="20201103180000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">UEFA Champions League</title>
+  </programme>
+  <programme start="20201103180000 -0600" stop="20201103200000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">UEFA Champions League</title>
+  </programme>
+  <programme start="20201103200000 -0600" stop="20201103220000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">CONMEBOL Libertadores</title>
+  </programme>
+  <programme start="20201103220000 -0600" stop="20201104000000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">UEFA Champions League</title>
+  </programme>
+  <programme start="20201104000000 -0600" stop="20201104020000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">Liga de Quito (Ecu) vs. River Plate</title>
+  </programme>
+  <programme start="20201104020000 -0600" stop="20201104040000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">UEFA Champions League</title>
+  </programme>
+  <programme start="20201104040000 -0600" stop="20201104060000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">CONMEBOL Libertadores</title>
+  </programme>
+  <programme start="20201104060000 -0600" stop="20201104080000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">Liga de Quito (Ecu) vs. River Plate</title>
+  </programme>
+  <programme start="20201104080000 -0600" stop="20201104100000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">UEFA Champions League</title>
+  </programme>
+  <programme start="20201104110000 -0600" stop="20201104114000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">UFC Knockouts</title>
+  </programme>
+  <programme start="20201104115500 -0600" stop="20201104135500 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">UEFA Champions League En Vivo</title>
+  </programme>
+  <programme start="20201104140000 -0600" stop="20201104160000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">UEFA Champions League En Vivo</title>
+  </programme>
+  <programme start="20201104160000 -0600" stop="20201104180000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">UEFA Champions League</title>
+  </programme>
+  <programme start="20201104180000 -0600" stop="20201104200000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">UEFA Champions League</title>
+  </programme>
+  <programme start="20201104200000 -0600" stop="20201104220000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">Independiente del Valle vs. Barcelona SC</title>
+  </programme>
+  <programme start="20201104220000 -0600" stop="20201105000000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">UEFA Champions League</title>
+  </programme>
+  <programme start="20201105000000 -0600" stop="20201105020000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">Independiente del Valle vs. Barcelona SC</title>
+  </programme>
+  <programme start="20201105020000 -0600" stop="20201105040000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">Genoa vs. Torino</title>
+  </programme>
+  <programme start="20201105040000 -0600" stop="20201105060000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">Independiente del Valle vs. Barcelona SC</title>
+  </programme>
+  <programme start="20201105060000 -0600" stop="20201105080000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">Independiente del Valle vs. Barcelona SC</title>
+  </programme>
+  <programme start="20201105080000 -0600" stop="20201105100000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">UEFA Champions League</title>
+  </programme>
+  <programme start="20201105110000 -0600" stop="20201105114000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">Magazine Europa League</title>
+  </programme>
+  <programme start="20201105114000 -0600" stop="20201105115500 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">Previa - UEFA Europa League En Vivo</title>
+  </programme>
+  <programme start="20201105115500 -0600" stop="20201105135500 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">UEFA Europa League En Vivo</title>
+  </programme>
+  <programme start="20201105135500 -0600" stop="20201105140000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">Previa - UEFA Europa League En Vivo</title>
+  </programme>
+  <programme start="20201105140000 -0600" stop="20201105160000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">UEFA Europa League En Vivo</title>
+  </programme>
+  <programme start="20201105160000 -0600" stop="20201105180000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">UEFA Europa League</title>
+  </programme>
+  <programme start="20201105180000 -0600" stop="20201105200000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">UEFA Europa League</title>
+  </programme>
+  <programme start="20201105200000 -0600" stop="20201105220000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">Palmeiras (Bra) vs. Guaraní (Par)</title>
+  </programme>
+  <programme start="20201105220000 -0600" stop="20201106000000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">UEFA Europa League</title>
+  </programme>
+  <programme start="20201106000000 -0600" stop="20201106020000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">Palmeiras vs. Tigre</title>
+  </programme>
+  <programme start="20201106020000 -0600" stop="20201106040000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">UEFA Europa League</title>
+  </programme>
+  <programme start="20201106040000 -0600" stop="20201106060000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">Palmeiras (Bra) vs. Guaraní (Par)</title>
+  </programme>
+  <programme start="20201106060000 -0600" stop="20201106080000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">Palmeiras vs. Tigre</title>
+  </programme>
+  <programme start="20201106080000 -0600" stop="20201106100000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">UEFA Europa League</title>
+  </programme>
+  <programme start="20201106100000 -0600" stop="20201106130000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">Fox Fight Club</title>
+  </programme>
+  <programme start="20201106130000 -0600" stop="20201106133000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">UFC Knockouts</title>
+  </programme>
+  <programme start="20201106133000 -0600" stop="20201106134500 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">Previa - Serie A En Vivo</title>
+  </programme>
+  <programme start="20201106134500 -0600" stop="20201106154500 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">Sassuolo vs. Udinese En Vivo</title>
+  </programme>
+  <programme start="20201106154500 -0600" stop="20201106180000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">La era Ramon Bianchi</title>
+  </programme>
+  <programme start="20201106180000 -0600" stop="20201106190000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">Expediente Futbol</title>
+  </programme>
+  <programme start="20201106190000 -0600" stop="20201106210000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">WWE Smackdown En Vivo</title>
+  </programme>
+  <programme start="20201106210000 -0600" stop="20201106220000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">Final de Película</title>
+  </programme>
+  <programme start="20201106220000 -0600" stop="20201107000000 -0600" channel="DEP | Fox Sports Premium HD (AR)">
+    <title lang="es">UEFA Champions League</title>
   </programme>
 </tv>
