@@ -310,7 +310,7 @@
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="DEP | Fox Sports 1 FHD (AR)">
-    <display-name lang="es">DEP | Fox Sports 1 FHD (AR))</display-name>
+    <display-name lang="es">DEP | Fox Sports 1 FHD (AR)</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
@@ -325,7 +325,7 @@
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="DEP | Fox Sports 2 FHD (AR)">
-    <display-name lang="es">DEP | Fox Sports 2 FHD (AR))</display-name>
+    <display-name lang="es">DEP | Fox Sports 2 FHD (AR)</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_2-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
@@ -335,7 +335,7 @@
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="DEP | Fox Sports 2 HD (AR)">
-    <display-name lang="es">DEP | Fox Sports 2 HD (AR))</display-name>
+    <display-name lang="es">DEP | Fox Sports 2 HD (AR)</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_2-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
@@ -345,7 +345,7 @@
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="DEP | Fox Sports 3 FHD (AR)">
-    <display-name lang="es">DEP | Fox Sports 3 FHD (AR))</display-name>
+    <display-name lang="es">DEP | Fox Sports 3 FHD (AR)</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_3-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
@@ -355,7 +355,7 @@
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="DEP | Fox Sports 3 HD (AR)">
-    <display-name lang="es">DEP | Fox Sports 3 HD (AR))</display-name>
+    <display-name lang="es">DEP | Fox Sports 3 HD (AR)</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_3-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
@@ -368,10 +368,6 @@
     <display-name lang="es">DEP | Fox Sports Premium HD (AR)</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_premium_argentina-mediano.png" />
     <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="DEP | M. DEPORTES (ES)">
-    <display-name lang="es">DEP | M. DEPORTES (ES)</display-name>
-    <url>http://www.movistarplus.es</url>
   </channel>
   <programme start="20201103003000 -0600" stop="20201103013000 -0600" channel="MX | A Plus">
     <title lang="es">Paid Programing</title>
@@ -486,6 +482,9 @@
   </programme>
   <programme start="20201104203000 -0600" stop="20201104210000 -0600" channel="MX | A Plus">
     <title lang="es">El lado siniestro de la histor</title>
+  </programme>
+  <programme start="20201104210000 -0600" stop="20201104220000 -0600" channel="MX | A Plus">
+    <title lang="es">Ahora Más Noticias</title>
   </programme>
   <programme start="20201105000000 -0600" stop="20201105013000 -0600" channel="MX | A Plus">
     <title lang="es">Paid Programing</title>
@@ -1279,6 +1278,9 @@
   </programme>
   <programme start="20201104193000 -0600" stop="20201104210000 -0600" channel="MX | AZ Corazon FHD">
     <title lang="es">La otra cara del alma - Parte 2</title>
+  </programme>
+  <programme start="20201104210000 -0600" stop="20201104223000 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Cielo rojo - Parte 2</title>
   </programme>
   <programme start="20201103020000 -0600" stop="20201103040000 -0600" channel="MX | AZ Mundo FHD">
     <title lang="es">A confirmar</title>
@@ -2456,6 +2458,9 @@
   <programme start="20201104200000 -0600" stop="20201104210000 -0600" channel="MX | Canal Judicial FHD">
     <title lang="es">Con los refugiados</title>
   </programme>
+  <programme start="20201104210000 -0600" stop="20201104220000 -0600" channel="MX | Canal Judicial FHD">
+    <title lang="es">Derecho a Disentir</title>
+  </programme>
   <programme start="20201104220000 -0600" stop="20201104230000 -0600" channel="MX | Canal Judicial FHD">
     <title lang="es">En el círculo</title>
   </programme>
@@ -3404,6 +3409,9 @@
   <programme start="20201104200000 -0600" stop="20201104210000 -0600" channel="MX | Formula Noticias FHD">
     <title lang="es">Leonardo Curzio en fórmula</title>
   </programme>
+  <programme start="20201104210000 -0600" stop="20201104220000 -0600" channel="MX | Formula Noticias FHD">
+    <title lang="es">Formula financiera</title>
+  </programme>
   <programme start="20201105170000 -0600" stop="20201105180000 -0600" channel="MX | Formula Noticias FHD">
     <title lang="es">La Fórmula es...Orvañanos</title>
   </programme>
@@ -3535,6 +3543,9 @@
   </programme>
   <programme start="20201105200000 -0600" stop="20201105210000 -0600" channel="MX | Foro TV FHD">
     <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20201105210000 -0600" stop="20201105220000 -0600" channel="MX | Foro TV FHD">
+    <title lang="es">Hora 21</title>
   </programme>
   <programme start="20201103003000 -0600" stop="20201103010000 -0600" channel="MX | HLN FHD">
     <title lang="es">Forensic Files</title>
@@ -4049,6 +4060,9 @@
   <programme start="20201104200000 -0600" stop="20201104210000 -0600" channel="MX | Mexiquence TV FHD">
     <title lang="es">Retuit TV</title>
   </programme>
+  <programme start="20201104210000 -0600" stop="20201104220000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">AMX con Carlos González</title>
+  </programme>
   <programme start="20201104220000 -0600" stop="20201104230000 -0600" channel="MX | Mexiquence TV FHD">
     <title lang="es">La Zona</title>
   </programme>
@@ -4225,6 +4239,9 @@
   </programme>
   <programme start="20201104204500 -0600" stop="20201104210000 -0600" channel="MX | Milenio TV FHD">
     <title lang="es">M2 con Susana Moscatel</title>
+  </programme>
+  <programme start="20201104210000 -0600" stop="20201104213000 -0600" channel="MX | Milenio TV FHD">
+    <title lang="es">Noticias con Alejandro Dmgz</title>
   </programme>
   <programme start="20201105104500 -0600" stop="20201105110000 -0600" channel="MX | Milenio TV FHD">
     <title lang="es">M2 con Susana Moscatel</title>
@@ -5011,6 +5028,9 @@
   <programme start="20201106202800 -0600" stop="20201106205800 -0600" channel="MX | TVC FHD">
     <title lang="es">Reporte Meganoticias TVC con Alex Piñón En Vivo</title>
   </programme>
+  <programme start="20201106205800 -0600" stop="20201106220700 -0600" channel="MX | TVC FHD">
+    <title lang="es">Meganoticias TVC con Francisco Ramírez En Vivo</title>
+  </programme>
   <programme start="20201106220700 -0600" stop="20201106230000 -0600" channel="MX | TVC FHD">
     <title lang="es">Expedientes TVC con Leonardo Ferrera O Antonio Jiménez</title>
   </programme>
@@ -5241,6 +5261,9 @@
   </programme>
   <programme start="20201104193000 -0600" stop="20201104210000 -0600" channel="MX: AZ Corazon">
     <title lang="es">La otra cara del alma - Parte 2</title>
+  </programme>
+  <programme start="20201104210000 -0600" stop="20201104223000 -0600" channel="MX: AZ Corazon">
+    <title lang="es">Cielo rojo - Parte 2</title>
   </programme>
   <programme start="20201103003000 -0600" stop="20201103040000 -0600" channel="MX: Azteca 7">
     <title lang="es">Infomerciales</title>
@@ -5979,6 +6002,9 @@
   <programme start="20201104200000 -0600" stop="20201104210000 -0600" channel="MX: FORMULA TV">
     <title lang="es">Leonardo Curzio en fórmula</title>
   </programme>
+  <programme start="20201104210000 -0600" stop="20201104220000 -0600" channel="MX: FORMULA TV">
+    <title lang="es">Formula financiera</title>
+  </programme>
   <programme start="20201105170000 -0600" stop="20201105180000 -0600" channel="MX: FORMULA TV">
     <title lang="es">La Fórmula es...Orvañanos</title>
   </programme>
@@ -6110,6 +6136,9 @@
   </programme>
   <programme start="20201105200000 -0600" stop="20201105210000 -0600" channel="MX: ForoTV">
     <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20201105210000 -0600" stop="20201105220000 -0600" channel="MX: ForoTV">
+    <title lang="es">Hora 21</title>
   </programme>
   <programme start="20201103003000 -0600" stop="20201103010000 -0600" channel="MX: INGENIO TV">
     <title lang="es">Vida Saludable</title>
@@ -6785,6 +6814,9 @@
   <programme start="20201104200000 -0600" stop="20201104210000 -0600" channel="MX: Mexiquense TV">
     <title lang="es">Retuit TV</title>
   </programme>
+  <programme start="20201104210000 -0600" stop="20201104220000 -0600" channel="MX: Mexiquense TV">
+    <title lang="es">AMX con Carlos González</title>
+  </programme>
   <programme start="20201104220000 -0600" stop="20201104230000 -0600" channel="MX: Mexiquense TV">
     <title lang="es">La Zona</title>
   </programme>
@@ -6961,6 +6993,9 @@
   </programme>
   <programme start="20201104204500 -0600" stop="20201104210000 -0600" channel="MX: Milenio TV">
     <title lang="es">M2 con Susana Moscatel</title>
+  </programme>
+  <programme start="20201104210000 -0600" stop="20201104213000 -0600" channel="MX: Milenio TV">
+    <title lang="es">Noticias con Alejandro Dmgz</title>
   </programme>
   <programme start="20201105104500 -0600" stop="20201105110000 -0600" channel="MX: Milenio TV">
     <title lang="es">M2 con Susana Moscatel</title>
@@ -7222,6 +7257,9 @@
   </programme>
   <programme start="20201106202800 -0600" stop="20201106205800 -0600" channel="MX: TVC">
     <title lang="es">Reporte Meganoticias TVC con Alex Piñón En Vivo</title>
+  </programme>
+  <programme start="20201106205800 -0600" stop="20201106220700 -0600" channel="MX: TVC">
+    <title lang="es">Meganoticias TVC con Francisco Ramírez En Vivo</title>
   </programme>
   <programme start="20201106220700 -0600" stop="20201106230000 -0600" channel="MX: TVC">
     <title lang="es">Expedientes TVC con Leonardo Ferrera O Antonio Jiménez</title>
@@ -9701,6 +9739,25 @@
   <programme start="20201106190000 -0600" stop="20201106210000 -0600" channel="DEP | ESPN 2 (MX)">
     <title lang="es">Real Madrid vs. Inter</title>
   </programme>
+  <programme start="20201106210000 -0600" stop="20201106220000 -0600" channel="DEP | ESPN 2 (MX)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol Español</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
+  </programme>
   <programme start="20201106220000 -0600" stop="20201106230000 -0600" channel="DEP | ESPN 2 (MX)">
     <title lang="es">ESPN Knockout</title>
   </programme>
@@ -10138,6 +10195,25 @@
   <programme start="20201106190000 -0600" stop="20201106210000 -0600" channel="DEP | ESPN 2 FHD (MX)">
     <title lang="es">Real Madrid vs. Inter</title>
   </programme>
+  <programme start="20201106210000 -0600" stop="20201106220000 -0600" channel="DEP | ESPN 2 FHD (MX)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol Español</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
+  </programme>
   <programme start="20201106220000 -0600" stop="20201106230000 -0600" channel="DEP | ESPN 2 FHD (MX)">
     <title lang="es">ESPN Knockout</title>
   </programme>
@@ -10307,6 +10383,9 @@
   </programme>
   <programme start="20201107200000 -0600" stop="20201107210000 -0600" channel="DEP | ESPN 2 HD (AR)">
     <title lang="es">ESPN FC Show En Vivo</title>
+  </programme>
+  <programme start="20201107210000 -0600" stop="20201107220000 -0600" channel="DEP | ESPN 2 HD (AR)">
+    <title lang="es">SportsCenter L.A En Vivo</title>
   </programme>
   <programme start="20201107230000 -0600" stop="20201107233000 -0600" channel="DEP | ESPN 2 HD (AR)">
     <title lang="es">ESPN Playroom</title>
@@ -10998,6 +11077,9 @@
   <programme start="20201106193000 -0600" stop="20201106200000 -0600" channel="DEP | ESPN 3 FHD (AR)">
     <title lang="es">UEFA Champions League Weekly</title>
   </programme>
+  <programme start="20201106210000 -0600" stop="20201106220000 -0600" channel="DEP | ESPN 3 FHD (AR)">
+    <title lang="es">#Redes</title>
+  </programme>
   <programme start="20201103003000 -0600" stop="20201103010000 -0600" channel="DEP | ESPN 3 FHD (MX)">
     <title lang="es">ATP World Tour Uncovered</title>
   </programme>
@@ -11684,6 +11766,9 @@
   </programme>
   <programme start="20201106193000 -0600" stop="20201106200000 -0600" channel="DEP | ESPN 3 HD (AR)">
     <title lang="es">UEFA Champions League Weekly</title>
+  </programme>
+  <programme start="20201106210000 -0600" stop="20201106220000 -0600" channel="DEP | ESPN 3 HD (AR)">
+    <title lang="es">#Redes</title>
   </programme>
   <programme start="20201103010000 -0600" stop="20201103040000 -0600" channel="DEP | ESPN DEPORTES HD">
     <title lang="es">Jorge Ramos y Su Banda</title>
@@ -12482,6 +12567,9 @@
   <programme start="20201106200000 -0600" stop="20201106210000 -0600" channel="DEP | ESPN Extra (MX)">
     <title lang="es">UEFA Europa League Highlights</title>
   </programme>
+  <programme start="20201106210000 -0600" stop="20201106220000 -0600" channel="DEP | ESPN Extra (MX)">
+    <title lang="es">ATP Masters 1000 - Paris</title>
+  </programme>
   <programme start="20201106230000 -0600" stop="20201107010000 -0600" channel="DEP | ESPN Extra (MX)">
     <title lang="es">UEFA Europa league</title>
   </programme>
@@ -12656,6 +12744,9 @@
   <programme start="20201106200000 -0600" stop="20201106210000 -0600" channel="DEP | ESPN Extra FHD (MX)">
     <title lang="es">UEFA Europa League Highlights</title>
   </programme>
+  <programme start="20201106210000 -0600" stop="20201106220000 -0600" channel="DEP | ESPN Extra FHD (MX)">
+    <title lang="es">ATP Masters 1000 - Paris</title>
+  </programme>
   <programme start="20201106230000 -0600" stop="20201107010000 -0600" channel="DEP | ESPN Extra FHD (MX)">
     <title lang="es">UEFA Europa league</title>
   </programme>
@@ -12829,6 +12920,9 @@
   </programme>
   <programme start="20201106200000 -0600" stop="20201106210000 -0600" channel="DEP | ESPN Extra HD (AR)">
     <title lang="es">UEFA Europa League Highlights</title>
+  </programme>
+  <programme start="20201106210000 -0600" stop="20201106220000 -0600" channel="DEP | ESPN Extra HD (AR)">
+    <title lang="es">ATP Masters 1000 - Paris</title>
   </programme>
   <programme start="20201106230000 -0600" stop="20201107010000 -0600" channel="DEP | ESPN Extra HD (AR)">
     <title lang="es">UEFA Europa league</title>
