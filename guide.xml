@@ -481,8 +481,16 @@
   </channel>
   <channel id="VAR | A&amp;E SD (AR)">
     <display-name lang="es">VAR | A&amp;E SD (AR)</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/183205.gif" />
-    <url>http://www.reportvMulti.com.ar</url>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/7b5b2baa8235a49bdcd13d68f77f4869.jpg" />
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="VAR | A&amp;E FHD (CO)">
+    <display-name lang="es">VAR | A&amp;E FHD (CO)</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="VAR | A&amp;E HD (CO)">
+    <display-name lang="es">VAR | A&amp;E HD (CO)</display-name>
+    <url>http://www.claro.com</url>
   </channel>
   <programme start="20201105013000 -0600" stop="20201105050000 -0600" channel="MX | A Plus">
     <title lang="es">Infomerciales</title>
@@ -558,6 +566,9 @@
   </programme>
   <programme start="20201106134500 -0600" stop="20201106140000 -0600" channel="MX | A Plus">
     <title lang="es">¿Quién da más</title>
+  </programme>
+  <programme start="20201106140000 -0600" stop="20201106150000 -0600" channel="MX | A Plus">
+    <title lang="es">A quien corresponda</title>
   </programme>
   <programme start="20201106160000 -0600" stop="20201106174500 -0600" channel="MX | A Plus">
     <title lang="es">Del suelo no paso</title>
@@ -1032,6 +1043,9 @@
   <programme start="20201106124500 -0600" stop="20201106140000 -0600" channel="MX | Antena 3 FHD">
     <title lang="es">Pasapalabra</title>
   </programme>
+  <programme start="20201106140000 -0600" stop="20201106144500 -0600" channel="MX | Antena 3 FHD">
+    <title lang="es">Noticias 2</title>
+  </programme>
   <programme start="20201106201500 -0600" stop="20201106230000 -0600" channel="MX | Antena 3 FHD">
     <title lang="es">La voz</title>
   </programme>
@@ -1363,6 +1377,9 @@
     <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
     <date>2006</date>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20201106140000 -0600" stop="20201106150000 -0600" channel="MX | AZ Mundo FHD">
+    <title lang="es">Noticiero Primera línea</title>
   </programme>
   <programme start="20201105003000 -0600" stop="20201105004500 -0600" channel="MX | AZTECA SIETE FHD">
     <title lang="es">Infomerciales</title>
@@ -1715,6 +1732,9 @@
     <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
     <date>2006</date>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20201106140000 -0600" stop="20201106150000 -0600" channel="MX | Azteca UNO FHD">
+    <title lang="es">Hechos meridiano</title>
   </programme>
   <programme start="20201106193000 -0600" stop="20201106223000 -0600" channel="MX | Azteca UNO FHD">
     <title lang="es">MasterChef</title>
@@ -2771,6 +2791,9 @@
   </programme>
   <programme start="20201106131500 -0600" stop="20201106140000 -0600" channel="MX | DW">
     <title lang="es">A fondo</title>
+  </programme>
+  <programme start="20201106140000 -0600" stop="20201106143000 -0600" channel="MX | DW">
+    <title lang="es">DW Noticias</title>
   </programme>
   <programme start="20201106143000 -0600" stop="20201106150000 -0600" channel="MX | DW">
     <title lang="es">Con sabor y saber</title>
@@ -4223,6 +4246,9 @@
   <programme start="20201106120000 -0600" stop="20201106140000 -0600" channel="MX | Multimedios Plus FHD">
     <title lang="es">Telediario vespertino MTY</title>
   </programme>
+  <programme start="20201106140000 -0600" stop="20201106150000 -0600" channel="MX | Multimedios Plus FHD">
+    <title lang="es">Telediario vespertino CDMX</title>
+  </programme>
   <programme start="20201106223000 -0600" stop="20201106233000 -0600" channel="MX | Multimedios Plus FHD">
     <title lang="es">Adivigana</title>
   </programme>
@@ -4521,6 +4547,9 @@
   <programme start="20201106133000 -0600" stop="20201106140000 -0600" channel="MX | Once FHD">
     <title lang="es">D todo</title>
     <episode-num system="onscreen">E68</episode-num>
+  </programme>
+  <programme start="20201106140000 -0600" stop="20201106143000 -0600" channel="MX | Once FHD">
+    <title lang="es">Noticiario</title>
   </programme>
   <programme start="20201106143000 -0600" stop="20201106150000 -0600" channel="MX | Once FHD">
     <title lang="es">Bolita de Pelo</title>
@@ -5523,6 +5552,9 @@
     <date>2006</date>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
   </programme>
+  <programme start="20201106140000 -0600" stop="20201106150000 -0600" channel="MX: Azteca Uno">
+    <title lang="es">Hechos meridiano</title>
+  </programme>
   <programme start="20201106193000 -0600" stop="20201106223000 -0600" channel="MX: Azteca Uno">
     <title lang="es">MasterChef</title>
   </programme>
@@ -5721,6 +5753,9 @@
   <programme start="20201106133000 -0600" stop="20201106140000 -0600" channel="MX: CANAL Once">
     <title lang="es">D todo</title>
     <episode-num system="onscreen">E68</episode-num>
+  </programme>
+  <programme start="20201106140000 -0600" stop="20201106143000 -0600" channel="MX: CANAL Once">
+    <title lang="es">Noticiario</title>
   </programme>
   <programme start="20201106143000 -0600" stop="20201106150000 -0600" channel="MX: CANAL Once">
     <title lang="es">Bolita de Pelo</title>
@@ -7520,6 +7555,9 @@
   <programme start="20201106133000 -0600" stop="20201106140000 -0600" channel="INF | Disney Channel FHD (CO)">
     <title lang="es">Holly Hobbie</title>
   </programme>
+  <programme start="20201106140000 -0600" stop="20201106144500 -0600" channel="INF | Disney Channel FHD (CO)">
+    <title lang="es">Bia</title>
+  </programme>
   <programme start="20201106144500 -0600" stop="20201106150000 -0600" channel="INF | Disney Channel FHD (CO)">
     <title lang="es">Los vecinos Green</title>
   </programme>
@@ -8311,6 +8349,9 @@
   </programme>
   <programme start="20201106133000 -0600" stop="20201106140000 -0600" channel="INF | DISNEY JUNIOR HD (AR)">
     <title lang="es">La Guardia del León</title>
+  </programme>
+  <programme start="20201106141500 -0600" stop="20201106143000 -0600" channel="INF | DISNEY JUNIOR HD (AR)">
+    <title lang="es">TOTS: Servicio de entrega de cachorros</title>
   </programme>
   <programme start="20201106143000 -0600" stop="20201106150000 -0600" channel="INF | DISNEY JUNIOR HD (AR)">
     <title lang="es">Junior Express</title>
@@ -9949,6 +9990,9 @@
   </programme>
   <programme start="20201106133000 -0600" stop="20201106140000 -0600" channel="INF | Disney Jr. FHD (CO)">
     <title lang="es">La Guardia del León</title>
+  </programme>
+  <programme start="20201106141500 -0600" stop="20201106143000 -0600" channel="INF | Disney Jr. FHD (CO)">
+    <title lang="es">TOTS: Servicio de entrega de cachorros</title>
   </programme>
   <programme start="20201106143000 -0600" stop="20201106150000 -0600" channel="INF | Disney Jr. FHD (CO)">
     <title lang="es">Junior Express</title>
@@ -24847,6 +24891,9 @@
   <programme start="20201107123000 -0600" stop="20201107140000 -0600" channel="DEP | TYC Sports HD (AR)">
     <title lang="es">Planeta Gol</title>
   </programme>
+  <programme start="20201107140000 -0600" stop="20201107160000 -0600" channel="DEP | TYC Sports HD (AR)">
+    <title lang="es">Sportia</title>
+  </programme>
   <programme start="20201107160000 -0600" stop="20201107182000 -0600" channel="DEP | TYC Sports HD (AR)">
     <title lang="es">Presión alta</title>
   </programme>
@@ -24913,1485 +24960,576 @@
   <programme start="20201108230000 -0600" stop="20201109033000 -0600" channel="DEP | TYC Sports HD (AR)">
     <title lang="es">Sportia</title>
   </programme>
-  <programme start="20201105003000 -0300" stop="20201105012000 -0300" channel="VAR | A&amp;E SD (AR)">
+  <programme start="20201105001500 +0000" stop="20201105021000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Depredador</title>
+    <desc lang="es">Un furtivo monstruo alienígena ataca a varios comandos durante una misión en las selvas de América del Sur.</desc>
+    <date>1987</date>
+    <category lang="es">Pelicula</category>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201105021000 +0000" stop="20201105030000 +0000" channel="VAR | A&amp;E SD (AR)">
     <title lang="es">NCIS: New Orleans</title>
-    <sub-title lang="es">S.6-Ep.17 - Prejuicio</sub-title>
-    <desc lang="es">Sigue a un equipo ficticio de agentes del Servicio Naval de Investigación Criminal 'NCIS', que indaga sobre casos que involucran a personal militar en 'The Big Easy', una ciudad conocida por su música, entretenimiento y decadencia. Las tensiones raciales aumentan en Nueva Orleans cuando un oficial blanco del NOPD dispara a un oficial de la Marina negro que creía que estaba armado en medio de una concurrida fiesta callejera.</desc>
-    <credits>
-      <actor>Scott Bakula</actor>
-      <actor>Lucas Black</actor>
-      <actor>Zoe McLellan</actor>
-      <actor>Rob Kerkovich</actor>
-      <actor>CCH Pounder</actor>
-      <actor>Patrick Kearns</actor>
-      <actor>Christopher Heskey</actor>
-      <actor>Daryl Mitchell</actor>
-      <actor>Shalita Grant</actor>
-      <actor>Anthony Kane</actor>
-      <actor>Alexander Christopher Jones</actor>
-      <actor>Hedy Rose Kraft</actor>
-      <actor>Shane Kretzmann</actor>
-      <actor>James Logan</actor>
-      <actor>T Ryan Mooney</actor>
-      <actor>James Ourso</actor>
-      <actor>Edward Parker</actor>
-      <actor>Stephen Payne</actor>
-      <actor>Louisa Riofrio</actor>
-      <actor>Brad Spiers</actor>
-      <actor>Stan Taylor</actor>
-      <actor>Ronald Joe Vasquez</actor>
-      <actor>Michael James Anders</actor>
-      <actor>Bryan Blasingame</actor>
-      <actor>Kermit Burns III</actor>
-      <actor>Jay Dee</actor>
-      <actor>Jason Gaines</actor>
-      <actor>Gerald J Garza</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="es">Series</category>
-    <category lang="es">Policial</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4317711.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S.6-Ep.17</episode-num>
+    <desc lang="es">Cuando un marinero de la Marina es encontrado muerto, el equipo rastrea los movimientos sospechosos de personas en su vida antes de su muerte. Además, Hannah acepta la relación de su hija con la nueva novia de su ex, Veronica.</desc>
+    <date>2019</date>
+    <category lang="es">Policiaca</category>
+    <episode-num system="onscreen">S6E18</episode-num>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
   </programme>
-  <programme start="20201105012000 -0300" stop="20201105021000 -0300" channel="VAR | A&amp;E SD (AR)">
+  <programme start="20201105030000 +0000" stop="20201105035000 +0000" channel="VAR | A&amp;E SD (AR)">
     <title lang="es">NCIS: New Orleans</title>
-    <sub-title lang="es">S.6-Ep.18 - A Changed Woman</sub-title>
-    <desc lang="es">Sigue a un equipo ficticio de agentes del Servicio Naval de Investigación Criminal 'NCIS', que indaga sobre casos que involucran a personal militar en 'The Big Easy', una ciudad conocida por su música, entretenimiento y decadencia. Cuando un marinero de la Armada es encontrado muerto, el equipo rastrea los movimientos sospechosos de personas en su vida antes de su muerte. Además, Hannah acepta la relación de su hija con la nueva novia de su ex.</desc>
-    <credits>
-      <actor>Scott Bakula</actor>
-      <actor>Lucas Black</actor>
-      <actor>Zoe McLellan</actor>
-      <actor>Rob Kerkovich</actor>
-      <actor>CCH Pounder</actor>
-      <actor>Patrick Kearns</actor>
-      <actor>Christopher Heskey</actor>
-      <actor>Daryl Mitchell</actor>
-      <actor>Shalita Grant</actor>
-      <actor>Anthony Kane</actor>
-      <actor>Alexander Christopher Jones</actor>
-      <actor>Hedy Rose Kraft</actor>
-      <actor>Shane Kretzmann</actor>
-      <actor>James Logan</actor>
-      <actor>T Ryan Mooney</actor>
-      <actor>James Ourso</actor>
-      <actor>Edward Parker</actor>
-      <actor>Stephen Payne</actor>
-      <actor>Louisa Riofrio</actor>
-      <actor>Brad Spiers</actor>
-      <actor>Stan Taylor</actor>
-      <actor>Ronald Joe Vasquez</actor>
-      <actor>Michael James Anders</actor>
-      <actor>Bryan Blasingame</actor>
-      <actor>Kermit Burns III</actor>
-      <actor>Jay Dee</actor>
-      <actor>Jason Gaines</actor>
-      <actor>Gerald J Garza</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="es">Series</category>
-    <category lang="es">Policial</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4317711.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S.6-Ep.18</episode-num>
-  </programme>
-  <programme start="20201105021000 -0300" stop="20201105030000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">60 días preso en Narcolandia</title>
-    <sub-title lang="es">S.1-Ep.4 - Microfoneada</sub-title>
-    <desc lang="es">Bullitt es una pequeña comunidad rural que se ha convertido en una sede estratégica para los cárteles de drogas gracias a la precariedad de sus fuerzas de seguridad y sus discretas locaciones geográficas. Seis participantes recorren, con una identidad falsa, las áreas cruciales de la autopista interestatal 65, entre Kentucky e Indiana, para investigar cuánto ha penetrado el narcotráfico en los Estados Unidos. Realizan una redada para atrapar a un narcotraficante. Mientras tanto, Charlie tiene cada vez más miedo, Richie lleva a cabo una fiesta para identificar a los adictos y Jackie revisa los clubes de stripers. Además, las tensiones continúan en aumento, y con ellas, también aumentan los riesgos.</desc>
-    <credits>
-      <actor>Jamey Noel</actor>
-    </credits>
+    <desc lang="es">Las tensiones raciales aumentan en Nueva Orleans cuando un oficial blanco de NOPD dispara a un oficial negro de la Marina que creía que estaba armado en medio de una concurrida fiesta callejera.</desc>
     <date>2019</date>
-    <category lang="es">Reality Show</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/10526756.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S.1-Ep.4</episode-num>
-  </programme>
-  <programme start="20201105030000 -0300" stop="20201105040000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Lo mejor de policías en Alaska</title>
-    <sub-title lang="es">S.1-Ep.4 - Llamado de la naturaleza</sub-title>
-    <desc lang="es">Los departamentos del policía del estado deben combatir una ola de crimen sin suficiente personal. Los oficiales novatos aprenderán que todo es distinto en Alaska. Descripción general de cómo Alaska se ha convertido en el nuevo salvaje oeste, y Jamie Ramos de Virginia es la única oficial femenina en Kodiak.</desc>
-    <credits>
-      <actor>Peyton Merideth</actor>
-      <actor>Adam Gebert</actor>
-      <actor>Mike Sortor</actor>
-      <actor>Thomas Broady</actor>
-      <actor>Gerrit Butler</actor>
-      <actor>Norman Hughes II</actor>
-      <actor>Joseph Linger</actor>
-      <actor>Robert Odom</actor>
-      <actor>Jamie Ramos</actor>
-      <actor>Nate Werner</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="es">Series</category>
-    <category lang="es">Policial</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/11744229.jpg" />
-    <episode-num system="onscreen">S.1-Ep.4</episode-num>
-  </programme>
-  <programme start="20201105040000 -0300" stop="20201105050000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Acumuladores compulsivos</title>
-    <sub-title lang="es">S.6-Ep.62 - Barbara G. / Fred y Mary</sub-title>
-    <desc lang="es">Parecen personas comunes, pero no lo son. Se trata de gente que convierte la basura en su mejor amigo y hacen de sus casas el cofre que guarda absurdos tesoros rodeados de ratas y cucarachas: colecciones de objetos inútiles, viejos utensilios, adornos navideños, pañales usados, periódicos, hasta anillas de latas de gaseosa. Conoce de manera directa y sin concesiones, el lado oscuro de los coleccionistas, así como también desordenados compulsivos y su lucha por vencer su necia obsesión atesoradora. Barbara recorre callejones y basureros en busca de artículos para atiborrar su mansión. Por otro lado, Fred y Mary conviven con telarañas y cucarachas, a tal punto que Fred está muy enfermo a causa de la suciedad.</desc>
-    <credits>
-      <director>Pat Barnes</director>
-      <actor>Geralin Thomas</actor>
-      <actor>Cory Chalmers</actor>
-      <actor>Matt Paxton</actor>
-      <actor>Robin Zasio</actor>
-      <actor>David Tolin</actor>
-      <actor>Dorothy Breininger</actor>
-      <actor>Melva Green</actor>
-      <actor>Standolyn Robertson</actor>
-      <actor>Mark Pfeffer</actor>
-      <actor>Suzanne Chabaud</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Reality Show</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/9465405.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S.6-Ep.62</episode-num>
-  </programme>
-  <programme start="20201105050000 -0300" stop="20201105060000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Acusado: culpable o inocente</title>
-    <sub-title lang="es">S.1-Ep.1 - ¿Conductor mortal o accidente trágico?</sub-title>
-    <desc lang="es">Un relato íntimo de lo que sucede cuando alguien es acusado formalmente de un delito y enviado a juicio según la perspectiva del acusado, su equipo legal y los miembros de su familia. Un terrible accidente automovilístico deja a un padre muerto y a su hijo horriblemente herido. El conductor del otro auto está milagrosamente ileso. ¿Accidente trágico o conductor mortal?</desc>
-    <credits>
-      <director>Matt Kennedy</director>
-      <actor>Christine Branstad</actor>
-      <actor>Jason Carter</actor>
-      <actor>Shelly Carter</actor>
-      <actor>Alison Kanne</actor>
-      <actor>Garth Best</actor>
-      <actor>Cameron Boyd</actor>
-      <actor>Larry Boyd</actor>
-      <actor>Trey Boyd</actor>
-      <actor>Ed Bull</actor>
-      <actor>Angel Bumpass</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/11744601.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S.1-Ep.1</episode-num>
-  </programme>
-  <programme start="20201105060000 -0300" stop="20201105070000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Infomerciales</title>
-    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
-    <date>2000</date>
-    <category lang="es">Venta y Publicidad</category>
-    <category lang="es">Publicidad</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/5380762.jpg" />
-  </programme>
-  <programme start="20201105070000 -0300" stop="20201105080000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Infomerciales</title>
-    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
-    <date>2000</date>
-    <category lang="es">Venta y Publicidad</category>
-    <category lang="es">Publicidad</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/5380762.jpg" />
-  </programme>
-  <programme start="20201105080000 -0300" stop="20201105090000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Infomerciales</title>
-    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
-    <date>2000</date>
-    <category lang="es">Venta y Publicidad</category>
-    <category lang="es">Publicidad</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/5380762.jpg" />
-  </programme>
-  <programme start="20201105090000 -0300" stop="20201105100000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Infomerciales</title>
-    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
-    <date>2000</date>
-    <category lang="es">Venta y Publicidad</category>
-    <category lang="es">Publicidad</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/5380762.jpg" />
-  </programme>
-  <programme start="20201105100000 -0300" stop="20201105110000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">NCIS: New Orleans</title>
-    <sub-title lang="es">S.6-Ep.18 - A Changed Woman</sub-title>
-    <desc lang="es">Sigue a un equipo ficticio de agentes del Servicio Naval de Investigación Criminal 'NCIS', que indaga sobre casos que involucran a personal militar en 'The Big Easy', una ciudad conocida por su música, entretenimiento y decadencia. Cuando un marinero de la Armada es encontrado muerto, el equipo rastrea los movimientos sospechosos de personas en su vida antes de su muerte. Además, Hannah acepta la relación de su hija con la nueva novia de su ex.</desc>
-    <credits>
-      <actor>Scott Bakula</actor>
-      <actor>Lucas Black</actor>
-      <actor>Zoe McLellan</actor>
-      <actor>Rob Kerkovich</actor>
-      <actor>CCH Pounder</actor>
-      <actor>Patrick Kearns</actor>
-      <actor>Christopher Heskey</actor>
-      <actor>Daryl Mitchell</actor>
-      <actor>Shalita Grant</actor>
-      <actor>Anthony Kane</actor>
-      <actor>Alexander Christopher Jones</actor>
-      <actor>Hedy Rose Kraft</actor>
-      <actor>Shane Kretzmann</actor>
-      <actor>James Logan</actor>
-      <actor>T Ryan Mooney</actor>
-      <actor>James Ourso</actor>
-      <actor>Edward Parker</actor>
-      <actor>Stephen Payne</actor>
-      <actor>Louisa Riofrio</actor>
-      <actor>Brad Spiers</actor>
-      <actor>Stan Taylor</actor>
-      <actor>Ronald Joe Vasquez</actor>
-      <actor>Michael James Anders</actor>
-      <actor>Bryan Blasingame</actor>
-      <actor>Kermit Burns III</actor>
-      <actor>Jay Dee</actor>
-      <actor>Jason Gaines</actor>
-      <actor>Gerald J Garza</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="es">Series</category>
-    <category lang="es">Policial</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4317711.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S.6-Ep.18</episode-num>
-  </programme>
-  <programme start="20201105110000 -0300" stop="20201105115500 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Famosos y fantasmas</title>
-    <sub-title lang="es">S.1-Ep.6 - Kelly Osbourne</sub-title>
-    <desc lang="es">La primera y única serie donde las celebridades comparten sus experiencias personales, referentes a encuentros con lo paranormal. Las historias son contadas completamente en primera persona y por sus protagonistas: actores, músicos y atletas que han experimentado estos fenómenos. Kelly Osbourne solicita la ayuda de la psíquica Kim Russo para investigar una serie de misterios paranormales que experimentó en un hotel embrujado de Hollywood. Mientras busca respuestas a por qué le sucedieron estas cosas, Kelly descubrirá un don que no sabía que tenía. ¿Se animará a usarlo?</desc>
-    <date>2020</date>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/12370394.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S.1-Ep.6</episode-num>
-  </programme>
-  <programme start="20201105115500 -0300" stop="20201105124500 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">La vida pasada de mi hijo</title>
-    <sub-title lang="es">S.2-Ep.9 - Herido en batalla y tormenta eléctrica</sub-title>
-    <desc lang="es">¿Qué pasaría si tu hijo recordara haber muerto en una vida pasada? ¿Y si esos recuerdos estuviesen interfiriendo con su existencia actual? Existen niños de todas las edades y lugares del mundo que afirman poseer recuerdos de vidas anteriores: quiénes fueron, a qué se dedicaban, dónde vivían, incluso cómo murieron. Muestra algunas de estas inexplicables historias a través de los extraordinarios testimonios de los propios niños y sus padres. En su búsqueda por conocer la verdad, los padres recopilan todos los indicios y pistas que sus hijos les facilitan con el objetivo de reconstruir estas experiencias y contrastarlas con la irrefutable verdad de los hechos. La madre de Rylann queda atónita al conocer los detalles de un accidente aéreo que sucedió tal cual como su pequeña hija dice recordarlo. Jessica cuenta sus experiencias durante una guerra en el 1600 que preocupan a su madre. ¿Podrán ayudar a sus hijas a superar estos traumas del pasado?</desc>
-    <date>2013</date>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/11744628.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S.2-Ep.9</episode-num>
-  </programme>
-  <programme start="20201105124500 -0300" stop="20201105133500 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Palabra de asesino</title>
-    <sub-title lang="es">S.1-Ep.9 - Gary Ray Bowles, asesino de la 95</sub-title>
-    <desc lang="es">La serie presenta a actuales delincuentes en prisión mientras describen sus crimenes paso a paso y en detalle. Un viaje a traves de las mentes de los asesinos, una forma de intentar descubrir que pasa por la cabeza de la gente a la hora de matar. Gary Ray Bowles, conocido como el 'Asesino de la I-95', mató brutalmente a varios hombres en 1994. Los investigadores de 3 estados descubrieron que nunca se quedaba en el mismo lugar gracias a su espeluznante firma. A punto de ser ejecutado, el asesino revela sus escalofriantes motivaciones.</desc>
-    <credits>
-      <actor>Pete Demeo</actor>
-      <actor>Rodd Houston</actor>
-      <actor>Sasha Bardey</actor>
-      <actor>Louis B Schlesinger</actor>
-      <actor>Earl Forrest</actor>
-      <actor>Maksim Gelman</actor>
-      <actor>Levi King</actor>
-      <actor>Robert Lopez</actor>
-      <actor>Dena Riley</actor>
-      <actor>Tom Athey</actor>
-    </credits>
-    <date>2012</date>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/648699.JPG" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S.1-Ep.9</episode-num>
-  </programme>
-  <programme start="20201105133500 -0300" stop="20201105140000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Escuadrón de emergencias</title>
-    <desc lang="es">Un espacio que sigue a los valientes paramédicos y socorristas que arriesgan sus vidas todos los días para mantener a salvo a los ciudadanos a pesar de los desafíos de su trabajo.</desc>
-    <date>2020</date>
-    <category lang="es">Reality Show</category>
-    <category lang="es">Salud</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/11377354.jpg" />
-    <country lang="es">EE. UU.</country>
-  </programme>
-  <programme start="20201105140000 -0300" stop="20201105142500 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Cam Alert: captura exitosa</title>
-    <desc lang="es">El periodista Paco Zea presenta los operativos policiales más increíbles y sorprendentes que han sido grabados por las cámaras de los diferentes C5 de México. Escenas de la vida real dignas de una película de acción en las que no saldrán impunes los delincuentes responsables de robos a negocios y a transeúntes, asaltos bancarios, robos a casa habitación y persecuciones de vehículos. Exitosos operativos policiales que se llevan a cabo gracias a los sistemas monitoreo de diferentes estados de la República mexicana.</desc>
-    <credits>
-      <actor>Paco Zea</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/12319862.jpg" />
-    <country lang="es">México</country>
-  </programme>
-  <programme start="20201105142500 -0300" stop="20201105151500 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">60 días preso: el experimento</title>
-    <sub-title lang="es">S.2-Ep.23 - Problemas en puerta</sub-title>
-    <desc lang="es">Un documental que muestra cómo un grupo de voluntarios participa en un experimento donde deberán pasar sesenta días tras las rejas en la prisión del condado de Clark, en Indiana, Estados Unidos, mezclados con el resto de los reclusos. Todo ello con el objetivo de descubrir los secretos más profundos del recinto y conocer la forma en la que sus presos actúan. Una vez resuelto el problema con las aguas servidas, los participantes vuelven a sus celdas solo para encontrar nuevos desafíos y amenazas peligrosas.</desc>
-    <credits>
-      <actor>Barbra Roylance Williams</actor>
-      <actor>RW Parka</actor>
-      <actor>Tami Ferraiuolo</actor>
-      <actor>Jeffrey John Downs</actor>
-      <actor>Dion Shepherd</actor>
-      <actor>Ashleigh Rivera Baker</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Documentales</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/3236725.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S.2-Ep.23</episode-num>
-  </programme>
-  <programme start="20201105151500 -0300" stop="20201105154500 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Alto! Frontera</title>
-    <desc lang="es">Latinoamérica cuenta con más de 35.000 kilómetros de fronteras que representan los límites geográficos de cada uno de sus países. Pero también constituyen la línea que separa lo legal de lo ilegal. Una línea muy fina que muchos están deseosos de cruzar. No obstante, en cada frontera, muchos hombres y mujeres se mantienen firmes, desde los cuerpos policiales hasta el personal aduanero, con la esperanza de detener a aquellos que intentan saltarse la ley. Los aeropuertos de Chile y Bolivia son un nuevo escenario para el tráfico de drogas y detención de delincuentes.</desc>
-    <credits>
-      <actor>Julio Bracho</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/12222424.jpg" />
-    <country lang="es">México</country>
-  </programme>
-  <programme start="20201105154500 -0300" stop="20201105161000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Court Cam: acción judicial</title>
-    <desc lang="es">Estallidos de pánico, jueces furiosos, peleas violentas, peligrosas fugas, todo esto y mucho más pasa a diario en las salas de justicia de Estados Unidos. Dan Abrams acompaña a jueces, acusados y víctimas, y repasa los momentos más intensos y dramáticos captados por las cámaras de circuito cerrado.</desc>
-    <credits>
-      <actor>Dan Abrams</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/12073232.jpg" />
-    <country lang="es">EE. UU.</country>
-  </programme>
-  <programme start="20201105161000 -0300" stop="20201105170000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Top Dog</title>
-    <sub-title lang="es">S.1-Ep.6 - Rescate de perros</sub-title>
-    <desc lang="es">Perros policías compiten con perros civiles en pruebas de velocidad, agilidad, habilidad de olfato y trabajo en equipo en circuitos de obstáculos diseñados por expertos para imitar situaciones a las que estos héroes caninos se enfrentan cada día. Entre los combatientes del K9 hay un perro que una vez derribó a un asqueroso que empuñaba una ballesta, un perro cuyo entrenador es alérgico a él y un equipo con inspiración de su lado.</desc>
-    <credits>
-      <actor>Curt Menefee</actor>
-      <actor>Nick White</actor>
-      <actor>Officer Bowie</actor>
-      <actor>Robert Schwarting</actor>
-      <actor>Casey Skelton</actor>
-      <actor>Jamie Little</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="es">Reality Show</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/11912084.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S.1-Ep.6</episode-num>
-  </programme>
-  <programme start="20201105170000 -0300" stop="20201105175000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Las primeras 48 horas</title>
-    <sub-title lang="es">S.22-Ep.380 - Asesino en serie</sub-title>
-    <desc lang="es">Cada minuto cuenta, cada segundo podría significar la diferencia entre hacer justicia o dejar un crimen impune. Para los detectives, cuarenta y ocho horas no son suficientes, pero es con lo único que cuentan para conseguir una pista, rastrear a un sospechoso o hacer un arresto antes de que el caso se enfríe. El tiempo corre, y los detectives deben encontrar a un culpable o información suficientemente valiosa que los ayude a seguir los pasos de los criminales. Cuando un potencial asesino múltiple elige como objetivo a las personas más vulnerables de Tulsa, el Detective de la división de homicidios, Max Ryden, deberá poner todo de sí para intentar detenerlo antes de que vuelva a atacar. ¿Contará con las pistas necesarias para hacerlo?</desc>
-    <credits>
-      <director>Peter Tarshis</director>
-      <actor>Dion Graham</actor>
-      <actor>Caroline Mason</actor>
-      <actor>Tony Mullins</actor>
-      <actor>Fernando Bosch</actor>
-      <actor>John Buhrmaster</actor>
-      <actor>Emiliano Tamayo</actor>
-      <actor>Eddie Ibarra</actor>
-      <actor>Ervens Ford</actor>
-      <actor>Altarr Williams</actor>
-      <actor>Rick Duggan</actor>
-      <actor>Toney Armstrong</actor>
-      <actor>Scott Sayers</actor>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4519259.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S.22-Ep.380</episode-num>
-  </programme>
-  <programme start="20201105175000 -0300" stop="20201105182000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Metrópoli</title>
-    <desc lang="es">Un docureality de acción que muestra al desnudo la vida de importantes ciudades de Latinoamérica, desde el corazón de las fuerzas de seguridad, retratando lo que es el crimen y los delitos en América Latina.</desc>
-    <date>2019</date>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/10393752.jpg" />
-    <country lang="es">México</country>
-  </programme>
-  <programme start="20201105182000 -0300" stop="20201105201000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Bajo cero</title>
-    <desc lang="es">En la inhóspita Alaska, el agente Jack Halcombe deberá atrapar a un asesino serial que caza, secuestra y viola prostitutas. Halcombe recurrirá a la única chica que logró huir de las garras del asesino.</desc>
-    <credits>
-      <director>Scott Walker</director>
-      <actor>Nicolas Cage</actor>
-      <actor>John Cusack</actor>
-      <actor>Vanessa Hudgens</actor>
-      <actor>Gia Mantegna</actor>
-      <actor>Dean Norris</actor>
-      <actor>Robert Forgit</actor>
-      <actor>Brad William Henke</actor>
-      <actor>Michael McGrady</actor>
-      <actor>Katherine LaNasa</actor>
-      <actor>Ryan O'nan</actor>
-      <actor>Kevin Dunn</actor>
-      <actor>Connor Rockom</actor>
-      <actor>Radha Mitchell</actor>
-      <actor>Matt Gerald</actor>
-      <actor>Jodi Lyn O'Keefe</actor>
-    </credits>
-    <date>2012</date>
-    <category lang="es">Cine</category>
-    <category lang="es">Suspenso</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/5702117.jpg" />
-    <country lang="es">EE. UU.</country>
-  </programme>
-  <programme start="20201105201000 -0300" stop="20201105210000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Bull</title>
-    <sub-title lang="es">S.4-Ep.8 - Sano y salvo</sub-title>
-    <desc lang="es">Brillante, descarado y encantador, Jason Bull es uno de los mejores maestros de marionetas ya que combina la psicología, la intuición humana y datos de alta tecnología para conocer los gustos de los miembros del jurado, los abogados, los testigos y el acusado. Él emplea a un equipo envidiable de expertos en el 'Trial Analisis Corporation' para dar forma a defensas de éxito teniendo en cuenta hasta el último detalle. Bull intenta ayudar a Eric Crawford, un viejo amigo que fue con él a la universidad, que fue acusado de homicidio por negligencia después de que su hijo menor asesinara a su hermano mayor utilizando su arma. ¿Qué tipo de jurados elegirá para obtener la menor condena posible?</desc>
-    <credits>
-      <director>Paul Attanasio</director>
-      <actor>Michael Weatherly</actor>
-      <actor>Freddy Rodríguez</actor>
-      <actor>Geneva Carr</actor>
-      <actor>Chris Jackson</actor>
-      <actor>Annabelle Attanasio</actor>
-      <actor>Jaime Lee Kirchner</actor>
-      <actor>Faith Logan</actor>
-      <actor>Dena Tyler</actor>
-      <actor>Dianna Aguilar</actor>
-      <actor>Krystin Goodwin</actor>
-      <actor>Jill Flint</actor>
-      <actor>John Donchak</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Series</category>
-    <category lang="es">Drama</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/6727891.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S.4-Ep.8</episode-num>
-  </programme>
-  <programme start="20201105210000 -0300" stop="20201105215000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Bull</title>
-    <sub-title lang="es">S.4-Ep.9 - La alfombra voladora</sub-title>
-    <desc lang="es">Brillante, descarado y encantador, Jason Bull es uno de los mejores maestros de marionetas ya que combina la psicología, la intuición humana y datos de alta tecnología para conocer los gustos de los miembros del jurado, los abogados, los testigos y el acusado. Él emplea a un equipo envidiable de expertos en el 'Trial Analisis Corporation' para dar forma a defensas de éxito teniendo en cuenta hasta el último detalle. Bull representa a una gran compañía de seguros y a sus clientes, los dueños de una pizzería que fueron demandados por un adolescente que podría no volver a caminar después de lastimarse escalando el letrero de su negocio. Pero a medida que avanza el juicio se da cuenta de que nadie saldrá ganando.</desc>
-    <credits>
-      <director>Paul Attanasio</director>
-      <actor>Michael Weatherly</actor>
-      <actor>Freddy Rodríguez</actor>
-      <actor>Geneva Carr</actor>
-      <actor>Chris Jackson</actor>
-      <actor>Annabelle Attanasio</actor>
-      <actor>Jaime Lee Kirchner</actor>
-      <actor>Faith Logan</actor>
-      <actor>Dena Tyler</actor>
-      <actor>Dianna Aguilar</actor>
-      <actor>Krystin Goodwin</actor>
-      <actor>Jill Flint</actor>
-      <actor>John Donchak</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Series</category>
-    <category lang="es">Drama</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/6727883.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S.4-Ep.9</episode-num>
-  </programme>
-  <programme start="20201105215000 -0300" stop="20201106000000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">El expreso del miedo</title>
-    <desc lang="es">En un futuro en el que un experimento fallido para solucionar el problema del calentamiento global casi acabó destruyendo la vida sobre la Tierra, los únicos supervivientes son los pasajeros del Snowpiercer, un tren que recorre el mundo impulsado por un motor de movimiento eterno. Este tren tiene una jerarquía de clases cruel y peligrosa, la cual separa a los pasajeros del frente con aquellos de la parte trasera. Sin embargo, un héroe rebelde organiza una rebelión para desafiar al sistema, donde se desencadenaran las peores situaciones.</desc>
-    <credits>
-      <director>Joon-ho Bong</director>
-      <actor>Chris Evans</actor>
-      <actor>Ed Harris</actor>
-      <actor>John Hurt</actor>
-      <actor>Tilda Swinton</actor>
-      <actor>Jamie Bell</actor>
-      <actor>Octavia Spencer</actor>
-      <actor>Ewen Bremner</actor>
-      <actor>Alison Pill</actor>
-      <actor>Ah-sung Ko</actor>
-      <actor>Luke Pasqualino</actor>
-      <actor>Vlad Ivanov</actor>
-      <actor>Adnan Haskovic</actor>
-      <actor>Emma Levie</actor>
-      <actor>Steve Park</actor>
-      <actor>Kang-ho Song</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="es">Cine</category>
-    <category lang="es">C.Ficción</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/2816011.jpg" />
-    <country lang="es">EE. UU.</country>
-  </programme>
-  <programme start="20201106000000 -0300" stop="20201106005000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Las primeras 48 horas</title>
-    <sub-title lang="es">S.22-Ep.380 - Asesino en serie</sub-title>
-    <desc lang="es">Cada minuto cuenta, cada segundo podría significar la diferencia entre hacer justicia o dejar un crimen impune. Para los detectives, cuarenta y ocho horas no son suficientes, pero es con lo único que cuentan para conseguir una pista, rastrear a un sospechoso o hacer un arresto antes de que el caso se enfríe. El tiempo corre, y los detectives deben encontrar a un culpable o información suficientemente valiosa que los ayude a seguir los pasos de los criminales. Cuando un potencial asesino múltiple elige como objetivo a las personas más vulnerables de Tulsa, el Detective de la división de homicidios, Max Ryden, deberá poner todo de sí para intentar detenerlo antes de que vuelva a atacar. ¿Contará con las pistas necesarias para hacerlo?</desc>
-    <credits>
-      <director>Peter Tarshis</director>
-      <actor>Dion Graham</actor>
-      <actor>Caroline Mason</actor>
-      <actor>Tony Mullins</actor>
-      <actor>Fernando Bosch</actor>
-      <actor>John Buhrmaster</actor>
-      <actor>Emiliano Tamayo</actor>
-      <actor>Eddie Ibarra</actor>
-      <actor>Ervens Ford</actor>
-      <actor>Altarr Williams</actor>
-      <actor>Rick Duggan</actor>
-      <actor>Toney Armstrong</actor>
-      <actor>Scott Sayers</actor>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/10309551.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S.22-Ep.380</episode-num>
-  </programme>
-  <programme start="20201106005000 -0300" stop="20201106014000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Bull</title>
-    <sub-title lang="es">S.4-Ep.8 - Sano y salvo</sub-title>
-    <desc lang="es">Brillante, descarado y encantador, Jason Bull es uno de los mejores maestros de marionetas ya que combina la psicología, la intuición humana y datos de alta tecnología para conocer los gustos de los miembros del jurado, los abogados, los testigos y el acusado. Él emplea a un equipo envidiable de expertos en el 'Trial Analisis Corporation' para dar forma a defensas de éxito teniendo en cuenta hasta el último detalle. Bull intenta ayudar a Eric Crawford, un viejo amigo que fue con él a la universidad, que fue acusado de homicidio por negligencia después de que su hijo menor asesinara a su hermano mayor utilizando su arma. ¿Qué tipo de jurados elegirá para obtener la menor condena posible?</desc>
-    <credits>
-      <director>Paul Attanasio</director>
-      <actor>Michael Weatherly</actor>
-      <actor>Freddy Rodríguez</actor>
-      <actor>Geneva Carr</actor>
-      <actor>Chris Jackson</actor>
-      <actor>Annabelle Attanasio</actor>
-      <actor>Jaime Lee Kirchner</actor>
-      <actor>Faith Logan</actor>
-      <actor>Dena Tyler</actor>
-      <actor>Dianna Aguilar</actor>
-      <actor>Krystin Goodwin</actor>
-      <actor>Jill Flint</actor>
-      <actor>John Donchak</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Series</category>
-    <category lang="es">Drama</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/6727875.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S.4-Ep.8</episode-num>
-  </programme>
-  <programme start="20201106014000 -0300" stop="20201106023000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Bull</title>
-    <sub-title lang="es">S.4-Ep.9 - La alfombra voladora</sub-title>
-    <desc lang="es">Brillante, descarado y encantador, Jason Bull es uno de los mejores maestros de marionetas ya que combina la psicología, la intuición humana y datos de alta tecnología para conocer los gustos de los miembros del jurado, los abogados, los testigos y el acusado. Él emplea a un equipo envidiable de expertos en el 'Trial Analisis Corporation' para dar forma a defensas de éxito teniendo en cuenta hasta el último detalle. Bull representa a una gran compañía de seguros y a sus clientes, los dueños de una pizzería que fueron demandados por un adolescente que podría no volver a caminar después de lastimarse escalando el letrero de su negocio. Pero a medida que avanza el juicio se da cuenta de que nadie saldrá ganando.</desc>
-    <credits>
-      <director>Paul Attanasio</director>
-      <actor>Michael Weatherly</actor>
-      <actor>Freddy Rodríguez</actor>
-      <actor>Geneva Carr</actor>
-      <actor>Chris Jackson</actor>
-      <actor>Annabelle Attanasio</actor>
-      <actor>Jaime Lee Kirchner</actor>
-      <actor>Faith Logan</actor>
-      <actor>Dena Tyler</actor>
-      <actor>Dianna Aguilar</actor>
-      <actor>Krystin Goodwin</actor>
-      <actor>Jill Flint</actor>
-      <actor>John Donchak</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Series</category>
-    <category lang="es">Drama</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/6727883.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S.4-Ep.9</episode-num>
-  </programme>
-  <programme start="20201106023000 -0300" stop="20201106032000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">60 días preso en Narcolandia</title>
-    <sub-title lang="es">S.1-Ep.5 - La iniciación</sub-title>
-    <desc lang="es">Bullitt es una pequeña comunidad rural que se ha convertido en una sede estratégica para los cárteles de drogas gracias a la precariedad de sus fuerzas de seguridad y sus discretas locaciones geográficas. Seis participantes recorren, con una identidad falsa, las áreas cruciales de la autopista interestatal 65, entre Kentucky e Indiana, para investigar cuánto ha penetrado el narcotráfico en los Estados Unidos. Jackie, junto con un amigo, encuentra un lugar popular de drogas. En tanto, la policía está buscando a un tipo llamado Ghost, y Charlie encuentra drogas dentro de la cárcel.</desc>
-    <credits>
-      <actor>Jamey Noel</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Reality Show</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/10526764.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S.1-Ep.5</episode-num>
-  </programme>
-  <programme start="20201106032000 -0300" stop="20201106041000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Top Dog</title>
-    <sub-title lang="es">S.1-Ep.6 - Rescate de perros</sub-title>
-    <desc lang="es">Perros policías compiten con perros civiles en pruebas de velocidad, agilidad, habilidad de olfato y trabajo en equipo en circuitos de obstáculos diseñados por expertos para imitar situaciones a las que estos héroes caninos se enfrentan cada día. Entre los combatientes del K9 hay un perro que una vez derribó a un asqueroso que empuñaba una ballesta, un perro cuyo entrenador es alérgico a él y un equipo con inspiración de su lado.</desc>
-    <credits>
-      <actor>Curt Menefee</actor>
-      <actor>Nick White</actor>
-      <actor>Officer Bowie</actor>
-      <actor>Robert Schwarting</actor>
-      <actor>Casey Skelton</actor>
-      <actor>Jamie Little</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="es">Reality Show</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/11912084.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S.1-Ep.6</episode-num>
-  </programme>
-  <programme start="20201106041000 -0300" stop="20201106050000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Acumuladores compulsivos</title>
-    <sub-title lang="es">S.6-Ep.63 - Kathleen / Scott</sub-title>
-    <desc lang="es">Parecen personas comunes, pero no lo son. Se trata de gente que convierte la basura en su mejor amigo y hacen de sus casas el cofre que guarda absurdos tesoros rodeados de ratas y cucarachas: colecciones de objetos inútiles, viejos utensilios, adornos navideños, pañales usados, periódicos, hasta anillas de latas de gaseosa. Conoce de manera directa y sin concesiones, el lado oscuro de los coleccionistas, así como también desordenados compulsivos y su lucha por vencer su necia obsesión atesoradora. El acaparamiento de Kathleen comenzó después de que su esposo muriera, pero ya no sólo llena su propia casa, sino que también está llenando la de su hija. Por otro lado, Scott tiene un problema de acumulación tan serio que ha llenado cientos de casas, edificios y graneros con cosas que compra.</desc>
-    <credits>
-      <director>Pat Barnes</director>
-      <actor>Geralin Thomas</actor>
-      <actor>Cory Chalmers</actor>
-      <actor>Matt Paxton</actor>
-      <actor>Robin Zasio</actor>
-      <actor>David Tolin</actor>
-      <actor>Dorothy Breininger</actor>
-      <actor>Melva Green</actor>
-      <actor>Standolyn Robertson</actor>
-      <actor>Mark Pfeffer</actor>
-      <actor>Suzanne Chabaud</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Reality Show</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/9465401.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S.6-Ep.63</episode-num>
-  </programme>
-  <programme start="20201106050000 -0300" stop="20201106060000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">La vida pasada de mi hijo</title>
-    <sub-title lang="es">S.2-Ep.9 - Herido en batalla y tormenta eléctrica</sub-title>
-    <desc lang="es">¿Qué pasaría si tu hijo recordara haber muerto en una vida pasada? ¿Y si esos recuerdos estuviesen interfiriendo con su existencia actual? Existen niños de todas las edades y lugares del mundo que afirman poseer recuerdos de vidas anteriores: quiénes fueron, a qué se dedicaban, dónde vivían, incluso cómo murieron. Muestra algunas de estas inexplicables historias a través de los extraordinarios testimonios de los propios niños y sus padres. En su búsqueda por conocer la verdad, los padres recopilan todos los indicios y pistas que sus hijos les facilitan con el objetivo de reconstruir estas experiencias y contrastarlas con la irrefutable verdad de los hechos. La madre de Rylann queda atónita al conocer los detalles de un accidente aéreo que sucedió tal cual como su pequeña hija dice recordarlo. Jessica cuenta sus experiencias durante una guerra en el 1600 que preocupan a su madre. ¿Podrán ayudar a sus hijas a superar estos traumas del pasado?</desc>
-    <date>2013</date>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/11744632.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S.2-Ep.9</episode-num>
-  </programme>
-  <programme start="20201106060000 -0300" stop="20201106070000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Infomerciales</title>
-    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
-    <date>2000</date>
-    <category lang="es">Venta y Publicidad</category>
-    <category lang="es">Publicidad</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/2707074.jpg" />
-  </programme>
-  <programme start="20201106070000 -0300" stop="20201106080000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Infomerciales</title>
-    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
-    <date>2000</date>
-    <category lang="es">Venta y Publicidad</category>
-    <category lang="es">Publicidad</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/5380762.jpg" />
-  </programme>
-  <programme start="20201106080000 -0300" stop="20201106090000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Infomerciales</title>
-    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
-    <date>2000</date>
-    <category lang="es">Venta y Publicidad</category>
-    <category lang="es">Publicidad</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/2707074.jpg" />
-  </programme>
-  <programme start="20201106090000 -0300" stop="20201106100000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Infomerciales</title>
-    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
-    <date>2000</date>
-    <category lang="es">Venta y Publicidad</category>
-    <category lang="es">Publicidad</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/2707074.jpg" />
-  </programme>
-  <programme start="20201106100000 -0300" stop="20201106110000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">La vida pasada de mi hijo</title>
-    <sub-title lang="es">S.2-Ep.9 - Herido en batalla y tormenta eléctrica</sub-title>
-    <desc lang="es">¿Qué pasaría si tu hijo recordara haber muerto en una vida pasada? ¿Y si esos recuerdos estuviesen interfiriendo con su existencia actual? Existen niños de todas las edades y lugares del mundo que afirman poseer recuerdos de vidas anteriores: quiénes fueron, a qué se dedicaban, dónde vivían, incluso cómo murieron. Muestra algunas de estas inexplicables historias a través de los extraordinarios testimonios de los propios niños y sus padres. En su búsqueda por conocer la verdad, los padres recopilan todos los indicios y pistas que sus hijos les facilitan con el objetivo de reconstruir estas experiencias y contrastarlas con la irrefutable verdad de los hechos. La madre de Rylann queda atónita al conocer los detalles de un accidente aéreo que sucedió tal cual como su pequeña hija dice recordarlo. Jessica cuenta sus experiencias durante una guerra en el 1600 que preocupan a su madre. ¿Podrán ayudar a sus hijas a superar estos traumas del pasado?</desc>
-    <date>2013</date>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/11744640.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S.2-Ep.9</episode-num>
-  </programme>
-  <programme start="20201106110000 -0300" stop="20201106115000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Cazadores de fantasmas</title>
-    <sub-title lang="es">S.2-Ep.13 - Cazafantasmas regresan a Waverly Hills</sub-title>
-    <desc lang="es">La Sociedad Paranormal del Atlántico está encabezada por Jason Hawes y Grant Wilson, y conformada por un grupo muy estrecho de investigadores de este fenómeno. Este par de valientes harán todo lo posible por llegar al fondo de las situaciones anormales de todos los días. No tienen un doctorado en ciencias ni son unos psíquicos chiflados. Son plomeros de profesión pero esto no es un impedimento para investigar casas embrujadas alrededor de todo el mundo y enfrentarse a todo tipo de fantasmas. Apodado uno de los 'lugares más embrujados de la tierra', el sanatorio de Waverly Hills ha sido aclamado durante mucho tiempo como una 'meca' para investigadores de lo paranormal de todo el mundo. Ahora, los nuevos propietarios han estado recibiendo informes inquietantes y nuevas afirmaciones paranormales de los visitantes, que incluyen sangre, gritos y sonidos inexplicables. Al ver esto como la oportunidad perfecta para llevar a su nuevo equipo a uno de sus lugares favoritos, Grant ansioso responde la llamada de ayuda.</desc>
-    <credits>
-      <director>Jay Bluemke</director>
-      <director>Mark Marinaccio</director>
-      <director>Tom Thayer</director>
-      <director>Peter Zasuly</director>
-      <actor>Jason Hawes</actor>
-      <actor>Grant Wilson</actor>
-      <actor>Steve Gonsalves</actor>
-      <actor>Brian Harnois</actor>
-      <actor>Mike Rowe</actor>
-      <actor>Dave Tango</actor>
-      <actor>Kristyn Gartland</actor>
-      <actor>Dustin Pari</actor>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4314349.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S.2-Ep.13</episode-num>
-  </programme>
-  <programme start="20201106115000 -0300" stop="20201106124000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">60 días preso en Narcolandia</title>
-    <sub-title lang="es">S.1-Ep.5 - La iniciación</sub-title>
-    <desc lang="es">Bullitt es una pequeña comunidad rural que se ha convertido en una sede estratégica para los cárteles de drogas gracias a la precariedad de sus fuerzas de seguridad y sus discretas locaciones geográficas. Seis participantes recorren, con una identidad falsa, las áreas cruciales de la autopista interestatal 65, entre Kentucky e Indiana, para investigar cuánto ha penetrado el narcotráfico en los Estados Unidos. Jackie, junto con un amigo, encuentra un lugar popular de drogas. En tanto, la policía está buscando a un tipo llamado Ghost, y Charlie encuentra drogas dentro de la cárcel.</desc>
-    <credits>
-      <actor>Jamey Noel</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Reality Show</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/10526756.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S.1-Ep.5</episode-num>
-  </programme>
-  <programme start="20201106124000 -0300" stop="20201106133000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">El asesinato de Laci Peterson</title>
-    <sub-title lang="es">S.1-Ep.3 - El hombre más odiado</sub-title>
-    <desc lang="es">Cerca del 15º aniversario de la desaparición de Laci Peterson, una nueva mirada al caso. Un recuento definitivo de los hechos por aquellos que vivieron el caso en carne propia todos los días. Después del descubrimiento de los cuerpos de Laci Peterson y su hijo en la bahía de San Francisco, la policía arresta a Scott Peterson, quien se convierte en el hombre más odiado de Estados Unidos.</desc>
-    <credits>
-      <actor>Gloria Gomez</actor>
-      <actor>Ted Rowlands</actor>
-      <actor>Nancy Grace</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Documentales</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/5243266.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S.1-Ep.3</episode-num>
-  </programme>
-  <programme start="20201106133000 -0300" stop="20201106140000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Alto! Frontera</title>
-    <desc lang="es">Latinoamérica cuenta con más de 35.000 kilómetros de fronteras que representan los límites geográficos de cada uno de sus países. Pero también constituyen la línea que separa lo legal de lo ilegal. Una línea muy fina que muchos están deseosos de cruzar. No obstante, en cada frontera, muchos hombres y mujeres se mantienen firmes, desde los cuerpos policiales hasta el personal aduanero, con la esperanza de detener a aquellos que intentan saltarse la ley. Los aeropuertos de Chile y Bolivia son un nuevo escenario para el tráfico de drogas y detención de delincuentes.</desc>
-    <credits>
-      <actor>Julio Bracho</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/12222420.jpg" />
-    <country lang="es">México</country>
-  </programme>
-  <programme start="20201106140000 -0300" stop="20201106142500 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Court Cam: acción judicial</title>
-    <desc lang="es">Estallidos de pánico, jueces furiosos, peleas violentas, peligrosas fugas, todo esto y mucho más pasa a diario en las salas de justicia de Estados Unidos. Dan Abrams acompaña a jueces, acusados y víctimas, y repasa los momentos más intensos y dramáticos captados por las cámaras de circuito cerrado.</desc>
-    <credits>
-      <actor>Dan Abrams</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/12073232.jpg" />
-    <country lang="es">EE. UU.</country>
-  </programme>
-  <programme start="20201106142500 -0300" stop="20201106151500 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Las primeras 48 horas</title>
-    <sub-title lang="es">S.22-Ep.380 - Asesino en serie</sub-title>
-    <desc lang="es">Cada minuto cuenta, cada segundo podría significar la diferencia entre hacer justicia o dejar un crimen impune. Para los detectives, cuarenta y ocho horas no son suficientes, pero es con lo único que cuentan para conseguir una pista, rastrear a un sospechoso o hacer un arresto antes de que el caso se enfríe. El tiempo corre, y los detectives deben encontrar a un culpable o información suficientemente valiosa que los ayude a seguir los pasos de los criminales. Cuando un potencial asesino múltiple elige como objetivo a las personas más vulnerables de Tulsa, el Detective de la división de homicidios, Max Ryden, deberá poner todo de sí para intentar detenerlo antes de que vuelva a atacar. ¿Contará con las pistas necesarias para hacerlo?</desc>
-    <credits>
-      <director>Peter Tarshis</director>
-      <actor>Dion Graham</actor>
-      <actor>Caroline Mason</actor>
-      <actor>Tony Mullins</actor>
-      <actor>Fernando Bosch</actor>
-      <actor>John Buhrmaster</actor>
-      <actor>Emiliano Tamayo</actor>
-      <actor>Eddie Ibarra</actor>
-      <actor>Ervens Ford</actor>
-      <actor>Altarr Williams</actor>
-      <actor>Rick Duggan</actor>
-      <actor>Toney Armstrong</actor>
-      <actor>Scott Sayers</actor>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4519255.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S.22-Ep.380</episode-num>
-  </programme>
-  <programme start="20201106151500 -0300" stop="20201106160500 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Bull</title>
-    <sub-title lang="es">S.4-Ep.8 - Sano y salvo</sub-title>
-    <desc lang="es">Brillante, descarado y encantador, Jason Bull es uno de los mejores maestros de marionetas ya que combina la psicología, la intuición humana y datos de alta tecnología para conocer los gustos de los miembros del jurado, los abogados, los testigos y el acusado. Él emplea a un equipo envidiable de expertos en el 'Trial Analisis Corporation' para dar forma a defensas de éxito teniendo en cuenta hasta el último detalle. Bull intenta ayudar a Eric Crawford, un viejo amigo que fue con él a la universidad, que fue acusado de homicidio por negligencia después de que su hijo menor asesinara a su hermano mayor utilizando su arma. ¿Qué tipo de jurados elegirá para obtener la menor condena posible?</desc>
-    <credits>
-      <director>Paul Attanasio</director>
-      <actor>Michael Weatherly</actor>
-      <actor>Freddy Rodríguez</actor>
-      <actor>Geneva Carr</actor>
-      <actor>Chris Jackson</actor>
-      <actor>Annabelle Attanasio</actor>
-      <actor>Jaime Lee Kirchner</actor>
-      <actor>Faith Logan</actor>
-      <actor>Dena Tyler</actor>
-      <actor>Dianna Aguilar</actor>
-      <actor>Krystin Goodwin</actor>
-      <actor>Jill Flint</actor>
-      <actor>John Donchak</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Series</category>
-    <category lang="es">Drama</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/6727887.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S.4-Ep.8</episode-num>
-  </programme>
-  <programme start="20201106160500 -0300" stop="20201106165500 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Bull</title>
-    <sub-title lang="es">S.4-Ep.9 - La alfombra voladora</sub-title>
-    <desc lang="es">Brillante, descarado y encantador, Jason Bull es uno de los mejores maestros de marionetas ya que combina la psicología, la intuición humana y datos de alta tecnología para conocer los gustos de los miembros del jurado, los abogados, los testigos y el acusado. Él emplea a un equipo envidiable de expertos en el 'Trial Analisis Corporation' para dar forma a defensas de éxito teniendo en cuenta hasta el último detalle. Bull representa a una gran compañía de seguros y a sus clientes, los dueños de una pizzería que fueron demandados por un adolescente que podría no volver a caminar después de lastimarse escalando el letrero de su negocio. Pero a medida que avanza el juicio se da cuenta de que nadie saldrá ganando.</desc>
-    <credits>
-      <director>Paul Attanasio</director>
-      <actor>Michael Weatherly</actor>
-      <actor>Freddy Rodríguez</actor>
-      <actor>Geneva Carr</actor>
-      <actor>Chris Jackson</actor>
-      <actor>Annabelle Attanasio</actor>
-      <actor>Jaime Lee Kirchner</actor>
-      <actor>Faith Logan</actor>
-      <actor>Dena Tyler</actor>
-      <actor>Dianna Aguilar</actor>
-      <actor>Krystin Goodwin</actor>
-      <actor>Jill Flint</actor>
-      <actor>John Donchak</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Series</category>
-    <category lang="es">Drama</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/6727887.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S.4-Ep.9</episode-num>
-  </programme>
-  <programme start="20201106165500 -0300" stop="20201106174500 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Acusado: culpable o inocente</title>
-    <sub-title lang="es">S.1-Ep.7 - ¿Asalto de un solo golpe o autodefensa?</sub-title>
-    <desc lang="es">Un relato íntimo de lo que sucede cuando alguien es acusado formalmente de un delito y enviado a juicio según la perspectiva del acusado, su equipo legal y los miembros de su familia. Un joven que presencia un brutal ataque interviene y lanza un puñetazo.</desc>
-    <credits>
-      <director>Matt Kennedy</director>
-      <actor>Christine Branstad</actor>
-      <actor>Jason Carter</actor>
-      <actor>Shelly Carter</actor>
-      <actor>Alison Kanne</actor>
-      <actor>Garth Best</actor>
-      <actor>Cameron Boyd</actor>
-      <actor>Larry Boyd</actor>
-      <actor>Trey Boyd</actor>
-      <actor>Ed Bull</actor>
-      <actor>Angel Bumpass</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/11744609.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S.1-Ep.7</episode-num>
-  </programme>
-  <programme start="20201106174500 -0300" stop="20201106181000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Court Cam: acción judicial</title>
-    <desc lang="es">Estallidos de pánico, jueces furiosos, peleas violentas, peligrosas fugas, todo esto y mucho más pasa a diario en las salas de justicia de Estados Unidos. Dan Abrams acompaña a jueces, acusados y víctimas, y repasa los momentos más intensos y dramáticos captados por las cámaras de circuito cerrado.</desc>
-    <credits>
-      <actor>Dan Abrams</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/12073232.jpg" />
-    <country lang="es">EE. UU.</country>
-  </programme>
-  <programme start="20201106181000 -0300" stop="20201106201000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Un día para sobrevivir</title>
-    <desc lang="es">Después de que un avión se estrellara en Alaska, un grupo de seis trabajadores del petróleo, junto a un cazador experto, deberán sobrevivir a las inclemencias del tiempo y, peor aún, enfrentar una manada de lobos hambrientos que los persigue a cada paso.</desc>
-    <credits>
-      <director>Joe Carnahan</director>
-      <actor>Liam Neeson</actor>
-      <actor>Frank Grillo</actor>
-      <actor>Dermot Mulroney</actor>
-      <actor>Dallas Roberts</actor>
-      <actor>Joe Anderson</actor>
-      <actor>Nonso Anozie</actor>
-      <actor>James Badge Dale</actor>
-      <actor>Ben Hernandez Bray</actor>
-      <actor>Anne Openshaw</actor>
-      <actor>Ella Kosor</actor>
-      <actor>Jacob Blair</actor>
-    </credits>
-    <date>2012</date>
-    <category lang="es">Cine</category>
-    <category lang="es">Acción</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4951129.jpg" />
-    <country lang="es">EE. UU.</country>
-  </programme>
-  <programme start="20201106201000 -0300" stop="20201106210000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">NCIS: Los Ángeles</title>
-    <sub-title lang="es">S.11-Ep.14 - Problemas de compromiso</sub-title>
-    <desc lang="es">Una dinámica división policial atrapa a los más peligrosos delincuentes, valiéndose astutamente de sorprendentes innovaciones tecnológicas, increíbles transformaciones físicas y arriesgadas usurpaciones de identidad. Ahora, irrumpen en la ciudad del glamour, la moda y el cine para desbaratar el reinado del crimen organizado. El equipo NCIS investiga el asesinato de un ingeniero de guerra naval mientras asistía a un evento de poesía hablada. Mientras tanto, Cullen acude a Nell para que lo asista en la búsqueda a nivel mundial del paradero de Anna. ¿Lograrán dar con ella antes de que sea demasiado tarde?</desc>
-    <credits>
-      <director>Tony Wharmby</director>
-      <actor>Chris O'Donnell</actor>
-      <actor>Linda Hunt</actor>
-      <actor>Daniela Ruah</actor>
-      <actor>Barrett Foa</actor>
-      <actor>LL Cool J</actor>
-      <actor>Eric Christian Olsen</actor>
-      <actor>Renée Felice Smith</actor>
-      <actor>Miguel Ferrer</actor>
-      <actor>Peter Cambor</actor>
-      <actor>Adam Jamal Craig</actor>
-      <actor>Rocky Carroll</actor>
-      <actor>Claire Forlani</actor>
-      <actor>Erik Palladino</actor>
-      <actor>Vyto Ruginis</actor>
-      <actor>Christopher Lambert</actor>
-      <actor>Kent Shocknek</actor>
-      <actor>Kathleen Rose Perkins</actor>
-      <actor>Jeronimo Spinx</actor>
-      <actor>Matthew Grant Godbey</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Series</category>
-    <category lang="es">Policial</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/9173184.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S.11-Ep.14</episode-num>
-  </programme>
-  <programme start="20201106210000 -0300" stop="20201106215000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">NCIS: Los Ángeles</title>
-    <sub-title lang="es">S.11-Ep.13 - El círculo</sub-title>
-    <desc lang="es">Una dinámica división policial atrapa a los más peligrosos delincuentes, valiéndose astutamente de sorprendentes innovaciones tecnológicas, increíbles transformaciones físicas y arriesgadas usurpaciones de identidad. Ahora, irrumpen en la ciudad del glamour, la moda y el cine para desbaratar el reinado del crimen organizado. Después de un aumento en las muertes causadas por el uso de opioides en el mercado negro, el equipo de NCIS vincula la droga de la calle con la financiación de actividades terroristas.</desc>
-    <credits>
-      <director>Tony Wharmby</director>
-      <actor>Chris O'Donnell</actor>
-      <actor>Linda Hunt</actor>
-      <actor>Daniela Ruah</actor>
-      <actor>Barrett Foa</actor>
-      <actor>LL Cool J</actor>
-      <actor>Eric Christian Olsen</actor>
-      <actor>Renée Felice Smith</actor>
-      <actor>Miguel Ferrer</actor>
-      <actor>Peter Cambor</actor>
-      <actor>Adam Jamal Craig</actor>
-      <actor>Rocky Carroll</actor>
-      <actor>Claire Forlani</actor>
-      <actor>Erik Palladino</actor>
-      <actor>Vyto Ruginis</actor>
-      <actor>Christopher Lambert</actor>
-      <actor>Kent Shocknek</actor>
-      <actor>Kathleen Rose Perkins</actor>
-      <actor>Jeronimo Spinx</actor>
-      <actor>Matthew Grant Godbey</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Series</category>
-    <category lang="es">Policial</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4318041.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S.11-Ep.13</episode-num>
-  </programme>
-  <programme start="20201106215000 -0300" stop="20201106234000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Código Gerónimo: la caza de Bin Laden</title>
-    <desc lang="es">Crónica del ataque al escondite de Osama bin Laden, desde la perspectiva de un grupo de operaciones especiales en la Armada estadounidense.</desc>
-    <credits>
-      <director>Paulette Victor-Lifton</director>
-      <director>John Stockwell</director>
-      <actor>Cam Gigandet</actor>
-      <actor>Anson Mount</actor>
-      <actor>Freddy Rodríguez</actor>
-      <actor>Xzibit</actor>
-      <actor>Kathleen Robertson</actor>
-      <actor>Robert Knepper</actor>
-      <actor>Jenny Gabrielle</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="es">Cine</category>
-    <category lang="es">Acción</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/607824.jpg" />
-    <country lang="es">EE. UU.</country>
-  </programme>
-  <programme start="20201106234000 -0300" stop="20201107003000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Acusado: culpable o inocente</title>
-    <sub-title lang="es">S.1-Ep.7 - ¿Asalto de un solo golpe o autodefensa?</sub-title>
-    <desc lang="es">Un relato íntimo de lo que sucede cuando alguien es acusado formalmente de un delito y enviado a juicio según la perspectiva del acusado, su equipo legal y los miembros de su familia. Un joven que presencia un brutal ataque interviene y lanza un puñetazo.</desc>
-    <credits>
-      <director>Matt Kennedy</director>
-      <actor>Christine Branstad</actor>
-      <actor>Jason Carter</actor>
-      <actor>Shelly Carter</actor>
-      <actor>Alison Kanne</actor>
-      <actor>Garth Best</actor>
-      <actor>Cameron Boyd</actor>
-      <actor>Larry Boyd</actor>
-      <actor>Trey Boyd</actor>
-      <actor>Ed Bull</actor>
-      <actor>Angel Bumpass</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/11744601.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S.1-Ep.7</episode-num>
-  </programme>
-  <programme start="20201107003000 -0300" stop="20201107012000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">NCIS: Los Ángeles</title>
-    <sub-title lang="es">S.11-Ep.14 - Problemas de compromiso</sub-title>
-    <desc lang="es">Una dinámica división policial atrapa a los más peligrosos delincuentes, valiéndose astutamente de sorprendentes innovaciones tecnológicas, increíbles transformaciones físicas y arriesgadas usurpaciones de identidad. Ahora, irrumpen en la ciudad del glamour, la moda y el cine para desbaratar el reinado del crimen organizado. El equipo NCIS investiga el asesinato de un ingeniero de guerra naval mientras asistía a un evento de poesía hablada. Mientras tanto, Cullen acude a Nell para que lo asista en la búsqueda a nivel mundial del paradero de Anna. ¿Lograrán dar con ella antes de que sea demasiado tarde?</desc>
-    <credits>
-      <director>Tony Wharmby</director>
-      <actor>Chris O'Donnell</actor>
-      <actor>Linda Hunt</actor>
-      <actor>Daniela Ruah</actor>
-      <actor>Barrett Foa</actor>
-      <actor>LL Cool J</actor>
-      <actor>Eric Christian Olsen</actor>
-      <actor>Renée Felice Smith</actor>
-      <actor>Miguel Ferrer</actor>
-      <actor>Peter Cambor</actor>
-      <actor>Adam Jamal Craig</actor>
-      <actor>Rocky Carroll</actor>
-      <actor>Claire Forlani</actor>
-      <actor>Erik Palladino</actor>
-      <actor>Vyto Ruginis</actor>
-      <actor>Christopher Lambert</actor>
-      <actor>Kent Shocknek</actor>
-      <actor>Kathleen Rose Perkins</actor>
-      <actor>Jeronimo Spinx</actor>
-      <actor>Matthew Grant Godbey</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Series</category>
-    <category lang="es">Policial</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4480789.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S.11-Ep.14</episode-num>
-  </programme>
-  <programme start="20201107012000 -0300" stop="20201107021000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">NCIS: Los Ángeles</title>
-    <sub-title lang="es">S.11-Ep.13 - El círculo</sub-title>
-    <desc lang="es">Una dinámica división policial atrapa a los más peligrosos delincuentes, valiéndose astutamente de sorprendentes innovaciones tecnológicas, increíbles transformaciones físicas y arriesgadas usurpaciones de identidad. Ahora, irrumpen en la ciudad del glamour, la moda y el cine para desbaratar el reinado del crimen organizado. Después de un aumento en las muertes causadas por el uso de opioides en el mercado negro, el equipo de NCIS vincula la droga de la calle con la financiación de actividades terroristas.</desc>
-    <credits>
-      <director>Tony Wharmby</director>
-      <actor>Chris O'Donnell</actor>
-      <actor>Linda Hunt</actor>
-      <actor>Daniela Ruah</actor>
-      <actor>Barrett Foa</actor>
-      <actor>LL Cool J</actor>
-      <actor>Eric Christian Olsen</actor>
-      <actor>Renée Felice Smith</actor>
-      <actor>Miguel Ferrer</actor>
-      <actor>Peter Cambor</actor>
-      <actor>Adam Jamal Craig</actor>
-      <actor>Rocky Carroll</actor>
-      <actor>Claire Forlani</actor>
-      <actor>Erik Palladino</actor>
-      <actor>Vyto Ruginis</actor>
-      <actor>Christopher Lambert</actor>
-      <actor>Kent Shocknek</actor>
-      <actor>Kathleen Rose Perkins</actor>
-      <actor>Jeronimo Spinx</actor>
-      <actor>Matthew Grant Godbey</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Series</category>
-    <category lang="es">Policial</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4318041.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S.11-Ep.13</episode-num>
-  </programme>
-  <programme start="20201107021000 -0300" stop="20201107030000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">60 días preso en Narcolandia</title>
-    <sub-title lang="es">S.1-Ep.6 - Lazos peligrosos</sub-title>
-    <desc lang="es">Bullitt es una pequeña comunidad rural que se ha convertido en una sede estratégica para los cárteles de drogas gracias a la precariedad de sus fuerzas de seguridad y sus discretas locaciones geográficas. Seis participantes recorren, con una identidad falsa, las áreas cruciales de la autopista interestatal 65, entre Kentucky e Indiana, para investigar cuánto ha penetrado el narcotráfico en los Estados Unidos. Jonathan y Alexis consiguen su primer gran éxito en su lucha por interrumpir el ciclo de la adicción. Mientras tanto, en la cárcel, Charlie desenmascara una operación de tráfico de drogas. Además, Jenn pone en marcha su plan para convertirse en parte del grupo de chicas.</desc>
-    <credits>
-      <actor>Jamey Noel</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Reality Show</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/10526764.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S.1-Ep.6</episode-num>
-  </programme>
-  <programme start="20201107030000 -0300" stop="20201107040000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">El asesinato de Laci Peterson</title>
-    <sub-title lang="es">S.1-Ep.3 - El hombre más odiado</sub-title>
-    <desc lang="es">Cerca del 15º aniversario de la desaparición de Laci Peterson, una nueva mirada al caso. Un recuento definitivo de los hechos por aquellos que vivieron el caso en carne propia todos los días. Después del descubrimiento de los cuerpos de Laci Peterson y su hijo en la bahía de San Francisco, la policía arresta a Scott Peterson, quien se convierte en el hombre más odiado de Estados Unidos.</desc>
-    <credits>
-      <actor>Gloria Gomez</actor>
-      <actor>Ted Rowlands</actor>
-      <actor>Nancy Grace</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Documentales</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/5243266.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S.1-Ep.3</episode-num>
-  </programme>
-  <programme start="20201107040000 -0300" stop="20201107050000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Acumuladores compulsivos</title>
-    <sub-title lang="es">S.6-Ep.64 - Dee / Jan</sub-title>
-    <desc lang="es">Parecen personas comunes, pero no lo son. Se trata de gente que convierte la basura en su mejor amigo y hacen de sus casas el cofre que guarda absurdos tesoros rodeados de ratas y cucarachas: colecciones de objetos inútiles, viejos utensilios, adornos navideños, pañales usados, periódicos, hasta anillas de latas de gaseosa. Conoce de manera directa y sin concesiones, el lado oscuro de los coleccionistas, así como también desordenados compulsivos y su lucha por vencer su necia obsesión atesoradora. La hija de Talia puede escribir un manual de cómo convivir con una madre acumuladora, pero todo tiene un límite y ahora amenaza con sacarla de su vida si no busca ayuda. La enfermedad de Jan es tan grave que no ha sacado la basura desde 2006 y puede pasar varios meses sin darse un baño.</desc>
-    <credits>
-      <director>Pat Barnes</director>
-      <actor>Geralin Thomas</actor>
-      <actor>Cory Chalmers</actor>
-      <actor>Matt Paxton</actor>
-      <actor>Robin Zasio</actor>
-      <actor>David Tolin</actor>
-      <actor>Dorothy Breininger</actor>
-      <actor>Melva Green</actor>
-      <actor>Standolyn Robertson</actor>
-      <actor>Mark Pfeffer</actor>
-      <actor>Suzanne Chabaud</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Reality Show</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/9465401.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S.6-Ep.64</episode-num>
-  </programme>
-  <programme start="20201107050000 -0300" stop="20201107060000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Dr. Pie</title>
-    <sub-title lang="es">S.1-Ep.6 - Piel de reptil</sub-title>
-    <desc lang="es">De la mano del reconocido podólogo Jonathan Tomines, conoceremos las enfermedades de pies más impactantes y veremos los procedimientos más repulsivos y extrañamente fascinantes que ayudarán a cambiar la vida y el andar de sus pacientes. Los pies de una mujer pagan con dolor su obsesión por la moda y los tacos altos. Además, el doctor ayuda a una abuela a curar sus maltrechos pies, y un hombre que presenta unos callos en los pies terriblemente dolorosos.</desc>
-    <credits>
-      <actor>Jonathan Tomines</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/9653114.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S.1-Ep.6</episode-num>
-  </programme>
-  <programme start="20201107060000 -0300" stop="20201107070000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Infomerciales</title>
-    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
-    <date>2000</date>
-    <category lang="es">Venta y Publicidad</category>
-    <category lang="es">Publicidad</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/5380762.jpg" />
-  </programme>
-  <programme start="20201107070000 -0300" stop="20201107080000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Infomerciales</title>
-    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
-    <date>2000</date>
-    <category lang="es">Venta y Publicidad</category>
-    <category lang="es">Publicidad</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/5380762.jpg" />
-  </programme>
-  <programme start="20201107080000 -0300" stop="20201107090000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Infomerciales</title>
-    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
-    <date>2000</date>
-    <category lang="es">Venta y Publicidad</category>
-    <category lang="es">Publicidad</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/2707074.jpg" />
-  </programme>
-  <programme start="20201107090000 -0300" stop="20201107100000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Infomerciales</title>
-    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
-    <date>2000</date>
-    <category lang="es">Venta y Publicidad</category>
-    <category lang="es">Publicidad</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/2707074.jpg" />
-  </programme>
-  <programme start="20201107100000 -0300" stop="20201107105500 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">60 días preso en Narcolandia</title>
-    <sub-title lang="es">S.1-Ep.6 - Lazos peligrosos</sub-title>
-    <desc lang="es">Bullitt es una pequeña comunidad rural que se ha convertido en una sede estratégica para los cárteles de drogas gracias a la precariedad de sus fuerzas de seguridad y sus discretas locaciones geográficas. Seis participantes recorren, con una identidad falsa, las áreas cruciales de la autopista interestatal 65, entre Kentucky e Indiana, para investigar cuánto ha penetrado el narcotráfico en los Estados Unidos. Jonathan y Alexis consiguen su primer gran éxito en su lucha por interrumpir el ciclo de la adicción. Mientras tanto, en la cárcel, Charlie desenmascara una operación de tráfico de drogas. Además, Jenn pone en marcha su plan para convertirse en parte del grupo de chicas.</desc>
-    <credits>
-      <actor>Jamey Noel</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Reality Show</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/10526764.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S.1-Ep.6</episode-num>
-  </programme>
-  <programme start="20201107105500 -0300" stop="20201107112500 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Escuadrón de emergencias</title>
-    <desc lang="es">Un espacio que sigue a los valientes paramédicos y socorristas que arriesgan sus vidas todos los días para mantener a salvo a los ciudadanos a pesar de los desafíos de su trabajo.</desc>
-    <date>2020</date>
-    <category lang="es">Reality Show</category>
-    <category lang="es">Salud</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/11377358.jpg" />
-    <country lang="es">EE. UU.</country>
-  </programme>
-  <programme start="20201107112500 -0300" stop="20201107115500 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Escuadrón de emergencias</title>
-    <desc lang="es">Un espacio que sigue a los valientes paramédicos y socorristas que arriesgan sus vidas todos los días para mantener a salvo a los ciudadanos a pesar de los desafíos de su trabajo.</desc>
-    <date>2020</date>
-    <category lang="es">Reality Show</category>
-    <category lang="es">Salud</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/11377358.jpg" />
-    <country lang="es">EE. UU.</country>
-  </programme>
-  <programme start="20201107115500 -0300" stop="20201107124500 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">NCIS: New Orleans</title>
-    <sub-title lang="es">S.5-Ep.16 - Sobreviviente</sub-title>
-    <desc lang="es">Sigue a un equipo ficticio de agentes del Servicio Naval de Investigación Criminal 'NCIS', que indaga sobre casos que involucran a personal militar en 'The Big Easy', una ciudad conocida por su música, entretenimiento y decadencia. Después de que un terrorista evasivo con una venganza personal contra Hannah reaparece, ella y su familia son puestos bajo custodia protectora mientras el equipo busca al sospechoso.</desc>
-    <credits>
-      <actor>Scott Bakula</actor>
-      <actor>Lucas Black</actor>
-      <actor>Zoe McLellan</actor>
-      <actor>Rob Kerkovich</actor>
-      <actor>CCH Pounder</actor>
-      <actor>Patrick Kearns</actor>
-      <actor>Christopher Heskey</actor>
-      <actor>Daryl Mitchell</actor>
-      <actor>Shalita Grant</actor>
-      <actor>Anthony Kane</actor>
-      <actor>Alexander Christopher Jones</actor>
-      <actor>Hedy Rose Kraft</actor>
-      <actor>Shane Kretzmann</actor>
-      <actor>James Logan</actor>
-      <actor>T Ryan Mooney</actor>
-      <actor>James Ourso</actor>
-      <actor>Edward Parker</actor>
-      <actor>Stephen Payne</actor>
-      <actor>Louisa Riofrio</actor>
-      <actor>Brad Spiers</actor>
-      <actor>Stan Taylor</actor>
-      <actor>Ronald Joe Vasquez</actor>
-      <actor>Michael James Anders</actor>
-      <actor>Bryan Blasingame</actor>
-      <actor>Kermit Burns III</actor>
-      <actor>Jay Dee</actor>
-      <actor>Jason Gaines</actor>
-      <actor>Gerald J Garza</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="es">Series</category>
-    <category lang="es">Policial</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4317715.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S.5-Ep.16</episode-num>
-  </programme>
-  <programme start="20201107124500 -0300" stop="20201107133500 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">NCIS: New Orleans</title>
-    <sub-title lang="es">S.5-Ep.17 - Ajuste de cuentas</sub-title>
-    <desc lang="es">Sigue a un equipo ficticio de agentes del Servicio Naval de Investigación Criminal 'NCIS', que indaga sobre casos que involucran a personal militar en 'The Big Easy', una ciudad conocida por su música, entretenimiento y decadencia. Después de una reorganización de las tareas, Pride regresa a la oficina de Nueva Orleans durante la investigación de un suboficial desaparecido.</desc>
-    <credits>
-      <actor>Scott Bakula</actor>
-      <actor>Lucas Black</actor>
-      <actor>Zoe McLellan</actor>
-      <actor>Rob Kerkovich</actor>
-      <actor>CCH Pounder</actor>
-      <actor>Patrick Kearns</actor>
-      <actor>Christopher Heskey</actor>
-      <actor>Daryl Mitchell</actor>
-      <actor>Shalita Grant</actor>
-      <actor>Anthony Kane</actor>
-      <actor>Alexander Christopher Jones</actor>
-      <actor>Hedy Rose Kraft</actor>
-      <actor>Shane Kretzmann</actor>
-      <actor>James Logan</actor>
-      <actor>T Ryan Mooney</actor>
-      <actor>James Ourso</actor>
-      <actor>Edward Parker</actor>
-      <actor>Stephen Payne</actor>
-      <actor>Louisa Riofrio</actor>
-      <actor>Brad Spiers</actor>
-      <actor>Stan Taylor</actor>
-      <actor>Ronald Joe Vasquez</actor>
-      <actor>Michael James Anders</actor>
-      <actor>Bryan Blasingame</actor>
-      <actor>Kermit Burns III</actor>
-      <actor>Jay Dee</actor>
-      <actor>Jason Gaines</actor>
-      <actor>Gerald J Garza</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="es">Series</category>
-    <category lang="es">Policial</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4317723.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S.5-Ep.17</episode-num>
-  </programme>
-  <programme start="20201107133500 -0300" stop="20201107142500 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">60 días preso en Narcolandia</title>
-    <sub-title lang="es">S.1-Ep.2 - El arresto</sub-title>
-    <desc lang="es">Bullitt es una pequeña comunidad rural que se ha convertido en una sede estratégica para los cárteles de drogas gracias a la precariedad de sus fuerzas de seguridad y sus discretas locaciones geográficas. Seis participantes recorren, con una identidad falsa, las áreas cruciales de la autopista interestatal 65, entre Kentucky e Indiana, para investigar cuánto ha penetrado el narcotráfico en los Estados Unidos. Charlie evita por poco que su tapadera sea descubierta, pero las sospechas a su alrededor crecen. Mientras, Jenn lucha por conectarse con sus compañeros de prisión.</desc>
-    <credits>
-      <actor>Jamey Noel</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Reality Show</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/10526764.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S.1-Ep.2</episode-num>
-  </programme>
-  <programme start="20201107142500 -0300" stop="20201107151500 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Las primeras 48 horas</title>
-    <sub-title lang="es">S.17-Ep.4 - Compañía peligrosa</sub-title>
-    <desc lang="es">Cada minuto cuenta, cada segundo podría significar la diferencia entre hacer justicia o dejar un crimen impune. Para los detectives, cuarenta y ocho horas no son suficientes, pero es con lo único que cuentan para conseguir una pista, rastrear a un sospechoso o hacer un arresto antes de que el caso se enfríe. El tiempo corre, y los detectives deben encontrar a un culpable o información suficientemente valiosa que los ayude a seguir los pasos de los criminales. Un padre desaparecido aparece muerto, cuando sus planes de desalojar a un inquilino encienden una furia asesina.</desc>
-    <credits>
-      <director>Peter Tarshis</director>
-      <actor>Dion Graham</actor>
-      <actor>Caroline Mason</actor>
-      <actor>Tony Mullins</actor>
-      <actor>Fernando Bosch</actor>
-      <actor>John Buhrmaster</actor>
-      <actor>Emiliano Tamayo</actor>
-      <actor>Eddie Ibarra</actor>
-      <actor>Ervens Ford</actor>
-      <actor>Altarr Williams</actor>
-      <actor>Rick Duggan</actor>
-      <actor>Toney Armstrong</actor>
-      <actor>Scott Sayers</actor>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4519263.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S.17-Ep.4</episode-num>
-  </programme>
-  <programme start="20201107151500 -0300" stop="20201107154500 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Metrópoli</title>
-    <desc lang="es">Un docureality de acción que muestra al desnudo la vida de importantes ciudades de Latinoamérica, desde el corazón de las fuerzas de seguridad, retratando lo que es el crimen y los delitos en América Latina.</desc>
-    <date>2019</date>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/10393752.jpg" />
-    <country lang="es">México</country>
-  </programme>
-  <programme start="20201107154500 -0300" stop="20201107161000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Court Cam: acción judicial</title>
-    <desc lang="es">Estallidos de pánico, jueces furiosos, peleas violentas, peligrosas fugas, todo esto y mucho más pasa a diario en las salas de justicia de Estados Unidos. Dan Abrams acompaña a jueces, acusados y víctimas, y repasa los momentos más intensos y dramáticos captados por las cámaras de circuito cerrado.</desc>
-    <credits>
-      <actor>Dan Abrams</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/12073232.jpg" />
-    <country lang="es">EE. UU.</country>
-  </programme>
-  <programme start="20201107161000 -0300" stop="20201107163500 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Alto! Frontera</title>
-    <desc lang="es">Latinoamérica cuenta con más de 35.000 kilómetros de fronteras que representan los límites geográficos de cada uno de sus países. Pero también constituyen la línea que separa lo legal de lo ilegal. Una línea muy fina que muchos están deseosos de cruzar. No obstante, en cada frontera, muchos hombres y mujeres se mantienen firmes, desde los cuerpos policiales hasta el personal aduanero, con la esperanza de detener a aquellos que intentan saltarse la ley. Los aeropuertos de Chile y Bolivia son un nuevo escenario para el tráfico de drogas y detención de delincuentes.</desc>
-    <credits>
-      <actor>Julio Bracho</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/12222412.jpg" />
-    <country lang="es">México</country>
-  </programme>
-  <programme start="20201107163500 -0300" stop="20201107170500 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Alto! Frontera</title>
-    <desc lang="es">Latinoamérica cuenta con más de 35.000 kilómetros de fronteras que representan los límites geográficos de cada uno de sus países. Pero también constituyen la línea que separa lo legal de lo ilegal. Una línea muy fina que muchos están deseosos de cruzar. No obstante, en cada frontera, muchos hombres y mujeres se mantienen firmes, desde los cuerpos policiales hasta el personal aduanero, con la esperanza de detener a aquellos que intentan saltarse la ley. Los aeropuertos de Chile y Bolivia son un nuevo escenario para el tráfico de drogas y detención de delincuentes.</desc>
-    <credits>
-      <actor>Julio Bracho</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/12222420.jpg" />
-    <country lang="es">México</country>
-  </programme>
-  <programme start="20201107170500 -0300" stop="20201107173000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Cam Alert: captura exitosa</title>
-    <desc lang="es">El periodista Paco Zea presenta los operativos policiales más increíbles y sorprendentes que han sido grabados por las cámaras de los diferentes C5 de México. Escenas de la vida real dignas de una película de acción en las que no saldrán impunes los delincuentes responsables de robos a negocios y a transeúntes, asaltos bancarios, robos a casa habitación y persecuciones de vehículos. Exitosos operativos policiales que se llevan a cabo gracias a los sistemas monitoreo de diferentes estados de la República mexicana.</desc>
-    <credits>
-      <actor>Paco Zea</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/12319862.jpg" />
-    <country lang="es">México</country>
-  </programme>
-  <programme start="20201107173000 -0300" stop="20201107191000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Situación límite</title>
-    <desc lang="es">Tes, Dawn y Kara son tres chicas trabajando en puestos sin futuro y que apenas les da para vivir en Las Vegas. Sus vidas cambian radicalmente cuando Tes se encuentra con un interesante extraño llamado Mel. Cuando éste les ofrece a las muchachas la oportunidad de un pasar mejor a través del crimen, ellas aceptan, para luego verse empujadas a una situación de vida o muerte que implica a un psicópata asesino a sueldo, un camionero y un ilusionado cocinero.</desc>
-    <credits>
-      <director>Aaron Harvey</director>
-      <actor>Bruce Willis</actor>
-      <actor>Malin Akerman</actor>
-      <actor>Reila Aphrodite</actor>
-      <actor>Kevin Beard</actor>
-      <actor>Forest Whitaker</actor>
-      <actor>Nikki Reed</actor>
-      <actor>Deborah Ann Woll</actor>
-      <actor>Shea Whigham</actor>
-      <actor>Jimmy Lee Jr</actor>
-      <actor>Brad Dourif</actor>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Cine</category>
-    <category lang="es">Acción</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/1439883.jpg" />
-    <country lang="es">EE. UU.</country>
-  </programme>
-  <programme start="20201107191000 -0300" stop="20201107210000 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Código Gerónimo: la caza de Bin Laden</title>
-    <desc lang="es">Crónica del ataque al escondite de Osama bin Laden, desde la perspectiva de un grupo de operaciones especiales en la Armada estadounidense.</desc>
-    <credits>
-      <director>Paulette Victor-Lifton</director>
-      <director>John Stockwell</director>
-      <actor>Cam Gigandet</actor>
-      <actor>Anson Mount</actor>
-      <actor>Freddy Rodríguez</actor>
-      <actor>Xzibit</actor>
-      <actor>Kathleen Robertson</actor>
-      <actor>Robert Knepper</actor>
-      <actor>Jenny Gabrielle</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="es">Cine</category>
-    <category lang="es">Acción</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/607824.jpg" />
-    <country lang="es">EE. UU.</country>
-  </programme>
-  <programme start="20201107210000 -0300" stop="20201107230500 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">Pelotón</title>
-    <desc lang="es">Visión brutalmente realista del período de servicio de un joven soldado de Vietnam. Chris Taylor es un estudiante universitario de 1968 que abandona sus estudios para ingresar voluntariamente en el Ejército. Es enviado a Vietnam donde se relaciona con un grupo de jóvenes totalmente diferentes a él cultural y socialmente. Tras estar varias semanas en Vietnam, Taylor comienza a comprender la ingenuidad de sus puntos de vista sobre la guerra, especialmente después de que una incursión para buscar tropas enemigas se convierte en una masacre.</desc>
-    <credits>
-      <director>Oliver Stone</director>
-      <actor>Tom Berenger</actor>
-      <actor>Willem Dafoe</actor>
-      <actor>Charlie Sheen</actor>
-      <actor>Forest Whitaker</actor>
-      <actor>Keith David</actor>
-      <actor>Francesco Quinn</actor>
-      <actor>Kevin Dillon</actor>
-      <actor>John C McGinley</actor>
-      <actor>Mark Moses</actor>
-      <actor>Corey Glover</actor>
-      <actor>Johnny Depp</actor>
-    </credits>
-    <date>1986</date>
-    <category lang="es">Cine</category>
-    <category lang="es">Bélica</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/141265.gif" />
-    <country lang="es">EE. UU.</country>
-  </programme>
-  <programme start="20201107230500 -0300" stop="20201108004500 -0300" channel="VAR | A&amp;E SD (AR)">
-    <title lang="es">París en la mira</title>
-    <desc lang="es">Charlie Wax, un singular agente secreto estadounidense, debe llevar a cabo una misión de alto riesgo en París relacionada con el terrorismo y el tráfico de cocaína. Pero en su camino se cruzará con un empleado de la embajada norteamericana, James Reece, nada acostumbrado a los métodos poco ortodoxo de Wax. James pronto se da cuenta de que tiene que confiar en Charlie si él quiere salvar su propia vida, ya los malos no sólo quieren causar daño a la ciudad sino también asesinarlo.</desc>
-    <credits>
-      <director>Pierre Morel</director>
-      <actor>John Travolta</actor>
-      <actor>Jonathan Rhys Meyers</actor>
-      <actor>Kasia Smutniak</actor>
-      <actor>Richard Durden</actor>
-      <actor>Bing Yin</actor>
-      <actor>Amber Rose Revah</actor>
-      <actor>Eric Godon</actor>
-      <actor>François Bredon</actor>
-      <actor>Chems Dahmani</actor>
-      <actor>Sami Darr</actor>
-      <actor>Julien Hagnery</actor>
-      <actor>Mostefa Stiti</actor>
-      <actor>Rebecca Dayan</actor>
-      <actor>Michaël Vander-Meiren</actor>
-      <actor>Didier Constant</actor>
-    </credits>
+    <category lang="es">Policiaca</category>
+    <episode-num system="onscreen">S6E17</episode-num>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201105035000 +0000" stop="20201105054000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Depredadores</title>
+    <desc lang="es">En un planeta extraterrestre, un mercenario y su banda de combatientes luchan para sobrevivir en contra de la arremetida de unos temidos guerreros que están cazándolos por deporte.</desc>
     <date>2010</date>
-    <category lang="es">Cine</category>
-    <category lang="es">Acción</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/219641.jpg" />
-    <country lang="es">Francia</country>
+    <category lang="es">Pelicula</category>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201105054000 +0000" stop="20201105063000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Acusado: Culpable O Inocente</title>
+    <desc lang="es">Un joven presencia un brutal ataque. Él interviene y lanza un puñetazo. Estaba justificado o debería ser sentenciado a 20 años.</desc>
+    <date>2018</date>
+    <category lang="es">Documental</category>
+    <episode-num system="onscreen">S1E7</episode-num>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201105063000 +0000" stop="20201105072000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">NCIS: New Orleans</title>
+    <desc lang="es">Las tensiones raciales aumentan en Nueva Orleans cuando un oficial blanco de NOPD dispara a un oficial negro de la Marina que creía que estaba armado en medio de una concurrida fiesta callejera.</desc>
+    <date>2019</date>
+    <category lang="es">Policiaca</category>
+    <episode-num system="onscreen">S6E17</episode-num>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201105072000 +0000" stop="20201105081000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">NCIS: New Orleans</title>
+    <desc lang="es">Cuando un marinero de la Marina es encontrado muerto, el equipo rastrea los movimientos sospechosos de personas en su vida antes de su muerte. Además, Hannah acepta la relación de su hija con la nueva novia de su ex, Veronica.</desc>
+    <date>2019</date>
+    <category lang="es">Policiaca</category>
+    <episode-num system="onscreen">S6E18</episode-num>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201105081000 +0000" stop="20201105090000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">60 Días Preso En Narcolandia</title>
+    <desc lang="es">Realizan una redada para atrapar a un narcotraficante. Mientras tanto, Charlie tiene cada vez más miedo, Richie lleva a cabo una fiesta para identificar a los adictos y Jackie revisa los clubes de estríperes. Además, las tensiones continúan en aumento, y con ellas, también aumentan los riesgos.</desc>
+    <date>2019</date>
+    <category lang="es">Crimen</category>
+    <episode-num system="onscreen">S1E4</episode-num>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201105090000 +0000" stop="20201105100000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Lo Mejor De Policías En Alaska</title>
+    <desc lang="es">Descripción general de cómo Alaska se ha convertido en el nuevo salvaje oeste, y Jamie Ramos de Virginia es la única oficial femenina en Kodiak.</desc>
+    <date>2020</date>
+    <category lang="es">Reality Show</category>
+    <episode-num system="onscreen">S1E4</episode-num>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201105100000 +0000" stop="20201105110000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Acumuladores Compulsivos</title>
+    <desc lang="es">Barbara recorre callejones y basureros en busca de artículos para atiborrar su mansión. Fred y Mary conviven con telarañas y cucarachas, a tal punto que Fred está muy enfermo a causa de la suciedad. Ahora, las autoridades amenazan con expulsarlos de su propio hogar si no lo limpian.</desc>
+    <date>2011</date>
+    <category lang="es">Reality Show</category>
+    <episode-num system="onscreen">S6E62</episode-num>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201105110000 +0000" stop="20201105120000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Acusado: Culpable O Inocente</title>
+    <desc lang="es">Un terrible accidente automovilístico deja a un padre muerto y su hijo horriblemente herido.El conductor del otro auto está milagrosamente ileso. Accidente trágico oconductor mortal.</desc>
+    <date>2018</date>
+    <category lang="es">Documental</category>
+    <episode-num system="onscreen">S1E1</episode-num>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201105120000 +0000" stop="20201105130000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Infomerciales.</desc>
+    <category lang="es">Infomerciales</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20201105130000 +0000" stop="20201105140000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Infomerciales.</desc>
+    <category lang="es">Infomerciales</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20201105140000 +0000" stop="20201105150000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Infomerciales.</desc>
+    <category lang="es">Infomerciales</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20201105150000 +0000" stop="20201105160000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Infomerciales.</desc>
+    <category lang="es">Infomerciales</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20201105160000 +0000" stop="20201105170000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">NCIS: New Orleans</title>
+    <desc lang="es">Cuando un marinero de la Marina es encontrado muerto, el equipo rastrea los movimientos sospechosos de personas en su vida antes de su muerte. Además, Hannah acepta la relación de su hija con la nueva novia de su ex, Veronica.</desc>
+    <date>2019</date>
+    <category lang="es">Policiaca</category>
+    <episode-num system="onscreen">S6E18</episode-num>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201105170000 +0000" stop="20201105175500 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Famosos Y Fantasmas</title>
+    <desc lang="es">Kelly Osbourne solicita la ayuda de la psíquica Kim Russo para investigar una serie de misterios paranormales que experimentó en un hotel embrujado de Hollywood. Mientras busca respuestas a por qué le sucedieron estas cosas, Kelly descubrirá un don que no sabía que tenía. Se animará a usarlo.</desc>
+    <date>2019</date>
+    <category lang="es">Reality Show</category>
+    <episode-num system="onscreen">S1E6</episode-num>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201105175500 +0000" stop="20201105184500 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">La Vida Pasada De Mi Hijo</title>
+    <desc lang="es">La madre de Rylann queda atónita al conocer los detalles de un accidente aéreo que sucedió tal cual como su pequeña hija dice recordarlo. Jessica cuenta sus experiencias durante una guerra en el 1600 que preocupan a su madre. Podrán ayudar a sus hijas a superar estos traumas del pasado.</desc>
+    <date>2013</date>
+    <category lang="es">Documental</category>
+    <episode-num system="onscreen">S2E9</episode-num>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201105184500 +0000" stop="20201105193500 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Palabra De Asesino</title>
+    <desc lang="es">Gary Ray Bowles, conocido como el Asesino de la I-95, mató brutalmente a varios hombres en 1994. Los investigadores de 3 estados descubrieron que nunca se quedaba en el mismo lugar gracias a su espeluznante firma. A punto de ser ejecutado, el asesino revela sus escalofriantes motivaciones.</desc>
+    <date>2012</date>
+    <category lang="es">Crimen</category>
+    <episode-num system="onscreen">S1E9</episode-num>
+    <rating system="CO">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20201105193500 +0000" stop="20201105200000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Escuadrón De Emergencias</title>
+    <desc lang="es">Cómo actúan los bomberos y los servicios de primeros auxilios ante una emergencia? Esta serie muestra los momentos más emocionantes que enfrentan los encargados de responder a las llamadas de auxilio de los Estados Unidos: accidentes automovilísticos, incendios, emergencias médicas y mucho más.</desc>
+    <date>2020</date>
+    <category lang="es">Reality Show</category>
+    <episode-num system="onscreen">S1E8</episode-num>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201105200000 +0000" stop="20201105202500 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Cam Alert: Captura Exitosa</title>
+    <desc lang="es">Francisco Zea relata cómo las cámaras de C5 previenen hechos que podrían poner en peligro la seguridad de toda una población, monitorean de día y de noche, buscando indicios de delitos y hasta detectan los más extraños conflictos vecinales.</desc>
+    <date>2020</date>
+    <category lang="es">Reality Show</category>
+    <episode-num system="onscreen">S1E4</episode-num>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201105202500 +0000" stop="20201105211500 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">60 Días Preso: El Experimento</title>
+    <desc lang="es">Una vez resuelto el problema con las aguas servidas, los participantes vuelven a sus celdas sólo para encontrar nuevos desafíos y amenazas peligrosas.</desc>
+    <date>2016</date>
+    <category lang="es">Crimen</category>
+    <episode-num system="onscreen">S2E23</episode-num>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201105211500 +0000" stop="20201105214500 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Alto! Frontera</title>
+    <desc lang="es">México, Bolivia y Colombia logran dar un alto al trafico de drogas. Mientras en Perú y Brasil la aduana burla el tráfico de armas y divisas.</desc>
+    <date>2020</date>
+    <category lang="es">Policiaca</category>
+    <episode-num system="onscreen">S1E6</episode-num>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201105214500 +0000" stop="20201105221000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Court Cam: Acción Judicial</title>
+    <desc lang="es">Un hombre acusado de asesinar a sus 5 hijos pequeños se enfrenta a la madre de los niños en la corte. Más tarde, un prolífico asaltante armado desata una horrible sorpresa una vez que es sentenciado. Finalmente, un defendido conoce a su hijo por primera vez en la corte. Influirá esto al juez.</desc>
+    <date>2020</date>
+    <category lang="es">Documental</category>
+    <episode-num system="onscreen">S1E6</episode-num>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201105221000 +0000" stop="20201105230000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Top Dog</title>
+    <desc lang="es">Bienvenido a la última competencia deportiva para perros, donde los K9 profesionales de élite y sus guías luchan en un curso especialmente diseñado para probarlos en una variedad de situaciones de alta intensidad. Diversión y familia, los fanáticos tienen la oportunidad de ver sus Live PD® K9 favoritos de una manera completamente nueva.</desc>
+    <date>2020</date>
+    <category lang="es">Reality Show</category>
+    <episode-num system="onscreen">S1E1</episode-num>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201105230000 +0000" stop="20201105235000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Las Primeras 48 Horas</title>
+    <desc lang="es">Cuando un potencial asesino múltiple elige como objetivo a las personas más vulnerables de Tulsa, el Detective de la división de homicidios, Max Ryden, deberá poner todo de sí para intentar detenerlo antes de que vuelva a atacar. Contará con las pistas necesarias para hacerlo.</desc>
+    <date>2018</date>
+    <category lang="es">Crimen</category>
+    <episode-num system="onscreen">S22E380</episode-num>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201105235000 +0000" stop="20201106002000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Metropoli</title>
+    <desc lang="es">Ciudad de México. La gran urbe se ubica a 2240 metros sobre el nivel del mar. La seguridad y la tranquilidad de cada uno de sus habitantes depende, entre otras corporaciones, de la Secretaría de Seguridad Ciudadana que debe controlar situaciones de crisis y todo tipo de ilícitos.En la Alcaldía Iztapalapa se lleva a cabo un operativo en contra del consumo de alcohol en la vía pública. Al detener a varios infractores se dan cuenta que uno de los locales del barrio vende alcohol de manera ilegal y la situación se sale de control. Uno de los detenidos se resiste al arresto y entorpece el operativo de los oficiales. La situación sube de tono cuando la familia del detenido se enfrenta a la policía y lo ocultan en un domicilio particular al que los policías no pueden entrar sin una orden judicial. En la Alcaldía Cuauhtémoc el Escuadrón de Rescate y Urgencias Médicas atiende a un hombre que cayó de un segundo piso y que presenta fracturas en distintas partes del cuerpo. Mantenerlo despierto es la prioridad para después llevarlo rápidamente al hospital y salvarle la vida, misma que está en riesgo debido a los golpes recibidos. Después tendrán que salvar la vida de una mujer con una extraña situación en el estómago que entró repentinamente en estado crítico.La policía a cargo del alcoholímetro detiene a un taxista alcoholizado. Al ejecutar el protocolo salta a la luz una sospecha: Su identidad corresponde con la de los documentos del taxi que conduce.</desc>
+    <date>2019</date>
+    <category lang="es">Reality Show</category>
+    <episode-num system="onscreen">S2E6</episode-num>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201106002000 +0000" stop="20201106021000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Bajo Cero</title>
+    <desc lang="es">Este film basado en hechos reales relata la historia de una mujer que escapó de las garras del asesino serial Robert Hansen y se alía con un agente de la policía estatal de Alaska para darle caza y llevarlo ante la justicia.</desc>
+    <date>2013</date>
+    <category lang="es">Pelicula</category>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201106021000 +0000" stop="20201106030000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Bull</title>
+    <desc lang="es">Bull intenta ayudar a Eric Crawford, un viejo amigo que fue con él a la universidad, que fue acusado de homicidio por negligencia después de que su hijo menor asesinara a su hermano mayor utilizando su arma. Qué tipo de jurados elegirá para obtener la menor condena posible.</desc>
+    <date>2019</date>
+    <category lang="es">Crimen</category>
+    <episode-num system="onscreen">S4E8</episode-num>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201106030000 +0000" stop="20201106035000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Bull</title>
+    <desc lang="es">Bull representa a una gran compañía de seguros y a sus clientes, los dueños de una pizzería que fueron demandados por un adolescente que podría no volver a caminar después de lastimarse escalando el letrero de su negocio. Pero a medida que avanza el juicio se da cuenta de que nadie saldrá ganando.</desc>
+    <date>2019</date>
+    <category lang="es">Crimen</category>
+    <episode-num system="onscreen">S4E9</episode-num>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201106035000 +0000" stop="20201106060000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">El Expreso Del Miedo</title>
+    <desc lang="es">Ambientado en 2031, el mundo entero está congelado, excepto aquellos a bordo del Snowpiercer. Durante diecisiete años, los sobrevivientes del mundo están en un tren que viaja alrededor del mundo creando su propia economía y sistema de clases. Liderados por Curtis (Chris Evans), un grupo de ciudadanos de clase baja que viven en la miseria en la parte trasera del tren están decididos a llegar al frente del tren y repartir la riqueza. Cada sección del tren tiene nuevas sorpresas para el grupo que tiene que abrirse camino. Una revolución está en marcha.</desc>
+    <credits>
+      <director>Bong Joon Ho</director>
+      <actor>Chris Evans</actor>
+      <actor>Jamie Bell</actor>
+      <actor>Tilda Swinton</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Pelicula</category>
+    <rating system="CO">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20201106060000 +0000" stop="20201106065000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Las Primeras 48 Horas</title>
+    <desc lang="es">Cuando un potencial asesino múltiple elige como objetivo a las personas más vulnerables de Tulsa, el Detective de la división de homicidios, Max Ryden, deberá poner todo de sí para intentar detenerlo antes de que vuelva a atacar. Contará con las pistas necesarias para hacerlo.</desc>
+    <date>2018</date>
+    <category lang="es">Crimen</category>
+    <episode-num system="onscreen">S22E380</episode-num>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201106065000 +0000" stop="20201106074000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Bull</title>
+    <desc lang="es">Bull intenta ayudar a Eric Crawford, un viejo amigo que fue con él a la universidad, que fue acusado de homicidio por negligencia después de que su hijo menor asesinara a su hermano mayor utilizando su arma. Qué tipo de jurados elegirá para obtener la menor condena posible.</desc>
+    <date>2019</date>
+    <category lang="es">Crimen</category>
+    <episode-num system="onscreen">S4E8</episode-num>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201106074000 +0000" stop="20201106083000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Bull</title>
+    <desc lang="es">Bull representa a una gran compañía de seguros y a sus clientes, los dueños de una pizzería que fueron demandados por un adolescente que podría no volver a caminar después de lastimarse escalando el letrero de su negocio. Pero a medida que avanza el juicio se da cuenta de que nadie saldrá ganando.</desc>
+    <date>2019</date>
+    <category lang="es">Crimen</category>
+    <episode-num system="onscreen">S4E9</episode-num>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201106083000 +0000" stop="20201106092000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">60 Días Preso En Narcolandia</title>
+    <desc lang="es">Jackie viaja con un amigo y encuentra un sitio muy conocido por ser un popular centro de distribución de drogas. Mientras tanto, la policía busca fervientemente a un hombre llamado Fantasma. Además, Charlie halla drogas dentro de la mismísima cárcel. Quién será el responsable de introducirlas.</desc>
+    <date>2019</date>
+    <category lang="es">Crimen</category>
+    <episode-num system="onscreen">S1E5</episode-num>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201106092000 +0000" stop="20201106101000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Top Dog</title>
+    <desc lang="es">Bienvenido a la última competencia deportiva para perros, donde los K9 profesionales de élite y sus guías luchan en un curso especialmente diseñado para probarlos en una variedad de situaciones de alta intensidad. Diversión y familia, los fanáticos tienen la oportunidad de ver sus Live PD® K9 favoritos de una manera completamente nueva.</desc>
+    <date>2020</date>
+    <category lang="es">Reality Show</category>
+    <episode-num system="onscreen">S1E1</episode-num>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201106101000 +0000" stop="20201106110000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Acumuladores Compulsivos</title>
+    <desc lang="es">Scott tiene un problema de acumulación tan serio que ha llenado cientos de casas, edificios y graneros con cosas que compra en subastas. Desde artículos de computación hasta joyas, nada escapa a su compulsión, pero de seguir así, muy pronto quedará en bancarrota.</desc>
+    <date>2011</date>
+    <category lang="es">Reality Show</category>
+    <episode-num system="onscreen">S6E63</episode-num>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201106110000 +0000" stop="20201106120000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">La Vida Pasada De Mi Hijo</title>
+    <desc lang="es">La madre de Rylann queda atónita al conocer los detalles de un accidente aéreo que sucedió tal cual como su pequeña hija dice recordarlo. Jessica cuenta sus experiencias durante una guerra en el 1600 que preocupan a su madre. Podrán ayudar a sus hijas a superar estos traumas del pasado.</desc>
+    <date>2013</date>
+    <category lang="es">Documental</category>
+    <episode-num system="onscreen">S2E9</episode-num>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201106120000 +0000" stop="20201106130000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Infomerciales.</desc>
+    <category lang="es">Infomerciales</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20201106130000 +0000" stop="20201106140000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Infomerciales.</desc>
+    <category lang="es">Infomerciales</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20201106140000 +0000" stop="20201106150000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Infomerciales.</desc>
+    <category lang="es">Infomerciales</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20201106150000 +0000" stop="20201106160000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Infomerciales.</desc>
+    <category lang="es">Infomerciales</category>
+    <rating system="CO">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20201106160000 +0000" stop="20201106170000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">La Vida Pasada De Mi Hijo</title>
+    <desc lang="es">La madre de Rylann queda atónita al conocer los detalles de un accidente aéreo que sucedió tal cual como su pequeña hija dice recordarlo. Jessica cuenta sus experiencias durante una guerra en el 1600 que preocupan a su madre. Podrán ayudar a sus hijas a superar estos traumas del pasado.</desc>
+    <date>2013</date>
+    <category lang="es">Documental</category>
+    <episode-num system="onscreen">S2E9</episode-num>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201106170000 +0000" stop="20201106175000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Cazadores De Fantasmas</title>
+    <desc lang="es">Apodado uno de los lugares más embrujados de la tierra, Waverly Hills El sanatorio ha sido aclamado durante mucho tiempo como una meca para investigadores de lo paranormal de todo el mundo. También es el sitio de algunos de los encuentros paranormales más llamativos del Cazadore s de Fantasma original. Ahora, los nuevos propietarios han estado recibiendo informes inquietantes y nuevas afirmaciones paranormales de los visitantes, que incluyen sangre, gritos y sonidos inexplicables. Al ver esto como la oportunidad perfecta para llevar a su nuevo equipo a uno de sus lugares favoritos, Grant ansioso responde la llamada de ayuda.</desc>
+    <date>2020</date>
+    <category lang="es">Reality Show</category>
+    <episode-num system="onscreen">S2E13</episode-num>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201106175000 +0000" stop="20201106184000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">60 Días Preso En Narcolandia</title>
+    <desc lang="es">Jackie viaja con un amigo y encuentra un sitio muy conocido por ser un popular centro de distribución de drogas. Mientras tanto, la policía busca fervientemente a un hombre llamado Fantasma. Además, Charlie halla drogas dentro de la mismísima cárcel. Quién será el responsable de introducirlas.</desc>
+    <date>2019</date>
+    <category lang="es">Crimen</category>
+    <episode-num system="onscreen">S1E5</episode-num>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201106184000 +0000" stop="20201106193000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">El Asesinato De Laci Peterson</title>
+    <desc lang="es">El cuerpo sin vida de Laci Peterson aparece en la bahía de San Francisco. De inmediato la policía arresta a su esposo, Scott Peterson, que de la noche a la mañana se ha convertido en un villano nacional.</desc>
+    <date>2017</date>
+    <category lang="es">Crimen</category>
+    <episode-num system="onscreen">S1E3</episode-num>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201106193000 +0000" stop="20201106200000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Alto! Frontera</title>
+    <desc lang="es">México, Bolivia y Colombia logran dar un alto al trafico de drogas. Mientras en Perú y Brasil la aduana burla el tráfico de armas y divisas.</desc>
+    <date>2020</date>
+    <category lang="es">Policiaca</category>
+    <episode-num system="onscreen">S1E6</episode-num>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201106200000 +0000" stop="20201106202500 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Court Cam: Acción Judicial</title>
+    <desc lang="es">Un hombre acusado de asesinar a sus 5 hijos pequeños se enfrenta a la madre de los niños en la corte. Más tarde, un prolífico asaltante armado desata una horrible sorpresa una vez que es sentenciado. Finalmente, un defendido conoce a su hijo por primera vez en la corte. Influirá esto al juez.</desc>
+    <date>2020</date>
+    <category lang="es">Documental</category>
+    <episode-num system="onscreen">S1E6</episode-num>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201106202500 +0000" stop="20201106211500 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Las Primeras 48 Horas</title>
+    <desc lang="es">Cuando un potencial asesino múltiple elige como objetivo a las personas más vulnerables de Tulsa, el Detective de la división de homicidios, Max Ryden, deberá poner todo de sí para intentar detenerlo antes de que vuelva a atacar. Contará con las pistas necesarias para hacerlo.</desc>
+    <date>2018</date>
+    <category lang="es">Crimen</category>
+    <episode-num system="onscreen">S22E380</episode-num>
+    <rating system="CO">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201106211500 +0000" stop="20201106220500 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Bull (?)</title>
+  </programme>
+  <programme start="20201106220500 +0000" stop="20201106225500 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Bull (?)</title>
+  </programme>
+  <programme start="20201106225500 +0000" stop="20201106234500 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Acusado: Culpable O Inocente (?)</title>
+  </programme>
+  <programme start="20201106234500 +0000" stop="20201107001000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Court Cam: Acción Judicial (?)</title>
+  </programme>
+  <programme start="20201107001000 +0000" stop="20201107021000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Un Día Para Sobrevivir (?)</title>
+  </programme>
+  <programme start="20201107021000 +0000" stop="20201107030000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">NCIS: Los Ángeles (?)</title>
+  </programme>
+  <programme start="20201107030000 +0000" stop="20201107035000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">NCIS: Los Ángeles (?)</title>
+  </programme>
+  <programme start="20201107035000 +0000" stop="20201107054000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Código Geronimo: La Caza De Bin Laden (?)</title>
+  </programme>
+  <programme start="20201107054000 +0000" stop="20201107063000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Acusado: Culpable O Inocente (?)</title>
+  </programme>
+  <programme start="20201107063000 +0000" stop="20201107072000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">NCIS: Los Ángeles (?)</title>
+  </programme>
+  <programme start="20201107072000 +0000" stop="20201107081000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">NCIS: Los Ángeles (?)</title>
+  </programme>
+  <programme start="20201107081000 +0000" stop="20201107090000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">60 Días Preso En Narcolandia (?)</title>
+  </programme>
+  <programme start="20201107090000 +0000" stop="20201107100000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">El Asesinato De Laci Peterson (?)</title>
+  </programme>
+  <programme start="20201107100000 +0000" stop="20201107110000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Acumuladores Compulsivos (?)</title>
+  </programme>
+  <programme start="20201107110000 +0000" stop="20201107120000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Dr. Pie (?)</title>
+  </programme>
+  <programme start="20201107120000 +0000" stop="20201107130000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Infomerciales (?)</title>
+  </programme>
+  <programme start="20201107130000 +0000" stop="20201107140000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Infomerciales (?)</title>
+  </programme>
+  <programme start="20201107140000 +0000" stop="20201107150000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Infomerciales (?)</title>
+  </programme>
+  <programme start="20201107150000 +0000" stop="20201107160000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Infomerciales (?)</title>
+  </programme>
+  <programme start="20201107160000 +0000" stop="20201107165500 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">60 Días Preso En Narcolandia (?)</title>
+  </programme>
+  <programme start="20201107165500 +0000" stop="20201107172500 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Escuadrón De Emergencias (?)</title>
+  </programme>
+  <programme start="20201107172500 +0000" stop="20201107175500 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Escuadrón De Emergencias (?)</title>
+  </programme>
+  <programme start="20201107175500 +0000" stop="20201107184500 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">NCIS: New Orleans (?)</title>
+  </programme>
+  <programme start="20201107184500 +0000" stop="20201107193500 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">NCIS: New Orleans (?)</title>
+  </programme>
+  <programme start="20201107193500 +0000" stop="20201107202500 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">60 Días Preso En Narcolandia (?)</title>
+  </programme>
+  <programme start="20201107202500 +0000" stop="20201107211500 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Las Primeras 48 Horas (?)</title>
+  </programme>
+  <programme start="20201107211500 +0000" stop="20201107214500 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Metropoli (?)</title>
+  </programme>
+  <programme start="20201107214500 +0000" stop="20201107221000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Court Cam: Acción Judicial (?)</title>
+  </programme>
+  <programme start="20201107221000 +0000" stop="20201107223500 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Alto! Frontera (?)</title>
+  </programme>
+  <programme start="20201107223500 +0000" stop="20201107230500 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Alto! Frontera (?)</title>
+  </programme>
+  <programme start="20201107230500 +0000" stop="20201107233000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Cam Alert: Captura Exitosa (?)</title>
+  </programme>
+  <programme start="20201107233000 +0000" stop="20201108011000 +0000" channel="VAR | A&amp;E SD (AR)">
+    <title lang="es">Situación Límite (?)</title>
   </programme>
 </tv>
