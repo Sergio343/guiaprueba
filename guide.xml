@@ -336,7 +336,8 @@
   </channel>
   <channel id="DEP | Fox Sports 1 FHD (AR)">
     <display-name lang="es">DEP | Fox Sports 1 FHD (AR)</display-name>
-    <url>http://www.telered.com.ar</url>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports-mediano.png" />
+    <url>http://www.gatotv.com</url>
   </channel>
   <channel id="DEP | Fox Sports FHD (MX)">
     <display-name lang="es">DEP | Fox Sports FHD (MX)</display-name>
@@ -350,7 +351,8 @@
   </channel>
   <channel id="DEP | Fox Sports 2 FHD (AR)">
     <display-name lang="es">DEP | Fox Sports 2 FHD (AR)</display-name>
-    <url>http://www.telered.com.ar</url>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_2-mediano.png" />
+    <url>http://www.gatotv.com</url>
   </channel>
   <channel id="DEP | Fox Sports 2 FHD (MX)">
     <display-name lang="es">DEP | Fox Sports 2 FHD (MX)</display-name>
@@ -359,7 +361,8 @@
   </channel>
   <channel id="DEP | Fox Sports 2 HD (AR)">
     <display-name lang="es">DEP | Fox Sports 2 HD (AR)</display-name>
-    <url>http://www.telered.com.ar</url>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_2-mediano.png" />
+    <url>http://www.gatotv.com</url>
   </channel>
   <channel id="DEP | Fox Sports 3 (MX)">
     <display-name lang="es">DEP | Fox Sports 3 (MX)</display-name>
@@ -368,7 +371,8 @@
   </channel>
   <channel id="DEP | Fox Sports 3 FHD (AR)">
     <display-name lang="es">DEP | Fox Sports 3 FHD (AR)</display-name>
-    <url>http://www.telered.com.ar</url>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_3-mediano.png" />
+    <url>http://www.gatotv.com</url>
   </channel>
   <channel id="DEP | Fox Sports 3 FHD (MX)">
     <display-name lang="es">DEP | Fox Sports 3 FHD (MX)</display-name>
@@ -377,7 +381,8 @@
   </channel>
   <channel id="DEP | Fox Sports 3 HD (AR)">
     <display-name lang="es">DEP | Fox Sports 3 HD (AR)</display-name>
-    <url>http://www.telered.com.ar</url>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_3-mediano.png" />
+    <url>http://www.gatotv.com</url>
   </channel>
   <programme start="20201109003000 -0600" stop="20201109010000 -0600" channel="MX | A Plus">
     <title lang="es">Paid Programing</title>
@@ -10973,30 +10978,6 @@
   <programme start="20201110230000 -0600" stop="20201111000000 -0600" channel="DEP | Fox Sports (MX)">
     <title lang="es">La última palabra</title>
   </programme>
-  <programme start="20201109000000 -0600" stop="20201109120000 -0600" channel="DEP | Fox Sports 1 FHD (AR)">
-    <title lang="es">Fox Sports</title>
-    <category lang="es">Deportivo</category>
-    <icon src="https://www.telered.com.arimg/icono_facebook.svg" />
-    <rating>
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme start="20201109120000 -0600" stop="20201109120000 -0600" channel="DEP | Fox Sports 1 FHD (AR)">
-    <title lang="es">Fox Sports</title>
-    <category lang="es">Deportivo</category>
-    <icon src="https://www.telered.com.arimg/icono_facebook.svg" />
-    <rating>
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme start="20201109120000 -0600" stop="20201110000000 -0600" channel="DEP | Fox Sports 1 FHD (AR)">
-    <title lang="es">Fox Sports</title>
-    <category lang="es">Deportivo</category>
-    <icon src="https://www.telered.com.arimg/icono_facebook.svg" />
-    <rating>
-      <value>ATP</value>
-    </rating>
-  </programme>
   <programme start="20201109010000 -0600" stop="20201109030000 -0600" channel="DEP | Fox Sports FHD (MX)">
     <title lang="es">Santos Laguna vs. FC Mazatlán</title>
   </programme>
@@ -11337,29 +11318,98 @@
   <programme start="20201110230000 -0600" stop="20201111000000 -0600" channel="DEP | Fox Sports 2 (MX)">
     <title lang="es">La última palabra</title>
   </programme>
-  <programme start="20201109000000 -0600" stop="20201109120000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
-    <title lang="es">Fox Sports 2</title>
-    <category lang="es">Deportivo</category>
-    <icon src="https://www.telered.com.arimg/icono_facebook.svg" />
-    <rating>
-      <value>ATP</value>
-    </rating>
+  <programme start="20201109010000 -0600" stop="20201109020000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">50 Años de Copa Libertadores</title>
   </programme>
-  <programme start="20201109120000 -0600" stop="20201109120000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
-    <title lang="es">Fox Sports 2</title>
-    <category lang="es">Deportivo</category>
-    <icon src="https://www.telered.com.arimg/icono_facebook.svg" />
-    <rating>
-      <value>ATP</value>
-    </rating>
+  <programme start="20201109020000 -0600" stop="20201109030000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">50 Años de Copa Libertadores</title>
   </programme>
-  <programme start="20201109120000 -0600" stop="20201110000000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
-    <title lang="es">Fox Sports 2</title>
-    <category lang="es">Deportivo</category>
-    <icon src="https://www.telered.com.arimg/icono_facebook.svg" />
-    <rating>
-      <value>ATP</value>
-    </rating>
+  <programme start="20201109030000 -0600" stop="20201109040000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">50 Años de Copa Libertadores</title>
+  </programme>
+  <programme start="20201109040000 -0600" stop="20201109060000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Athletico Paranaense vs. Jorge Wilstermann</title>
+  </programme>
+  <programme start="20201109060000 -0600" stop="20201109070000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Expediente Futbol</title>
+  </programme>
+  <programme start="20201109070000 -0600" stop="20201109090000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">WWE Smackdown</title>
+  </programme>
+  <programme start="20201109090000 -0600" stop="20201109100000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">WWE Raw Highlights</title>
+  </programme>
+  <programme start="20201109100000 -0600" stop="20201109120000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Sevilla vs. Krasnodar</title>
+  </programme>
+  <programme start="20201109120000 -0600" stop="20201109140000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20201109140000 -0600" stop="20201109160000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">UFC Clásicos</title>
+  </programme>
+  <programme start="20201109160000 -0600" stop="20201109170000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">WWE Raw Highlights</title>
+  </programme>
+  <programme start="20201109170000 -0600" stop="20201109180000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Review</title>
+  </programme>
+  <programme start="20201109180000 -0600" stop="20201109190000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Expediente Futbol</title>
+  </programme>
+  <programme start="20201109190000 -0600" stop="20201109220000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">WWE Raw</title>
+  </programme>
+  <programme start="20201109220000 -0600" stop="20201109230000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Final de Pelicula</title>
+  </programme>
+  <programme start="20201109230000 -0600" stop="20201110000000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Expediente Futbol</title>
+  </programme>
+  <programme start="20201110000000 -0600" stop="20201110020000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Sevilla vs. Krasnodar</title>
+  </programme>
+  <programme start="20201110020000 -0600" stop="20201110040000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Deportivo Binacional vs. River Plate</title>
+  </programme>
+  <programme start="20201110040000 -0600" stop="20201110060000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Deportivo Binacional vs. Sao Paulo</title>
+  </programme>
+  <programme start="20201110070000 -0600" stop="20201110100000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">WWE Raw</title>
+  </programme>
+  <programme start="20201110100000 -0600" stop="20201110120000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Club Brugge vs. Borussia Dortmund</title>
+  </programme>
+  <programme start="20201110120000 -0600" stop="20201110140000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20201110140000 -0600" stop="20201110160000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">UFC Clásicos</title>
+  </programme>
+  <programme start="20201110160000 -0600" stop="20201110170000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">WWE Vintage</title>
+  </programme>
+  <programme start="20201110170000 -0600" stop="20201110180000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Review</title>
+  </programme>
+  <programme start="20201110180000 -0600" stop="20201110190000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Expediente Futbol</title>
+  </programme>
+  <programme start="20201110190000 -0600" stop="20201110193000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Muchas historias en un mismo lugar</title>
+  </programme>
+  <programme start="20201110193000 -0600" stop="20201110200000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">UFC Ultimate Knockouts</title>
+  </programme>
+  <programme start="20201110200000 -0600" stop="20201110220000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20201110220000 -0600" stop="20201110230000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">WWE Vintage</title>
+  </programme>
+  <programme start="20201110230000 -0600" stop="20201111000000 -0600" channel="DEP | Fox Sports 2 FHD (AR)">
+    <title lang="es">Expediente Futbol</title>
   </programme>
   <programme start="20201109020000 -0600" stop="20201109030000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
     <title lang="es">La última palabra</title>
@@ -11493,29 +11543,98 @@
   <programme start="20201110230000 -0600" stop="20201111000000 -0600" channel="DEP | Fox Sports 2 FHD (MX)">
     <title lang="es">La última palabra</title>
   </programme>
-  <programme start="20201109000000 -0600" stop="20201109120000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
-    <title lang="es">Fox Sports 2</title>
-    <category lang="es">Deportivo</category>
-    <icon src="https://www.telered.com.arimg/icono_facebook.svg" />
-    <rating>
-      <value>ATP</value>
-    </rating>
+  <programme start="20201109010000 -0600" stop="20201109020000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">50 Años de Copa Libertadores</title>
   </programme>
-  <programme start="20201109120000 -0600" stop="20201109120000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
-    <title lang="es">Fox Sports 2</title>
-    <category lang="es">Deportivo</category>
-    <icon src="https://www.telered.com.arimg/icono_facebook.svg" />
-    <rating>
-      <value>ATP</value>
-    </rating>
+  <programme start="20201109020000 -0600" stop="20201109030000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">50 Años de Copa Libertadores</title>
   </programme>
-  <programme start="20201109120000 -0600" stop="20201110000000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
-    <title lang="es">Fox Sports 2</title>
-    <category lang="es">Deportivo</category>
-    <icon src="https://www.telered.com.arimg/icono_facebook.svg" />
-    <rating>
-      <value>ATP</value>
-    </rating>
+  <programme start="20201109030000 -0600" stop="20201109040000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">50 Años de Copa Libertadores</title>
+  </programme>
+  <programme start="20201109040000 -0600" stop="20201109060000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Athletico Paranaense vs. Jorge Wilstermann</title>
+  </programme>
+  <programme start="20201109060000 -0600" stop="20201109070000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Expediente Futbol</title>
+  </programme>
+  <programme start="20201109070000 -0600" stop="20201109090000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">WWE Smackdown</title>
+  </programme>
+  <programme start="20201109090000 -0600" stop="20201109100000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">WWE Raw Highlights</title>
+  </programme>
+  <programme start="20201109100000 -0600" stop="20201109120000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Sevilla vs. Krasnodar</title>
+  </programme>
+  <programme start="20201109120000 -0600" stop="20201109140000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20201109140000 -0600" stop="20201109160000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">UFC Clásicos</title>
+  </programme>
+  <programme start="20201109160000 -0600" stop="20201109170000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">WWE Raw Highlights</title>
+  </programme>
+  <programme start="20201109170000 -0600" stop="20201109180000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Review</title>
+  </programme>
+  <programme start="20201109180000 -0600" stop="20201109190000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Expediente Futbol</title>
+  </programme>
+  <programme start="20201109190000 -0600" stop="20201109220000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">WWE Raw</title>
+  </programme>
+  <programme start="20201109220000 -0600" stop="20201109230000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Final de Pelicula</title>
+  </programme>
+  <programme start="20201109230000 -0600" stop="20201110000000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Expediente Futbol</title>
+  </programme>
+  <programme start="20201110000000 -0600" stop="20201110020000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Sevilla vs. Krasnodar</title>
+  </programme>
+  <programme start="20201110020000 -0600" stop="20201110040000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Deportivo Binacional vs. River Plate</title>
+  </programme>
+  <programme start="20201110040000 -0600" stop="20201110060000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Deportivo Binacional vs. Sao Paulo</title>
+  </programme>
+  <programme start="20201110070000 -0600" stop="20201110100000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">WWE Raw</title>
+  </programme>
+  <programme start="20201110100000 -0600" stop="20201110120000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Club Brugge vs. Borussia Dortmund</title>
+  </programme>
+  <programme start="20201110120000 -0600" stop="20201110140000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20201110140000 -0600" stop="20201110160000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">UFC Clásicos</title>
+  </programme>
+  <programme start="20201110160000 -0600" stop="20201110170000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">WWE Vintage</title>
+  </programme>
+  <programme start="20201110170000 -0600" stop="20201110180000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Review</title>
+  </programme>
+  <programme start="20201110180000 -0600" stop="20201110190000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Expediente Futbol</title>
+  </programme>
+  <programme start="20201110190000 -0600" stop="20201110193000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Muchas historias en un mismo lugar</title>
+  </programme>
+  <programme start="20201110193000 -0600" stop="20201110200000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">UFC Ultimate Knockouts</title>
+  </programme>
+  <programme start="20201110200000 -0600" stop="20201110220000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20201110220000 -0600" stop="20201110230000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">WWE Vintage</title>
+  </programme>
+  <programme start="20201110230000 -0600" stop="20201111000000 -0600" channel="DEP | Fox Sports 2 HD (AR)">
+    <title lang="es">Expediente Futbol</title>
   </programme>
   <programme start="20201109003000 -0600" stop="20201109010000 -0600" channel="DEP | Fox Sports 3 (MX)">
     <title lang="es">Gp 1</title>
@@ -11624,113 +11743,112 @@
   <programme start="20201110220000 -0600" stop="20201111010000 -0600" channel="DEP | Fox Sports 3 (MX)">
     <title lang="es">Nascar Xfinity Series 2020</title>
   </programme>
-  <programme start="20201109010000 -0600" stop="20201109020000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
-    <title lang="es">Motul FIM Superbike World Championship</title>
-    <sub-title lang="es">Portugal. Estoril, carrera 1</sub-title>
-    <desc lang="es">Campeonato mundial de motociclismo de velocidad, no te pierdas lo mejor del Motul FIM Superbike World Championship.</desc>
-    <category lang="es">Ciclismo</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/2577321.jpg" />
-    <rating>
-      <value>+13</value>
-    </rating>
+  <programme start="20201109003000 -0600" stop="20201109010000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">GP1</title>
   </programme>
-  <programme start="20201109020000 -0600" stop="20201109030000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
-    <title lang="es">Motul FIM Superbike World Championship</title>
-    <sub-title lang="es">Portugal. Estoril, carrera 2</sub-title>
-    <desc lang="es">Campeonato mundial de motociclismo de velocidad, no te pierdas lo mejor del Motul FIM Superbike World Championship.</desc>
-    <category lang="es">Ciclismo</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/2577321.jpg" />
-    <rating>
-      <value>+13</value>
-    </rating>
+  <programme start="20201109010000 -0600" stop="20201109050000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">NASCAR Cup Series</title>
   </programme>
-  <programme start="20201109030000 -0600" stop="20201109033000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
-    <title lang="es">Rally on Board</title>
-    <desc lang="es">Vamos a recorrer el mundo del rally desde adentro y, con la participación de los pilotos, mecánicos y toda la gente que trabaja en el rally, mostraremos cómo se vive, cómo se maneja y qué pasa en las carreras.</desc>
-    <date>2006</date>
-    <category lang="es">Rally</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/388321.jpg" />
-    <country lang="es">Argentina</country>
-    <rating>
-      <value>ATP</value>
-    </rating>
+  <programme start="20201109050000 -0600" stop="20201109053000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Motociclismo</title>
   </programme>
-  <programme start="20201109033000 -0600" stop="20201109040000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
-    <title lang="es">FIM Motocross</title>
-    <sub-title lang="es">MXGP de Trentino</sub-title>
-    <desc lang="es">El campeonato mundial FIM de Motocross, con sus 40 años de historia, representa la carrera todo terreno más dinámica y exigente del planeta.</desc>
-    <date>2020</date>
-    <category lang="es">Motocross</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/11110514.jpg" />
-    <rating>
-      <value>ATP</value>
-    </rating>
+  <programme start="20201109053000 -0600" stop="20201109060000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Rally on board</title>
   </programme>
-  <programme start="20201109040000 -0600" stop="20201109080000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
-    <title lang="es">NASCAR Cup Series Racing</title>
-    <sub-title lang="es">Phoenix</sub-title>
-    <desc lang="es">La serie de carreras más importante de la Asociación Nacional para Stock Car Auto Racing.</desc>
-    <date>2020</date>
-    <category lang="es">Automovilismo</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10999488.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>ATP</value>
-    </rating>
+  <programme start="20201109060000 -0600" stop="20201109080000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Fórmula 1</title>
   </programme>
-  <programme start="20201109080000 -0600" stop="20201109083000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
-    <title lang="es">FIM Motocross</title>
-    <sub-title lang="es">MXGP de Trentino</sub-title>
-    <desc lang="es">El campeonato mundial FIM de Motocross, con sus 40 años de historia, representa la carrera todo terreno más dinámica y exigente del planeta.</desc>
-    <date>2020</date>
-    <category lang="es">Motocross</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/11110514.jpg" />
-    <rating>
-      <value>ATP</value>
-    </rating>
+  <programme start="20201109080000 -0600" stop="20201109100000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">WWE Smackdown</title>
   </programme>
-  <programme start="20201109083000 -0600" stop="20201109090000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
-    <title lang="es">Rally on Board</title>
-    <desc lang="es">Vamos a recorrer el mundo del rally desde adentro y, con la participación de los pilotos, mecánicos y toda la gente que trabaja en el rally, mostraremos cómo se vive, cómo se maneja y qué pasa en las carreras.</desc>
-    <date>2006</date>
-    <category lang="es">Rally</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/388321.jpg" />
-    <country lang="es">Argentina</country>
-    <rating>
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme start="20201109090000 -0600" stop="20201109110000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
-    <title lang="es">NASCAR Gander RV &amp; Outdoors Truck Series</title>
-    <sub-title lang="es">Phoenix</sub-title>
-    <desc lang="es">Transmisión de la serie 2020 de NASCAR Gander RV &amp; Outdoors Truck, la temporada 26 de la tercera serie de carreras de autos más alta aprobada por NASCAR en América del Norte.</desc>
-    <date>2020</date>
-    <category lang="es">Automovilismo</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/11535031.jpg" />
+  <programme start="20201109100000 -0600" stop="20201109110000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Automovilismo</title>
   </programme>
   <programme start="20201109110000 -0600" stop="20201109120000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
-    <title lang="es">Fox Sports 3</title>
-    <category lang="es">Deportivo</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/3920303.jpg" />
-    <rating>
-      <value>ATP</value>
-    </rating>
+    <title lang="es">Automovilismo</title>
   </programme>
-  <programme start="20201109120000 -0600" stop="20201109120000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
-    <title lang="es">Fox Sports 3</title>
-    <category lang="es">Deportivo</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/3920303.jpg" />
-    <rating>
-      <value>ATP</value>
-    </rating>
+  <programme start="20201109120000 -0600" stop="20201109130000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Automovilismo</title>
   </programme>
-  <programme start="20201109120000 -0600" stop="20201110000000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
-    <title lang="es">Fox Sports 3</title>
-    <category lang="es">Deportivo</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/3920303.jpg" />
-    <rating>
-      <value>ATP</value>
-    </rating>
+  <programme start="20201109130000 -0600" stop="20201109150000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">NASCAR Gander Outdoors Truck Series</title>
+  </programme>
+  <programme start="20201109150000 -0600" stop="20201109160000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Motociclismo</title>
+  </programme>
+  <programme start="20201109160000 -0600" stop="20201109170000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Motociclismo</title>
+  </programme>
+  <programme start="20201109170000 -0600" stop="20201109200000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20201109200000 -0600" stop="20201109220000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20201109220000 -0600" stop="20201110000000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">NASCAR Gander Outdoors Truck Series</title>
+  </programme>
+  <programme start="20201110000000 -0600" stop="20201110003000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Motociclismo</title>
+  </programme>
+  <programme start="20201110003000 -0600" stop="20201110010000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Rally on board</title>
+  </programme>
+  <programme start="20201110010000 -0600" stop="20201110040000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">WWE Raw</title>
+  </programme>
+  <programme start="20201110040000 -0600" stop="20201110060000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Juventus vs. FC Barcelona</title>
+  </programme>
+  <programme start="20201110060000 -0600" stop="20201110080000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20201110080000 -0600" stop="20201110100000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Real Madrid vs. Shakhtar Donetsk</title>
+    <desc lang="es">El Real Madrid CF de España recibe al FC Shakhtar Donetsk de Ucrania en el estadio Santiago Bernabéu en la ciudad de Madrid, España.</desc>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Europeo</category>
+    <category lang="es">UEFA</category>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/real_madrid_vs_shakhtar_donetsk.png" />
+  </programme>
+  <programme start="20201110100000 -0600" stop="20201110110000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Motociclismo</title>
+  </programme>
+  <programme start="20201110110000 -0600" stop="20201110120000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Motociclismo</title>
+  </programme>
+  <programme start="20201110120000 -0600" stop="20201110123000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Formula E</title>
+  </programme>
+  <programme start="20201110123000 -0600" stop="20201110130000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Formula E</title>
+  </programme>
+  <programme start="20201110130000 -0600" stop="20201110160000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">NASCAR XFINITY Series</title>
+  </programme>
+  <programme start="20201110160000 -0600" stop="20201110163000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Motociclismo</title>
+  </programme>
+  <programme start="20201110163000 -0600" stop="20201110170000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Rally on board</title>
+  </programme>
+  <programme start="20201110170000 -0600" stop="20201110190000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20201110190000 -0600" stop="20201110200000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">El show de la fórmula 1</title>
+  </programme>
+  <programme start="20201110200000 -0600" stop="20201110210000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20201110210000 -0600" stop="20201110213000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">NASCAR Cup Series</title>
+  </programme>
+  <programme start="20201110213000 -0600" stop="20201110220000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">NASCAR Cup Series</title>
+  </programme>
+  <programme start="20201110220000 -0600" stop="20201111010000 -0600" channel="DEP | Fox Sports 3 FHD (AR)">
+    <title lang="es">NASCAR XFINITY Series</title>
   </programme>
   <programme start="20201109003000 -0600" stop="20201109010000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
     <title lang="es">Gp 1</title>
@@ -11839,112 +11957,111 @@
   <programme start="20201110220000 -0600" stop="20201111010000 -0600" channel="DEP | Fox Sports 3 FHD (MX)">
     <title lang="es">Nascar Xfinity Series 2020</title>
   </programme>
-  <programme start="20201109010000 -0600" stop="20201109020000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
-    <title lang="es">Motul FIM Superbike World Championship</title>
-    <sub-title lang="es">Portugal. Estoril, carrera 1</sub-title>
-    <desc lang="es">Campeonato mundial de motociclismo de velocidad, no te pierdas lo mejor del Motul FIM Superbike World Championship.</desc>
-    <category lang="es">Ciclismo</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/2577321.jpg" />
-    <rating>
-      <value>+13</value>
-    </rating>
+  <programme start="20201109003000 -0600" stop="20201109010000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">GP1</title>
   </programme>
-  <programme start="20201109020000 -0600" stop="20201109030000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
-    <title lang="es">Motul FIM Superbike World Championship</title>
-    <sub-title lang="es">Portugal. Estoril, carrera 2</sub-title>
-    <desc lang="es">Campeonato mundial de motociclismo de velocidad, no te pierdas lo mejor del Motul FIM Superbike World Championship.</desc>
-    <category lang="es">Ciclismo</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/2577321.jpg" />
-    <rating>
-      <value>+13</value>
-    </rating>
+  <programme start="20201109010000 -0600" stop="20201109050000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">NASCAR Cup Series</title>
   </programme>
-  <programme start="20201109030000 -0600" stop="20201109033000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
-    <title lang="es">Rally on Board</title>
-    <desc lang="es">Vamos a recorrer el mundo del rally desde adentro y, con la participación de los pilotos, mecánicos y toda la gente que trabaja en el rally, mostraremos cómo se vive, cómo se maneja y qué pasa en las carreras.</desc>
-    <date>2006</date>
-    <category lang="es">Rally</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/388321.jpg" />
-    <country lang="es">Argentina</country>
-    <rating>
-      <value>ATP</value>
-    </rating>
+  <programme start="20201109050000 -0600" stop="20201109053000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Motociclismo</title>
   </programme>
-  <programme start="20201109033000 -0600" stop="20201109040000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
-    <title lang="es">FIM Motocross</title>
-    <sub-title lang="es">MXGP de Trentino</sub-title>
-    <desc lang="es">El campeonato mundial FIM de Motocross, con sus 40 años de historia, representa la carrera todo terreno más dinámica y exigente del planeta.</desc>
-    <date>2020</date>
-    <category lang="es">Motocross</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/11110514.jpg" />
-    <rating>
-      <value>ATP</value>
-    </rating>
+  <programme start="20201109053000 -0600" stop="20201109060000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Rally on board</title>
   </programme>
-  <programme start="20201109040000 -0600" stop="20201109080000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
-    <title lang="es">NASCAR Cup Series Racing</title>
-    <sub-title lang="es">Phoenix</sub-title>
-    <desc lang="es">La serie de carreras más importante de la Asociación Nacional para Stock Car Auto Racing.</desc>
-    <date>2020</date>
-    <category lang="es">Automovilismo</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10999488.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>ATP</value>
-    </rating>
+  <programme start="20201109060000 -0600" stop="20201109080000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Fórmula 1</title>
   </programme>
-  <programme start="20201109080000 -0600" stop="20201109083000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
-    <title lang="es">FIM Motocross</title>
-    <sub-title lang="es">MXGP de Trentino</sub-title>
-    <desc lang="es">El campeonato mundial FIM de Motocross, con sus 40 años de historia, representa la carrera todo terreno más dinámica y exigente del planeta.</desc>
-    <date>2020</date>
-    <category lang="es">Motocross</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/11110514.jpg" />
-    <rating>
-      <value>ATP</value>
-    </rating>
+  <programme start="20201109080000 -0600" stop="20201109100000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">WWE Smackdown</title>
   </programme>
-  <programme start="20201109083000 -0600" stop="20201109090000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
-    <title lang="es">Rally on Board</title>
-    <desc lang="es">Vamos a recorrer el mundo del rally desde adentro y, con la participación de los pilotos, mecánicos y toda la gente que trabaja en el rally, mostraremos cómo se vive, cómo se maneja y qué pasa en las carreras.</desc>
-    <date>2006</date>
-    <category lang="es">Rally</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/388321.jpg" />
-    <country lang="es">Argentina</country>
-    <rating>
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme start="20201109090000 -0600" stop="20201109110000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
-    <title lang="es">NASCAR Gander RV &amp; Outdoors Truck Series</title>
-    <sub-title lang="es">Phoenix</sub-title>
-    <desc lang="es">Transmisión de la serie 2020 de NASCAR Gander RV &amp; Outdoors Truck, la temporada 26 de la tercera serie de carreras de autos más alta aprobada por NASCAR en América del Norte.</desc>
-    <date>2020</date>
-    <category lang="es">Automovilismo</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/11535031.jpg" />
+  <programme start="20201109100000 -0600" stop="20201109110000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Automovilismo</title>
   </programme>
   <programme start="20201109110000 -0600" stop="20201109120000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
-    <title lang="es">Fox Sports 3</title>
-    <category lang="es">Deportivo</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/3920303.jpg" />
-    <rating>
-      <value>ATP</value>
-    </rating>
+    <title lang="es">Automovilismo</title>
   </programme>
-  <programme start="20201109120000 -0600" stop="20201109120000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
-    <title lang="es">Fox Sports 3</title>
-    <category lang="es">Deportivo</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/3920303.jpg" />
-    <rating>
-      <value>ATP</value>
-    </rating>
+  <programme start="20201109120000 -0600" stop="20201109130000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Automovilismo</title>
   </programme>
-  <programme start="20201109120000 -0600" stop="20201110000000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
-    <title lang="es">Fox Sports 3</title>
-    <category lang="es">Deportivo</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/3920303.jpg" />
-    <rating>
-      <value>ATP</value>
-    </rating>
+  <programme start="20201109130000 -0600" stop="20201109150000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">NASCAR Gander Outdoors Truck Series</title>
+  </programme>
+  <programme start="20201109150000 -0600" stop="20201109160000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Motociclismo</title>
+  </programme>
+  <programme start="20201109160000 -0600" stop="20201109170000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Motociclismo</title>
+  </programme>
+  <programme start="20201109170000 -0600" stop="20201109200000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20201109200000 -0600" stop="20201109220000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20201109220000 -0600" stop="20201110000000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">NASCAR Gander Outdoors Truck Series</title>
+  </programme>
+  <programme start="20201110000000 -0600" stop="20201110003000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Motociclismo</title>
+  </programme>
+  <programme start="20201110003000 -0600" stop="20201110010000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Rally on board</title>
+  </programme>
+  <programme start="20201110010000 -0600" stop="20201110040000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">WWE Raw</title>
+  </programme>
+  <programme start="20201110040000 -0600" stop="20201110060000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Juventus vs. FC Barcelona</title>
+  </programme>
+  <programme start="20201110060000 -0600" stop="20201110080000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20201110080000 -0600" stop="20201110100000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Real Madrid vs. Shakhtar Donetsk</title>
+    <desc lang="es">El Real Madrid CF de España recibe al FC Shakhtar Donetsk de Ucrania en el estadio Santiago Bernabéu en la ciudad de Madrid, España.</desc>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Europeo</category>
+    <category lang="es">UEFA</category>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/real_madrid_vs_shakhtar_donetsk.png" />
+  </programme>
+  <programme start="20201110100000 -0600" stop="20201110110000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Motociclismo</title>
+  </programme>
+  <programme start="20201110110000 -0600" stop="20201110120000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Motociclismo</title>
+  </programme>
+  <programme start="20201110120000 -0600" stop="20201110123000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Formula E</title>
+  </programme>
+  <programme start="20201110123000 -0600" stop="20201110130000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Formula E</title>
+  </programme>
+  <programme start="20201110130000 -0600" stop="20201110160000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">NASCAR XFINITY Series</title>
+  </programme>
+  <programme start="20201110160000 -0600" stop="20201110163000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Motociclismo</title>
+  </programme>
+  <programme start="20201110163000 -0600" stop="20201110170000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Rally on board</title>
+  </programme>
+  <programme start="20201110170000 -0600" stop="20201110190000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20201110190000 -0600" stop="20201110200000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">El show de la fórmula 1</title>
+  </programme>
+  <programme start="20201110200000 -0600" stop="20201110210000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20201110210000 -0600" stop="20201110213000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">NASCAR Cup Series</title>
+  </programme>
+  <programme start="20201110213000 -0600" stop="20201110220000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">NASCAR Cup Series</title>
+  </programme>
+  <programme start="20201110220000 -0600" stop="20201111010000 -0600" channel="DEP | Fox Sports 3 HD (AR)">
+    <title lang="es">NASCAR XFINITY Series</title>
   </programme>
 </tv>
