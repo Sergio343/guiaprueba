@@ -484,6 +484,9 @@
   <programme start="20201111120000 -0600" stop="20201111140000 -0600" channel="MX | A Plus">
     <title lang="es">Asesinos S.A</title>
   </programme>
+  <programme start="20201111150000 -0600" stop="20201111160000 -0600" channel="MX | A Plus">
+    <title lang="es">Ahora Más en tu Barrio</title>
+  </programme>
   <programme start="20201111160000 -0600" stop="20201111174500 -0600" channel="MX | A Plus">
     <title lang="es">El temerario</title>
   </programme>
@@ -914,7 +917,7 @@
   <programme start="20201109203000 -0600" stop="20201110000000 -0600" channel="MX | AZ Cinema FHD">
     <title lang="es">Azteca Cinema</title>
   </programme>
-  <programme start="20201110100000 -0600" stop="20201110130000 -0600" channel="MX | AZ Cinema FHD">
+  <programme start="20201110133000 -0600" stop="20201110163000 -0600" channel="MX | AZ Cinema FHD">
     <title lang="es">Azteca Cinema</title>
   </programme>
   <programme start="20201109001200 -0600" stop="20201109010000 -0600" channel="MX | AZ Corazon FHD">
@@ -986,8 +989,8 @@
   <programme start="20201110043000 -0600" stop="20201110060000 -0600" channel="MX | AZ Corazon FHD">
     <title lang="es">Gata salvaje - Parte 2</title>
   </programme>
-  <programme start="20201110103000 -0600" stop="20201110120000 -0600" channel="MX | AZ Corazon FHD">
-    <title lang="es">Gata salvaje - Parte 2</title>
+  <programme start="20201110150000 -0600" stop="20201110164500 -0600" channel="MX | AZ Corazon FHD">
+    <title lang="es">Cielo rojo - Parte 2</title>
   </programme>
   <programme start="20201109010000 -0600" stop="20201109020000 -0600" channel="MX | AZ Mundo FHD">
     <title lang="es">Vida y salud</title>
@@ -1238,9 +1241,6 @@
   <programme start="20201111100000 -0600" stop="20201111110000 -0600" channel="MX | AZTECA SIETE FHD">
     <title lang="es">MickeyAventuras sobre ruedas</title>
   </programme>
-  <programme start="20201111110000 -0600" stop="20201111113000 -0600" channel="MX | AZTECA SIETE FHD">
-    <title lang="es">My Little Pony La magia</title>
-  </programme>
   <programme start="20201111150000 -0600" stop="20201111163000 -0600" channel="MX | AZTECA SIETE FHD">
     <title lang="es">Escandalosos</title>
   </programme>
@@ -1350,11 +1350,12 @@
   <programme start="20201110041500 -0600" stop="20201110050000 -0600" channel="MX | Azteca UNO FHD">
     <title lang="es">Paid Programing</title>
   </programme>
-  <programme start="20201110110000 -0600" stop="20201110130000 -0600" channel="MX | Azteca UNO FHD">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  <programme start="20201110150000 -0600" stop="20201110163000 -0600" channel="MX | Azteca UNO FHD">
+    <title lang="es">Ventaneando</title>
+    <desc lang="es">Un programa de análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy.</desc>
+    <date>1996</date>
+    <category lang="es">Programa</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ventaneando.png" />
   </programme>
   <programme start="20201109003000 -0600" stop="20201109040000 -0600" channel="MX | Canal 5 FHD">
     <title lang="es">Infomerciales</title>
@@ -1493,8 +1494,8 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20201110110000 -0600" stop="20201110120000 -0600" channel="MX | Canal 5 FHD">
-    <title lang="es">Avatar La Leyenda de Aang</title>
+  <programme start="20201110150000 -0600" stop="20201110160000 -0600" channel="MX | Canal 5 FHD">
+    <title lang="es">Miraculous II</title>
   </programme>
   <programme start="20201109011000 -0600" stop="20201109043000 -0600" channel="MX | Canal de las Estrellas FHD">
     <title lang="es">Infomerciales</title>
@@ -2759,11 +2760,11 @@
   <programme start="20201111020000 -0600" stop="20201111060000 -0600" channel="MX | Mexiquence TV FHD">
     <title lang="es">TV Mexiquense</title>
   </programme>
-  <programme start="20201111110000 -0600" stop="20201111130000 -0600" channel="MX | Mexiquence TV FHD">
-    <title lang="es">Pelicula del Cine Mexicano</title>
-  </programme>
   <programme start="20201111130000 -0600" stop="20201111133000 -0600" channel="MX | Mexiquence TV FHD">
     <title lang="es">¡Escápate</title>
+  </programme>
+  <programme start="20201111150000 -0600" stop="20201111160000 -0600" channel="MX | Mexiquence TV FHD">
+    <title lang="es">AMX con Kimberly Armengol</title>
   </programme>
   <programme start="20201111180000 -0600" stop="20201111190000 -0600" channel="MX | Mexiquence TV FHD">
     <title lang="es">Escuela para padres</title>
@@ -3444,11 +3445,11 @@
   <programme start="20201110070000 -0600" stop="20201110075800 -0600" channel="MX | TVC FHD">
     <title lang="es">Meganoticias TVC con Francisco Ramírez</title>
   </programme>
-  <programme start="20201110110000 -0600" stop="20201110113000 -0600" channel="MX | TVC FHD">
-    <title lang="es">Televenta</title>
-  </programme>
   <programme start="20201110125800 -0600" stop="20201110135800 -0600" channel="MX | TVC FHD">
     <title lang="es">Meganoticias TVC con Juan Carlos Zuñiga En Vivo</title>
+  </programme>
+  <programme start="20201110145800 -0600" stop="20201110155800 -0600" channel="MX | TVC FHD">
+    <title lang="es">Meganoticias TVC con Mitzi Cordero y Alex Piñón En Vivo</title>
   </programme>
   <programme start="20201110175800 -0600" stop="20201110185800 -0600" channel="MX | TVC FHD">
     <title lang="es">A Fondo con Mayté Noriega, Eduardo Torreblanca En Vivo</title>
@@ -3588,8 +3589,8 @@
   <programme start="20201110090000 -0600" stop="20201110100000 -0600" channel="MX: AZ Click">
     <title lang="es">Dos de viaje</title>
   </programme>
-  <programme start="20201110110000 -0600" stop="20201110130000 -0600" channel="MX: AZ Click">
-    <title lang="es">Será Anunciado</title>
+  <programme start="20201110150000 -0600" stop="20201110153000 -0600" channel="MX: AZ Click">
+    <title lang="es">Ahora, Futuro México y el mundo</title>
   </programme>
   <programme start="20201110153000 -0600" stop="20201110160000 -0600" channel="MX: AZ Click">
     <title lang="es">Desafío</title>
@@ -3687,8 +3688,8 @@
   <programme start="20201110043000 -0600" stop="20201110060000 -0600" channel="MX: AZ Corazon">
     <title lang="es">Gata salvaje - Parte 2</title>
   </programme>
-  <programme start="20201110103000 -0600" stop="20201110120000 -0600" channel="MX: AZ Corazon">
-    <title lang="es">Gata salvaje - Parte 2</title>
+  <programme start="20201110150000 -0600" stop="20201110164500 -0600" channel="MX: AZ Corazon">
+    <title lang="es">Cielo rojo - Parte 2</title>
   </programme>
   <programme start="20201109020000 -0600" stop="20201109040000 -0600" channel="MX: Azteca 7">
     <title lang="es">Infomerciales</title>
@@ -3797,9 +3798,6 @@
   </programme>
   <programme start="20201111100000 -0600" stop="20201111110000 -0600" channel="MX: Azteca 7">
     <title lang="es">MickeyAventuras sobre ruedas</title>
-  </programme>
-  <programme start="20201111110000 -0600" stop="20201111113000 -0600" channel="MX: Azteca 7">
-    <title lang="es">My Little Pony La magia</title>
   </programme>
   <programme start="20201111150000 -0600" stop="20201111163000 -0600" channel="MX: Azteca 7">
     <title lang="es">Escandalosos</title>
@@ -3910,11 +3908,12 @@
   <programme start="20201110041500 -0600" stop="20201110050000 -0600" channel="MX: Azteca Uno">
     <title lang="es">Paid Programing</title>
   </programme>
-  <programme start="20201110110000 -0600" stop="20201110130000 -0600" channel="MX: Azteca Uno">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  <programme start="20201110150000 -0600" stop="20201110163000 -0600" channel="MX: Azteca Uno">
+    <title lang="es">Ventaneando</title>
+    <desc lang="es">Un programa de análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy.</desc>
+    <date>1996</date>
+    <category lang="es">Programa</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ventaneando.png" />
   </programme>
   <programme start="20201109000200 -0600" stop="20201109003000 -0600" channel="MX: CANAL Once">
     <title lang="es">Noctámbulos, Historia de una N</title>
@@ -4791,11 +4790,11 @@
   <programme start="20201111020000 -0600" stop="20201111060000 -0600" channel="MX: Mexiquense TV">
     <title lang="es">TV Mexiquense</title>
   </programme>
-  <programme start="20201111110000 -0600" stop="20201111130000 -0600" channel="MX: Mexiquense TV">
-    <title lang="es">Pelicula del Cine Mexicano</title>
-  </programme>
   <programme start="20201111130000 -0600" stop="20201111133000 -0600" channel="MX: Mexiquense TV">
     <title lang="es">¡Escápate</title>
+  </programme>
+  <programme start="20201111150000 -0600" stop="20201111160000 -0600" channel="MX: Mexiquense TV">
+    <title lang="es">AMX con Kimberly Armengol</title>
   </programme>
   <programme start="20201111180000 -0600" stop="20201111190000 -0600" channel="MX: Mexiquense TV">
     <title lang="es">Escuela para padres</title>
@@ -5058,11 +5057,11 @@
   <programme start="20201110070000 -0600" stop="20201110075800 -0600" channel="MX: TVC">
     <title lang="es">Meganoticias TVC con Francisco Ramírez</title>
   </programme>
-  <programme start="20201110110000 -0600" stop="20201110113000 -0600" channel="MX: TVC">
-    <title lang="es">Televenta</title>
-  </programme>
   <programme start="20201110125800 -0600" stop="20201110135800 -0600" channel="MX: TVC">
     <title lang="es">Meganoticias TVC con Juan Carlos Zuñiga En Vivo</title>
+  </programme>
+  <programme start="20201110145800 -0600" stop="20201110155800 -0600" channel="MX: TVC">
+    <title lang="es">Meganoticias TVC con Mitzi Cordero y Alex Piñón En Vivo</title>
   </programme>
   <programme start="20201110175800 -0600" stop="20201110185800 -0600" channel="MX: TVC">
     <title lang="es">A Fondo con Mayté Noriega, Eduardo Torreblanca En Vivo</title>
@@ -5211,8 +5210,8 @@
   <programme start="20201109233000 -0600" stop="20201110000000 -0600" channel="INF | BABY FIRST">
     <title lang="es">Programas para el desarrollo del bebé</title>
   </programme>
-  <programme start="20201110110000 -0600" stop="20201110113000 -0600" channel="INF | BABY FIRST">
-    <title lang="es">Harry y Larry: ¡Profesiones que Ayudan</title>
+  <programme start="20201110150000 -0600" stop="20201110153000 -0600" channel="INF | BABY FIRST">
+    <title lang="es">Larry y Amigos</title>
   </programme>
   <programme start="20201109003000 -0600" stop="20201109010000 -0600" channel="INF | Baby First FHD (MX)">
     <title lang="es">Programas para el desarrollo del bebé</title>
@@ -5355,8 +5354,8 @@
   <programme start="20201109233000 -0600" stop="20201110000000 -0600" channel="INF | Baby First FHD (MX)">
     <title lang="es">Programas para el desarrollo del bebé</title>
   </programme>
-  <programme start="20201110110000 -0600" stop="20201110113000 -0600" channel="INF | Baby First FHD (MX)">
-    <title lang="es">Harry y Larry: ¡Profesiones que Ayudan</title>
+  <programme start="20201110150000 -0600" stop="20201110153000 -0600" channel="INF | Baby First FHD (MX)">
+    <title lang="es">Larry y Amigos</title>
   </programme>
   <programme start="20201109010000 -0600" stop="20201109020000 -0600" channel="INF | BOOMERANG">
     <title lang="es">Lluvia de hamburguesas serie</title>
@@ -5937,8 +5936,8 @@
   <programme start="20201109233000 -0600" stop="20201110000000 -0600" channel="INF | BABY TV HD (AR)">
     <title lang="es">Noches de ensueño</title>
   </programme>
-  <programme start="20201110110000 -0600" stop="20201110113000 -0600" channel="INF | BABY TV HD (AR)">
-    <title lang="es">Explorando con BabyHood</title>
+  <programme start="20201110150000 -0600" stop="20201110153000 -0600" channel="INF | BABY TV HD (AR)">
+    <title lang="es">Ratones constructores</title>
   </programme>
   <programme start="20201109002500 -0600" stop="20201109005000 -0600" channel="INF | DISCOVERY KIDS">
     <title lang="es">Viva el rey Julien, en el exi</title>
@@ -7177,7 +7176,7 @@
   <programme start="20201109190000 -0600" stop="20201109230000 -0600" channel="DEP | Barca tv (ES)">
     <title lang="es">Barça TV</title>
   </programme>
-  <programme start="20201110110000 -0600" stop="20201110150000 -0600" channel="DEP | Barca tv (ES)">
+  <programme start="20201110150000 -0600" stop="20201110190000 -0600" channel="DEP | Barca tv (ES)">
     <title lang="es">Barça TV</title>
   </programme>
   <programme start="20201109010000 -0600" stop="20201109030000 -0600" channel="DEP | Claro Sports">
@@ -7269,6 +7268,9 @@
   </programme>
   <programme start="20201110130000 -0600" stop="20201110150000 -0600" channel="DEP | Claro Sports">
     <title lang="es">Pachuca vs. Necaxa</title>
+  </programme>
+  <programme start="20201110150000 -0600" stop="20201110160000 -0600" channel="DEP | Claro Sports">
+    <title lang="es">Marca Claro radio</title>
   </programme>
   <programme start="20201110160000 -0600" stop="20201110164500 -0600" channel="DEP | Claro Sports">
     <title lang="es">Deportes en Claro</title>
@@ -7365,6 +7367,9 @@
   </programme>
   <programme start="20201110130000 -0600" stop="20201110150000 -0600" channel="DEP | Claro Sports FHD">
     <title lang="es">Pachuca vs. Necaxa</title>
+  </programme>
+  <programme start="20201110150000 -0600" stop="20201110160000 -0600" channel="DEP | Claro Sports FHD">
+    <title lang="es">Marca Claro radio</title>
   </programme>
   <programme start="20201110160000 -0600" stop="20201110164500 -0600" channel="DEP | Claro Sports FHD">
     <title lang="es">Deportes en Claro</title>
@@ -8539,27 +8544,11 @@
   <programme start="20201110000000 -0600" stop="20201110030000 -0600" channel="DEP | ESPN 3 (MX)">
     <title lang="es">Haney vs. Gamboa</title>
   </programme>
-  <programme start="20201110110000 -0600" stop="20201110120000 -0600" channel="DEP | ESPN 3 (MX)">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
-    <category lang="es">Fútbol Americano</category>
-    <category lang="es">Baloncesto</category>
-    <category lang="es">Béisbol</category>
-    <category lang="es">Básquetbol</category>
-    <category lang="es">Fútbol Italiano</category>
-    <category lang="es">Major League Baseball</category>
-    <category lang="es">Fútbol Mexicano</category>
-    <category lang="es">MLB</category>
-    <category lang="es">NBA</category>
-    <category lang="es">Noticias</category>
-    <category lang="es">NFL</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">UEFA</category>
-    <category lang="es">Fútbol Español</category>
-    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
-  </programme>
   <programme start="20201110130000 -0600" stop="20201110140000 -0600" channel="DEP | ESPN 3 (MX)">
     <title lang="es">NFL Compacts</title>
+  </programme>
+  <programme start="20201110150000 -0600" stop="20201110160000 -0600" channel="DEP | ESPN 3 (MX)">
+    <title lang="es">NFL Live</title>
   </programme>
   <programme start="20201110170000 -0600" stop="20201110190000 -0600" channel="DEP | ESPN 3 (MX)">
     <title lang="es">FC Salzburg vs. Bayern Munich</title>
@@ -8844,27 +8833,11 @@
   <programme start="20201110000000 -0600" stop="20201110030000 -0600" channel="DEP | ESPN 3 FHD (MX)">
     <title lang="es">Haney vs. Gamboa</title>
   </programme>
-  <programme start="20201110110000 -0600" stop="20201110120000 -0600" channel="DEP | ESPN 3 FHD (MX)">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
-    <category lang="es">Fútbol Americano</category>
-    <category lang="es">Baloncesto</category>
-    <category lang="es">Béisbol</category>
-    <category lang="es">Básquetbol</category>
-    <category lang="es">Fútbol Italiano</category>
-    <category lang="es">Major League Baseball</category>
-    <category lang="es">Fútbol Mexicano</category>
-    <category lang="es">MLB</category>
-    <category lang="es">NBA</category>
-    <category lang="es">Noticias</category>
-    <category lang="es">NFL</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">UEFA</category>
-    <category lang="es">Fútbol Español</category>
-    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
-  </programme>
   <programme start="20201110130000 -0600" stop="20201110140000 -0600" channel="DEP | ESPN 3 FHD (MX)">
     <title lang="es">NFL Compacts</title>
+  </programme>
+  <programme start="20201110150000 -0600" stop="20201110160000 -0600" channel="DEP | ESPN 3 FHD (MX)">
+    <title lang="es">NFL Live</title>
   </programme>
   <programme start="20201110170000 -0600" stop="20201110190000 -0600" channel="DEP | ESPN 3 FHD (MX)">
     <title lang="es">FC Salzburg vs. Bayern Munich</title>
@@ -9244,8 +9217,24 @@
   <programme start="20201110050000 -0600" stop="20201110070000 -0600" channel="DEP | ESPN DEPORTES HD">
     <title lang="es">UFC Fight Night: Santos vs. Teixeira</title>
   </programme>
-  <programme start="20201110110000 -0600" stop="20201110120000 -0600" channel="DEP | ESPN DEPORTES HD">
-    <title lang="es">Futbol Picante</title>
+  <programme start="20201110150000 -0600" stop="20201110160000 -0600" channel="DEP | ESPN DEPORTES HD">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol Español</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
   </programme>
   <programme start="20201110180000 -0600" stop="20201110190000 -0600" channel="DEP | ESPN DEPORTES HD">
     <title lang="es">SportsCenter</title>
@@ -9703,6 +9692,9 @@
   </programme>
   <programme start="20201110130000 -0600" stop="20201110140000 -0600" channel="DEP | ESPN HD (AR)">
     <title lang="es">UEFA Europa League Highlights</title>
+  </programme>
+  <programme start="20201110150000 -0600" stop="20201110160000 -0600" channel="DEP | ESPN HD (AR)">
+    <title lang="es">Goles de Europa</title>
   </programme>
   <programme start="20201110160000 -0600" stop="20201110170000 -0600" channel="DEP | ESPN HD (AR)">
     <title lang="es">2009 Masters Films</title>
@@ -10733,31 +10725,6 @@
   <programme start="20201110030000 -0600" stop="20201110033000 -0600" channel="DEP | FOX Deportes HD">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20201110110000 -0600" stop="20201110120000 -0600" channel="DEP | FOX Deportes HD">
-    <title lang="es">Central Fox</title>
-    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.</desc>
-    <date>1997</date>
-    <category lang="es">Fútbol Americano</category>
-    <category lang="es">Baloncesto</category>
-    <category lang="es">Béisbol</category>
-    <category lang="es">Básquetbol</category>
-    <category lang="es">IndyCar Series</category>
-    <category lang="es">UEFA</category>
-    <category lang="es">Deporte</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">Fútbol Español</category>
-    <category lang="es">NBA</category>
-    <category lang="es">Fútbol Italiano</category>
-    <category lang="es">NFL</category>
-    <category lang="es">Major League Baseball</category>
-    <category lang="es">Fútbol Mexicano</category>
-    <category lang="es">MLB</category>
-    <category lang="es">Noticias</category>
-    <category lang="es">Noticia</category>
-    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png" />
-    <country lang="es">México</country>
-    <country lang="es">Argentina</country>
-  </programme>
   <programme start="20201110140000 -0600" stop="20201110160000 -0600" channel="DEP | FOX Deportes HD">
     <title lang="es">WWE Friday Night SmackDown</title>
   </programme>
@@ -10953,9 +10920,6 @@
     <category lang="es">Fútbol Mexicano</category>
     <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/leon_vs_cruz_azul.png" />
   </programme>
-  <programme start="20201110110000 -0600" stop="20201110120000 -0600" channel="DEP | Fox Sports (MX)">
-    <title lang="es">Agenda Fox Sports</title>
-  </programme>
   <programme start="20201110120000 -0600" stop="20201110140000 -0600" channel="DEP | Fox Sports (MX)">
     <title lang="es">León vs. Cruz Azul</title>
     <desc lang="es">Partido de fútbol donde el Club León recibe al Cruz Azul en el estadio León, en la ciudad de León, Guanajuato, México.</desc>
@@ -10965,6 +10929,9 @@
   </programme>
   <programme start="20201110140000 -0600" stop="20201110150000 -0600" channel="DEP | Fox Sports (MX)">
     <title lang="es">WWE NXT</title>
+  </programme>
+  <programme start="20201110150000 -0600" stop="20201110160000 -0600" channel="DEP | Fox Sports (MX)">
+    <title lang="es">Lo mejor de Fox Sports</title>
   </programme>
   <programme start="20201110170000 -0600" stop="20201110190000 -0600" channel="DEP | Fox Sports (MX)">
     <title lang="es">Dana White_s Contender Series</title>
@@ -11185,9 +11152,6 @@
     <category lang="es">Fútbol Mexicano</category>
     <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/leon_vs_cruz_azul.png" />
   </programme>
-  <programme start="20201110110000 -0600" stop="20201110120000 -0600" channel="DEP | Fox Sports FHD (MX)">
-    <title lang="es">Agenda Fox Sports</title>
-  </programme>
   <programme start="20201110120000 -0600" stop="20201110140000 -0600" channel="DEP | Fox Sports FHD (MX)">
     <title lang="es">León vs. Cruz Azul</title>
     <desc lang="es">Partido de fútbol donde el Club León recibe al Cruz Azul en el estadio León, en la ciudad de León, Guanajuato, México.</desc>
@@ -11197,6 +11161,9 @@
   </programme>
   <programme start="20201110140000 -0600" stop="20201110150000 -0600" channel="DEP | Fox Sports FHD (MX)">
     <title lang="es">WWE NXT</title>
+  </programme>
+  <programme start="20201110150000 -0600" stop="20201110160000 -0600" channel="DEP | Fox Sports FHD (MX)">
+    <title lang="es">Lo mejor de Fox Sports</title>
   </programme>
   <programme start="20201110170000 -0600" stop="20201110190000 -0600" channel="DEP | Fox Sports FHD (MX)">
     <title lang="es">Dana White_s Contender Series</title>
